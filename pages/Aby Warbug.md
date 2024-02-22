@@ -1,0 +1,17 @@
+- [*Le rituel du serpent*](https://journals.openedition.org/critiquedart/1844) Conférence présentée en 1923 qui donne après son voyage au Nouveau Mexique au contact de la culture des Hopis - Il donne conférence Suite à un séjour à l’hôpital psychiatrique dans lequelle il à était pour avoir menace de mort sa femme> On attend que Aby témoignage de la maîtrise de ses capacités intellectuelles:
+	- Un peuple couper de la technologie moderne américaine et vivent sur une terre extrême sèche ce qui les poussent à avoir des pratique particulière
+		- L'accès à l'eau passe par des rituels de danse.
+	- Le serpent est une figure central dans leurs techniques et leurs croyances
+- Le Serpent est une figure présente dans diffèrentes cultures et peuples
+	- Il questionne si la [[Modernité]] et ses technologies ont detruit les croyances de la société moderne. - ((65403432-19d7-4e92-958b-af7bddb98bc2))
+	- Or dans le peuple Hopis les croyances et les rites sont très poussés et très précis
+	- Les rituels sont techniques et magiques
+- Le rituel du serpent:
+	- Séquence qui s’accompagne par le prélèvement d’un animal (serpent) vis à vis du quelle des actions de soins vont être opérées
+		- Lavement / prière… L’évènement au centre du rituel est une danse en ronde ou les hommes de la communauté sont vêtus d’éléments sonores et picturales. Lors des rondes ils vont venir à ingérer le serpent dans leurs gorges pour ensuite le ressortir
+		- Le rituel prend pas lors de sécheresse > invocation des pluies
+			- Le serpent animal dispose d’une puissance de médiation entre le monde aérien et sous terrain
+- Déceler des rituels où s’opère non pas une opposition mais une relation entre [[Nature - Culture]]
+- Dans les pratiques contemporaines certaines pratiques questionne ce rapport au rituel dans la société moderne que Warburg  à esquisser au contacte de cette culture Hopis
+-
+-

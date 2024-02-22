@@ -9,7 +9,7 @@
 	- Vers une inflexion du Land Art: intrusion dans l’espace naturel à des fins artistiques [Figure 251: Ana Mendieta : Silueta Serie, 1973 – 1980 ] > Charrie un système de domination de l’humain..e sur la Nature
 	- A l’inverse de ces modalités d’actions elle tente de mettre en place une conception matricielle: Laisse la marque de son cours à travers de moyens naturelles > Métamorphose entre le geste culturelle humain..es et le geste naturelle
 	- Système symbolique de représentation de l’homme
-- Aby WARBURG: [*Le rituel du serpent*](https://journals.openedition.org/critiquedart/1844) :texte de conférence > Suite à un séjour à l’hôpital psychiatrique > On attend que Aby témoignage de la maîtrise de ses capacités intellectuelles:
+- [[Aby Warbug]] : [*Le rituel du serpent*](https://journals.openedition.org/critiquedart/1844) :texte de conférence > Suite à un séjour à l’hôpital psychiatrique > On attend que Aby témoignage de la maîtrise de ses capacités intellectuelles:
 	- Interroge précisément cette dialectique nature culture: La schizophrénie viendrait de cette dialectique créant des traumas psychiques de nature variable
 	- En ce remémorant un voyage avec une culture ( ) ou tout une série de rituel opèrent des rencontres entre des motifs culturelles et naturels
 	- Le rituel du serpent:
@@ -19,6 +19,7 @@
 				- Le serpent animal dispose d’une puissance de médiation entre le monde aérien et sous terrain
 	- Déceler des rituels où s’opère non pas une opposition mais une relation entre nature/culture
 	- Le Denkraum: espace de pensée propre au sociétés primitives: qui situe et met en relation des instances agissantes dans des écosystèmes > Crée un espace de pensée ou les éléments sont liés tout en gardant leur distance et dispose de leurs propre intégrité mais constitue un système constellaire un espace de pensé > un Denkraum
+	  id:: 65403432-19d7-4e92-958b-af7bddb98bc2
 		- La modernité supprime ce Denkraum: Le telegram et le téléphone supprime cette distance et les relations
 - Paul Cézanne : artiste post-impressionniste > Renoncer à la scène artistique parisienne et se déplace en province >
 	- système des sensations organisées > renoncer à un dispositif artistique habituelle > apparence chromatique définit par un appareillage technique construit

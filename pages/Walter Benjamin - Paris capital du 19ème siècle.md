@@ -1,0 +1,10 @@
+- Texte de [[Walter Benjamin]] écrit en 1924 et 1940
+	- Récit fragmentaire sur l'expérience de la ville de paris comme capital de la [[Modernité]]
+	- Lien possible avec la notion marxiste du capitale - comme si le capitale d'une époque pourrait être paris - Capital comme mis à mal du système communautaire
+	- Fantasmagorie : Exposition universelle - composer de marchandise élever au rend d'objet d'art. Elle sort du cadre d'origine et existe dans le seul cadre de l'exposition universelle, les objets sont fantasmés
+		- Quelle cohésions entre œuvre d'art et bien de commodité.
+			- L'objet d'art frappe le rapport d'objet forgé par le capitalisme
+		- Concept de flânerie qui serait propre à l'architecture de Paris.
+			- Le flâneur voit les biens de consommation à travers les vitres et il y trouve aussi son reflet ce qui alimente ce rapport fantasmagorique
+	- Pour Benjamin le flâneur à une position de recul dans la ville ou il ne veut pas se laisser guider par l'urbanisme prédéfini - Rapport de discontinué du flâneur avec le monde - Une maniere de se représenter une image à soi
+		- Contexte d'haussmannisation de Paris par l'architecture d'Hausmann

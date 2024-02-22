@@ -1,0 +1,19 @@
+- Cours donnés au collège de France,
+- La biopolitique c'est considèrer la population comme une ressource qu'on peut diriger comme une économie
+	- La biopolitique répond à une lacune du libéralisme
+		- La liberté individuelle n'est pas vraiment respecté par le libéralisme
+- Système de contrôle et de surveillance soit à la fois le moins couteux et le plus autonome
+	- On crée une illusion du choix qui fausse cette liberté individuelle
+- La Biopolitique est employé par toutes les institutions
+- Surveillance
+	- Le panoptique est une prison circulaire avec au centre un garde possiblement tout le temps la
+		- Le flou de savoir si l'on est observer ou non crée un censure ou l'on s'autocensure par rapport a la potentiel surveillance
+- On solidifie un ensemble de norme
+	- Chaque chose hors-norme est pathologisée
+- Système insidieux
+	- En quoi une norme irait servi une économie
+		- Le Capitalisme à besoin du mythe du genre binaire
+- Individu
+	- La création d'invidu est un produit de la [[Modernité]] Preciado propose de repenser se rapport à l'identité
+		- Propose le mutant relationnelle : ne pas se figer autour d'une identité supporté par une idéologie
+- Propose un grand processus de néologisme pour apporter des nuances très précises en sursaturant des nuances
