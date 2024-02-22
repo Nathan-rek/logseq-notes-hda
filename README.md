@@ -1,0 +1,1 @@
+Notes from HDA wth [Sébastien Biset](https://sebastien-biset.xyz/)
