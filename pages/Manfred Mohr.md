@@ -1,0 +1,7 @@
+- Pour MOHR il suit l’idée de MCLUHAN que les machines doivent être considérées comme une extension de nous-mêmes et non comme un défi pour l’humanité
+	- Pour l’artiste la fonctionnalité des technologies doit s’intègre à nos vie.
+		- Mais le manque de connaissance et le refus catégorique d’apprendre de la par de certain..es individu empêche une transition technologique saine ou la relation homme-machine est central.
+		- Pour l’artiste Nous ne devons pas nous demander : Que peut faire l'ordinateur, mais inverser la question en nous demandant : Que voulons-nous faire ? et nous demander ensuite si l'aide d'une machine pourrait être utile pour atteindre notre objectif.
+			- Si la réponse est positive, nous devons trouver les moyens de poser les bonnes questions à la machine afin d'obtenir des résultats raisonnables, en amplifiant nos pensées et nos intentions. Procéder de la sorte est un pas important vers une approche systématique des problèmes esthétiques.
+- Une approche très solutionnisme des technologies comme le moyen de s’émanciper intellectuellement et de laisser la plus grande partie possible du travail aux machines.
+	- Manfred MOHR: [*Cubic Limit Series*](https://www.mfab.hu/artworks/computer-graphics-i/), 1978 ![](https://www.mfab.hu/app/uploads/2018/11/43076.jpg)

@@ -1,0 +1,1 @@
+- Courant de penser qui ce met à se constituer autour des années 80 > mise à mal de l’intégrité du signe et de l’œuvre > dimension fluctuante mobile du sujet

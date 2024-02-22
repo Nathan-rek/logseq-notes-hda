@@ -1,0 +1,15 @@
+- [Altermodern](https://www.tate.org.uk/press/press-releases/altermodern-tate-triennial-2009) est la 4ème Triennale du [Tate](https://www.tate.org.uk/) la Tate Triennal 2009.
+	- [[Nicolas Bourriaud]] est le commissaire de cette Triennal est axe l'exposition autour de son concept d' [[Alter-modernité]] .
+		- Un concept qui tout comme la [[Modernité]] et la postmodernité serait un temps donné dans laquelle les choses se déroulent
+		- En rupture avec le temps de la [[Post-Modernité]] , l'alter-modernité
+- Dans cette exposition il y met un intérêt dans la contextualisation qui parfois présente des biais d'interprétation des signes qui sont à dépasser.
+- L'exposition se décline en 8 thématiques explorant des principes liées à l'idée du déplacement, du voyage.
+	- [[Borders]]
+	- [[Archive]]
+	- [[Docu-fiction]]
+	- [[Viatorisation]]
+	- [[Energy]]
+	- [[Travel]]
+	- [[Exilés]]
+	- [[Heterochronia]]
+	-

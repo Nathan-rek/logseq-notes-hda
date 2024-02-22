@@ -1,0 +1,40 @@
+- Première trace n 1915 avec le tract de Hugo Ball
+	- Rejet de la raison, approche nihilisme de la culture
+	- Hugo Ball se dit négativiste il se dit être à l’encontre des choses 
+	        «Nous ne somme pas assez naïf pour croire au progrès»
+	- En allant à Zurich en 1916 avec Aimie HENINGS il..elle ouvre un lieu, le cabaret Voltaire, lieu de performance libre où les artistes peuvent venir y performer.
+		- Improvisation de lecture de poésie…
+		- Sophie TAEUBER-ARP
+			- Abstraction géométrique et participe au performance du dadaïsme zurichois en réalisant de costume ou des marionnettes
+			- Sophie TAEUBER-ARP Tête dada,1920 ![Tête dada - Centre Pompidou](https://www.centrepompidou.fr/media/picture/f6/82/f68252ba60dd50a53cd062d9168366fd/thumb_large.jpg)
+- Esprit nouveaux, qui rentre dans l’absurde le non-sens
+	- Tristan TZARA les rejoints dans cette démarche et veut en faire quelque chose de plus artistique.
+		- Mais TZARA crée une galerie et publie une revue malgré le rejet de faire système de BALL
+- Le Dada se développe aussi à Berlin avec des performances qui choquent la bourgeoisie
+- Des artistes de New York PICABIA et [[Marcel Duchamp]] se retrouve dans ces démarches, TZARA bouge à Paris, l’esprit Dada se multiplie
+	- Cherche à jouer avec les conventions du monde de l’art
+	- [[Marcel Duchamp]]: 1000 papers ![His Twine: Marcel Duchamp and the Limits of Exhibition History - ICA  Philadelphia](https://icaphila.org/wp-content/uploads/2018/03/FIRST-PAPERS-small.jpg)
+	- [[Marcel Duchamp]]: LHOOQ, 1919 ![LHOOQ (1919): Marcel Duchamp's Uncompromising Piece](https://www.singulart.com/blog/wp-content/uploads/2020/05/lhooq.jpg)
+	  id:: 65480be3-afaf-4930-9455-f36be8cbbe2c
+- Expo Dadaiste
+	- Compliquer par le coté Anarchique et finit en 1923 par des conflits du à la complexité de faire groupe
+- ## Œuvres
+- Raoul HAUSMANN: Poème opthophonétique, 1918 ![Raoul HAUSMANN.-KP'ERIOUM, Poème optophonétique, 1918. L'écriture de son  premier poème abstrait, un texte q… | Histoire de l'art, Police d'écriture,  Poésie concrète](https://i.pinimg.com/originals/79/9f/aa/799faa77ec6955f611f1fc15f5ac44c6.gif)
+	- Poésie sonore, poésie qui n’est juste sonore
+		- Il n’y a plus de langage il n’y a que du bruit
+- Pratique du Merz
+	- Récupérer une série d’objet et les assembler
+	- Appliquer la pratique du Merz au niveau sonore ou architectural
+		- Kurt SCHWITTERS: Merzbau, 1919 - 1933 ![MoMA | In Search of Lost Art: Kurt Schwitters's Merzbau](https://moma.org/wp/inside_out/wp-content/uploads/2012/07/merzbau2-643x896.jpg)
+- Répondre à l’absurdité du progrès et de l’époque
+	- Man RAY: L’énigme D’Isidore ![L'enigme d'Isidore Ducasse - Museum Boijmans Van Beuningen](https://storage.boijmans.nl/collection/tmsfotomkbek-1491-mk-1/medium-79f3f264c35f25e6a746e498dce8510a1040ea78.jpg)
+	- Man RAY: Champs Délicieux photogramme, 1922 ![Champs délicieux 8ème rayographie - Centre Pompidou](https://www.centrepompidou.fr/media/picture/3a/3d/3a3d7231d70815f4f4ac68159e18cec6/thumb_large.jpg)
+- Laisser l’inconscient s’exprimer:
+	- BRASSAÏ: Sculpture involontaire,
+		- De son titre entier: Sculpture involontaire: enroulement élémentaire, obtenu chez un 'débile mental'  qui marque le coté in-voulu et automatique du mouvement de roulement qu’il opère avec ces petits papier avant d’en faire œuvres
+	- ((653fa024-7e99-4ff5-9b88-6f1be3b791ad))
+- Face à la guerre:
+	- Raphaël DALLAPORTA: Antipersonnel ![Antipersonnel de Raphaël Dallaporta - Livre - Decitre](https://products-images.di-static.com/image/raphael-dallaporta-antipersonnel/9782915173673_2-475x500-1.jpg)
+		- Dans une série de photo l’artiste présente les différentes formes de mines antipersonnel existantes en les photographiant il les disposes comme présentant une certaine beauté
+	- Raoul HAUSMANN: l’esprit de nos temps
+		- reconstitution des soldats revenus défigurés

@@ -1,0 +1,14 @@
+- Peuple indigène le plus nombreux du Chili qui se concentre à Araucania
+- La force est une valeur central de la culture Mapuche
+- La plupart ont été mis dans des réserves la plus part se sont mis à l'agriculture force par leurs déplacements géographiques
+- La pratique textile Mapuche est un acte politique de resistance
+	- Faire perdurer l'histoire des Mapuches malgré le génocide
+- Se bat aussi contre des actes du [[Capitalocène]] en résistant face à des plantations de pin au Chili qui assèche le terres
+- ### Kultrun: instrument de musique sacré pas les [[Machi]]
+- ![Kuktrun](https://pueblosoriginarios.com/sur/patagonia/mapuche/imagenes/xkultrun2.jpg.pagespeed.ic.IdHFpotQyC.jpg)
+	- Objet capable de bouger la matière
+	- Il crée une synchronisation entre les battement de coeur:
+		- Cela entraine le Newen
+- Kultrun Nguillatun TRAWUN
+	- Rassemblement entre chaman
+-

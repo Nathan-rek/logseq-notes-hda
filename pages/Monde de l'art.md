@@ -1,0 +1,44 @@
+- Le monde de l'art est un terme issu de la philosophie de l'art et en sociologie de l'art
+- Ryohei Kan: [*Endless White Cube*](https://ryoheikan.com/works/endless-white-cube-2016-2017/), 2016 https://ryoheikan.com/wp-content/uploads/2017/10/endless-white-cube.jpg
+	- Espace hermétique couper du monde
+- Arthur Danto
+	- Se consacre sur la pensée sur l'art il est le témoin d'un changement de l'histoire de l'art - au tournant de l'art moderne et de l'art contemporain
+	- Se base sur une œuvre de [[Roy Lichtenstein]] et se demande comment sur une revue comme Artforum je suis confronte a une image issu de la culture populaire légitimise cette image et ce répertoire de formes.
+	- Il nomme les indiscernable
+		- Par exemple les ((65480be3-7ec8-4db9-9289-62be8b4f1216))
+		- On ne peut pas savoir si c'est une œuvre ou une vrai boite
+		- ou ((65480be2-746a-4677-ab0b-a80ec601a276))
+		- *"Voir quelque chose comme de l'art requiert quelque chose que l'œil ne peut apercevoir - une atmosphère de théorie artistique, une connaissance de l'histoire de l'art: un monde de l'art" - Danto*
+		- La valeur n'est pas dans l'œuvre même dans la démarche et dans le discours de l'artiste
+- Arthur Danto: *La transfiguration du banale*, 1989
+	- Le  monde de l'art est un espace autre qui peut transfigurer le banale en une autre chose, il est transvaluer, il perd sa fonction initiale
+	- C'est la nature de l'objet qui est transformée
+	- Comme la transvaluation du pain et du vin dans l' [[Espace Sacré]] ont s'accorde a évaluer un protocole conceptuelle
+- Mais pourquoi un monde
+	- Un mundos / cosmos: un univers organisé
+		- Des règles, un fonctionnement partagées
+	- Ce monde à permis la transfiguration du banale
+- *Quand les Attitudes deviennent formes*, 1969 au Kunsthalle Bern : exposition manifeste de cette transfiguration du banales
+	- Ce n'est plus la formes qui compte mais c'est plutôt la démarche qui compte
+	- Une des premières expositions qui donne à voir des artistes conceptuelles [[Art Conceptuel]] et des pratiques d'art contemporain
+- Le monde de l'art - Phénomène Sociologique : Howard Becker: Les mondes de l'art
+	- S'intéresse aux mondes de l'art comme monde socio-professionnelle
+	- *Le monde de l'art comme un réseaux de coopération au sein duquel les mêmes personne coopèrent de manière régulière er qui relie donc les participants selon un ordre établi. Un monde de l'art est fait de l'activité même de toutes ces personnes qui coopèrent*
+	- Le monde de l'art partage des présupposés commun: des conventions
+- Nelson Goodman: *Manières de faires des mondes*
+	- Ce demande comment quand l'objet est un symboles
+	- L'art consiste à faire parler un objet, un objet renvoi à un signifiant il propose un symbole
+	- La question n'est plus qu'est ce que l'art mais quand il y a t'il art: sous quelle facteur quelle mécanisme
+		- Dimension Symbolique et signifiante de l'œuvre
+			- ((653e63b1-925e-43e6-a815-551ac22c526b))
+			- Le geste bien qu'il soit banale est symbolique car il est inscrit dans le monde de l'art
+			- ((65480be3-75c7-477e-84b4-da63a78f3465))
+- Tout ces tendances appartiennent au pratique d'art contemporains: Nathalie Heinich: [*Le paradigme de l'art contemporain*](https://www.gallimard.fr/Catalogue/GALLIMARD/Bibliotheque-des-Sciences-humaines/Le-paradigme-de-l-art-contemporain)
+	- La transition entre moderne et contemporain problématise l'art ce qui rend l'art dure à accéder
+	- Un paradigme est une réponse que l'on se fait propre à un milieux
+		- Le discours est le commentaire deviennent important dans l'art contemporains. Les démarches sont appréhendable d'un point de vue intellectuel est nécessité donc une médiation
+- Richard Venlet: [*Cit.Cit.2 Platforme & Treasury*](https://www.etablissementdenface.com/in-the-past/richard-venlet-cit-cit-2-platform-treasury), 2005 ![RICHARD VENLET CIT.CIT. 2 PLATFORM & TREASURY ETABLISSEMENT D'EN FACE](https://www.etablissementdenface.com/wp-content/uploads/2005/09/CIT2d-810x1080.jpg)
+	- Questionne la mise en espace du lieux d'exposition et propose plus des œuvre comme display et investi les pratiques curatorials
+- [[Critique institutionnelle]]
+- [[L'artiste théoricien..ne]]
+-

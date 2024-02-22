@@ -1,0 +1,25 @@
+### I Hate Visual Culture
+Dans l’essor des Visual studies différent théoricien..nes sont amené..es a traiter de façon épistémologique l’étude visuelle ou des culture visuelle.
+- La théoricienne Rosalind E. KRAUSS déclare « I hate visual Culture »
+	- Le fait que les le projet des Visual Studies cherche à se débarrasser des autres disciplines
+	- Critique de cette tendance moder a brouille les frontières du champ disciplinaires selon un certain progressisme sociales
+		- Critique d’une forme de populisme dans les études culturels > pour Thomas CROW il y aurait comme un abandon d’une responsabilité fondamental > Il y voit une attaque dirigée contre une autorité savante institué
+- Débat sur le cadre du domaine d’étude de l’histoire de l’art
+- Le débat peut se jouer entre la gauche progressiste et la droite conservatrice
+- Ou entre différent parti de la gauche
+- Une des critiques tien dans le principe d’étude qui ne passerai que par le visuel ce qui dénote du paysage conceptuel qui se construit lors des années 1960.
+- Le terme de déqualifications est souvent employé dans la critique des visual studies.
+  
+  *« Abdiquer l’histoire de l’art au profit d’une histoire des images entraînera une déqualification de l’interprétation (de-skilling of interpretation) »*
+  
+  *Thomas Crow*
+- Pour Krauss c’est la notion de discipline forge par le cadre universitaire qui est à la source de la querelle
+	- Le terme de déqualification est pour KRAUSS emprunter à l’histoire de l'[[Art Conceptuel]] et l’analyse de BURN dans l’idée de dépasse les mediums habituelles ou l’art conceptuelle aurait déqualifier les autres medium de l’art.
+	- Un terme qui a aussi une résonance dans le champ des science sociales notamment dans la déqualification des sections ouvrière par l’arrive de nouvelle technologies et un spécialisation qui entraîne la disparition de compétences propres3
+		- Une thèse qui est une réactualisation des théories marxistes sur l’aliénation du travail ouvrier
+		- Dans cette déqualification pas la séparation homme main, l’art conceptuelle rebat les cartes de ce régime d’utilisation. BURN voit dans l’intellectualisation du champ artistique de la fin des années 1960 d’un point de vue socio-économique, son propos constitue un exemple précoce et remarquable d’analyse marxiste postfordiste[^51], théorisant l’idée comme marchandise et le savoir comme source de plus-value
+	- BURN propose un inventaire nostalgique des savoir-faire déqualifiés par l’art conceptuel, dont les figures de proue ont revendiqué, dans la plus pure tradition avant-gardiste, leur émancipation vis-à-vis des entraves de l’art du passé ou l’invention d’un mode esthétique inédit, fût-il aussi extrême que la production d’un « art invisible »
+- Culture visuel vu comme l’objet d’étude et Études visuelle comme champ de savoir, distinction précaire
+	- Pour Nicolas Mirzoeff il faut écarter purement et simplement la notion d’« études visuelles » en raison de son ancrage académique
+		- Une posture encore renforcée par la mise en avant d’un « activisme visuel » dans ses derniers écrits. La culture visuelle, selon lui, a « évolué sous la forme d’une pratique que l’on pourrait qualifier de pensée visuelle (visual thinking).
+	- Pour Jonathan CRARY la compréhension d’une certaine culture visuelle nécessite moins de s’intéresser à la technologie et à l’imagerie matérielle que d’étudier

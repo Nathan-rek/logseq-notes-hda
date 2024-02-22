@@ -1,0 +1,7 @@
+- Critique le rôle et l'autorité de la science moderne dans la société contemporaines ou elle remet en question ses prétentions à l'objectivité, à la rationalité et à la vérité
+- Distinction entre
+	- Les science ent tant qu'entrprise créatives une pratique d'invention et de découverte
+	- La prétention moderniste de la science d'invalider tous les autres discours
+- Ne s'oppose pas la recherche génétique mais à l'idée que seul le génome définirait l'huamin..e
+- Cosmo-politique
+-

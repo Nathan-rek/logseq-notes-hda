@@ -1,0 +1,8 @@
+- Le terme a été inventé par [[Nicolas Bourriaud]] à l'occasion de la [Tate Triennial](https://www.tate.org.uk/whats-on/tate-britain/altermodern) en 2009.
+- Altermodern est contre la standardisation et la massification culturelles, mais également contre les nationalismes et le relativisme culturel. Les artistes altermodernes se positionnent au sein des écarts culturels du monde. La traduction culturelle, le nomadisme mental et le croisement des formats sont les grands principes de l'art altermoderne.
+- Considérant le temps comme une multiplicité plutôt que comme un progrès linéaire, l'artiste altermoderne navigue dans l'histoire ainsi que dans tous les fuseaux horaires planétaires produisant des liens entre des signes éloignés les uns des autres. Altermodern est « docufictionnel » dans le sens où il explore le passé et le présent pour créer des chemins originaux où les frontières entre fiction et documentaire sont floues.
+- Formellement parlant, il privilégie les processus et les formes dynamiques aux objets uniques unidimensionnels et les trajectoires aux masses statiques.
+- L' [[Heterochronia]] a permis de produit des choses qui touchent plus à une vison de l'histoire humaine en affirmant et utilisant de multiple temporalité.
+	- C'est de cette variation de temporalité que l'alter-modernité prend formes.
+-
+-

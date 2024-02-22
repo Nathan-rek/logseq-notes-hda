@@ -1,0 +1,4 @@
+- Une exposition internationale explorant les relations entre technologies et créativité. L'objectif est de présenter un domaine d'activité qui manifeste l'implication des artistes dans la science et l'implication des scientifiques dans les arts. Aussi, montrer les liens entre les systèmes aléatoires employés par les artistes, compositeurs et poètes, et ceux impliqués dans la fabrication et l'utilisation d'appareils cybernétiques.
+- ### [[Computer Graphic Art]]
+- [[Test de Turing de Michael Noll]]
+- ### [[COMPUTER TECHNIQUE GROUP FROM JAPAN (CTG)]]

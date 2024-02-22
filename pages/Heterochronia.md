@@ -1,0 +1,13 @@
+- L'heterochronia qui se disloque en racine latine comme temps différent, autre est un terme que Bourriaud utilise pour décrire des travaux d'artistes qui seraient difficilement ancrés dans un temps précis.
+	- Il souhaite quitter la linéarité des méta-récits de la [[Modernité]] ou les boucle de la [[Post-Modernité]] mais de tracer des liens et des connexions dans l'espace et le temps. A travers un regroupemetn de signe contemporains et historique qui nous permet d'explorer cer qui est maintenant.
+		- Certain artistes des la modernité usait d'anachronisme comme
+			- [[Marcel Duchamp]] : [*Étant Donnés*](https://www.centrepompidou.fr/fr/ressources/oeuvre/c9nb5L5), 1946-1966 ![Etant donnés 1° La chute d'eau 2° Le gaz d'éclairage - Centre Pompidou](https://www.centrepompidou.fr/media/picture/65/9d/659d1ebf08bd5e289f8be642b2ec02a5/thumb_large.jpg)
+			-
+- L'esthétique hétérochrone se caractérise par le manque de signe évident de la contemporanéité. Sauf le processus de réalisation.
+	- Charles Avery: [*Aleph Null Head*](https://www.a-n.co.uk/media/521415/), 2009 [Instalation and Drawing] ![Aleph Null Head' 2008 and 'Installation of drawings' 2009 - a-n The Artists  Information Company](https://static.a-n.co.uk/wp-content/uploads/2009/04/521415.jpg)
+		- Les dessins et les modes de constituions ne sont pas contemporain. Mais sa représentation l'est
+	- Matthieu Darbyshire: [*Palais*](https://www.frieze.com/article/signs-times), 2009 ![Signs of the Times | Frieze](https://static.frieze.com/files/inline-images/editorial-articles-darbyshire2.jpeg)
+		- Revisite de façon hétérochrone le notion de palais. Notion chronologiquement transversal dont les signes sont hétérochrone
+- Ce qui rend l'œuvre hétérochrone c'est quelle rassemble des éléments hétérochroniques. Le retard cohabite avec l'immédiat.
+	- Le documentaire cohabite avec la fiction, non selon un principe d'accumulation, mais dans le but de révéler notre présent, dans lequel s'entremêlent temporalités et niveaux de réalité.
+- Des propositions artistiques qui explorent le temps à travers la désorientation dans différents présents

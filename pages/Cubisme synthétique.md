@@ -1,0 +1,4 @@
+- L’utilisation du papier collé: Développement de stratégie [[Ready-made]]
+	- PICASSO: [*Portrait d’Ambroise Vollard*]
+- PICASSO : [Nature morte à la chaise canné](https://www.museepicassoparis.fr/sites/default/files/2022-02/nature%20morte%20à%20la%20chaise%20canée%20HD%20OK.jpg) premier collage sur un tableau: Cherche à recherche comment réinventer la perspective
+- Fernand LÉGER: [*Nus Dans La Foret*](http://www.societe-cezanne.fr/wp-content/uploads/2017/11/Fernand-Henri-Léger-Works-Nus-dans-la-forêt-Nudes-in-the-forest-1909–1911-Oil-on-canvas-120-×-170-cm-Kröller-Müller-Museum-.jpg): Géométrisation des éléments

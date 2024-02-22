@@ -1,0 +1,20 @@
+- Ce groupe d’ingénieur et d’artiste japonais fondez par IBM ont cherchés à entreprendre des démarches sur la production d’image via les ordinateurs.
+- Leur graphiques se repartissent en différentes catégories.
+	- Déformations
+		- CTG Japan: [*Déformation of Sharaku*](http://dada.compart-bremen.de/item/artwork/228)
+			- ![](http://dada.compart-bremen.de/imageUploads/medium/02CTG_Sharaku.jpg)
+			- Cinq techniques distinctes d'échange de coordonnées sont appliquées aux données originales du dessin
+		- Figure 592: CTG Japan :Shot Kennedy No. 1
+	- Métamorphose
+		- La même forme se métamorphose en fonction des placement de ligne
+			- CTG Japan:[*Running Cola is Africa!*](http://dada.compart-bremen.de/item/artwork/195), 1968
+			- ![](http://dada.compart-bremen.de/imageUploads/medium/RUNNINGCOLA_url_cg_tuad_ac_jp.jpg)
+	- Improvisation
+		- CTG Japan: [*March of Polygons*](http://dada.compart-bremen.de/item/artwork/1242), 1968
+			- Chaque polygone est déterminé en fonction de: (1) le nombre de sommets à partir de la position; et (2) distribution des sommets à partir du nombre aléatoire
+			- ![](http://dada.compart-bremen.de/imageUploads/medium/Tsuchiya04.jpg)
+	- Variations sur motif cubique.
+		- CTG Japan: [*Return to a square (a)*](http://dada.compart-bremen.de/item/artwork/229)
+			- ![](http://dada.compart-bremen.de/imageUploads/medium/03CTG_SquareA.jpg)
+		- CTG Japan: [*Return to a square (b)*](http://dada.compart-bremen.de/item/artwork/230)
+			- ![](http://dada.compart-bremen.de/imageUploads/medium/04CTG_SquareB.jpg)

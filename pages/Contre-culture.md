@@ -1,0 +1,21 @@
+- Les contre cultures apparaissent comme contexte social
+	- Londres manifestation anti-nucléaire 1950
+- Les jeunes générations appelle à autre chose
+- Theodore Roszak: *Vers une contre-culutre*:
+	- Se mettre face à la technocratie
+	- Les sociétés occidentales sont dominées par des états qui travaillent main à main avec des sociétés
+		- Mise sur le quantifiable, le nombre , la raison, la logique
+			- Met de coté tous se qui n'est pas dans se régime de logique ( Tous comme le [[Romantisme]] se réveil face aux logiques des Lumières )
+- Se tourner vers d'autres philosophies (orientale), spiritualité
+	- Il commente aussi l'usage de drogue comme pouvant augmenter la conscience de l'individu étouffés par le technocratie
+		- Timoty Leary: psychologue qui s'est intéressé à l'usage psychiatrique et thérapeutique du LSD
+			- Pour un usage libre des drogues
+			- Il devient un figure important pour beaucoup de générations
+			- Roszak présente les limites de ce partie pris
+- Greil Marcus: *Lipstick Traces*
+	- Retrace la culture du 20eme en 3 moment clés
+		- Janvier 1968 dernier concert des Sex Pistol
+			- Entend l'esprit de contestation de l'époque mélanger a l'esprit des [[Dada]]
+			- S'interesse donc au [[Dada]] -> [[L’international situationniste]] -> Sex Pistol
+				- Voit le 20eme siècle comme parsemer d'esprit de contre culture
+- Le process de destruction est très présente dans les contre-cultures

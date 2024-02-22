@@ -1,0 +1,69 @@
+- Le terme a été utilisé en Allemagne, pour décrire l’art marchand du [[Pop Art]] des années 1980 et 1990.il a été utilisé pour décrire l’aspect idéologique et esthétique du capitalisme d’entreprise contemporain en Occident. Il se position aussi en parallèle au Réalisme socialiste développe par L’Union Soviétique
+	- La première apparition du terme est pour une exposition de 1963: Vivre avec le pop – Une démonstration pour le réalisme capitaliste
+		- Avec des œuvres comme Sigmar POLKE, Gerhard Richter, Konrad LUEG.
+			- Les participants à l'exposition se sont concentrés sur les représentations de la culture de consommation croissante et de la société saturée par les médias en Allemagne avec des stratégies, en partie influencées par celles de leurs homologues Pop Art américains
+				- Gerhard Richter, avant de s'enfuir en République fédérale d'Allemagne en 1961. Dans une lettre Richter parlait non seulement d'un réalisme impérialiste, mais aussi d'un réalisme capitaliste
+				- Qui, suivant la conception anglo-américaine du Pop Art , reconnaît et traite les médias de masse modernes comme un véritable phénomène culturel
+- ### Sujets
+- Les images  qu’utilisent les artistes du mouvement contiennent des commentaires incisifs et parodiques sur la société de consommation, la scène politique d'après-guerre en Allemagne et les conventions artistiques classiques. Les artistes tendent un miroir cynique à une société dangereusement endoctrinée par le consumérisme
+- Sur la société de consommation
+	- Les artistes du réalisme socialiste ont des intérêts et des sujet similaires au [[Pop Art]] américains mais ils sont traités différemment
+	- Les peintures de Richter ont commencé à montrer de l'intérêt pour l'actualité, la société de consommation, les médias et la culture populaire.
+		- Pourtant Gerhard Richter a toujours voulu s’éloigner du contenu des images intrinsèque
+			- Présentant des images parfois extrêmement banale comme
+				- [[Gerhard Richter]] : [*Tisch*](https://gerhard-richter.com/en/art/paintings/photo-paintings/household-icons-39/table-4954), 1962
+					- L’image de la table et banales mais cela n’as pas empêcher par son travail picturale
+		- Les Images médiatiques
+			- [[Gerhard Richter]] September, 2005 ![September, 2005 - Gerhard Richter - WikiArt.org](https://uploads4.wikiart.org/00283/images/gerhard-richter/september-2005.jpg!Blog.jpg)
+			  id:: 65480be3-2ed2-4198-85af-2fa07f901acd
+			- Tout comme les artistes du pop-art ont peut voir une fascination pour les avions et leurs écho dans les médias notamment par leur accidents. Le Erreur : source de la référence non trouvée peut devenir le Figure 343: Gerhard RICHTER: September, 2005. Le Erreur : source de la référence non trouvée ou le Gerhard RICHTER: [*Düsenjäger*](https://gerhard-richter.com/fr/art/paintings/photo-paintings/aeroplanes-19/jet-fighter-5479?categoryid=19&p=1&sp=32&pg=2) ( avion de chasse ), 1963  ![Avion de chasse [13-a] » Œuvres » Gerhard Richter](https://cdn.gerhard-richter.com/images/xxlarge/16399.jpg)
+		- Les produits de consommation
+			- Sigmar POLKE: [*Chocolate Painting*](https://www.wikiart.org/fr/sigmar-polke/all-works#!%23filterName:all-paintings-chronologically,resultType:masonry), 1964 ![Sigmar Polke. "Chocolate Painting" - 1964 | German Pop Art D… | Flickr](https://live.staticflickr.com/7439/16375187521_9539c5c603_z.jpg)
+				- Le chocolat est un produit très médiatisé dans les années 1960. Il peut faire écho au ((653ee4bb-b9ee-447b-a0f2-979eabd1108d)) .
+				- Il mélange avec des collages bien de consommation et symbole de l’arme dressant un paysage clair de ce que POLKE voit dans le monde dans lequel il évolue
+					- Sigmar POLKE:[*Why don’t you bring me presents ?*](http://www.artnet.fr/artistes/sigmar-polke/why-dont-you-bring-me-presents-a-qgcSSPLbo975KTHypoLu0g2), 2002 ![Why don't you bring me presents](https://walker-col.imgix.net/wac_7654.tif?fm=jpg&w=1440&h=1050&fit=max&dpr=1.5)
+						- Dans le cas présent l’arme et le parapluie sont aux même niveaux. Ils sont tout les deux des images préexistantes issu d’un format papier.
+		- Les personnalités
+			- Gerhard RICHTER: [*Mouth ( Brigitte Bardot’s Lips )*](https://www.wikiart.org/fr/gerhard-richter/mund-mouth-brigitte-bardot-s-lips-1963), 1963 ![Mouth (Brigitte Bardot's Lips), 1963 - Gerhard Richter - WikiArt.org](https://uploads6.wikiart.org/images/gerhard-richter/mund-mouth-brigitte-bardot-s-lips-1963.jpg)
+				- Représentant les lèvres de l’actrice française Brigitte BARDOT
+- La scène politique d’après -guerre
+	- La plupart des artistes étaient allemands il traite donc de la guerre froide et des changements sociaux que le mur de Berlin notamment a instauré en Allemagne.
+		- Wolf VOSTELL: [*Neue Deutsche Landschaft*](https://www.artnet.com/artists/wolf-vostell/neue-deutsche-landschaft-6ULlWLilXE-Z70JFHJA7Yg2), 1967 ![Neue deutsche Landschaft by Wolf Vostell on artnet](https://www.artnet.com/WebServices/images/ll00177lldNGbJFgGjECfDrCWvaHBOcVPpF/wolf-vostell-neue-deutsche-landschaft.jpg)
+			- A travers un collage et des surimpression décrit un nouveaux paysage allemand ou l’armée contrôle les populations et les villes
+- Tout comme Roy LICHTENSTEIN Sigmar POLKE traite aussi de la représentation féminine des femmes par les médias.
+	- Sigmar POLKE a souvent usé des icônes de féminité publicitaire de l’époque
+		- Sigmar POLKE:[*B-Mode*](https://www.boumbang.com/sigmar-polke/), 1987 ![Sigmar Polke | BOUMBANG](https://www.boumbang.com/wp-content/uploads/2012/02/Sigmar-Polke-B-Mode.jpg)
+- ### Style
+- Tout comme les artistes du [[Pop Art]] américains les artistes du réalisme capitaliste adopte un style qui fait écho au media et leur diffusion
+	- L’artiste Sigmar POLKE utilise la technique d’impression raster-dot / halftone proche des techniques utilisées par Roy Lichtenstein.
+		- Sigmar POLKE: [*Rasterbild mit Palmen*](https://www.sothebys.com/en/buy/auction/2021/the-macklowe-collection/rasterbild-mit-palmen), 1966 ![Rasterbild mit Palmen | The Macklowe Collection | 2021 | Sotheby's](https://sothebys-md.brightspotcdn.com/dims4/default/9aa7c51/2147483647/strip/true/crop/1715x2000+0+0/resize/385x449!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F69%2F27%2F1a9f33bf41bdab7547c938bf82e7%2F157n10819-3x6z6-ds.jpg)
+		- D’autres artistes utilisent le raster dot et l’utilise en outil d’abstraction
+			- Manfred KUTTNER: [Werkshau Survey Inside Image](https://www.wikiart.org/en/manfred-kuttner/werkshau-survey-inside-image) ![Werkshau Survey Inside Image - Manfred Kuttner - WikiArt.org](https://uploads1.wikiart.org/00282/images/manfred-kuttner/werkshau-survey-inside-image.jpg!Large.jpg)
+	- POLKE utilise une toile réalisée en tissu d'ameublement, l'élevant ainsi au rang de motif visuel
+		- Sigmar POLKE: [*Propellerfrau*](https://twitter.com/propellerfrau1/status/1016976709936189445), 1969
+- Le collage et l’usage d’image issu de journaux et notamment de publicité de biens de consommation ou incitant à la consommation
+	- Sigmar POLKE: [*Spargeld*](http://www.artnet.fr/artistes/sigmar-polke/spargeld-a-XdgI8CHIcum-NZLDWOBOvA2), 2002
+		- https://www.artnet.fr/WebServices/images/ll2277931llgnoOM3CfDrCWvaHBOAD/sigmar-polke-spargeld.jpg
+- Ont peut aussi faire un parallèle entre les œuvres symétriques d'[[Andy Warhol]]: [*Rorschach*] ![Rorschach - Andy Warhol | The Broad](https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/warhol_rorschach.jpg.webp?itok=AXgJt4EE)
+  id:: 653fcc09-e8bc-4c3b-b1fd-e71fea161705
+	- les [*Compositions*](http://www.artnet.fr/artistes/sigmar-polke/composition-a-Hqg7jyx0l3ZNxwW65uPkjw2), 1992 de Sigmar POLKE.  ![Sigmar Polke: Oeuvres, Biographie, Expositions & Collection exclusive –  Composition Gallery](https://media.composition.gallery/artworkpic/sigmar-polke-untitled-columbus-in-search-of-a-new-tomorrow-silkscreen-available-for-sale-on-composition-gallery1663683445-97523_349x500.jpeg)
+	- Tout deux abstraits symétriques, fait de tache
+- L’artiste Konrad LUEG lui développa un style proche des américain..es avec des aplats et des contours nets
+	- Konrad LUEG: [*Kuss*](https://www.wikiart.org/fr/konrad-lueg/all-works#!%23filterName:all-paintings-chronologically,resultType:masonry), 1962 ![Kuss 1962-63, 1962 - Konrad Lueg | Pop art artists, Pop art, Art painting](https://i.pinimg.com/736x/0a/8b/d8/0a8bd817bbb70b1b73b18e4aebe9bcd4.jpg)
+- Les artistes du mouvement développe un lien plus important avec l’abstrait que les artistes du Pop art.
+	- Ils usent souvent de plusieurs techniques d’impression picturale.
+		- Sigmar POLKE mélange Halftone et tache de peinture.
+			- Sigmar POLKE: [*Untitled*](http://www.artnet.fr/artistes/sigmar-polke/untitled-_c9YP7EhAm1Q1nXVQQtT8Q2), 1989
+				- https://www.artnet.fr/WebServices/images/ll00068lld4qyJFg3jECfDrCWvaHBOcDTUG/sigmar-polke-untitled.jpg
+		- RICHTER aussi mélangeant photo et peinture
+			- [[Gerhard Richter]]: [*Firenze*](https://www.wikiart.org/fr/gerhard-richter/firenze), 2000 ![Firenze » Micro-sites » Gerhard Richter](https://cdn.gerhard-richter.com/images/xxlarge/8894.jpg)
+		- Sigmar POLKE c’est souvent essayé à mélanger de très nombreux supports
+			- [*Ohne Titel*](http://www.artnet.fr/artistes/sigmar-polke/ohne-titel-ow75Zzw-zKXleX-dcqIX6w2), 1971 ![](https://www.artnet.fr/WebServices/images/ll0030BlldpuyJFgUNECfDrCWvaHBOczqUG/sigmar-polke-ohne-titel.jpg)
+				- Il mélange <a name="tw-target-text"></a>émail pulvérisé, acrylique, peinture métallisée et aquarelle sur neuf feuilles de papier jointes, marouflées sur toile
+	- D’autres artistes ont exploré..es l’abstraction
+		- Des abstractions chromatiques
+			- [[Gerhard Richter]] à exploré des quadrillages de couleurs
+				- [[Gerhard Richter]]: [*1024 Colors*](https://www.wikiart.org/fr/gerhard-richter/1024-colours-1973), 1973 ![1024 Colours, 1973 - Gerhard Richter - WikiArt.org](https://uploads3.wikiart.org/images/gerhard-richter/1024-colours-1973.jpg!Blog.jpg){:height 454, :width 450}
+				- Une œuvre qui s’inscrit dans suite de mouvement d’avant gardes picturales qui ont commencer a explorer des formes d’abstraction similaire.
+		- Des abstractions gestuelles
+			- [[Gerhard Richter]]: [*Colour Streaks*](https://www.wikiart.org/fr/gerhard-richter/farbschlieren-colour-streaks-1968), 1968 ![Colour Streaks [194-1] » Art » Gerhard Richter](https://richter.fra1.cdn.digitaloceanspaces.com/images/xxlarge/14716.jpg)

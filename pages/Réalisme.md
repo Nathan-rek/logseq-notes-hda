@@ -1,0 +1,8 @@
+- ( Coup d’état Napoléon 3 / période sombre ) l’artiste s’intègre dans le monde social. Étude de la nature dans le domaine social, Apparition de la sociologie
+- Littérature étude de la société humaine BLAZAC / FLAUBERT description du monde contemporain
+- Auguste Comte: A la création de la sociologie : évoque le thème de physique social
+- Différente figure de l’artiste
+	- L’artiste est intègre dans un contexte social; à l’inverse de l’art pour l’art les parnassiens
+	- Gustave COURBET: Manifeste du réalisme cristallise le type social de l’artiste engagé
+		- Autodidacte à la marge de l’académie
+			- Organise sa propre exposition en dehors du salon

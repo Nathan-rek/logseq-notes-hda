@@ -1,0 +1,3 @@
+- Avec ses tableaux trompe l'œil il participe à une forme de nouveaux réalisme
+	- Le dejuener sous l'herbe
+		- Forme d'archéologie de l'art contemporain

@@ -1,0 +1,18 @@
+## Piet Mondrian et l'[[Abstraction]]
+	- Séries d’œuvres qui marque les influences de Mondrian face aux avant-gardes
+		- Piet Mondrian: [Arbre Rouge](https://upload.wikimedia.org/wikipedia/commons/6/64/Piet_Mondrian%2C_1908-10%2C_Evening%3B_Red_Tree_%28Avond%3B_De_rode_boom%29%2C_oil_on_canvas%2C_70_x_99_cm%2C_Gemeentemuseum_Den_Haag.jpg)![Arbre rouge — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/6/64/Piet_Mondrian%2C_1908-10%2C_Evening%3B_Red_Tree_%28Avond%3B_De_rode_boom%29%2C_oil_on_canvas%2C_70_x_99_cm%2C_Gemeentemuseum_Den_Haag.jpg)
+			- Ancien Fauve: Couleurs très vives - non-naturalistes
+		- Piet Mondrian: [Arbre Gris](https://upload.wikimedia.org/wikipedia/commons/8/80/Piet_Mondrian%2C_1911%2C_Gray_Tree_%28De_grijze_boom%29%2C_oil_on_canvas%2C_79.7_x_109.1_cm%2C_Gemeentemuseum_Den_Haag%2C_Netherlands.jpg) ![Arbre argenté — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/8/80/Piet_Mondrian%2C_1911%2C_Gray_Tree_%28De_grijze_boom%29%2C_oil_on_canvas%2C_79.7_x_109.1_cm%2C_Gemeentemuseum_Den_Haag%2C_Netherlands.jpg){:height 334, :width 450}
+			- Face au [[Cubisme]] Commence l’abstraction des formes sur un sujet naturel: réduction des couleurs
+		- Piet Mondrian: [Pommier en fleurs, 1912](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FFichier%3ABlossoming_apple_tree%2C_by_Piet_Mondriaan.jpg&psig=AOvVaw1XfjvFjVb04cJfczQyfk0p&ust=1681560587370000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCv7r2rqf4CFQAAAAAdAAAAABAE) ![Fichier:Blossoming apple tree, by Piet Mondriaan.jpg — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Blossoming_apple_tree%2C_by_Piet_Mondriaan.jpg/1024px-Blossoming_apple_tree%2C_by_Piet_Mondriaan.jpg)
+			- Phase terminale de la série ou les formes quitte la fonction descriptives du langage pictural, devient formes poétique de la «rime visuelle» «l’allitération rythmique»
+			- Ne reconnaît pas son tableau car la retourné sans faire exprès c’est une sérendipité[^1]
+		- ((653ec305-4163-4b1a-b45e-ef083e8c8df1))
+			- Quitte la réalité sensible pour y aller au dessus, héritage platonicien. Donne à voir la matrice sensible
+	-
+- # Renvoi dans Le graph
+- ((653ec305-ecb3-4d52-93a9-29b5625299ae))
+- ((653ec305-4163-4b1a-b45e-ef083e8c8df1))
+-
+- ((653ec305-66c0-4e0b-a38e-dec1e20d1f99))
+-

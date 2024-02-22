@@ -1,0 +1,10 @@
+- Remet en question les notions conventionnelles de genre et propose une critique des termes genre et sexe tels qu'ils ont été utilisés par les féministes qui ont pu avoir une vision essentialiste du genre
+- Les féministes ne devraient pas essayer de définir les "femmes" Les féministes devraient se concentrer sur la façon dont le pouvoir fonctionne et façonne notre compréhension de la féminité
+	- Théorie de la performativité du genre
+		- Le genre comme performance et non comme essence
+		- La performativité comme répétition régularisée et contrainte de normes sociales et biologique
+- La performativité n'est pas un acte ou un évènement mais une production ritualisée par la force de l'interdit
+- L'idée d'une identité libre et flexible
+	- Brise les liens supposées entre le sexe et le genre
+- [[Queer-Ecologies]]
+-

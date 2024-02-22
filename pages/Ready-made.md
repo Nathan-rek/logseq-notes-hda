@@ -1,0 +1,10 @@
+- Prélever un objet de commodité et de l’inscrire dans un dispositif institutionnel:
+- Mise en crise de la question d’originalité
+	- singularité du tempérament créateur
+	- crise de la reproductibilité:
+		- [[Walter Benjamin]] perte de l’aura du à la reproductibilité des objets d’arts / que faire face à l’arrivé de l’usage massif des reproductions d’image dans les systèmes de propagande totalitaire
+		- Cinéma expérimentale Russe: usage de Sergueï EISENSTEIN dans l’utilisation des reproduction d’image qui dans le montage permet de garder une liberté interprétation et d’éviter l’utilisation de la reproduction d’image dans un appareillage de normativité
+- [[Marcel Duchamp]] : [*Fontains*](https://upload.wikimedia.org/wikipedia/commons/f/fa/Fontaine_Duchamp.jpg), 1917
+	- Fonction nominative de DUCHAMP dans l’objet exposé durant la société des artistes indépendants à New York (participation libre / Malgré cette liberté écarte l’œuvre de Richard MUNT) / Crée un appareil de réflexion (Revue: [*The Blindman*](https://upload.wikimedia.org/wikipedia/commons/2/29/The_Blind_Man%2C_issue_1%2C_April_1917.jpg)) qui présente cette exposition pour trouver une alternative de réception de son œuvre: Texte qui explique pour l’œuvre de «Richard MUTT»  photographié par Albert STIEGLITZ est passé à coté de l’exposition l’article reprend le titre Blind Man
+- Certain..e attribue le geste à Elsa Von FREYTAG-LORINGHOVEN[^27],
+	- Duchamp dans une lettre aurait dit à sa sœur que c’est Elsa qui aurait proposer l’urinoir.

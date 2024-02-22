@@ -1,0 +1,4 @@
+- Ritual Techno Chamanico para Sitio Especifico
+	- Rituel d'une chorégraphie comsique de gratitude
+	- performance où les art vivants sont combiné avec des paysages lumineux et sonores basse sur des donnes provenant des rayons gammas et des ondes gravitationnelles
+- Cherche à briser la perspective [[Colonialisme]] extractivisme du dialogue avec un au delà cosmique

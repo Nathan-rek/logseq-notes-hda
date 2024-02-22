@@ -1,0 +1,11 @@
+- Lydia Clark: production d'objet relationnelles, qui permette de se rallier à nous même ou à l'autre
+	- Caractérise l'espace potentiel
+	- L'espace de jeu: Donal Winnicott
+		- L'enfant à besoin de jouer: besoin d'une are intermédiaire d l'expérience, crée une maniere douce de vivre la réalité, maniere de quitter l'illusion de la mère.
+		  Dans cette espace les autres peuvent être mis à contribution, créer des liens de relation
+	- L'ère de jeu continue à ce développe dans la vie
+		- La religion peut être une extension de l'aire de jeu de l'enfant
+			- Partager des croyances avec les autres dans un cadre et dans un contexte
+		- L'art aussi
+			- On peut raconter une fiction sans parler de mensonges la fiction
+-

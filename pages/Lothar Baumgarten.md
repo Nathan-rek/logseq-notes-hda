@@ -1,0 +1,16 @@
+- Lothar Baumgarten : Travail de tentative de déconstruction de ce paternalisme idéologique ou Narcissisme idéologiques: 3 faces
+	- Phase Fantasmagorique: Altérité définit par un rapport Fantasmatique: création de stéréotype en tant qu’artiste on représente des représentation de cette altérité qui sont fausses: Production d’image stéréotypée / fantasmée :
+		- Lothar Baumgarten [*Tetrahedron (pyramid)*](https://www.mariangoodman.com/artists/31-lothar-baumgarten/works/37945/), 1968 ![Lothar Baumgarten, Tetrahedron (Pyramid), 1968 | Marian Goodman](https://artlogic-res.cloudinary.com/w_1680,h_1680,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/mariangoodman/images/view/aa08ae6c6602284f2110bd5388fd5d54j.jpg)
+			- pyramide à base de pigment > installation / photo
+		- Lothar Baumgarten [*Eye-ball*](https://www.mariangoodman.com/artists/31-lothar-baumgarten/works/39383/), 1968 ![Lothar Baumgarten, Pupille (Eye ball), 1968 | Marian Goodman](https://artlogic-res.cloudinary.com/w_1680,h_1680,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/mariangoodman/images/view/78635e8c7874499aed3209f82d847dd0j.jpg){:height 314, :width 451}
+			- travail photographique ou il produit cette environnement fantasmagorique
+		- Les cartes comme dispositif culture qui colonise l’espace par les mathématique en intègre des plumes qui replace les population autochtones
+		- Champ de brocoli: Présenté comme une foret
+	- Phase Réaliste:
+		- Vivre avec les communautés (Baumgarten va vivre dans le bassin amazonien avec des communautés autochtones: namogamie) L’autre n’est plus un objet de fantasme mais est reconnu comme identité: Artiste devient photographe et ethnographe qui documente les moments de vie: Quitte le statut fantasmagorique passe à un statut réaliste, va à renoncer à ce processus d’objectivisation.
+		- Lothar Baumgarten: [*America Invention*](https://www.guggenheim.org/exhibition/lothar-baumgarten-america-invention), 1993: ![Guggenheim Museum rotunda with Native American tribe names along the ramps and the words "borrowed land for sale" on the rotunda floor](https://www.guggenheim.org/wp-content/uploads/2008/01/installation-srgm-lothar-baumgarten-america-invention-ph001.jpg)
+	- Post-coloniale: interroger une lecture critique de soi
+		- En quittant le bassin amazonien le but est de faire retour sur les processus de colonisation de l’occident. Dénoncer les opérations de colonisation par le langage:
+		- TODOROV: analyse les systèmes de nomination des territoires par les capitaines de Christophe Colomb: Mise en perspective: découper l’espace ne pas le penser comme un territoire infini:
+			- Nommer le territoire latin à travers une frenesis de nomination: mécanisme de dépossession
+	- [*America Invention*](https://www.guggenheim.org/exhibition/lothar-baumgarten-america-invention), 1993: Lettrage chiroquie est le résultat d’une intériorisation occidentale

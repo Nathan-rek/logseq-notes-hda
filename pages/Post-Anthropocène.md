@@ -1,0 +1,14 @@
+- Termes qui invite à réfléchir à des scénarios futurs
+	- Que se passe t'il après l' [[Anthropocène]]
+- Evolution culturelle scientifique et technologique qui conduit vers un chemin qui transforme la diversité culturelle et biologique en homogénéité
+	- Transgresse les limites du système terrestre et introduit des éléments toxiques qui dépassent l'expérience évolutive de tous les organismes
+- Question du Dualisme [[Sujet-Objet]]
+- L'échelle de kardashev:
+	- Civilisation Type 1
+		- capable d'acceder a toute l'energie disponisble sur sa planete et de la stocker pour la consomation
+	- Civilisation Type 2
+		- Peut consommer toute l'Energie directement d'une autre planète , étoile, lune, un astéroïde
+	- Civilisation Type 3
+- [[Minerva Hernadez]]
+- Sun Yuan & Peng Yu: [*Can't Help Myself*](https://www.guggenheim.org/artwork/34812) (2016) ![Sun Yuan & Peng Yu, Boundary-Pushing Artists,Masters of Provocative Art |  Artsy](https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FiqAyKYT5BdpnMz9jNXyeLQ%252FBIG_SUN_2016_01dea.jpg&width=910)
+	- Dans la tentative de récupération il ne peut stopper le problème il l'empire

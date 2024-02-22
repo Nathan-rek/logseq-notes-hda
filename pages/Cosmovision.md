@@ -1,0 +1,3 @@
+- Notion qui englobe la maniere dont un individu ou une culture perçoit et interprète l'univers et sa place au sein de celui-ci
+	- Croyances, connaissance, valeurs, religion, pratique qui forme la vision du monde
+-

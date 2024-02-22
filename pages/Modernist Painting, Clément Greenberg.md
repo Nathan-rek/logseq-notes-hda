@@ -1,0 +1,41 @@
+- Clément GREENBERG propose une définition de la modernité. Dans un esprit modernisme qui est une fraction de la [[Modernité]] , le [[Modernisme]] est une approche critique de l’art moderne
+- *«... the use of characteristic methods of a discipline to criticize the discipline itself, not in order to subvert it but in order to entrench it more firmly in its area of competence.»*
+- Le modernisme couvre tout ce qui est vivant dans la culture. La civilisation occidentale n’est pas la première civilisation à se retourner et à remettre en question ses propres fondations.
+- Mais c’est celle qui est allé le plus loin en ce sens.
+	- Il identifie le modernisme à l’intensification, à l’exacerbation.
+- Cette tendance autocritique est amorcée avec KANT.
+	- KANT a utilisé la logique pour critique la logique et y établir ses limites
+		- La logique était + sure dans ce qui lui restais, elle était réconforté dans ce que la logique était.
+- L’autocritique du modernisme naît de la critique des Lumières.
+	- Le modernisme critique de l’intérieur, à travers les procédures elle même de ce qui es critiqué.
+		- La critique aurait du apparaître d’abord en philosophie qui est critique par définition. L’autocritique kantienne née en philosophie en réponse à cette exigence fut appelée finalement à l’interpréter dans des domaines très éloignés
+- La religion n’as pas pu recourir à la critique kantienne, immanente, pour se justifier.
+	- Les arts pourraient sembler se trouver dans une situation comparable à celle de la religion.
+		- Ayant été privés par les Lumières de toutes les tâches qu’il pouvaient prendre au sérieux, L’art à semblé s’être assimilé au divertissement pur et simple, et le divertissement lui-même semblait aller être assimilé.
+			- Comme la religion à la thérapie
+		- Les arts ne pouvait échapper à ce nivellement vers le bas qu’en démontrant que le type d’expérience qu’il offraient était précieux en soi et ne pouvait être obtenu par aucun autre type d’activité.
+			- Chaque art devait déterminer, par ses propres opérations et œuvres, les effets qui lui étaient exclusifs. Ce faisant, il réduirait certes son domaine de compétence, mais en même temps il rendait encore plus sure sa possession de ce domaine
+				- Le domaine unique et propre à chaque art coïncide avec tout ce qui était unique dans la nature de son medium
+					- L’autocritique consistait désormais à éliminer des effets spécifiques de chaque art
+						- Tout effet qui pourrait être emprunté à un autre art est éliminés
+						- Ainsi chaque art serait rendu «pur», la garantie de ses normes de qualité ainsi que de son indépendance.
+							- Pur signifie une auto-définition. Et l’autocritique dans les arts est devenue une entreprise d’auto-définiton. L’art réaliste et naturaliste a dissimulé le medium, utilisant l’art pour dissimuler l’art, le modernisme a utilisée l’art pour attirer l’attention sur l’art
+- Les limitations qui constituent le medium de la peinture: la surface plane, la forme du support, les propriétés du pigment.
+	- Traitées par les Maîtres anciens comme des facteurs négatifs qui ne pouvait être reconnus qu’implicitement ou indirectement
+		- Sous le modernisme ces limites en sont venue à être considéré comme des facteurs positifs et ont été ouvertement reconnue
+			- Les tableaux de MANET sont devenu moderniste grâce à la franchise avec laquelle ils déclarait les surfaces planes. ((6564d3ba-c961-4551-86a5-7ddca48e4602))
+				- Les impressionnistes dans le sillage de MANET, renoncent aux sous-couches et aux émaux, il ne laisse aucun doute à l’œil sur le faite que les couleur qu’ils utilisent sont constitue de peinture matériel. ((6564d3ba-8085-458c-a515-c40fe5894851))
+				- CÉZANNE sacrifie la vraisemblance, ou l’exactitude, adapte plus explicitement son dessin et sa conception à la forme rectangulaire de la toile [Figure 51: CÉZANNE La Carrière De Bibemus: ]
+- C’est l’accentuation de la planéité inéluctable de la surface qui reste plus fondamental que tout autre chose dans le processus par lesquelles l’art pictural se critique et se définit sous le modernisme.
+	- La planéité était unique au domaine de l’art picturale
+		- La forme du tableau était une condition limité, ou une norme non-partagée
+			- La couleur elle par exemple est une norme partagée avec le théâtre, la sculpture ou autres.
+		- La  planéité était la seule condition que la peinture partageait avec aucun autre art la peinture moderne s’est orienté vers la planéité comme vers rien d’autre.
+- Les Anciens ont senti qu’il était nécessaire de préserver ce qu’on appelle l’intégrité du plan de l’image
+	- Signifier la présence durable de la planéité en dessous de l’illusion la plus vive de l’espace tridimensionnel.
+		- Cette contradiction impliqué était essentiel au succès de leur art.
+			- Les modernistes ont plutôt inversé les termes de cette contradiction.
+				- On prend conscience de la  planéité de leur images avant, et non après, de ce que contient cette planéité
+	- On a tendance à voir ce qu’il y a dans les tableaux anciens avant de voir le tableau ancien.
+	- A l’inverse le tableaux modernes on y voit d’abord un tableau moderne
+-

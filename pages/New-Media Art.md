@@ -1,0 +1,22 @@
+- Donc l'art des nouveaux médias propose une interrelation
+  esthétique et une collaboration entre l'art, le plus que humaine, la
+  science et la technologie.
+  Diverses pratiques artistiques inventent leurs propres technologies
+  ou utilisent les technologies existantes et servent même
+  d'innovateur pour les nouvelles technologies.
+- Les New-media art remettent en question le principe d’objet d’art
+	- Différence explicite avec les pratiques artistiques qui utilisent des médias visuels traditionnels: Comme la peinture, la sculpture, etc.
+- Comment un objet peut être éphémère ((65480be2-61ae-478a-a933-8878be470ebf))
+- L’interactivité
+- Processualité
+	- Le processus fait parti intégrante de l’œuvre, les œuvres se sont pas fixes
+- Non-linéaire
+- Immatérialité
+- Créer ces propres technologies
+	- Englobe les formes d'art qui sont soit produites, modifiées et transmises par l'utilisation de technologies «nouvelles» ou «anciennes» (Des technologies de rituels et cérémonies (avec la terre), aux technologies de manipulation génétique ou d'astronomie ou d' [[AI]] ….)
+	- [[Cannupa Hanska Lugar]]
+		- ((656dc6a5-40c4-4f2b-8f11-ad339ffee2e8))![Mirror Shield Project — Cannupa Hanska Luger]
+	- [[Nicole L'Huillier]]
+		- ((6564978f-a334-447d-a1ed-fc1c68fa9d26))
+	- [[Alberta Whittle]]
+	-

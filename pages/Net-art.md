@@ -1,0 +1,24 @@
+- Net art = lié au medium> les technologies du «net» sont nécessairement impliquées dans la création, le contenu et la diffusion:
+- Tilman BAUMGARTEL:
+  
+  *«Le net art s’adresse à son propre médium, il traite les conditions spécifique qu’offre internet»*
+- Le net art joue avec les règles, les protocoles et les particularités technologiques de l’internet, il les traite et met a profit les erreurs connue ou non du système
+- Net art ≠ [[Post-Internet]]  :
+	- Net art utilise l’internet comme médium et ne peut être appréhendé autrement
+	- [[Post-Internet]]  : Passe de l’internet aux galeries traditionnelles
+- Network art : plus large, la technologie n’est pas nécessaire. Il s’agit plutôt de donnés et de leur diffusion par d’autre canaux
+	- Seth PRICE: [*Dispersion*](https://anthology.rhizome.org/dispersion): La distribution, plutôt que la production moyen par lequel les œuvres prennent leur sens ![](https://d1v7jayx2s9clc.cloudfront.net/user/pages/21.dispersion/cri_000000302802.jpg)
+	- [[Cory Arcangel]] :[*Iron Maiden’s « The number of the beasts» compresses over and over as an mp3 666times*](https://coryarcangel.com/things-i-made/2004-004-iron-maidens-number-of-the-beast-compressed-over-and-over)»,2004 ![](https://coryarcangel.com/assets/imgs/666-2004-004-screenshot-1-database-ih.jpg)
+		- à travers le transfert et la diffusion par réseau web le principe de compression prend place et sature le son
+- Mail art / Postal Art:
+	- Le réseau devient un mode d’expression et de distribution très important, économique et flexible pour les outsiders culturels
+	- Ray JOHNSON & New York Correspondance School: échange de lettre qui donne une importance au réseau et détourne les établissement artistique traditionnelle
+	- Joseph BEUYS – On KAWARA: artiste qui développe un travail de la lettre
+	- Le Net-Art dans les années 1990 -2000 c’est évidement fortement développé sur les plateforme Web avec des sites référence comme [rhizome.org](https://rhizome.org/) ou[ thing.net](https://thing.net/).
+- Jennifer et Kevin MCCOY [*Every Shot, Every Episode*](https://www.metmuseum.org/art/collection/search/284985) > Un Programme lit l’ensemble des épisode de la sérié *Starsky & Hutch* et un programme regroupe les scènes et remonte les scènes d’une façon non linéaire mais suivant une logique de corrélation de basse regroupement les scène de poursuite les scènes de tir, chaque zoom... en des épisodes remontés
+	- L’installation est interactive avec un lecteur CD ou l’on peut y insérer les nouveaux épisodes de la série
+- Wolfgang STAEHLE: [*Untitled*](https://anthology.rhizome.org/untitled), 2001 ![](https://d1v7jayx2s9clc.cloudfront.net/user/pages/56.untitled/00-Wolfgang%20Staehle%202001_m091101x.jpg)
+	- Une installation d’un live de différentes webcams à différents endroits qui projettent des images d’un lieux qui se renouvelait toutes les 5 secondes.
+	- Enregistrant en permanence un des enregistrement à enregistré l’attaque du 9/11
+	- Cette œuvre peut être comprise comme un signe avant-coureur de changements majeurs dans la culture de l’image. L'intérêt de STAEHLE pour la documentation de scènes de la vie quotidienne s'est aligné sur l'émergence d'une mentalité de « tout enregistrer » alimentée par les nouveaux outils numériques disponibles
+-

@@ -1,0 +1,2 @@
+- Andy Warhol: [*Marylin*](https://en.wikipedia.org/wiki/Marilyn_Diptych), 1962 ![Marilyn Diptych - Wikipedia](https://upload.wikimedia.org/wikipedia/en/8/87/Marilyndiptych.jpg)
+  id:: 65699b1e-dc24-414f-ad45-3550a93f0d6c

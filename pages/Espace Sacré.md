@@ -1,0 +1,9 @@
+- l'espace sacré s'oppose à l'espace profane
+	- Mircea Eliade: *Le sacré et le profane*
+		- La religion c'est ce qui nous relie, crée des communautés
+		- L'espace n'est pas homogène, des lieux sont qualitativement autres, l'espace religieux se distingue des autres
+		- Accorde une valeur qui n'est pas inhérente à l'objets, une valeur autre
+	- Dans cette espace un objet peut avoir une valeur autre que dans le monde ordinaires
+- [[Espace du jeu]]
+- [[Hétérotopie]]
+-

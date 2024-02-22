@@ -1,0 +1,3 @@
+- Robert MORRIS / Robert SMITHSON: un regard critique sur la disciplinarisation du [[Minimalisme]] qu’ils ont défendu: l’anti-forme (Georges BATAILLE Document: met à mal les Systèmes rationalistes: Indétermination mettre en place des systèmes qui permettent l’indétermination des objets, la matérialité et la subjectivité qui importe.
+	- L’entropie Robert SMITHSON: faculté des choses à être mis au temps : détérioration / lecture critique de la modernité et du progressisme: cela amène à normer les vies individuelles: [*The Monument of Passaic*](https://holtsmithsonfoundation.org/monuments-passaic):
+		- Photographie de faux monument: élément du décor victime de l’entropie

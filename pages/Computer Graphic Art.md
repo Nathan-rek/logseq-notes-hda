@@ -1,0 +1,36 @@
+- Dans les années 1970 les computer Art font leur apparition dans les institutions et les pratiques artistiques. Certain..e distinguent différentes phase dans leur apparition.
+- ### Phase One
+- la premier phase est essentiellement composé de plusieurs mathématicien..nnes scientifiques ou de personne avec un passé dans la programmation. Les grands classique de cette pratique s’y sont constitués.
+- La Phase One commence avec l’exposition de 1968 organisé par Jasia REICHARDT ‘ [[Cybernetic Serendipity]] [^23]’.
+	- L’exposition y présente des expérimentations dans l’art et dans les technologies.
+		- l’exposition est influencée par le lien entre les mathématique et l’art dans les formes. Une liaison que les artistes du [[Bauhaus]] était venu a travailler.
+- La Randomisation était de quelque chose de très présent dans ces pratiques.
+- ### Phase Two
+- Petit à petit les artistes ont commencé..es à travailler avec des programmeur..euses. Et ont elle..ux même appris à programmer.
+- Cette liaison entre art et nouvelle technologie à permis à de nouveaux médias et mediums d’apparaître.
+- L’exposition ICCH/2[^24] à marqué une différence avec la phase One.
+	- On  y retrouve dans cette exposition une continuité avec les artistes de l’exposition Cybernetic Serendipity
+		- Herbert Franke poursuis les recherches de [[Michael Noll]] sur [[Test de Turing de Michael Noll]]
+			- Herbert FRANKE: [Random Squares](http://dada.compart-bremen.de/item/artwork/1265)
+				- ![](http://dada.compart-bremen.de/imageUploads/medium/ransqur_franke.jpg)
+- Dans la Phase One les travaux étaient souvent statiques comme figés
+	- Les artistes de la Phase Two ont voulut animer les travaux soit par une animation de poésie de couleur ou technique.
+- L'art informatique est extrait des dispositifs de sortie et constitue une étape intermédiaire avant l'implantation dans les médias artistiques.
+	- En implémentant cela les travaux de la Phase Two pouvaient plus facilement appartenir au monde de l’art et non que des computer art qui s’auto-référe par leur simple fait d’être généré par ordinateur.
+	- Utiliser des sujets et des techniques appartenant aux art traditionnel était aussi une manière d’apparaître dans le monde de l’art avec soit les démarche de [[Michael Noll]] ou Charles CSURI qui joue des dessins de DEVINCI dans une œuvre comme [*Vitruvis Man*](https://csuriproject.osu.edu/Detail/objects/550)
+	- où l’homme de Vitruve[^25] est modifié par des déplacements informatiques et redessiné au plotter
+	  id:: 655635ea-bb7d-4e2e-9a78-faa04019a354
+- Le terme "interactif" désigne l'interaction, la communication, la simulation réciproque entre deux ou plusieurs organismes réactifs. Dans ce contexte, les organismes sont la ou les personnes à la console, d'une part, et l'ordinateur programmé, d'autre part.
+- Les art informatiques ont pu proposer une forme de nouvelle vitalité à travers les techniques.
+	- Les œuvres en temps réel peuvent être vu comme concept intellectuelle.
+		- A la différence des œuvres d’arts comme objet matérielle figée comme la peinture ou même les films en tant que séquence prédites.
+		- Les art informatiques ont permis aux participant..e et l'ordinateur avec l'écran CRT[^26] d’interagir en tant que processus, L'objet d'art n'est pas l'ordinateur ou l'écran, mais l'activité des deux interagissant avec le..a participant..e. En plus de ses paramètres artistiques, le contenu de cette forme d'art dépend de la dynamique d'un processus en temps réel qui donne une vitalité et vie à l'affichage visuel à travers l'animation et l'interaction de l'utilisateur..ices.
+- ### Artistes
+- [[Hiroshi Kawano]]
+- [[Kenneth Knowlton]]
+- [[Manfred Mohr]]
+- [[Georg Nees]]
+- [[Edward Zajec]]
+- [[COMPUTER TECHNIQUE GROUP FROM JAPAN (CTG)]]
+- [[Michael Noll]]
+-

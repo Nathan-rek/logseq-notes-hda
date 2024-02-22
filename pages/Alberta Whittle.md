@@ -1,0 +1,8 @@
+- Artiste originaire des Barbade elle travail son héritage diasporique, à la fois historique et présent dans des communautés noires des Caraïbes et au-delà
+- [*Between a whisper and a cry*](https://artscouncilcollection.org.uk/artwork/between-whisper-and-cry), 2019 ![Alberta Whittle, between a whisper and a cry: accumulating gestures | LUX  Scotland](https://luxscotland.org.uk/assets/images/_1200x630_crop_center-center_none/4.-between-a-whisper.jpg)
+	- Traite de la mer comme cimetière du commerce esclavagiste transatlantique
+		- Une problématique qui s'actualise notamment avec l'augmentation des réfugiés climatiques
+- [*Mammmmmywata presents life solutions international*](https://lux.org.uk/work/mammmmmywata-presents-life-solutions-international/), 2016 ![Mammmmmywata presents life solutions international - LUX](https://lux.org.uk/wp-content/uploads/2021/07/1-mammmmmmywata-presents_orig.jpg)
+	- Mammmmmywata représente une figure mythique identité hybride
+		- Cette figure cherche à demander le pardon de la part de l'Ecosse par rapport aux actes de [[Colonialisme]] de l'Ecosse
+-

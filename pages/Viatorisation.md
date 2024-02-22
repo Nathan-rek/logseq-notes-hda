@@ -1,0 +1,7 @@
+- Le Noir et blanc consitue un élément ambivalent
+	- Etant un effet du passé marqueur d'un temps
+- L'image peut etre vu comme un élément orchestré par une naration.
+	- Pour François Truffaut les railles naratif organise le passage des images
+- Walead Beshty: [*Transparency (positive) Fuji provia Color Film: October 19 - october 21, 2007 ORD/LAX LAX:ORD*](https://www.sothebys.com/en/buy/auction/2020/contemporary-art/walead-beshty-transparency-positive-fuji-provia?locale=fr), 2010 ![WALEAD BESHTY | TRANSPARENCY (POSITIVE) [FUJI PROVIA 100F: APRIL 25 - 27,  2010 LAX/JFK BOS/SFO SFO/LAX] | Contemporary Art | 2020 | Sotheby's](https://sothebys-md.brightspotcdn.com/dims4/default/9766ed3/2147483647/strip/true/crop/1581x2000+0+0/resize/385x487!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ffb%2F95%2Fb87fc7574d94912180627006809e%2F492n10430-bn6zj.jpg)
+	- Il expose des pellicules photo passées au Rayon X lors de voyage
+- Walead Beshty: FedEx Sculpture ![Walead Beshty Turns Shipped Glass Boxes Into Shattered Sculptures.](https://assets.yellowtrace.com.au/wp-content/uploads/2017/02/FedEx-Works-by-Walead-Beshty-Shipped-Glass-Boxes-Become-Shattered-Sculptures-Yellowtrace-09.jpg)

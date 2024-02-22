@@ -1,0 +1,9 @@
+- Mouvement qui fait avancer la défense de la terre paralle a l' [[Eco-Féminisme]] et ((65480be3-6cef-4cc6-b8cb-be5a0b8a1bae)).
+- Le mouvement a commecne a la fin des années 1980 dans L'oregon ou des femmes creeent des commuanute rurales.
+	- Back To The Land: Transforme la Terre de la mère en amante: Se masturber avec des arbres, fait l'amour au soleil
+	- Ce n'est plus la terre mère mais la terre amantes
+- Le terme à été attribué par Annie Sprinkle & Beth Stephens
+- Weddind to the earth
+	- Projet de rituel de mariage publics avec la terre
+- Annie M. Sprinkle (1954): est une sexologue américaine certifiée, défenseure du travail du sexe et de la santé. travaille comme éducatrice sexuelle, strip-teaseuse féministe, actrice pornographique, productrice de films sexuels et féministe sexuellement positive, et elle s'identifie comme écosexuelle. En 1996, elle est devenue la première star du porno à obtenir un doctorat (PhD), qu'elle a obtenu en sexualité humaine.
+- Beth Stephen (1960) est un artiste américain, sculpteur, cinéaste, photographe, professeur et directeur du département d'art de l'UC Santa Cruz.

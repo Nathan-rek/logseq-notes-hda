@@ -1,0 +1,32 @@
+- Dans une dimension de dépassement du dualisme esprit / corps
+- Agentivité
+	- La capacité d'un être, d'une personne ou d'une entité, à agir dans un environnement donné
+		- Un comportement inconscient ou involontaires
+		- Une activité dirigée vers un objectif
+	- Gilles Deleuze influence la nouvelle compréhension de l'angect non-humaine.
+	- Le dualisme classique de la philosophie est celui de Platon et Aristote
+		- Séparent l'esprit et le corps: la conscience et la pensée de tout ce qui est physique.
+			- Dualisme à l'origine de la dichotomie distinctes et oppositionnelles: [[Nature - Culture]], objet sujet, femme homme
+	- Deleuze va donc interroger les distinctions d'une vrai et d'une fausse agency. afin de multiplier la possibilité de manifestation d'agency
+		- Propose une nouvelle définition d’agency:
+			- La volonté humaine avant l'action humaine n'implique pas la conscience humaine, mais la conscience émerge de potentiel «virtuels» dont le corps humain est indissociable.
+				- Tour ce qui sous-tend l’humain à une agency
+			- Chaque corps est lui-même un assemblage de corps plus élémentaires:
+				- L’action d’entités autres que les êtres humains
+	- Non-humain
+		- Le terme non-humain est encore largement utilisé dans les sciences sociales et humaines, comme une sorte de terme général désignant
+		  toutes les formes de vie organiques situées en dehors de la catégorie humaine.
+			- Mais de nombreux chercheur..euse se détournent de ce cadre et se tournent vers plus qu’humain en raison de la dichotomie problématique au cœur du non-humain.
+			- Décrire quelqu'un comme non-humain, c'est un peu comme décrire une femme comme non-homme, ou un noir comme non-blanc, ou la nature comme une non-culture.
+		- Nous créons un système binaire qui reproduit précisément le type de dichotomie [[Nature - Culture]] , corps/esprit, etc.,
+	- Plus qu'humain
+		- Rompt avec la dichotomie [[Nature - Culture]], le paysage se dessine et évolue, le principe plus qu'humain englobe plus de chose
+- Relationalité
+	- L'ensemble des processus qui se passent à travers la relation
+		- Par exemple un humain peut avoir une relation avec le plus qu'humain
+- Proche des nouvelles perspectives anthropologiques.
+	- Perspectivisme: pensée d'autre manière de voir la vie, le vivant, le sujet
+- [[Judith Butler]]
+- Concept: Ontologie
+	- Branche de la métaphysique qui s'articule autour de la question de l'existence, le devenir et le réalité de l'être
+- [[Isabelle Stengers]]

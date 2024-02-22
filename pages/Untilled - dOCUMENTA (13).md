@@ -1,0 +1,13 @@
+- [[Pierre Huyghe]] Untilled,2011 :Documenta De Kassel: œuvre Écosystémique : Qui prend lieux dans le composte du parc de la Documenta
+	- *Untilled* : Retourner le sol de ce parc pour orchestrer des agencements d’éléments
+- Dans le parc ont y trouve:
+	- Un banc de 2 mètres peinte en rouge en référence au travaille de Dominique Gonzalez Foerster: [*Park, a Plan for Escape (for Documenta 11)*](https://www.artnet.com/auctions/artists/dominique-gonzalez-foerster/park-a-plan-for-escape-for-documenta-11), 2002 https://images.artnet.com/aoa_lot_images/107237/dominique-gonzalez-foerster-park-a-plan-for-escape-for-documenta-11-prints-and-multiples.jpg
+	- Un réplica en sculpture du dessin de Max Weber de 1930 [*Reclining Nude*](https://thejewishmuseum.org/collection/20649-reclining-nude)  ![Max Weber, Reclining Nude, Woodcut or linoleum on paper, 1924](https://res.cloudinary.com/the-jewish-museum/image/fetch/q_auto,f_auto/v1/https%3A%2F%2Fthejm.netx.net%2Ffile%2Fasset%2F9579%2Fview%2F104136%2Fview_104136%3Ftoken%3D5d5cdc57-6399-40b5-afb0-93139921700e)
+	  id:: 659dd84c-4f84-4a04-96c4-12195d55575f
+	- Un des arbres planteé par [[Joseph Beuys]] lors de sa performance ((653e63b1-925e-43e6-a815-551ac22c526b)) Déracine par un eclair qui le frappa. Au pied de ce chêne il y déposera une fourmilière. Les fourmis permettront un process de / c'est a dire un acheminement éparse des graines par les fourmis[^1]
+	- En dialogue avec les abeilles présentent sur la tête de la statue [![Pierre Huyghe, Untilled (Liegender Frauenakt), 2012 | Esther Schipper] qui elles polonisent le jardin
+		- https://artlogic-res.cloudinary.com/w_1500,h_1500,c_limit,f_auto,fl_lossy,q_auto:best/artlogicstorage/estherschipper/images/view/4a59c10b82cfb1cb19dc6b57ebe63994d9ff2e9c.jpg
+- Le chien présent marque l'aspect de normalité des processus de déplacement du vivant. Comme si lui et l'ensemble des organismes qui se déplace agisse comme dans un continuum il n'y a pas de début fin il y a une continuum que l'on observe.
+	- Tout cela dans un process de devenir, les chiots, les têtards, les graines sont amenés à grandir
+- ## Footnotes
+	- [^1]:La **myrmécochorie** (de *myrméco-*, « fourmi » et *-chorie*, « se mouvoir ») est une zoochorie plus spécifiquement une **endozoochorie** correspondant à un mode de dispersion chez les myrmécochores qui sont des plantes du groupe des [Angiospermes](https://fr.wikipedia.org/wiki/Angiosperme) dont les **diaspores** sont recherchées et prises activement entre les mandibules des [fourmis](https://fr.wikipedia.org/wiki/Fourmi) .

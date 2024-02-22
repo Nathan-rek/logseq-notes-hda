@@ -1,0 +1,36 @@
+- Eco-féminisme: Mouvement qui émergé au cote du féminisme de la deuxième vague[^28] et du mouvement vert.
+- Françoise D'eaubonne: Précurseuse du mouvement éco-feministe en créant le terme éco-feminisme: *Le féminisme ou la mort*
+	- L’oppression des femmes est parallèle à la dégradation de la nature imposé par le développe humain.
+	- Les expériences vécues par les femmes et les minorités leur permettent de mieux comprendre l’impact du patriarcat sur l’environnement
+- Développe un cadre entre la dégradation de l’environnement et la subordination et l’oppression des femmes et des minorités.
+	- La monté des religions patriarcales
+		- Hiérarchie entre les sexes
+	- Le modèle matérialiste mécaniste de l’univers, issue de la révolution scientifique
+		- Spécialisation et cloisonnement des régime de savoirs
+	- Le capitalisme et son besoin intrinsèque d’exploitation
+		- Réduction subséquentes de toutes chose en de simples ressources à optimisées . La matière et morte et inerte et est donc utilisable
+- ## [[Ana Mendieta]]
+- Špela Petric: [*Comfronting Vegetable Otherness*](https://www.spelapetric.org/scotopoiesis), 2015 ![scotopoiesis_press_04.jpg](https://images.squarespace-cdn.com/content/v1/5aeca48a506fbe863b23a8b6/1525552300442-FEP7QGQK17Y9ULKP8HCH/scotopoiesis_press_04.jpg)
+	- Skotopeisesi
+		- L’artiste se met en face d’un terrain de cresson et imprime sa silhouettes en projetant son ombre pendant 12 heures, ce qui entraîne l'étiolement (blanchiment, blanchissement) des plantes.
+			- Premier tentative d’inter-cognition plante-humaine.
+	- [*Phytoteratology*](https://www.spelapetric.org/phytoteratology), 2016 ![Confronting Vegetal Otherness: Phytoteratology — Špela Petrič](https://images.squarespace-cdn.com/content/v1/5aeca48a506fbe863b23a8b6/1534189733741-1EUWR4JLBX43M635NE6J/MG_6180.jpg)
+		- L’artiste injecte à une graine une de ses hormones sexuel. L’embryon grandit avec l’information génétique de la plante et de l’artiste.
+			- L’artiste pro-créé entités végétales-humaines,via une conception in vitro et une modification hormonale
+- ## Le mouvement de la déeese.
+  id:: 65480be3-6cef-4cc6-b8cb-be5a0b8a1bae
+	- Constituer par des croyances spirituelles et ou des pratiques néopaïennes qui ont émergées en Amérique du Nord / Europe occidentale, Australie et en New Zealand.
+	- Pensée essentialiste
+		- L’essentialisme de genre est encore difficile à changer lorsque nous attribuons des qualités aux visages masculins et féminins du Divin. Il y a des problèmes lorsque nous essayons de déterminer ce qui définit et différencie le Divin Masculin et le Divin Féminin.
+			- La 4ème vague du féminisme remet en question les représentations du divin féminin et masculin
+- STARHAWK: [Spiral Dance](https://starhawk.org/writing/books/the-spiral-dance/)
+	- STARHAWK à développé la voie spirituelle Earth-Base spirituality. Dans le livre *Spiral Dance* elle ce concentre sur la réémergence moderne des religion adorait la déesse
+		- *Spiral Dance* est devenu aussi une performance participative
+		- La magie permet de crée comme art de modifier la conscience, la création comme formes de résistance
+		- Earth Base Spirituality /zotero
+- ## [[Maja Smerkar]]
+- ## [[Éco-Sex]]
+- *[^28]: La deuxième vague féministe est une période de lutte féministe qui commence à la fin des années 1960 et qui s'étend à travers le monde occidental. Alors que la première vague se concentrait surtout sur le droit de vote et les droits fondamentaux, la deuxième vague se focalise davantage sur la sexualité, la place de la femme dans la famille mais aussi les violences conjugales ou le viol.*
+- *[^29]: Pratique de magie qui traite des objets à travers la manipulation, héritage de magie africaine avec une magie locale*
+-
+-

@@ -1,0 +1,2 @@
+- Evolution culturelle scientifique et technologique qui conduit vers un chemin qui transforme la diversité culturelle et biologique en homogénéité
+	- Transgresse les limites du système terrestre et introduit des éléments toxiques qui dépassent l'expérience évolutive de tous les organismes

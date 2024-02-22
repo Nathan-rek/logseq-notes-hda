@@ -1,0 +1,7 @@
+- 1973 – délitement de l’œuvre d’art avènement de la modernité – ERG repose sur une ré-articulation entre pratique et théorie.
+	- Capable de comprendre les images qui nous entourent et leur outils
+	- Ajouter à cela une prise en compte du tissu social qui l’environne
+	- Thierry DE DUVE s’inscrit part du constate la fin du système des Beaux-Arts
+	- Fin d’un enseignement traditionnelle
+	- Question de la fonction de l’atelier - enseignement base sur une transversalité.
+		- Le nom de l’erg tend vers une utopie celle d’intégrer l’artiste dans la société – faire de l’école un lieu d’ouverture dans la pratique pour palier à la problématique moderne de vide idéologique technico-ésthetique
