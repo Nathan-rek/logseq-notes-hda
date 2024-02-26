@@ -1,8 +1,8 @@
-- Fred Forest: [*Madame Soleil au Musée Gailiera*]({{video https://vimeo.com/858231047}}), 1975
+- Fred Forest: [*Madame Soleil au Musée Gailiera*]({{video https://vimeo.com/858231047}}), 1975 ![](https://www.fredforest.org/book/images/actions/16_mme_soleil_1.jpg)
 	- Se considère comme le premier a utiliser les œuvres télématiques
 	- Propose un art sociologique
 		- Le collectif se ballade dans la ville et interroge les personnes dans la ville
-			- Fred Forest: [*promenade sociologique*](https://www.fredforest.org/book/html/fr/actions/09_fr.htm#text), 1973 Sao Paulo
+			- Fred Forest: [*promenade sociologique*](https://www.fredforest.org/book/html/fr/actions/09_fr.htm#text), 1973 Sao Paulo ![](https://www.fredforest.org/book/images/actions/09promenade_socio_a_brok.jpg)
 			- Propose des enquêtes sociologiques, l'art comme outil social  qui propose un tissu relationnelle
 			- Publie dans le journal un carré blanc
 				- Offre aux lecteur..ices un espace vierge ou chacun..e peut utiliser et remplir l'espace, il..elles peut ensuite renvoyer le journaux

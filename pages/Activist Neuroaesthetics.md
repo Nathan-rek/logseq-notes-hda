@@ -56,6 +56,7 @@
 					- Ces icônes servent de marqueurs d'idées et d'expériences et ne sont pas le reflet direct de choses spécifiques
 - ##### <a name="__refheading___toc31257_904435087"></a>Richard Serra et le cerveau : une formes inédite:
 - Richard Serra: [*Torqued Ellipses*](https://www.guggenheim.org/artwork/17143), 1996 ![Richard Serra | Torqued Ellipse | The Guggenheim Museums and Foundation](https://www.guggenheim.org/wp-content/uploads/2003/01/GBM2004.6_ph_web-1.jpg)
+  id:: 65dbc11e-d81d-4235-b504-481bf566988d
 	- Dans un siècle ou la matérialité et les icônes pesant de l’industrialisation prend le dessus sur le paysages visuelle. La présence des matériaux ( bois, acier, béton, goudron) n’as rien de magique
 		- La matérialité concrète - est passé de la connaissance primaire et de la crainte à la routine brutale
 	- Dans [*Torqued Ellipses*](https://www.guggenheim.org/artwork/17143) l’artiste travaille avec des plaques d’acier massives mais leur physique n’est pas le but. Les [*Torqued Ellipses*](https://www.guggenheim.org/artwork/17143) produisent une expérience de l’espace émergent.

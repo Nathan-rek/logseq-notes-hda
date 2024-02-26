@@ -8,7 +8,7 @@
 - ### [[Robert Rauschenberg]]
 - Les premiers *combine paintings* de 1954 usant collage, peinture, sculpture visent notamment à faire de l’art une expérience visuellement aussi diverse que le fait de déambuler le long d’une rue en ville
   id:: 65480be3-db0d-4b16-af81-2255a4ecd935
-	- [[Robert Rauschenberg]] :[*Minutiae*] ![](https://www.cineclubdecaen.com/cinepho/peint/rauschenberg/menusdetailsh450.jpg)(https://www.cineclubdecaen.com/peinture/peintres/rauschenberg/minutiae.htm)*, 1954*
+	- [[Robert Rauschenberg]] :[*Minutiae*](https://www.cineclubdecaen.com/peinture/peintres/rauschenberg/minutiae.htm) ![](https://www.cineclubdecaen.com/cinepho/peint/rauschenberg/menusdetailsh450.jpg)*, 1954*
 	  id:: 653fbfba-d80d-4fe7-bc0b-405e41804d57
 		-
 - ### [[Néo Dada-Organizers]]

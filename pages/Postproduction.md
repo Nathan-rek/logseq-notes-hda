@@ -1,0 +1,40 @@
+- Ecrit en 2002 par [[Nicolas Bourriaud]]
+- La culture comme scénario comment l'art reprogramme le monde contemporain
+- Le ré-emploie de forme ((65398c42-8c9d-442a-b162-6f249a183c3a)) ]) dans un régime de postproduction met à la mal production et consommation.
+	- Le matériaux brut n'est plus la base ce sont des matériaux déjà informées
+- Postprodcution prend le contre-pied de [[Esthétique Relationnelle]] il reprend  le point de départ de l'arrivé du réseaux numérique comme bouleversement paradigmatique mais contrairement a esthétique relationnelle il ne prend pas ce bouleversement comme engrais à de nouvelles pratiques relationnelles mais comment déchiffrer ce nouveaux paysage
+- ### Reprogrammer des oeuvres
+	- Mike Kelley, Paul McCarthy: *Fresh Acconci*, 1995 ![Mike Kelley, Paul McCarthy | Fresh Acconci | Whitney Museum of American Art](https://whitneymedia.org/assets/artwork/34267/2012_11_still.jpeg) font rejouer la performance de Vito Acconci par des mannequins
+	- [[Pierre Huyghe]] : [*Conical Intersect*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cEzLKe), 1997 ![Light Conical Intersect, Event, Paris - Centre Pompidou](https://www.centrepompidou.fr/media/picture/ca/b2/cab2ab8ba47d653b7b569b983bd83bc4/thumb_large.jpg) : projette un film de Gordon Matta-clark sur les lieux de tournage de se film
+- ### Habiter des styles
+	- [[Felix Gonzalez-Torres]] utilise le vocabulaire de l'art [[Minimalisme]] en les recodant par ses propres intérêts politiques ((65d3770e-1a25-4ab3-8402-a7762f5b422d))
+	- Maurizio Catellan: [*Sans Titre*](https://www.artnet.com/artists/maurizio-cattelan/sans-titre-zorro-1997-vIIcZACXAzy5OlsWNQ73jg2), 1997 ![SANS TITRE ZORRO, 1997 by Maurizio Cattelan on artnet](https://www.artnet.com/WebServices/images/ll00073lldZkVJFgp2qCfDrCWvaHBOcE2UF/maurizio-cattelan-sans-titre-(zorro),-1997.jpg)
+		- repeint le Z de Zoro mais dans le style de Lucio Fontana
+- ### Usage de l'image
+	- Angela Bulloch redouble le film Solaris de Tarkovsky
+	- Douglas Gordon: [*24 hours Psycho*](https://en.wikipedia.org/wiki/24_Hour_Psycho), 1997 ![Douglas Gordon | Gagosian Quarterly](https://gagosian.com/media/images/quarterly/douglas-gordon/PpFOU8husBGl_585x1170.jpg)
+		- Ralenti le film de Hitchkok pour qu'il fasse 24 heures
+- ### La société comme répertoire de Formes
+	- Michel Majerus emploi la technique du sampling à travers ses compostions picturales
+		- Michel Majerus: [*overdose*](https://matthewmarks.com/exhibitions/michel-majerus-11-2015/lightbox/works/overdose-1997-39129), 1997 ![Michel Majerus at Matthew Marks, Los Angeles](https://www.we-heart.com/upload-images/michelmajerusmarksgallery1.jpg)
+		  id:: 65dce04f-2fed-43cc-b434-2406a1794ef1
+	- Daniel Pflumm, [*IKEA*](https://greenenaftaligallery.com/artists/daniel-pflumm), 1999 ![](https://gngallery.nyc3.cdn.digitaloceanspaces.com/media/DP1.jpeg)
+		- lui en fait le matériaux de ses sculptures
+- ### Investir les médias et la mode
+	- Vanessa Beecroft croise la perfomance et le shooting photo de la mode
+		- Vanessa Beecroft: [*VB16*](https://www.sothebys.com/en/buy/auction/2022/contemporary-discoveries-9/vb-16-performance-detail-deitch-projects-new-york) ![](https://www.artwiki.fr/wp-content/uploads/2023/02/VB16_VANESSA_BEECROFT_WP.jpg.webp)
+- Tout ces pratiques ont recoure à des formes déja produites
+	- L'œuvre s'inscrit directement dans un réseau de signe et quitte son autonomie
+	- L'oeuvre doit s'initier du milieu ce n'est plus " *que faire de nouveau ?* " mais " *que faire avec ?* "
+		- Créer de la singularité
+- *" Tout œuvres est issue d'un scenario que l'artiste projette sur la culture, considérée comme le cadre d'un récit - qui projette a son tour de nouveaux scénario possible "*
+- Le sens peut être celui de l'usage qu'on en fait  autant que celui de l'artiste
+	- Un communisme formelle
+- Le [[Ready-made]] aurait comme vertu de mettre à égalité choisir et fabriquer, consommer et produire
+- Dans les années 60 le regard sur la consommation est diffèrent [[Andy Warhol]] s'intéresse a ce qui pousse à l'achat, à l'avant et les nouveaux réalistes comme [[Daniel Spoerri]] s'intéresse aux reliques de la consommation
+	- L'idée est d'en dégager une matière iconographique
+	- Ces thématiques évolueront vers les [[Simulationisme]]
+		- [[Jeff Koons]] est convecteur de désire il prend le rôle du marqueteur et crée l'objet du désire en le situant dans des dispostif qui lui ajoute cette valeurs
+			- ((653ee431-a669-4d87-99a6-fc6d40151326))
+		-
+	-

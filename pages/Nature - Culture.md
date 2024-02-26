@@ -6,9 +6,9 @@
 	- Bruno LATOUR / [[Isabelle Stengers]]: pensée de type: post-humaniste / Écosystémique ( ou l’humanité n’as pas de prépondérance )
 - ### Rapport Nature / Culture interroger
 - [[Ana Mendieta]] : artiste d’origine cubaine: trajectoire acculturation > tend un environnement culture de base (cubaine) vers un autre environnement (New York)
-	- Vers une inflexion du Land Art: intrusion dans l’espace naturel à des fins artistiques [Figure 251: Ana Mendieta : Silueta Serie, 1973 – 1980 ] > Charrie un système de domination de l’humain..e sur la Nature
-	- A l’inverse de ces modalités d’actions elle tente de mettre en place une conception matricielle: Laisse la marque de son cours à travers de moyens naturelles > Métamorphose entre le geste culturelle humain..es et le geste naturelle
-	- Système symbolique de représentation de l’homme
+	- Vers une inflexion du Land Art: intrusion dans l’espace naturel à des fins artistiques ((65d3770b-3fc2-421c-924c-2827dbeada7c)) > Charrie un système de domination de l’humain..e sur la Nature
+	- A l’inverse de ces modalités d’actions elle tente de mettre en place une conception matricielle: Laisse la marque de son corps à travers des moyens naturelles > Métamorphose entre le geste culturelle humain..es et le geste naturelle
+	- Système symbolique de représentation de l’humain
 - [[Aby Warbug]] : [*Le rituel du serpent*](https://journals.openedition.org/critiquedart/1844) :texte de conférence > Suite à un séjour à l’hôpital psychiatrique > On attend que Aby témoignage de la maîtrise de ses capacités intellectuelles:
 	- Interroge précisément cette dialectique nature culture: La schizophrénie viendrait de cette dialectique créant des traumas psychiques de nature variable
 	- En ce remémorant un voyage avec une culture ( ) ou tout une série de rituel opèrent des rencontres entre des motifs culturelles et naturels
@@ -21,22 +21,22 @@
 	- Le Denkraum: espace de pensée propre au sociétés primitives: qui situe et met en relation des instances agissantes dans des écosystèmes > Crée un espace de pensée ou les éléments sont liés tout en gardant leur distance et dispose de leurs propre intégrité mais constitue un système constellaire un espace de pensé > un Denkraum
 	  id:: 65403432-19d7-4e92-958b-af7bddb98bc2
 		- La modernité supprime ce Denkraum: Le telegram et le téléphone supprime cette distance et les relations
-- Paul Cézanne : artiste post-impressionniste > Renoncer à la scène artistique parisienne et se déplace en province >
-	- système des sensations organisées > renoncer à un dispositif artistique habituelle > apparence chromatique définit par un appareillage technique construit
-		- met en place sont propre appareillage formel > basée sur un rapport de double écoute > rendre l’impressionnisme durable
+- Paul Cézanne : artiste post-impressionniste il renonce à la scène artistique parisienne et se déplace en province
+	- Système des sensations organisées, renonce à un dispositif artistique habituelle, apparence chromatique définit par un appareillage technique construit
+		- Met en place sont propre appareillage formel basée sur un rapport de double écoute, rendre l’ [[Impressionisme]]  durable
 			- écoute de soi
 			- écoute d’un environnement personnelle
 		- Durabilité en opposition à la modernité > Position de retrait (Aix-en-Provence) qui permet de se situer face à un environnent > Il ne renonce pas la technologie de la modernité mais se repositionne
 		- La modulation chromatique permet de moduler la sensation de l’artiste en son environnement > En modulant les tons et les valeurs de couleur il opère une modulation chromatique pour restituer la sensation éprouvé face au motif naturelle
 		- Retranscrire le parcours de Cézanne dans Aix > inscrire un pratique dans environnement concret
-- GAUGUIN: fuit la conception de la modernité et approche d’autre environnement culturelle:
+- GAUGUIN: fuit la conception de la [[Modernité]] et approche d’autre environnement culturelle:
 	- Déplacement en Polynésie française:
-		- Exotisme: Fantasme qu’en ce mettant en contacte avec d’autre culture on fuit la modernité
+		- Exotisme: Fantasme qu’en ce mettant en contacte avec d’autres cultures on fuit la [[Modernité]]
 - Anarchisme: Élisée RECLUS: [*Pourquoi sommes-nous anarchiste ?*](https://fr.wikisource.org/wiki/Pourquoi_sommes-nous_anarchistes_%3F) La géographie sociale:
 	- Analyse les interactions nature culture:
 		- La nature humaine est une être qui se définit dans sa manière de se relationner avec son environnent >Analyse du corps social dans un environnement naturel complexe
 	- Mise à mal des formes d’autorités / d’assujettissement qui empêche l’émancipation des individus
-	- Tout révolution social est le fruit de longue effort > La violence vient accéléré une transformations sociale > Lutte qui agit en pratique > Système de responsabilité horizontal
+	- Toutes révolution social est le fruit de long effort > La violence vient accéléré une transformations sociale > Lutte qui agit en pratique > Système de responsabilité horizontal
 	- Le motif de la nature:
 		- Apporte une attention à soi:
 			- être responsable et donner à un être un développement naturel qui serait régit par des régimes artificielles construit

@@ -23,7 +23,7 @@
 	- Reconstitue dans l'espace de l'art des lieux ordinaires , comme une pharmacie, une agence de voyage
 	- Echelle 1x1: un..e artiste copie le réelle en gardant son échelle, il n'y a plus de différence entre une forme inhérente à la vie et une reconstituions dépeinte dans le [[Monde de l'art]]
 - Cyprien Gaillaird: [*Recovery of discovery*](https://publicdelivery.org/cyprien-gaillard-recovery-of-discovery-kw-institute-for-contemporary-art-berlin/), 2011 ![Cyprien Gaillard – Recovery of discovery, 2011, KW Institute for Contemporary Art, Berlin](https://publicdelivery.org/wp-content/uploads/2011/12/Cyprien-Gaillard-%E2%80%93-Recovery-of-discovery-2011-KW-Institute-for-Contemporary-Art-Berlin-800x533.jpg)
-	- Constitue une pyramide de pack de bière qui le soir du vernissage est pris d'assaut par le public et laisse dernier un champ de ruines
+	- Constitue une pyramide de pack de bière qui le soir du vernissage est pris d'assaut par le public et laisse derrière un champ de ruines
 	- Questionne l'expropriation des produits culturelles de culture occidentale
 - ## Reproche
 - Vision angélique des pratiques
@@ -119,7 +119,7 @@
 		- L'œuvre se voue d'embler à cette espace de l'échange
 - L'esthétique relationnelle n'a pas de style autre que de partager un horizon pratique et théorique celui de la sphère des rapport interhumains.
 	- Les œuvres mettent en jeu les modes d'échange sociaux, l'interactivité avec le..a regardeur..euse à l'intérieur de l'expérience esthétique qu'il..elle se voit proposer.
-	- Si les prédécesseur..euse de l'art (Jeff Koons, Richard Prince...) mettaient en avant l'aspect visuel des médias leurs successeur..euse privilégient le contact et la tactilité.
+	- Si les prédécesseur..euse de l'art ([[Jeff Koons]], Richard Prince...) mettaient en avant l'aspect visuel des médias leurs successeur..euse privilégient le contact et la tactilité.
 		- Privilégie l'immédiateté dans leur écriture plastique.
 	- L'esthétique relationnelle ne s'inscrit dans aucun autre mouvement passé. Il n'est pas le revival de quelque chose.
 		- La nouveauté n'est pas dans l'approche de notion comme le lien sociale mais prend pour point de départ l'intersubjectivité et l'interaction

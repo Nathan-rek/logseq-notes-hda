@@ -31,6 +31,7 @@
 	- Man RAY: Champs Délicieux photogramme, 1922 ![Champs délicieux 8ème rayographie - Centre Pompidou](https://www.centrepompidou.fr/media/picture/3a/3d/3a3d7231d70815f4f4ac68159e18cec6/thumb_large.jpg)
 - Laisser l’inconscient s’exprimer:
 	- BRASSAÏ: Sculpture involontaire,
+	  id:: 653fa123-4d66-469d-b4f1-1c196486bf3f
 		- De son titre entier: Sculpture involontaire: enroulement élémentaire, obtenu chez un 'débile mental'  qui marque le coté in-voulu et automatique du mouvement de roulement qu’il opère avec ces petits papier avant d’en faire œuvres
 	- ((653fa024-7e99-4ff5-9b88-6f1be3b791ad))
 - Face à la guerre:

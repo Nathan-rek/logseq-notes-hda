@@ -132,6 +132,6 @@
 	- Le tableau a représente le commerce dans sa gloire et dans sa honte. L’artiste peut signifier que l’ouvre est elle même une valeur commercial.
 		- Quentin METSYS: [*Le prêteur et sa femme*](https://fr.wikipedia.org/wiki/Le_Prêteur_et_sa_Femme), 1514 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Massysm_Quentin_%E2%80%94_The_Moneylender_and_his_Wife_%E2%80%94_1514.jpg/260px-Massysm_Quentin_%E2%80%94_The_Moneylender_and_his_Wife_%E2%80%94_1514.jpg)
 			- L’homme compte l’argent et la femme lit la bible
-		- Marcel DUCHAMP: [*Obligation pour la roulette de Monte-Carlo*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cy9Epa), 1924 ![Obligations pour la roulette de Monte-Carlo (André Breton)](https://www.andrebreton.fr/fr/file/205494/raw/HR_56600100131600_1_watermarked.jpg){:height 628, :width 450}
+		- [[Marcel Duchamp]] : [*Obligation pour la roulette de Monte-Carlo*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cy9Epa), 1924 ![Obligations pour la roulette de Monte-Carlo (André Breton)](https://www.andrebreton.fr/fr/file/205494/raw/HR_56600100131600_1_watermarked.jpg){:height 628, :width 450}
 			- L’œuvre contre remboursement
 		- ((653ee4ad-af06-4696-8059-17db07a4c36a))

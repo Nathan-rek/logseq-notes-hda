@@ -18,3 +18,4 @@
 	- Tableau compartimentés dans laquelle il inscrit des formes
 	- En opposition à [*Groupemement*](https://www.wikiart.org/en/wassily-kandinsky/grouping-1937), 1937 ![Grouping, 1937 - Wassily Kandinsky](https://uploads2.wikiart.org/images/wassily-kandinsky/grouping-1937.jpg!Large.jpg)
 		- Composition très fluide, formes molle et cursive
+-

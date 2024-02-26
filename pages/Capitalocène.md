@@ -4,3 +4,4 @@
 		- Prend en compte les divisions socio-économique tout au long de l'historie de l'humanité qui ont fait
 - ## Inclusions - Esthétique du Capitalocène
 -
+-

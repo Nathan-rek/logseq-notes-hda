@@ -1,10 +1,10 @@
 - Catégorie de Signe : Un signe qui dépasse l’origine du signe :
-      • Signe Original 
-      • Signe copie
-      • Signe simulacre > Accélération des simulacre ( du au monde contemporaine )  : Réseaux de simulacre qui nous empêche d’être en contacte avec une réalité existante originale > 
-      • Culture de la virtualité: culture publicitaire, informatique :
-          ◦ Bret Easton ELLIS: American Psycho: Basé sur un contexte entrepreneurial d’une entreprise qui gère de fond pour faire fructifier de l’argent début de rapport à la virtualité. 
-              ▪ Psychose qui née entre les contrainte pulsionnelle et sociétale
-          ◦ REAGAN président américain: Le gouvernement n’est pas la solution c’est le problème: Politique de l’historie américaine caractérisé par la mise en place d’un doctrine économique ultra libérale
-- # [[Simulationisme]]
+	- Signe Original
+	- Signe copie
+	- Signe simulacre > Accélération des simulacres ( du au monde contemporaine )  : Réseaux de simulacre qui nous empêche d’être en contacte avec une réalité existante originale >
+		- Culture de la virtualité: culture publicitaire, informatique :
+			- Bret Easton ELLIS: American Psycho: Basé sur un contexte entrepreneurial d’une entreprise qui gère de fond pour faire fructifier de l’argent début de rapport à la virtualité.
+				- Psychose qui née entre les contrainte pulsionnelle et sociétale
+		- REAGAN président américain: Le gouvernement n’est pas la solution c’est le problème: Politique de l’historie américaine caractérisé par la mise en place d’un doctrine économique ultra libérale
+- ### [[Simulationisme]]
 -

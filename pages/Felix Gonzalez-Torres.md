@@ -11,6 +11,7 @@
 				- Felix Gonzalez-Torres: [*"Untitled" (March 5th) #1, 1991*](https://www.felixgonzalez-torresfoundation.org/works/untitled-march-5th-1) ![Untitled" (March 5th) #1 - Works - Felix Gonzalez-Torres Foundation](https://www.felixgonzalez-torresfoundation.org/custom/media/cache/resolve/1010x580_fit/5b844b306aa72cea5f8b4567/2ac37c66ea382f68a7ebd15c3f8ea36a.jpeg)
 		- La connaissance de l'autre (portrait)
 			- Felix Gonzales-Torres: [*"Untitled" (Double Portrait), 1991*](https://www.tate.org.uk/art/artworks/gonzalez-torres-untitled-double-portrait-t13309) ![Untitled” (Double Portrait)', Felix Gonzalez-Torres, 1991 | Tate](https://media.tate.org.uk/art/images/work/T/T13/T13309_10.jpg)
+			  id:: 65d3770e-1a25-4ab3-8402-a7762f5b422d
 		- La vie en commun
 			- Felix Gonzalez-Torres: [*"Untitled" (March 5th) #2, 1991*](https://www.felixgonzalez-torresfoundation.org/works/untitled-march-5th-2) ![Untitled" (March 5th) #2 - Works - Felix Gonzalez-Torres Foundation](https://www.felixgonzalez-torresfoundation.org/custom/media/cache/resolve/1010x580_fit/5b844b306aa72cea5f8b4567/82ed2672b00b7dcd9ef17107b9121b32.jpeg)
 		- L'absence

@@ -1,0 +1,15 @@
+- Après l' [[Eco-Féminisme]] qui se mélange avec l'environnement le féminisme se mélange avec la technologies
+	- Va évoluer vers le [[Techno-féminisme]]
+- Pense la façon dont le patriarcat avec la technologies pense le corps féminin
+	- Critique la non-participation des femmes dans les discussion liée au technologies
+	- Souligne la nature masculine de la technoscience
+- Donna Haraway
+	- [*Cyborg Manifesto : Science, Tehcnology and Socialist-Feminist in the Late Twentieth Century*](https://www.sfu.ca/~decaste/OISE/page2/files/HarawayCyborg.pdf)
+		- L'informatique de la domination
+			- Les technologies se base sur un principe binaire
+				- Le sujet qui à le pouvoir et l'objet soumis à celui-ci
+			- Féministe qui dit qu'il faut sortir de l'essentialisme de responsabilité de reproduction
+		- Les cyborgs pour Haraway sont des individus androgènes qui dépasse la biologies, individu non sexuées et donc post-binaire
+			- Ne s'identifie pas a une origine il peut se lier à plusieurs choses
+- Cyborg
+	- Figure central de la science-fiction qui décrit un être humain moitié organique moitié cybernétique dont les fonction physiologiste sont améliorés par des modification biochimiques et électroniques

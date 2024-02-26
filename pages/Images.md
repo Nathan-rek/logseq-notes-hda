@@ -12,7 +12,7 @@
 		- dont le dispositif de deux écrans face à face suggère une caverne médiatisé d’où il n’y a pas de sortie > Une image renvoie à une autre et non à une réalité extérieur
 	- Mark LECKEY, 2004 [*Made in Eaven*](https://www.moma.org/collection/works/111013)de  ![Mark Leckey. Made in 'Eaven. 2004 | MoMA](https://www.moma.org/media/W1siZiIsIjEzNDcyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=38a1ee80de208c0b)
 		- produit une abîme perceptuel similaire dans laquelle la perception apparente de la profondeur optique est résorber par la surface de l’image de par son matériaux
-		- Une réplique de Jeff Koons [*Rabbit*](https://www.thebroad.org/art/jeff-koons/rabbit),  1986 ![Image Currently Unavailable](https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/koons_rabbit_2.jpg.webp?itok=_RaQdJ1m)
+		- Une réplique de [[Jeff Koons]]  [*Rabbit*](https://www.thebroad.org/art/jeff-koons/rabbit),  1986 ![Image Currently Unavailable](https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/koons_rabbit_2.jpg.webp?itok=_RaQdJ1m)
 			- Il utilise la réflexion que permet l’œuvre pour représenter son studio
 			- Dans le reflet on ne voit pas de camera la vidéo est produite numériquement bien que diffusé sous forme de film 16mm
 - Cette réflexion sur l’image passe notamment par sa diffusion, l’exposition commence donc sur l’un des principes de la diffusion de l’image la réglementation du droit d’auteur

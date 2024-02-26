@@ -30,7 +30,6 @@ L’art minimal se développe dans les années 1960 au état-unis, conteste les 
 	- L’artiste Robert RYMAN a questionné beaucoup l’interaction du blanc en les confrontant à lui-même.
 		- Robert RYMAN: [*Four Aquatints and One Etching: one print*](https://www.artnet.fr/artistes/robert-ryman/four-aquatints-and-one-etching-one-print-xPw1yzwygPtfgZ0K0UvDOQ2), 1991 https://www.artnet.fr/WebServices/images/ll00074lldFJ3JFgUNECfDrCWvaHBOcXRmG/robert-ryman-four-aquatints-and-one-etching:-one-print.jpg
 			- L’œuvre est une double surface. Dans ce dépassement de la peinture moderniste le peintre veut venir hybrider le medium de la peinture et le démantelant de sa structure d’objets
-			-
 - ### Sculptures
 - Les sculpteur..ices minimalistes utilisent des structures élémentaires et simple
 	- Le choix des volumes géométriques simples sont à appréhender immédiatement pour ce qu'ils sont (sans artifice)

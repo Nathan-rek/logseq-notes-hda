@@ -1,0 +1,4 @@
+- [Saša Spačal](https://www.agapea.si/en/about) artiste à l'intersection entre les systèmes vivants
+- Saša Spačal: [*My connect*](https://www.agapea.si/en/projects/myconnect) 2013 ![Myconnect – Agapea Saša Spačal](https://www.agapea.si/wp-content/uploads/2015/05/S3D3092-WB2.jpg)
+	- Synchronise les rythmes cardiaque entre un champignon et un corp
+		- Symbiose par des liaisons rhizomatiques

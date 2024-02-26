@@ -1,6 +1,7 @@
 - Envoyée au État-Unis par ses parents, elle participent à l’émergence du Body Art, se met en relation avec la terre de façon symbolique
 - Lors d’une exposition au Jeu de Paume: Covered in Time and History
 	- Ana Mendieta: [*Silueta Serie*](https://www.guggenheim.org/artwork/5221), 1973 – 1980
+	  id:: 65d3770b-3fc2-421c-924c-2827dbeada7c
 		- Utilisation de son corps nu pour créer des silhouettes féminines
 			- Dialogue entre son corps et le paysage autour de la présence et de l’absence
 		- Aspect de la Santeria Cubaine[^29]
