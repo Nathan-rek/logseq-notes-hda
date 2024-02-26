@@ -26,6 +26,6 @@
 		- L'un des points qui a faillit c'est le faite que le discours scientifique se justifie par son performativité
 		- Le champ lexicale utiliser pour parler de la société a évoluer il est passez d'un champ lexicale biologique a cybernétique ou informatique ( on ne parle plus de corps mais de système)
 	- La légitimation c'est souvent fait par des discours narratifs
-- ## [[Les Immatériaux]]
+- ## [[Les Immatériaux 1985]]
 -
 -

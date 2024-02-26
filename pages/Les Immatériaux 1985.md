@@ -105,7 +105,7 @@
 		- L’ombre présente in situ sur le lieu de l’œuvre
 - Espace réciproque
 	- Pour expliquer les propriétés de la matière, il faut les transcrire dans un espace différent, qui se réduit au moyen d’une relation mathématique: sorte d’anamorphose matérielle, c’est l’espace réciproque
-		- Stephen Benton: Crystal beginning, 1977 ![MIT Museum](https://webmuseum.mit.edu/mxgis/?kv=9236&style=detail)
+		- Stephen Benton: Crystal beginning, 1977 ![MIT Museum](https://webmuseum.mit.edu/mxgis/?kv=9236&style=detail){:height 237, :width 229}
 - Lumière dérobée
 	- Problème du peintre: comment éclairer son sujet (la «matière» à laquelle le tableau se réfère ) alors qu’il dispose de la seul couleur chimique ? Solution: faire de la lumière à la fois le sujet (la matière) du tableau et le moyen de le peindre.
 		- Simone Martini: Annonciations, 1333 ![Annonciation entre les saints Ansan et Marguerite — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/d/d8/Galer%C3%ADa_Uffizi%2C_Florencia%2C_Italia%2C_2022-09-18%2C_DD_26.jpg)
