@@ -28,7 +28,7 @@
 		- Suite à un accident se met en posture de retrait et se met à sculpter le bois la pierre et la roche elle même à front de mer
 	- Le palais idéal du Facteur Cheval ![Drôme : que voir autour du palais idéal du facteur Cheval](https://lecaillouauxhiboux.fr/uploads/articles/hauterive/palais-ideal-du-facteur-cheval.jpg)
 		- Suite à un trébuchement sur un pierre qu'il considère de pierre d'abouchement
-			- Pré-art dans la capacité à reconnaitre une silhouette dans la nature
+			- Pré-art: dans la capacité à reconnaitre une silhouette dans la nature
 		- Le temple prend une forme éclectique intrigante
 		- Fabrication d'un tombeau, une [[Hétérotopie]] éternelle
 	- Huang Yung-Fu: *Rainbow Village*, Taiwan ![Village Arc en Ciel de Huang Yung Fu - NetKulture](https://www.netkulture.fr/data/images/2022/02/rainbow_village2.jpg)
@@ -43,3 +43,4 @@
 - Mingering Mike
 	- Dessinée des vinyles cartonnées dessinées au marquer
 		- Avec à l'intérieur des disques en cartons
+-

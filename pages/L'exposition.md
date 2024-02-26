@@ -1,0 +1,20 @@
+- Volume – espace - exposition
+- Cabinet de curiosité: conséquence du musées, dispositif d’exposition nouveaux. Nature et culture se mêle ensemble, jeux d’association qui laisse place à la sensibilité de l’image
+- Musée opère des spoliations d’œuvres d’autre pays, autorisation de représente la culture de l’humanité. Le muséum français regorge d’œuvre pilier dans des églises des gîtes d’autre pays. C’est technique de spoliations vont s’encrer dans la culture et vont engendrer pendant la colonisations.
+- La sculpture moderne essaie de mettre à mal l’esthétique de la sculpture classique , le socle incarne cette autonomisation perspective du volume dans l’espace.
+- Les sculpteurs modernes mettent à mal cette automatisation:
+- ### Sculpture et exposition
+- RODIN, [*Le Balzhac*](https://www.musee-rodin.fr/ressources/focus-sur-oeuvre/balzac): le pied de la sculpture sort du socle, il interfère avec l’espace.
+	- Début d’une relation entre photographie et sculpture avec RODIN – début compliqué mais qui petit a petit prendre vie notamment avec l’exposition des photographies de Eugène DRUET lors de l’exposition de Rodin. Il vient a dégager une affinité technico-esthetique.
+- BRANCUSI: [*l’oiseau dans l’espace*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cbLy4oX): irradie l’espace de lumière, ouvre l’interaction entre l’espace et le volume, intégrer l’espace négatif comme une matrice positif.
+	- Une manière d’agir qu’il expérimentera avec la photo allant à utiliser tout les aspects de la photo (sur-impression-sur-exposition etc…) Démarche expérimental qui porte notamment sur la conception et la relation positif négatif dans la photo et dans la sculpture
+- GIACOMETTI: sculpteur surréaliste, il présente son œuvre à travers un texte illustré d’une photo de Man RAY, dans son atelier , il élimine le socle.
+	- L’académie de la grandes chaumière: une série de cours de dessin organisés par BOURDELLE ( pense l’organisation du corps dans une relation entre l’énergie interne du cors et ce qui est au-delà, l’espace ), les dessins de GIACOMETTI durant les cours sont gardés et enregistrés.
+	- La photo permet de mettre en valeur
+	- Le surréalisme est séparé entre André BRETON avec les notions de l’écriture automatique le rapport à l’inconscient etc... Et d’autre par la frange George BATAILLE qui s’axe autour de Revue Document notions de bas dialectique des écarts une tension entre un registre verticale rationnel et un registre pulsionnelle horizontal vers le bas. La Revue Document active les principes dialectiques des écarts entre raison et pulsion. C’est cette tension verticale qui élimine le socle et vient offrir une vision horizontal de la forme dans l’espace.
+	- Les dispositions des éléments de sculpture remettent en question le medium de la sculpture.
+	- Un processus d’ébauche de la sculpture un processus qui se rapproche de l’écriture automatique pratique par les surréaliste. La ou la sculpture est habiter a un travail proche d’une anamnèse avec un retour sur image permanent
+- MERZBAU est un principe d’exposition qui est en évolution constante
+- [[Marcel Duchamp]] : exposition qui ne mette pas en place les conditions pour exposer, permet de faire l’exposition un espace, en voyant moins on crée un désir de voir,
+	- Pour l’exposition *1000 papers* , il vient à étendre des cordes qui empêche de rentre en contact de manière direct avec l’œuvre. Ou encore demande a des enfant de faire du bruit. Il s’agit de mettre en tension le rapport de visibilité et le désir.
+-

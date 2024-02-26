@@ -1,0 +1,12 @@
+- La condition post-media. Un considération qui dépasse les mediums habituelles classique (peinture, sculpture).
+- L’usage des technologies comme medium post media
+	- Random International: [*Rain Room*](https://www.moma.org/calendar/exhibitions/1352), 2013
+		- Cette œuvre permet au utilisateur de marcher sans se mouiller dans un couloir de pluie passant d’une expérience passive a participatif. Un exemple de condition post-media
+	- Olafur ELIASSON: [*Your view matter*](https://www.yourviewmatter.art/), 2022
+		- En fonction du déplacement des utilisateur..ices le paysage et invite à leurs déplacement. L’œuvre existe dans l’interaction des visiteur..ices.
+	- Casy REAS: [*A Mathematical theory of cummunication*](https://landmarks.utexas.edu/artwork/mathematical-theory-communication#:~:text=A%20Mathematical%20Theory%20of%20Communication%20blends%20conceptual%20art%20and%20information,), 2014
+	- Rafael LOZANO-HEMMER: [*Pulse Topology*](https://www.lozano-hemmer.com/pulse_topology.php), 2021
+		- Des ampoules suspendus qui crée des valet à travers des capteurs de pulsation cardiaque et les enregistrements de pulsation interfère sur la position des ampoules
+	- Matthew BARNEY: [*Cremaster*](https://fr.wikipedia.org/wiki/Cremaster_\(série_de_films\)), 1994-2003
+		- Série d’œuvres qui intègrent une variété de mediums qui reflète la conditions post-media qui s’estompe dans les pratiques contemporaines.
+		- Le terme cremaster est une référence anatomique qui fait référencer au muscle qui se situe dans le scrotum et qui gère la monté et la descente des testicules.

@@ -22,6 +22,7 @@
 	- Ce n'est plus la formes qui compte mais c'est plutôt la démarche qui compte
 	- Une des premières expositions qui donne à voir des artistes conceptuelles [[Art Conceptuel]] et des pratiques d'art contemporain
 - Le monde de l'art - Phénomène Sociologique : Howard Becker: Les mondes de l'art
+  id:: 65d3770f-5fc6-43ff-89ba-8915f6763dd5
 	- S'intéresse aux mondes de l'art comme monde socio-professionnelle
 	- *Le monde de l'art comme un réseaux de coopération au sein duquel les mêmes personne coopèrent de manière régulière er qui relie donc les participants selon un ordre établi. Un monde de l'art est fait de l'activité même de toutes ces personnes qui coopèrent*
 	- Le monde de l'art partage des présupposés commun: des conventions
@@ -38,7 +39,7 @@
 	- Un paradigme est une réponse que l'on se fait propre à un milieux
 		- Le discours est le commentaire deviennent important dans l'art contemporains. Les démarches sont appréhendable d'un point de vue intellectuel est nécessité donc une médiation
 - Richard Venlet: [*Cit.Cit.2 Platforme & Treasury*](https://www.etablissementdenface.com/in-the-past/richard-venlet-cit-cit-2-platform-treasury), 2005 ![RICHARD VENLET CIT.CIT. 2 PLATFORM & TREASURY ETABLISSEMENT D'EN FACE](https://www.etablissementdenface.com/wp-content/uploads/2005/09/CIT2d-810x1080.jpg)
-	- Questionne la mise en espace du lieux d'exposition et propose plus des œuvre comme display et investi les pratiques curatorials
+	- Questionne la mise en espace du lieux d'exposition et propose plus des œuvres comme display et investi les pratiques curatorials
 - [[Critique institutionnelle]]
 - [[L'artiste théoricien..ne]]
 -

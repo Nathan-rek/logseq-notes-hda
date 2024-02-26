@@ -1,0 +1,38 @@
+- Dispersion de [[Seth Price]] est une œuvre d'art sous la forme d'un essai historique de l'art. Conformément à cet accent mis sur la distribution, l'œuvre a été publiée dans divers formats et versions au fil des années, notamment des pages sur le site Web de PRICE, des PDF largement diffusés, des publications imprimées et des objets sculpturaux. Même s'il était profondément engagé sur Internet, Dispersion s'adressait spécifiquement au système de l'art contemporain et posait les bases du passage de PRICE au travail en galerie avec une exposition au Reena Spaulings Fine Art à New York en 2004.
+- Pour commencer il cite l’artiste belge Marcel BROODTHAERS: «*La définition de l’activité artistique se situe d’abord dans le domaine de la diffusion*»
+- [[Art Conceptuel]] s’est revendiquer de nouveaux territoires.
+	- Cette tendance à fait qu’en 2002 la plupart des œuvres d’arts se positionne dans une certaine mesure comme conceptuelles
+		- Le termes peut contenir une charge évidente pour les artistes. Les préoccupations de ce que l’on peut appeler le moment conceptuelle classique.
+			- Moment qui comprenait la linguistique, la philosophie analytique et une poursuite de la dématérialisation formelle.
+	- Ce qui semble vrai pour le conceptualisme normatif c’est que le projet reste «incomplet»
+		- il ne s’oppose pas nécessairement aux objet de l’art, ni au langage en tant qu’art ; Il n’as pas besoin de s’opposer à l’art rétiniens, il ne représente rien de certain, privilégiant plutôt le contexte, et renégocie sa relation avec son public
+		- Martha ROSLER[^66] évoque une approche « comme-ci », le travail conceptuel se dissimule dans d’autre disciplines, la philosophie notamment.
+	- Le projet conceptuelle est vu comme une série de faux départ et de chemins qui s’essoufflent.
+		- Par exemple l’échec de [[Marcel Duchamp]] à vendre ses jouets optiques [*Rotor-relief*](https://www.cinematheque.fr/article/1586.html) https://www.cinematheque.fr/cache/media/articles/rotoreliefs-marcel-duchamp/cr,700,525-15c476.jpg
+			- lors d’une foire d’inventeur amateurs est exemplaire.
+			- L’image  de l’artiste comme inventeur amateur est valoriser par [[Seth Price]]
+	- Pour [[Seth Price]]les artistes des 100 derniers années souffre du traumatisme contextuelle des nouvelles œuvres d’art.
+- Dan GRAHAM, évoque le fait que dans l’ère contemporaine l’œuvre d’art à nécessite d’être exposé et d’être photographié puis diffuser dans un magazine d’art pour être art.
+	- Comment sortir de ce système structuré
+		- L’expérience Rotor Relief de [[Marcel Duchamp]] met en garde les possibles échappatoires de ce système.
+		- Les œuvres survivent grâce à travers la documentation et le discours, orchestré par les institutions habituelles (magazine, galeries…).
+			- ((65480be3-75c7-477e-84b4-da63a78f3465)) est confronté à ce problème que l’œuvre doit dépendre d’un enregistrement de son intervention. C’est cette documentation qui est considéré comme art.
+			- Les critiques observent une méfiance quant à la documentation et à l’archivage de l’art
+- [[Seth Price]] pose le contexte de l’opposition des romantiques traditionnelles et des avant-gardes.
+	- La bourgeoisie existe dans les circuits de pouvoir et d’argent et en régule les flux culturelles.
+		- La culture national bourgeoise, dont l’art, est un élément basée sur les médias commerciaux.
+			- Les médias sont les arènes dans laquelle ont conçoit les œuvres en les positionnant par rapport au technologies au matériaux et leur distribution médiatique
+		- Les media distribuées peuvent être définis comme un circuit d’information social en théorie illimité que le marché commun supporte à travers le stock et la distribution
+- Dan GRAHAM: [*Figuratif*](https://renaissancesociety.org/exhibitions/314/dan-graham-selected-works/), 1965
+	- L’œuvre exprime et figure l’ensemble des coûts nécessaire pour faire une pub dans un magazine.
+		- Les mécanismes de marché de circulation, de distribution et de diffusion devient une parti crucial du travail.
+- Pour [[Seth Price]] l’utilisation des médias de masse comme moyen de communication générique est une utilisation qui dans les avant-gardes est ambigu. Le magazine [*ToiletPaper*](https://www.toiletpapermagazine.org/) de Maurizio CATELLAN est un exemple de ces relations ambiguës.
+	- CATTELAN utilise le magazine considéré comme artefact du marché de consommation pour y présenter un geste artistique qui s’en sépare
+- Dans le cas de l’art publique l’auteur y voit une expérience collective qui repose sur des expériences privées simultanées. Des expériences réparties dans le champ de la culture médiatique, liées entre elle par un débat, une publicité, une promotion.
+	- Il y compare un site web dont l’expérience est assez individuelle mais est simultané avec de nombreuses personnes peut être considéré comme une œuvre d’art public autant voir plus réussi qu’un monument niché sur une place urbaine.
+		- L’œuvre d’art public est une forme d’appréciation anachronique. Une appréciation communautaires
+			- Mais cette expérience communautaire est une approche de moins en moins viable.
+				- Il l’illustra avec ironie [ [[Seth Price]] : [*Puppy, after Jeff Koons*](https://zine.artcat.com/2009/04/index.html), 2002 https://zine.artcat.com/upload/2009/04/PricePup%20copy-thumb-300x242.jpg des chiots de Jeff KOONS qui semble utiliser le format d’art public pour y présenter des gestes ‘d’avant-garde’.
+		- A l’inverse par exemple l’album de musique qui utilise les mécanismes du capitalisme numérique de libre marché
+			- Ce système de distribution à permit et généralisé l’expérience et la consommation privé.
+				- Pour l’auteur la boucle sera bouclé mesure que les techniques de distribution numérique permettront une personnalisation croissante en fonction des consommateur..ices individuel

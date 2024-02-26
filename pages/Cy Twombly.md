@@ -46,7 +46,7 @@
 			- Cy Twombly : [*Still Life*](https://artblart.com/2017/04/11/exhibition-cy-twombly-at-the-centre-pompidou-paris/still-life-black-mountain-1-web/), 1951 ![Cy Twombly. 'Still Life, Black Mountain College I' 1951](https://artblart.files.wordpress.com/2016/12/still-life-black-mountain-1-web.jpg?w=650)
 				- Un nature morte au sens classique qui présente un caractère simple par sa composition
 				- La photo est animé par la réflexion de la lumière sur le verre et semble taché par de la gouache.
-	- Le vrai voyage qui développa la photographie chez TWOMBLY est son voyage en Europe avec [[Robert Rauschenberg]] .
+	- Le vrai voyage qui développa la photographie chez TWOMBLY est son voyage en Europe avec [[Robert Rauschenberg]]
 		- Les deux documentais leur voyage de photos
 			- [[Robert Rauschenberg]]: [*Cy and Roman Steps*](https://www.sfmoma.org/artwork/98.297.A-E/), 1952 ![Robert Rauschenberg, Cy + Roman Steps (I–V), 1952, printed ca. 1997 · SFMOMA](https://sfmoma-media-dev.s3.us-west-1.amazonaws.com/www-media/2018/05/18114625/CY_98.297.A-E.jpg)
 				- ’une série de clichés qui montrent Twombly en train de descendre les escaliers en face d’une église romaine

@@ -20,3 +20,4 @@
 - L'artiste réinvente un répertoire de formes déjà existantes.
 	- Le cube [[Minimalisme]] des affiches, les couvrements de coin qui s'apparent au process art ((65480be3-8a6f-4279-a8de-10d523cd5dca))
 - Mais la question n'est pas sur notre perception de la réalité mais *"comment puis-je habiter dans ta réalité ?"* ou *"comment une rencontre entre deux réalité peut-elle les modifier bilatéralement"*
+-

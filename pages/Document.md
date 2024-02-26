@@ -16,8 +16,9 @@
 	- [*La boite verte:*](https://www.museoreinasofia.es/en/collection/artwork/boite-verte-mariee-mise-nu-par-ses-celibataires-meme-green-box-bride-stripped) boite qui recueille non pas que des images mais essentiellement des notes qui traitent de l’approche du grand verres ( Traité d’optique / lecture de poésie / pataphysique ) > partie théorique mystique > Le document est un élément d’approche à travers l’appareillage hétérogène de l’œuvre
 - Notes manuscrite de [[Marcel Duchamp]]
 - Le vert pour le tapis de jeu > document numérotés mais non organisé
-- ### Revue [Document](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgallica.bnf.fr%2Fark%3A%2F12148%2Fbpt6k32951f&psig=AOvVaw0vTbVnbWPb_9fHFg4263gn&ust=1681891804742000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOj4yq79sv4CFQAAAAAdAAAAABAI)(1928- 1930):
+- ### [Revue Document](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgallica.bnf.fr%2Fark%3A%2F12148%2Fbpt6k32951f&psig=AOvVaw0vTbVnbWPb_9fHFg4263gn&ust=1681891804742000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOj4yq79sv4CFQAAAAAdAAAAABAI)(1928- 1930):
 - Georges BATAILLE, mise à mal du régime esthétique occidentale > Le super livre dissident > Revue en deux exemplaires > Toutes productions humaines est un fait d’art: Artefact > élément de critique de l’idéalisme et du [[Surréalisme]] dogmatique d’André Breton
+  id:: 65d3770d-ce90-47ca-975b-7dea2048eaf7
 	- Éditée en Noir & Blanc soutenue par un galeriste > édité deux années
 	- Approche culturelle de l’art
 		- La gazette des Beaux art: Revue qui témoigne le point de vue du statue des beaux arts > A l’inverse il n’y a pas ce titre dans Document
