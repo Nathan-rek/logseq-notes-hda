@@ -20,6 +20,7 @@
 	- Umberto BOCCIONI: [*Forme Unique De Continuité Dans L’espace*](https://fr.wikipedia.org/wiki/L%27Homme_en_mouvement) ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/%27Unique_Forms_of_Continuity_in_Space%27%2C_1913_bronze_by_Umberto_Boccioni.jpg/1024px-%27Unique_Forms_of_Continuity_in_Space%27%2C_1913_bronze_by_Umberto_Boccioni.jpg)
 - Idée de mouvement
 	- [[Marcel Duchamp]] : [*Nu Descendant Un Escalier N°2*](https://fr.wikipedia.org/wiki/Nu_descendant_un_escalier_(N%C2%B02))https://mediation.centrepompidou.fr/education/ressources/ENS-futurisme2008/images/xl/fut_070.jpg
+	  id:: 65d37712-666a-4327-9f3b-46cbb5f9db0c
 	- Le travail en photographe de Etienne-Jules MARRY[^2] sur le mouvement ont inspiré et participé au approche formel des futuristes
 		- Les études de chronophotographie d'animaux en mouvement, créées par les scientifiques qui ont fort inspiré Giaccomo BALLA: <a name="firstheading"></a>[*Dynamism of a Dog on a Leash*](https://en.wikipedia.org/wiki/Dynamism_of_a_Dog_on_a_Leash) https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Giacomo_Balla%2C_1912%2C_Dynamism_of_a_Dog_on_a_Leash%2C_oil_on_canvas%2C_89.8_x_109.8_cm%2C_Albright-Knox_Art_Gallery.jpg/300px-Giacomo_Balla%2C_1912%2C_Dynamism_of_a_Dog_on_a_Leash%2C_oil_on_canvas%2C_89.8_x_109.8_cm%2C_Albright-Knox_Art_Gallery.jpg
 - L’art adviendra du mélange culture / technique

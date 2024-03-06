@@ -25,3 +25,7 @@
 - Auto-gestion
 	- Mode de gestion anarchique dans l'absence d'un pouvoir dans une horizontalité et un esprit collectif
 	- Ferme du Biéreau
+		- Lieux à Louvain l'anneuve qui exerce plusieurs activités culturelles
+			- Charte/Manifeste: crée un certain regard sur la culture
+				- Débrouilles, hédonisme
+-

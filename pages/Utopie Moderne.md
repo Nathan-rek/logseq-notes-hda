@@ -1,4 +1,4 @@
-- 19ème siècle > Grand siècle d’utopie sociale moderne: entre traditions et modernité > Industrialisation: Modèle utopique > modernité marque une série d’utopie
+- 19ème siècle > Grand siècle d’utopie sociale moderne: entre traditions et [[Modernité]] > Industrialisation: Modèle utopique > [[Modernité]] marque une série d’utopie
   id:: 65704d07-5ce6-4baf-b67d-376b83ab875b
 - Apparition d’une nouvelle science: sociologie > formaliser la société dans une forme d’état
 	- Compte Henri de ROUVROIS: foi en l’industrie:

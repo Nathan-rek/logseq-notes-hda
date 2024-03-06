@@ -66,9 +66,6 @@
 	- La sculpture deviendra aussi un medium d’exploration néo-plastique
 		- Georges VANTONGERLOO avec Interrelation of Volumes, 1919 ![Interrelation of Volumes', Georges Vantongerloo, 1919 | Tate](https://media.tate.org.uk/art/images/work/T/T02/T02306_10.jpg)
 		- pour le volume ou Komposition aus dem ovoid ![Georges Vantongerloo Komposition aus dem ovoid, 1918 : Descriptif de  l'œuvre | Artchive](https://arthive.net/res/media/img/oy1000/work/d0c/293981@2x.jpg) qui intègre la couleur
-	- Les directions néo-plasticiennes de MONDRIAN ont fortement marqué le groupe poussant certain à le quitter
+	- Les directions néo-plasticiennes de [[Piet Mondrian]] ont fortement marqué le groupe poussant certain à le quitter
 -
-- Renvoi dans le graph
-	- ((6543a5de-45c0-4ce5-8ad5-bcf521e7ac81))
-	- ((653ef50f-d712-41c5-9f46-949cc18bffa1))
 	-

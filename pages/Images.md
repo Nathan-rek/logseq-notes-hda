@@ -8,7 +8,7 @@
 - Pour parler de Francis Bacon Gilles Deleuze remarque que l’artiste ne commence jamais sur une surface vierge
 	- Cette espace vide est encombré de cliché visuelle la question est donc comment donner une image critique à partir du vaste flux d’image reproduites
 - En cela l’exposition est une étude de ce problème et des réponse critiques à apporter à ces questions
-	- [[Elaine Sturtvevant]] : [*Plato’s Dual Action:Same/Idea/Transposed (2004)*](https://archiv3.fridericianum.org/exhibitions/images) ![Fridericianum](https://archiv3.fridericianum.org/img/5529fb68db560cd2/sturtevant-01-fabian-frinzel.jpg)
+	- [[Elaine Sturtevant]] : [*Plato’s Dual Action:Same/Idea/Transposed (2004)*](https://archiv3.fridericianum.org/exhibitions/images) ![Fridericianum](https://archiv3.fridericianum.org/img/5529fb68db560cd2/sturtevant-01-fabian-frinzel.jpg)
 		- dont le dispositif de deux écrans face à face suggère une caverne médiatisé d’où il n’y a pas de sortie > Une image renvoie à une autre et non à une réalité extérieur
 	- Mark LECKEY, 2004 [*Made in Eaven*](https://www.moma.org/collection/works/111013)de  ![Mark Leckey. Made in 'Eaven. 2004 | MoMA](https://www.moma.org/media/W1siZiIsIjEzNDcyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=38a1ee80de208c0b)
 		- produit une abîme perceptuel similaire dans laquelle la perception apparente de la profondeur optique est résorber par la surface de l’image de par son matériaux
@@ -31,7 +31,7 @@
 	- L’autonomie de l’art est indissociable de sa capacité critique
 - Comment le lien entre technique et technologies doit être relâché pour atteindre de nouveau style d’expression et de construction
 	- La réponse face au concept conventionnelle de la peinture de Wade GUYTON avec l’utilisation d’images imprimées jet d’encre sur toile: [*Untilted, 2006*](https://www.moma.org/collection/works/106997) ![Wade Guyton. Untitled. 2006 | MoMA](https://www.moma.org/media/W1siZiIsIjE1OTE4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=ac6ac61f59fa698f)
-		- Il développe une méthode de reproduction qui permet une interprétation ouvert au maximum. Il invoque le vocabulaire et la revendication d’autonomie associée de la modernité abstraite et le soumet à des stratégies de variations et de répétitions
+		- Il développe une méthode de reproduction qui permet une interprétation ouvert au maximum. Il invoque le vocabulaire et la revendication d’autonomie associée de la [[Modernité]]  abstraite et le soumet à des stratégies de variations et de répétitions
 - Mark LECKEY: [*Images*](https://www.galeriebuchholz.de/exhibitions/leckey-07#_ec=images%7C%7C0), 2007 ![](https://www.galeriebuchholz.de/wp-content/uploads/2013/04/ML_F_2007_01.002.L-e1490889419294-1000x1263.jpg)
 	- Œuvre intitulée Images mais n'est composée que de mots
 	- L’images est manquante, elle n’est jamais complète

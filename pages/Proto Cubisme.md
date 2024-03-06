@@ -1,3 +1,3 @@
 - Référence au [[Primitivisme]] : sculpture occidentale et océanienne, nouvelle vision de l’anatomie
 	- [Figure 98: PICASSO: Les demoiselle d’Avignon](https://www.kazoart.com/blog/wp-content/uploads/2017/07/Picasso_demoiselles_davignon1.jpg)
-- Référence à CÉZANNE , qui dans la fin de sa vie utilise des forme volumentielle pour représenter la réalité, invite les artiste a représenter la réalité par le cône ou le cube.
+- Référence à [[Paul Cézanne]] , qui dans la fin de sa vie utilise des forme volumentielle pour représenter la réalité, invite les artiste a représenter la réalité par le cône ou le cube.

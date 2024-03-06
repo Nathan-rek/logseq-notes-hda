@@ -13,7 +13,7 @@
 - Mail art / Postal Art:
 	- Le réseau devient un mode d’expression et de distribution très important, économique et flexible pour les outsiders culturels
 	- Ray JOHNSON & New York Correspondance School: échange de lettre qui donne une importance au réseau et détourne les établissement artistique traditionnelle
-	- Joseph BEUYS – On KAWARA: artiste qui développe un travail de la lettre
+	- [[Joseph Beuys]] – On KAWARA: artiste qui développe un travail de la lettre
 	- Le Net-Art dans les années 1990 -2000 c’est évidement fortement développé sur les plateforme Web avec des sites référence comme [rhizome.org](https://rhizome.org/) ou[ thing.net](https://thing.net/).
 - Jennifer et Kevin MCCOY [*Every Shot, Every Episode*](https://www.metmuseum.org/art/collection/search/284985) > Un Programme lit l’ensemble des épisode de la sérié *Starsky & Hutch* et un programme regroupe les scènes et remonte les scènes d’une façon non linéaire mais suivant une logique de corrélation de basse regroupement les scène de poursuite les scènes de tir, chaque zoom... en des épisodes remontés
 	- L’installation est interactive avec un lecteur CD ou l’on peut y insérer les nouveaux épisodes de la série

@@ -1,0 +1,12 @@
+- Expostion qui a travers la collection de Kent Logan retrace les relations entre [[Jeff Koons]]/ [[Andy Warhol]]/ Damien Hirst
+- [[Jeff Koons]] se figure dans l'image de l'artiste super star que [[Andy Warhol]] a conçu et pensé lors de sa carrière
+- L'art de la [[Post-Modernité]] ne se range plus à travers des mouvement mais des artiste phare comme le sont ces trois artistes
+- L'esprit de la factory à fort influencé [[Jeff Koons]] célébre pour ne pas toucher ses œuvres et travailler avec un grand nombres d'assistant..es
+- Les trois artiste emploi des formes issu de style d'avant gardes
+	- Damien Hirst: Dequalinium Chloride, 2016 https://cdn.sanity.io/images/dqllnil6/production/537b6eca8c43b46982da4c2af786fb1124592d0a-1200x995.jpg?w=1920&q=60&auto=format
+		- Renvoi au [[Color-Field Painting]] et au technique picturale d'exploration de la couleur mais avec une certain ironie car le procès est très loin de la spontanéité que peuvent représenter les peintres de l' [[Expressionnisme Abstrait Américain]]
+	- [[Jeff Koons]]: Equilibrium: https://cms.guggenheim-bilbao.eus/uploads/2021/03/Jeff-Koons-1985-One-Ball-Total-Equilibrium-Tank-Spalding-DrJK-241-Series.jpg
+		- Renvoi au display [[Minimalisme]] de Larry Bell ((653ef669-a4fe-470d-b136-86dab4530f08))
+	- [[Andy Warhol]]: Shadow, 1978
+		- Réemploi l'esthétisme abstrait de [[Expressionnisme Abstrait Américain]] mais encore une fois avec un procédé qui lui n'est pas celui de la spontanéité qui est à la base d l'esthétique abstraite de ce mouvement. Ces réappropriations rentre en ligne de mire de ces producteurs d'images de masses capables de remployer des formes issu du champ de l'art
+- Il se présente comme miroirs de la société renvoyer directement  au question de consommation que ce soit à travers les objets de consommation ((65480be3-7ec8-4db9-9289-62be8b4f1216)) ou les pub qui crée le désire [[Jeff Koons]]: [*Hennessy, The Civilized Way to Lay Down the Law*](https://jeffkoons.com/artwork/luxury-degradation/hennessy-the-civilized-way-lay-down-the-law), 1986 https://jeffkoons.com/sites/default/files/artwork-images/lux4_sm.jpg Ou alors la dérive pharmacologique de nos mode de consommation avec les cabinet de Hirst: *The Days, the Hours, the Minutes, the Seconds*, 2008 https://pointcontemporain.com/wp-content/uploads/2021/06/HIRST-2008.0493-Detail-A_2-756x1024.jpg

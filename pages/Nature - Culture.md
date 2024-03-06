@@ -21,14 +21,14 @@
 	- Le Denkraum: espace de pensée propre au sociétés primitives: qui situe et met en relation des instances agissantes dans des écosystèmes > Crée un espace de pensée ou les éléments sont liés tout en gardant leur distance et dispose de leurs propre intégrité mais constitue un système constellaire un espace de pensé > un Denkraum
 	  id:: 65403432-19d7-4e92-958b-af7bddb98bc2
 		- La modernité supprime ce Denkraum: Le telegram et le téléphone supprime cette distance et les relations
-- Paul Cézanne : artiste post-impressionniste il renonce à la scène artistique parisienne et se déplace en province
+- [[Paul Cézanne]] : artiste post-impressionniste il renonce à la scène artistique parisienne et se déplace en province
 	- Système des sensations organisées, renonce à un dispositif artistique habituelle, apparence chromatique définit par un appareillage technique construit
 		- Met en place sont propre appareillage formel basée sur un rapport de double écoute, rendre l’ [[Impressionisme]]  durable
 			- écoute de soi
 			- écoute d’un environnement personnelle
 		- Durabilité en opposition à la modernité > Position de retrait (Aix-en-Provence) qui permet de se situer face à un environnent > Il ne renonce pas la technologie de la modernité mais se repositionne
 		- La modulation chromatique permet de moduler la sensation de l’artiste en son environnement > En modulant les tons et les valeurs de couleur il opère une modulation chromatique pour restituer la sensation éprouvé face au motif naturelle
-		- Retranscrire le parcours de Cézanne dans Aix > inscrire un pratique dans environnement concret
+		- Retranscrire le parcours de [[Paul Cézanne]] dans Aix > inscrire un pratique dans environnement concret
 - GAUGUIN: fuit la conception de la [[Modernité]] et approche d’autre environnement culturelle:
 	- Déplacement en Polynésie française:
 		- Exotisme: Fantasme qu’en ce mettant en contacte avec d’autres cultures on fuit la [[Modernité]]

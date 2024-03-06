@@ -1,0 +1,3 @@
+- L'histoire devient un territoire qui n'as pas encore ete carthographié. Elle reste une terre inconnue que les artistes explorent
+	- Ruth Ewan: [*Squeezbox Juke-box*](http://search.it.online.fr/BIGart/?p=796), 2009 https://i.pinimg.com/originals/4f/1c/79/4f1c798ce7f71b7c8d915bb821e80848.jpg
+		- Deux bénévoles jouent une sélection de chanson des archives de Ruth Ewan

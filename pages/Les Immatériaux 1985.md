@@ -120,6 +120,7 @@
 			  id:: 653ef666-d856-4cc8-8f68-5c6ed3a7a505
 	- Sonia Delaunay: études pour les prismes éléctriques, 1914
 	- Larry bell: Sans Titre, 1966 ![Sans titre - Centre Pompidou](https://www.centrepompidou.fr/media/picture/ee/e2/eee28b524ed56f004ff14e0ff9235f31/thumb_large.jpg)
+	  id:: 653ef669-a4fe-470d-b136-86dab4530f08
 		- Par la sculpture l’artiste cherche à analyser la valeur de la lumière dans sa dynamique spatiale et temporelle. Il utilise le verre et sa transparence qui permet, à la lumière le traversant de devenir l’élément primordial de l’œuvre. La forme est ainsi le résultat de l’incidence lumineuse sur la structure de l’œuvre.
 	- Dan Graham: Two adjacent pavilions, 1978 ![Two Adjacent Pavilions | Lisson Gallery](https://lisson-art.s3.amazonaws.com/uploads/attachment/image/body/1309/GRAD81NA001.jpg)
 		- Le miroir réfléchit le temps présent, la camera vidéo enregistre ce qui est immédiatement en face d’elle et l’image est réfléchie pas le miroir en face d’elle et l’image vue par la camera apparaît huit secondes plus tard sur l’écran du moniteur voila à la fois son image huit secondes auparavant.

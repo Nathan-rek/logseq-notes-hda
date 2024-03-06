@@ -1,4 +1,4 @@
-- Clément GREENBERG propose une définition de la modernité. Dans un esprit modernisme qui est une fraction de la [[Modernité]] , le [[Modernisme]] est une approche critique de l’art moderne
+- Clément GREENBERG propose une définition de la [[Modernité]] . Dans un esprit [[Modernisme]] qui est une fraction de la [[Modernité]] , le [[Modernisme]] est une approche critique de l’art moderne
 - *«... the use of characteristic methods of a discipline to criticize the discipline itself, not in order to subvert it but in order to entrench it more firmly in its area of competence.»*
 - Le modernisme couvre tout ce qui est vivant dans la culture. La civilisation occidentale n’est pas la première civilisation à se retourner et à remettre en question ses propres fondations.
 - Mais c’est celle qui est allé le plus loin en ce sens.
@@ -25,7 +25,7 @@
 		- Sous le modernisme ces limites en sont venue à être considéré comme des facteurs positifs et ont été ouvertement reconnue
 			- Les tableaux de MANET sont devenu moderniste grâce à la franchise avec laquelle ils déclarait les surfaces planes. ((6564d3ba-c961-4551-86a5-7ddca48e4602))
 				- Les impressionnistes dans le sillage de MANET, renoncent aux sous-couches et aux émaux, il ne laisse aucun doute à l’œil sur le faite que les couleur qu’ils utilisent sont constitue de peinture matériel. ((6564d3ba-8085-458c-a515-c40fe5894851))
-				- CÉZANNE sacrifie la vraisemblance, ou l’exactitude, adapte plus explicitement son dessin et sa conception à la forme rectangulaire de la toile [Figure 51: CÉZANNE La Carrière De Bibemus: ]
+				- [[Paul Cézanne]] sacrifie la vraisemblance, ou l’exactitude, adapte plus explicitement son dessin et sa conception à la forme rectangulaire de la toile
 - C’est l’accentuation de la planéité inéluctable de la surface qui reste plus fondamental que tout autre chose dans le processus par lesquelles l’art pictural se critique et se définit sous le modernisme.
 	- La planéité était unique au domaine de l’art picturale
 		- La forme du tableau était une condition limité, ou une norme non-partagée

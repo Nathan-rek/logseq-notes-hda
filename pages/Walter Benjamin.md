@@ -1,0 +1,2 @@
+- Imagine and Narative :
+	- Texte qui propose une synthèse de la relation Antoine Wirtz et la notion de spectacle

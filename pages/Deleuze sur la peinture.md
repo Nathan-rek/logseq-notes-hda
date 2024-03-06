@@ -1,0 +1,65 @@
+## Cours 1981-03-31
+- Qu'est ce que la peinture à en lien avec la notion de catastrophes
+	- Pour Claudel la composition en peinture est un ensemble, mais qui est en train de se déséquilibrer
+	- Deleuze garde ce point de chute,
+		- Les pots de [[Paul Cézanne]] sont direct à ce déséquilibre
+			- [[Paul Cézanne]] : [*Pots de Fleur*](https://www.wikiart.org/en/paul-cezanne/flower-pots), 1887 ![Flower Pots, c.1887 - Paul Cezanne](https://uploads4.wikiart.org/images/paul-cezanne/flower-pots.jpg!Large.jpg)
+	- La catastrophe non pas que dans le tableau mais dans l'acte de peindre
+- Une catastrophe plus profonde qu'une avalanche, qu'un tremblement,
+- La catastrophe serait dans l'acte de peindre
+- L'exemple premier et fondamentale c'est dans la première période de William Turner qui dans une première période peins la catastrophe
+	- Puis la catastrophe est dans l'acte de peindre
+		- Ce qui est peint c'est l'acte de peindre, il s'identifient sous forme de jet de vapeur, boule de feu ou plus rien ne garde son intégrité
+			- William Turner: [*Lumière et Couleur*](https://fr.wikipedia.org/wiki/Lumi%C3%A8re_et_Couleur), 1843 https://upload.wikimedia.org/wikipedia/commons/d/d8/William_Turner%2C_Light_and_Colour_%28Goethe%27s_Theory%29.JPG
+			- Turner dans son avant-gardisme n'as pas toujours été montrée, ces toiles de fin était gardées dans des caisses et d'autres ont été brulées par Ruskin qui les jugeait de pornographiques
+				- Acte dont Ruskin est fier dans une forme de sublimation du sentiment catastrophique de Turner
+		- Turner sert d'un cas où on passe d’une peinture qui représente des catastrophes, à une catastrophe infiniment plus profonde, catastrophe qui concerne l’acte de peindre
+	- Naissance de la couleur
+		- Est ce que la couleur nait de la catastrophe de l'acte de peindre
+			- La couleur comme création picturale
+- La catastrophe fait sortir quelque chose
+	- Pour [[Paul Cézanne]] la couleur monte
+	- Pour Paul Klee la nécessité de chaos pour qu'en sorte l'œuf, la cosmogénèse
+- Si la catastrophe est trop grandes et que rien ne sort ?
+- Analyse des rapport de Gasquet sur les parloe de [[Paul Cézanne]], dout sur la parole post-kantienne de [[Paul Cézanne]]qui aurait dit *" je voudrais peindre l’espace et le temps pour qu’il deviennent les formes de la sensibilité des couleurs, parce que j’imagine parfois les couleurs comme de grandes entités nouménales, des idées vivantes, des êtres de raison pure "*
+	- Ce qui importe c'est que [[Paul Cézanne]] présente deux moment dans l'acte de peindre
+		- Il nomme le premier **chaos ou abime** et l'autre **catastrophe**
+			- Ce qui sort du chaos puis de la catastrophe c'est la couleur
+	- Le texte de [[Paul Cézanne]] évoque une histoire du monde
+		- La catastrophe est déjà la avant même de peindre
+			- La catastrophe est pré pictural: il image par exemple les squelettes pierreux avant de peindre, "les pierre rouge elle sorte de l'abime" l'abime c'est le chaos
+				- Avant le tableau l'œil n'est pas il est chaos, il ne voit rient
+				- Ensuite quelque chose sort du chaos: l'armature, la géologie
+				- Deuxième temps: la catastrophe emporte les assises et les plans on repart à zéro
+					- Peur que la catastrophe remporte tout une seconde fois et que jamais la couleur ne monte
+	- Et si le chaos ne prend pas et qu'il n'y a juste du chaos
+		- Si les couleur ne monte pas il y a marécage, il y a gris, grisaille, gâchis
+			- Delacroix *"Le gris c'est l'ennemi de la couleur"*
+				- Il y a deux gris:
+					- Le gris du noir et du blanc
+					- Le gris du mélange de deux couleurs complémentaires: c'est ce gris qui apparait comme la grisailles.
+						- Un gris que [[Vassily Kandisky]] appelle de gris "dynamique" ou de gris véritable
+- Ces considérations tente vers une considération du tableau non pas avec l'espace mais avec le temps
+	- *" Si le tableau opérait déjà une synthèse du temps"*
+- L'acte de peindre doit rencontrer sa condition pré-picturale pour que quelque chose en sorte
+	- c'est un cas de synthèse du temps qui devient pictural sur le tableaux
+- Paul Klee et le point gris
+	- *" Le chaos comme antithèse de l’ordre n’est pas proprement le chaos, ce n’est pas le chaos véritable. C’est une notion localisée, relative à la notion d’ordre cosmique. Le chaos véritable ne saurait se mettre sur le plateau d’une balance, mais demeure à jamais impondérable et incommensurable. Il correspondrait plutôt au centre de la balance "*  Paul Klee
+		- Mais le chaos ne se donne pas il est relatif a rien et prend tout
+			- Le chaos est être néant ou ce non-être est le concept non conceptuel de la non-contradiction
+			- Le chaos se symbolise en un point
+				- Point mathématiques sans taille
+					- Le point gris est ce chaos véritable qui n'est ni vivant ni mort autant blanc que noir
+			- Si le point gris se font c'est la que le chaos emporte tout
+- Le point gris est chaos, il est absolu, il est le "pré-picturale"
+- L'acte de peindre c'est fixer ce point gris chaos
+	- Ce qui engendre l'ordre, la dimension, l'œuf
+- Francis Bacon
+	- Bacon dit Avant de peindre des chose se sont passé
+		- C'est pour cela qu'il y a catastrophe, catastrophe sur la toile pour se défaire de tout ce qui précède, de tout ce qui pèse
+			- Le peintre doit se débarrasser de ces 'fantômes'
+	- Ce qui les précède c'est les clichés
+		- Le clichés comme des bêtes qui se précipitiez avant que tu peigne
+		- Il faut alors tuer et empêcher tout ca il faut noyer tout ces clichés avant même de peindre
+			- *"il faut que le peintre se jette dans cette espèce de tempête, qui va quoi ? Qui va précisément annuler, faire fuir les clichés. La lutte contre le cliché."* Deleuze
+- ## Cours 1981-03-31

@@ -1,0 +1,9 @@
+- Inspirée par Différence et Répétition de Deleuze. Elle dit faire des répliques et non copie
+	- Elle travail ses répliques principalement par la mémoire
+		- Elaine Sturtevant: [*Johns 0 trough*](https://www.mutualart.com/Artwork/Johns-0-through-9/EA7656A4898914B0) 9, 1965 https://media.mutualart.com/Images//2014_01/14/17/171602130/93b6097b-2ebf-4d9c-8e27-4c76ed69444f.Jpeg
+		- Reprend de mémoire les numéro de [[Jasper Johns]]
+	- Pour d'autre elle demande directement au artsite
+		- Comme pour [[Andy Warhol]]  a qui elle demande ses panneaux de sérigraphie
+			- ((65480be3-0c83-4d67-bd74-3b38528cd30e))
+	- Elle réinterprète aussi certain sujet comme le ((65d37712-666a-4327-9f3b-46cbb5f9db0c)) avec [*Duchamp Nu descendant un escalier*](https://www.artbasel.com/catalog/artwork/59062/Elaine-Sturtevant-Duchamp-Nu-descendant-un-escalier?lang=fr), 1968   https://dza2a2ql7zktf.cloudfront.net/binaries-cdn/dqzqcuqf9/image/fetch/q_auto,w_500/https://d2u3kfwd92fzu7.cloudfront.net/catalog/artwork/gallery/1207/_Sturtevant_Duchamp_Nu_descendant_un..-2.jpg
+	-

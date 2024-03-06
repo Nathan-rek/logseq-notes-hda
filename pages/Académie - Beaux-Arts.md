@@ -22,5 +22,5 @@
 			- Violet-le-Duc pointe le manque d’originalité des travaux des étudiant au partiel copiant leur professeurs – l’enseignement n’a pas évoluer depuis 1819 – Le système pédagogique ne prend pas acte du milieux dans le quelle il vit.
 			- Développer une individualité artistique et sortir des artistes stérile académique
 		- Séparation entre pratique et théorie: mise à mal de la hiérarchisation verticale de l’enseignement: Rupture avec un modèle aristocratique qui établie cette indépendance hiérarchique entre pratique et théorie par une de verticalisation de la structuration de l’enseignement traditionnel
-		- Originalité : la modernité mène au avant gardes et une certaine originalité en opposition au convention stérile de l’académie – travailler en dehors de l’atelier [[Impressionisme]] développer leur spontanéité
-		- Modernité: adapter un enseignement par rapport à la culture contemporaine moderne: sortir des sujets et des modèles fondés sur un répertoire religieux historique et mythologique
+		- Originalité : la [[Modernité]] mène au [[Avant-Gardes "Historique"]] et une certaine originalité en opposition au convention stérile de l’académie – travailler en dehors de l’atelier [[Impressionisme]] développer leur spontanéité
+		- [[Modernité]] : adapter un enseignement par rapport à la culture contemporaine moderne: sortir des sujets et des modèles fondés sur un répertoire religieux historique et mythologique

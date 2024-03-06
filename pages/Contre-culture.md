@@ -1,21 +1,55 @@
 - Les contre cultures apparaissent comme contexte social
 	- Londres manifestation anti-nucléaire 1950
-- Les jeunes générations appelle à autre chose
+- Les jeunes générations appelle à autre chose:
+	- Mai 1968: en défaveur d'un certaine culture vers une ouverture
 - Theodore Roszak: *Vers une contre-culutre*:
 	- Se mettre face à la technocratie
 	- Les sociétés occidentales sont dominées par des états qui travaillent main à main avec des sociétés
 		- Mise sur le quantifiable, le nombre , la raison, la logique
-			- Met de coté tous se qui n'est pas dans se régime de logique ( Tous comme le [[Romantisme]] se réveil face aux logiques des Lumières )
+			- Met de coté tous se qui n'est pas dans se régime de logique ( Tous comme le [[Romantisme]] se réveil face aux logiques des Lumières - Nécessité du libération du sentiment romantique )
 - Se tourner vers d'autres philosophies (orientale), spiritualité
-	- Il commente aussi l'usage de drogue comme pouvant augmenter la conscience de l'individu étouffés par le technocratie
+	- Il commente aussi l'usage de drogue comme pouvant augmenter la conscience de l'individu..e étouffé..es par le technocratie
 		- Timoty Leary: psychologue qui s'est intéressé à l'usage psychiatrique et thérapeutique du LSD
 			- Pour un usage libre des drogues
 			- Il devient un figure important pour beaucoup de générations
 			- Roszak présente les limites de ce partie pris
 - Greil Marcus: *Lipstick Traces*
-	- Retrace la culture du 20eme en 3 moment clés
+	- Retrace la culture du 20ème en 3 moment clés
 		- Janvier 1968 dernier concert des Sex Pistol
-			- Entend l'esprit de contestation de l'époque mélanger a l'esprit des [[Dada]]
-			- S'interesse donc au [[Dada]] -> [[L’international situationniste]] -> Sex Pistol
-				- Voit le 20eme siècle comme parsemer d'esprit de contre culture
-- Le process de destruction est très présente dans les contre-cultures
+			- Entend l'esprit de contestation de l'époque mélanger à l'esprit nihiliste des [[Dada]]. ensuite au [[L’international situationniste]] contre la société spectaculaire marchandes
+			- S'intéresse donc au [[Dada]] -> [[L’international situationniste]] -> Sex Pistol
+				- Voit le 20ème siècle comme parsemer d'esprit de contre culture
+- Le process de destruction est très présent dans les contre-cultures
+	- La tabula-rasa
+	- Nihilisme active : détruit pour construire quelque choses d'autres
+	- L' ordre sauvage: violence, dépense et sacré dans l'art des années 1950 - 1960 : L'artiste qui se crée une figure para-religieuse
+	- Dernier sursaut d' [[Utopie Moderne]] par la déstruction
+		- La nouvelle ontologie de la musiue de [[John Cage]] a influencer la destruction d'instrument des [[Fluxus]]
+		- Hanatarash: [*performance 1985*](https://www.facebook.com/watch/?v=1530676013997212) ![Bulldozer Incident | Mapping Japanese Noise](https://www.johnaulich.co.uk/japanesenoise/wp-content/uploads/2015/04/bulldozer.jpg)
+			- Groupe de noise japonais qui détruisent la scène pendant le concert
+			- Deux extrême de la Japan noise :
+				- Hanatarash: Mur de bruit noise extrême
+				- Onkyo: bruit presque imperceptible
+		- [[Néo Dada-Organizers]]
+	- [[Gustav Metzger]]
+- La contre-culture à comme limite de crée des sous-cultures qui elles peuvent renforcer l'industrie culturelles
+- D'autres formes de production culture plus contestataire devienne complètent intègre à un écosystème globale qu'a un moment voulait combattre: La BD, Le cinéma ( comme théâtre filme, forme de rhétorique de légitimation de pratique culturelle)
+- Fabien Hein commente que la culture Punk peut être perverse:
+	- la figure du punk contestataire est celui qui cherche l'alternatives mais certain figure emblématique en trouvant une place dans leur monde devienne de vrai produit musical qui appartiens à une industrie culturelle
+		- Cree un nouveau marché dans le marché globales: Celui qui s'autodétermine avec le [[Bricolage]] rentre dans l'idée néo-libéraliste
+		- La culture Punk est un produit de la culture néo-libérale
+- La légitimisassions de la culture
+	- Bourdieu constate les différente valorisation de la culture. Dans les école la littérature classique est plus légitime que l'histoire des musiques rock
+		- Se base sur les nouvelle outils de la static
+	- L'espace social est fait de différent champ social
+		- Un champ est toujours conflictuelle: sociologie de la domination
+	- Habitus: bagage culturelle hérite et qui se construis et définit notre habitus futur
+	- Capital: comme ensemble des référence culturelles qui est inégale.
+		- Capital Culturelle objectivé: Ensemble des objets culturelles
+		- Capital Culturel Institutionnelle: Tout ce qu'une institution peut donner
+		- Capital Culturel Incorporé: Les ressources que l'on disposent qui permettent d'activer le capital culturelle objectivée
+	- Cette inégalité peut provoquer des rapports de force violents
+		- *La disticntion*: on consomme de la culture pour se positionner socialement
+	- La vision binaire de Bourdieu se voit tres caricaturale
+		- Face à cela un éclectisme culturel (qui est surtout vrai dans un certain niveau de la population), omnivorie culturelle
+		- la culture des individus dissonances culturelles et distinction de soi : L'antogonie culturelle de Bourdieu se trouve assez changer

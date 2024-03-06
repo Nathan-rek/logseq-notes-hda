@@ -2,7 +2,7 @@
 - La culture comme scénario comment l'art reprogramme le monde contemporain
 - Le ré-emploie de forme ((65398c42-8c9d-442a-b162-6f249a183c3a)) ]) dans un régime de postproduction met à la mal production et consommation.
 	- Le matériaux brut n'est plus la base ce sont des matériaux déjà informées
-- Postprodcution prend le contre-pied de [[Esthétique Relationnelle]] il reprend  le point de départ de l'arrivé du réseaux numérique comme bouleversement paradigmatique mais contrairement a esthétique relationnelle il ne prend pas ce bouleversement comme engrais à de nouvelles pratiques relationnelles mais comment déchiffrer ce nouveaux paysage
+- Postproduction prend le contre-pied de [[Esthétique Relationnelle]] il reprend le point de départ de l'arrivé du réseaux numérique comme bouleversement paradigmatique mais contrairement a esthétique relationnelle il ne prend pas ce bouleversement comme engrais à de nouvelles pratiques relationnelles mais comment déchiffrer ce nouveaux paysage
 - ### Reprogrammer des oeuvres
 	- Mike Kelley, Paul McCarthy: *Fresh Acconci*, 1995 ![Mike Kelley, Paul McCarthy | Fresh Acconci | Whitney Museum of American Art](https://whitneymedia.org/assets/artwork/34267/2012_11_still.jpeg) font rejouer la performance de Vito Acconci par des mannequins
 	- [[Pierre Huyghe]] : [*Conical Intersect*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cEzLKe), 1997 ![Light Conical Intersect, Event, Paris - Centre Pompidou](https://www.centrepompidou.fr/media/picture/ca/b2/cab2ab8ba47d653b7b569b983bd83bc4/thumb_large.jpg) : projette un film de Gordon Matta-clark sur les lieux de tournage de se film
@@ -32,7 +32,7 @@
 	- Un communisme formelle
 - ### De [[Marcel Duchamp]] à [[Jeff Koons]]
 - Le [[Ready-made]] aurait comme vertu de mettre à égalité choisir et fabriquer, consommer et produire
-- Dans les années 60 le regard sur la consommation est diffèrent [[Andy Warhol]] s'intéresse a ce qui pousse à l'achat, à l'avant et les nouveaux réalistes comme [[Daniel Spoerri]] s'intéresse aux reliques de la consommation
+- Dans les années 60 le regard sur la consommation est diffèrent [[Andy Warhol]] s'intéresse à ce qui pousse à l'achat, à l'avant et les nouveaux réalistes comme [[Daniel Spoerri]] s'intéresse aux reliques de la consommation (archéologie de la consommation)
 	- L'idée est d'en dégager une matière iconographique
 	- Ces thématiques évolueront vers les [[Simulationisme]]
 		- [[Jeff Koons]] est convecteur de désire il prend le rôle du marqueteur et crée l'objet du désire en le situant dans des dispostif qui lui ajoute cette valeurs
@@ -51,4 +51,22 @@
 		- Un [[Ready-made]]-réciproque comme les appelles [[Marcel Duchamp]] en disant utiliser un Rembrant en planche à repasser
 			- Le détournemnt n'est pas une négation de style mais un style de négation
 				- Considère les œuvres comme fessant parti d'un décor dans lequel l'on peut piocher des éléments
-		- Contrairement au artiste de la postproduction le situationniste cherchent a changer la valeur des œuvres qu'il..elles prennent en corrompant la valeur de l'œuvre détournée
+		- Contrairement aux artistes de la postproduction le..a situationniste cherchent à changer la valeur des œuvres qu'il..elles prennent en corrompant la valeur de l'œuvre détournée
+	- L'interstices entre production et consommation rétrécit
+	- Le producteur tend vers l'emetteur
+	- Mike Kelley: Framed & Frame https://i.guim.co.uk/img/media/fcab233a102463516e43b87d39ffeba2e3a3ee7e/0_207_2835_1701/master/2835.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=3908ceccf658fc227df2c6ad5c987fd9
+		- Utiliser les formes pour faire de l'informe
+		- Notre société marche par décontextualisation décrochage, racolage, greffes , transplantations
+			- Le cadre devient marqueru il design ce qu'il faut regarder ile faut un détourage et crée un objet objets et un vertige celui du non-référencé
+			- La haute culture ce base sur le socla et le cadre pour encododer les moyens de présenter l'objets a l'inverse la culture populaire elle est exalteer par le hors limites, la transgression.
+			- Kelley organise des cours circuit entre ces deux maniere d'être
+				- La décontextualisation se présente comme motif de cette pratique. Cela peur permettre de crée des formes en tant qu'outils cognitif car libérés de leur conditionnement originel.
+				- Mike Kelley: [*Garbage Drawing*](https://www.moma.org/collection/works/96315), 1988 https://www.marcjancou.com/custom/media/cache/resolve/enlarge/5ca28a44a5aa2c9e4b8b4567/e5c648c4d3ff555924620e0ff6faeeb6.jpeg
+					- Il décontextualise un dessin issu de commis le frame de sont autour et en fait un dessin presque abstrait car non référencé.
+- ### La formes comme scénario
+- Les formes qui nous entour sont les matérialisation des récit/ scripts d'un capitalisme tardif ( script nos maniere d'être au loisir, travail, amour...)
+- L'artiste d ela postproduction utilsie ses formes nont pas pout les affirmer mais pour les présnete comme des structure possibkement altérnable et réagensable.
+	- Il essaie de quitter le régime de ses scénarios collectifs
+- Rikrit Tiravanija permet de rompre la différence de geste du..la regardeur..euse et de l'artiste
+	- Rikrit Tiravanija: Untitled (One revolution per minute), 1996 https://www.leconsortium.fr/sites/default/files/styles/slide_wide/public/TIRAVANIJA%20R%201996%2050_0.jpg?h=4d3ee5e8&itok=RhWa1oLG
+-

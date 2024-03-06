@@ -1,0 +1,35 @@
+- Corrélationisme
+	- Lien constant entres les réalités et leur sensations
+	- le sensible existe comme un rapport
+		- Le sensible n'est pas en moi ni dans la chose en soi ( valeur intrinsèque ) il est la relation entre la chose et moi
+			- Ce que les classique nomme les **qualités secondes** [Lock ou Descartes]
+				- Les qualités première serait des qualités inséparables de l'objet des propriétés de l'en soi
+					- Pour Descartes se sont les propriétés de l'entendue et donc peuvent faire l'objet de démonstration géométriques : longueur, larguer , profondeur, mouvement , figure, gradeur
+						- Donc les propriétés mathématisables d'un objet s'exemptent de cette rapport de qualités secondes
+	- Cette thèse se fait invalider par le problème même qu'en la pensant on pense un monde en soi et qu'il n'y a donc pas de qualité première
+		- Autocontradictoire car en la pensant on l'invalide
+			- La pensée ne serait distinguer le monde *en soi* et le monde *pour nous*
+			- Hegel le rappelle nous ne pouvons rien connaitre qui soit au delà de nos relation au monde
+				- Disqualification du réalisme naïf des métaphysiques dogmatiques
+- Corrélation : idée qu'on a accès qu'as la corrélation entre être et pensée et jamais a un de ces termes de façon isolées
+	- Corrélationisme: tous courant de penser qui soutient le caractère corrélative de ces rapports.
+		- Consiste à disqualifier toutes toute prétention a considérer lés sphères de la subjectivité et de l'objectivité indépendamment l'une de l'autres
+			- Cercle corrélation comme cette phénomène d'autocontradiction que lorsque qu'on pense un objet en soi on le pense déjà plus en soi
+				- Ensuite il était question de ce demander quelle mode de corrélation est originaire: sujet objet / Langage -référence
+	- **Objet-monde**: La conscience et le language sont des objet unique car il font monde
+		- Francis Woff " *Tout est dedans parce que, pour pouvoir penser quoi que ce soit il faut en pouvoir en  avoir conscience* "
+			- Nous sommes enferme dans une conscience sans pouvoir en sortir: le langage par exemple
+				- Des cages transparentes en communication avec l'extérieur mais d'où on ne peut en sortir
+- Comment penser le monde avant l'H ? Comment penser le monde avant la conscience
+	- **Ancestral**: Toute réalité antérieur à l'H
+	- **Archi-fossile**: matériaux indiquant l'existence d'une réalité ancestrales
+		- Matériel à l'origine des expérimentations donnant lieux a l'estimation de phénomènes ancestrales
+	- Quelle interprétation le Corrélasionisme donnerait face aux énoncés ancestraux ?
+		- Le corrélatiosite ne peut entrevoir les matieres archifossile car elle ne reponde pa au corrélat.
+			- On décrit des événement qui ne nous était pas sensible.
+				- Cette absence de témoin pose aussi soucis au lointain sachant que la lumière qui nous parviens est issu de temps antérieur
+	- On se voit jamais un cube en entier
+		- Il y a toujours un non saisie dans la perception
+			- Un donné peut donc être lacunaire, on perçoit les vagues juste en les entendants au loin
+				- Un évènement qui se passe sans témoin mais qui se donne à un être lors de la présence possible de témoin devient donc une donné lacunaire mais envisageable or l'ancestral a un problème car la donation même de l'événement ne peut être perçues
+	- La science elle conçoit ces espace temps antérieur à la conscience et la donation elle même

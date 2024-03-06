@@ -38,7 +38,7 @@
 - La vision est décomposé en caractéristique
 	- Différente parti du cerveau traitent sélectivement: la forme, la profondeur la couleur et le mouvement. Certain mouvement artistique mettent l’accent de manière sélective sur ces mêmes caractéristique visuelles.
 		- La photographie en noir et blanc met l’accent sur la forme sans tenir compte de la couleur.
-		- Les paysages plans de CÉZANNE explorent l’expérience visuelle du volume et de la profondeur.
+		- Les paysages plans de [[Paul Cézanne]] explorent l’expérience visuelle du volume et de la profondeur.
 		- Les peintures de la renaissance vénitienne et le fauves l’expérience visuelle de la couleur.
 		- les peintures futuristes l’expérience visuelle du mouvement.
 	- Ainsi les neurosciences visuelles et l’art convergent vers l’idée que notre expérience visuelle peut être décomposée en constituants élémentaires

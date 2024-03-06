@@ -45,6 +45,7 @@
 		- Agnes MARTIN: [*Sans titre 1*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cGEeknA) ![Untitled 1 (Sans titre 1) - Centre Pompidou](https://www.centrepompidou.fr/media/picture/c9/44/c94408c2e2cd80a8685cb239f2c9c6b6/thumb_large.jpg)
 			- Longtemps associé au [[Minimalisme]] , même si elle se considérait plus proche de [[Expressionnisme Abstrait Américain]] son œuvre [*Sans titre 1*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cGEeknA) est réalisée après une période de deuil et de retrait du monde de l’art. Elle engage un nouveau langage plastique plus radical qu’auparavant.
 		- Josef ALBERS: [*Hommages au carré*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cxxAbL7) ![Affectionate (Homage to the Square) (Affectueux (Hommage au carré)) - Centre  Pompidou](https://www.centrepompidou.fr/media/picture/75/ee/75ee69d40b4f4a95866e690774cdb583/thumb_large.jpg)
+		  id:: 6543a5de-be3a-40ff-a206-bc09fea9652a
 			- Série de 2000 tableaux qui représentent systématiquement trois ou quatre carrés imbriqués, selon une disposition identique. Les couleurs changent, elles dévoilent leurs force et leurs expressivité
 - Arpenter
 	- Claude VIALLAT: [*Répétition, 1968*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cxgR6p)![Répétition - Centre Pompidou](https://www.centrepompidou.fr/media/picture/fd/a2/fda2f771c25e9bef5f335208ab6194aa/thumb_large.jpg)
@@ -75,7 +76,7 @@
 		- André LANSKOY: [*Multitudes*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cBz5Ga), 1949 ![Multitudes - Centre Pompidou](https://www.centrepompidou.fr/media/picture/0a/9b/0a9bf09ba8ef3e4ef56e0256e3dfb52e/thumb_large.jpg)
 			- Accumule gestes et traces. Se range dans L’expressionnisme abstrait adoptant une postérité immense quoique paradoxale.
 - En 1969, DELEUZE met en valeur l’existence de certaines œuvres de «séries d’événement à petites différence internes, réglées par un étrange objet» Cette observation peut s’appliquer aussi au sérigraphie d’[[Andy Warhol]]: [*Big Electric Chair*](https://fr.wahooart.com/@@/8XXNEQ-Andy-Warhol-Chaise-électrique) ![ Reproductions D'art Chaise électrique de Andy Warhol (Inspiré par) (1928-1987, United States) | WahooArt.com](https://fr.wahooart.com/Art.nsf/O/8XXNEQ/$File/Andy-Warhol-Electric-Chair-3-.JPG)
-- Le cas de [[Elaine Sturtvevant]]: [*Triptych Marilyn,*](https://ropac.net/artists/83-sturtevant-estate/works/11281-sturtevant-estate-triptych-marilyn-2004/) 2004 ![](https://artlogic-res.cloudinary.com/w_2000,h_2000,c_limit,f_auto,fl_lossy,q_auto:good/ws-ropac/usr/images/artworks/main_image/items/32/32d8efa6a68d483b9e06e2524015b7ce/st_1113-300dpi.jpg)
+- Le cas de [[Elaine Sturtevant]]: [*Triptych Marilyn,*](https://ropac.net/artists/83-sturtevant-estate/works/11281-sturtevant-estate-triptych-marilyn-2004/) 2004 ![](https://artlogic-res.cloudinary.com/w_2000,h_2000,c_limit,f_auto,fl_lossy,q_auto:good/ws-ropac/usr/images/artworks/main_image/items/32/32d8efa6a68d483b9e06e2524015b7ce/st_1113-300dpi.jpg)
   id:: 65480be3-0c83-4d67-bd74-3b38528cd30e
 	- Qui reproduit des œuvres tout en essayent de les reproduire à la perfection de telle sorte qu’elles deviennent des «petites différences»
 - Réitérer

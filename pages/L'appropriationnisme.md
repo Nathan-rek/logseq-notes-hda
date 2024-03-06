@@ -3,10 +3,10 @@
 		- L'autorité est détourné
 			- ((65480be3-afaf-4930-9455-f36be8cbbe2c))
 		- La propriéte
-			- Bien que [[Elaine Sturtvevant]] ne se revendiquais pas de se courant elle la fort inspiré
+			- Bien que [[Elaine Sturtevant]] ne se revendiquais pas de se courant elle la fort inspiré
 			- ((65480be3-0c83-4d67-bd74-3b38528cd30e))
-				- Regardant attentivement les artistes du [[Pop Art]] elle demandera a [[Andy Warhol]] lui même ses trames de sérigraphies de base pour pousser l'appropriation de la technique picturales
+				- Regardant attentivement les artistes du [[Pop Art]] elle demandera a [[Andy Warhol]] lui même ses trames de sérigraphies pour pousser l'appropriation de la technique picturales
 			- ((655a7e71-ca8c-49fb-b21c-de12ed36eaca))
 	- [[Robert Rauschenberg]]: [*Erased deKooning*](https://www.sfmoma.org/artwork/98.298/), 1953 ![Robert Rauschenberg, Erased de Kooning Drawing, 1953 · SFMOMA](https://sfmoma-media-dev.s3.us-west-1.amazonaws.com/www-media/2018/08/25062920/98.298_01_B02-Large-TIFF_4000-pixels-long-scaled.jpg)
-- Se courant prend une forme de concrétisation avec l'expsotion de 1977 au met de la [[Pictures Generations]]
+- Se courant prend une forme de concrétisation avec l'expsotion de 1977 au MET de la [[Pictures Generations]]
 -
