@@ -5,7 +5,7 @@
 			- Le chiffre 2 en est le symbole il est pourtant autre qu'un opposition binaire il est double
 			- Felix Gonzalez-Torres [*"Untitled" (Perfect Lovers)*](https://www.moma.org/collection/works/81074) 1991 ![Felix Gonzalez-Torres. "Untitled" (Perfect Lovers). 1991 | MoMA](https://www.moma.org/media/W1siZiIsIjIxMDU3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=0b890f2e81b051ef)
 			- Felix Gonzalez-Torres [*“Untitled” (billboard of an empty bed), 1991*](https://smarthistory.org/felix-gonzalez-torres-untitled-billboard-of-an-empty-bed/) ![Felix Gonzalez-Torres, “Untitled” (billboard of an empty bed)](https://ka-perseus-images.s3.amazonaws.com/ea6d523b2a1a3fb6efdbcb1574fc4156f07c5ed0.jpg)
-			- L'unité de base est le double. La solitudes n'est pas le 1 mais l'absence du 2. Un représentation du couple qui n'est plus cette de l'addition de deux réalité fatalement hétérogènes mais celle d'une unité double et calme comme une ellipse
+			- L'unité de base est le double. La solitude n'est pas le 1 mais l'absence du 2. Un représentation du couple qui n'est plus cette de l'addition de deux réalité fatalement hétérogènes mais celle d'une unité double et calme comme une ellipse
 		- Il ne raconte pas sa vie mais il raconte le couple à travers le sien:
 			- La rencontre et l'union
 				- Felix Gonzalez-Torres: [*"Untitled" (March 5th) #1, 1991*](https://www.felixgonzalez-torresfoundation.org/works/untitled-march-5th-1) ![Untitled" (March 5th) #1 - Works - Felix Gonzalez-Torres Foundation](https://www.felixgonzalez-torresfoundation.org/custom/media/cache/resolve/1010x580_fit/5b844b306aa72cea5f8b4567/2ac37c66ea382f68a7ebd15c3f8ea36a.jpeg)

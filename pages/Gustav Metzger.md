@@ -8,7 +8,7 @@
 	- En 1966 il organise un symposius sur la destruction en art:
 		- Se retrouve des représentant de [[Fluxus]] ou [[Hermann Nitsch]]
 - Gustav Metger: [*Liquid Crystal Environment*](https://www.tate.org.uk/art/artworks/metzger-liquid-crystal-environment-t12160), 1965 https://media.tate.org.uk/art/images/work/T/T12/T12160_9.jpg
-	- Deux cristaux qui se désintègre face a la chaleur de la lampe du diapositives
+	- Deux cristaux qui se désintègre face à la chaleur de la lampe du diapositives
 		- Autodestruction qui projette de nouveaux visuelle Autocréation
 - Dans les années 1977 a 1980 il rentre dans une grève de l'art
 	- Les artistes participent à multiplier des productions qui finissent à avoir des valeurs marchandes
