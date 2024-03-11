@@ -1,18 +1,4 @@
 - Carthographie des différentes positions concerant la relation entre la production artistique et les trois approches principales qui constituent le champ de la spéculation actuelle :
 - ## Approche rationaliste (Le matérialisme transcendantale)
-- ## Néo-matérialisme - Object Oriented Philosophy
-	- le néo-matérlaisme cherche à actualiser le matérialisme classique, lié au mécanisme par rapport au avancées de la science
-		- Basée sur des philosophies comme Deleuze, Simondon, Nietzsche...
-			- Systèmes expliquant le devenir comme l'expression d'une puissance naturelle immanente, laissant émerger les êtres déterminés comme des différences ne cessant de se modifier réciproquement.
-	- La matière est alors réalité ultime dont tout être particulier dépend et, à la fois, comme ce qui n’existe pas hors de ses productions particulières.
-		- La matiere n'est pas ce qui doit etre mise en forme mais au contraire une puissance qui se détermine
-		- les niveaux de réalité (ou de matérialité) émergeant sont doués des règles d’organisation qui ne sont pas réductibles à celles des niveaux inférieurs, ce qui témoigne de la liberté créatrice, au moins partielle, du devenir
-	- L'esprit n'est pas une substance autre que la matière mais une émergence qui trouve ses conditions d’existence dans la libre dynamique du
-	  devenir naturel.
-	- Par conséquent, il n’y aurait pas à faire de distinction nette entre l’humain et le non-humain
-		- L'humain: système physique capable d’auto-organisation, dont les conditions d’existence et de conservation dépendent, comme pour tout système, de règles d’organisation et du tissu des interactions environnementales.
-	- Toute chose serait alors pourvue d’une certaine agentialité, d’une capacité d’affecter et d’être affecté, propriété caractérisant le comportement des systèmes dynamiques complexes et qui rend leur devenir possible
-- Object Oriented Philosophy : refuse de réduire les différent objet a l'expression d'une substance uniques
-	- Il s’ensuit une ontologie plate, où tout existant est un objet et où tout objet est irréductible à n’importe quel autre
-	- L'enjeu est dans les condition d'interactions entre les différent objets en évitant à la fois de faire disparaitre les parties dans le tout
-	- On aboutit en conséquence à une perspective anti-anthropocentrique où l’humain n’est pas l’auteur de l’ordre de la réalité phénoménale, voire le point de vue privilégié, mais un des objets dont la modalité de relation au monde ne diffère pas essentiellement de celle de tout autre.
+- ## [[Object Oriented Philosophy]]
+-

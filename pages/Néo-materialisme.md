@@ -1,3 +1,14 @@
+- le néo-matérialisme cherche à actualiser le matérialisme classique, lié au mécanisme par rapport au avancées de la science
+	- Basée sur des philosophies comme Deleuze, Simondon, Nietzsche...
+		- Systèmes expliquant le devenir comme l'expression d'une puissance naturelle immanente, laissant émerger les êtres déterminés comme des différences ne cessant de se modifier réciproquement.
+- La matière est alors réalité ultime dont tout être particulier dépend et, à la fois, comme ce qui n’existe pas hors de ses productions particulières.
+	- La matiere n'est pas ce qui doit etre mise en forme mais au contraire une puissance qui se détermine
+	- les niveaux de réalité (ou de matérialité) émergeant sont doués des règles d’organisation qui ne sont pas réductibles à celles des niveaux inférieurs, ce qui témoigne de la liberté créatrice, au moins partielle, du devenir
+- L'esprit n'est pas une substance autre que la matière mais une émergence qui trouve ses conditions d’existence dans la libre dynamique du
+  devenir naturel.
+- Par conséquent, il n’y aurait pas à faire de distinction nette entre l’humain et le non-humain
+	- L'humain: système physique capable d’auto-organisation, dont les conditions d’existence et de conservation dépendent, comme pour tout système, de règles d’organisation et du tissu des interactions environnementales.
+- Toute chose serait alors pourvue d’une certaine agentialité, d’une capacité d’affecter et d’être affecté, propriété caractérisant le comportement des systèmes dynamiques complexes et qui rend leur devenir possible
 - Dans une dimension de dépassement du dualisme esprit / corps
 - Agentivité
 	- La capacité d'un être, d'une personne ou d'une entité, à agir dans un environnement donné
