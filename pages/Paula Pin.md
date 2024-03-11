@@ -1,0 +1,4 @@
+- Activiste et artiste [[Techno-féminisme]]
+- Occupe des espace du laboratoire et pirate la performativité de la science pour en faire des sculptures interactives immersible
+- Jelly Pin Bio-trans lab
+	- Création de boite contenant un mini-laboratoire mobile et ouvert pour les pratique gynécologiques autonome

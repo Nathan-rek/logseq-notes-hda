@@ -1,0 +1,3 @@
+- Fusionne les idées du [[Cyber-Féminisme]] avec une analyse matérialiste de la politique sexuelle de la technologie
+- Explore la maniere dont les objets sont sexo-spécifique tant dans leur conception que dans leur utilisation
+-

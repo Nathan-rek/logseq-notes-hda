@@ -1,0 +1,3 @@
+- Examine les intersections de l'impact de la technologies via la conception d'interface et le machine learning [[AI]]
+- [*Feminist Data Set*](https://carolinesinders.com/feminist-data-set/), 2017
+	- Ensemble de données féministes

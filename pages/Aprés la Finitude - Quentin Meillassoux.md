@@ -16,7 +16,7 @@
 	- Corrélationisme: tous courant de penser qui soutient le caractère corrélative de ces rapports.
 		- Consiste à disqualifier toutes toute prétention a considérer lés sphères de la subjectivité et de l'objectivité indépendamment l'une de l'autres
 			- Cercle corrélation comme cette phénomène d'autocontradiction que lorsque qu'on pense un objet en soi on le pense déjà plus en soi
-				- Ensuite il était question de ce demander quelle mode de corrélation est originaire: sujet objet / Langage -référence
+				- Ensuite il était question de ce demander quelle mode de corrélation est originaire: [[Sujet-Objet]] / Langage -référence
 	- **Objet-monde**: La conscience et le language sont des objet unique car il font monde
 		- Francis Woff " *Tout est dedans parce que, pour pouvoir penser quoi que ce soit il faut en pouvoir en  avoir conscience* "
 			- Nous sommes enferme dans une conscience sans pouvoir en sortir: le langage par exemple

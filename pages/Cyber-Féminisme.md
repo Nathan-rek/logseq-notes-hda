@@ -3,6 +3,7 @@
 - Pense la façon dont le patriarcat avec la technologies pense le corps féminin
 	- Critique la non-participation des femmes dans les discussion liée au technologies
 	- Souligne la nature masculine de la technoscience
+	- La place des femmes dans le développement technologiques
 - Donna Haraway
 	- [*Cyborg Manifesto : Science, Tehcnology and Socialist-Feminist in the Late Twentieth Century*](https://www.sfu.ca/~decaste/OISE/page2/files/HarawayCyborg.pdf)
 		- L'informatique de la domination
@@ -13,3 +14,7 @@
 			- Ne s'identifie pas a une origine il peut se lier à plusieurs choses
 - Cyborg
 	- Figure central de la science-fiction qui décrit un être humain moitié organique moitié cybernétique dont les fonction physiologiste sont améliorés par des modification biochimiques et électroniques
+	- Ne s'identifient pas à leur origine ni à la nature, afin de développer un sentiment de compréhension à travers les différences entre eux et les autres
+- Internet feministe
+	- https://www.feministinternet.com/
+	-

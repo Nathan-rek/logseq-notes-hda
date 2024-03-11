@@ -2,7 +2,7 @@
 	- Mode de gouvernance qui se situe dans un [[Colonialisme]] de peuplement tardif libérale
 		- Forme de gouvernance coloniale et économique
 - Travaille avec le collectif Karabing Film Collective
-- Le dualisme pose l'humain..e comme sujet et la nature comme objet est un principe géologique
+- Le dualisme [[Sujet-Objet]] qui pose l'humain..e comme sujet et la nature comme objet est un principe géologique
 - La distinction Vie et Non-vie est un principe nécessaire au mode de pouvoir occidentale
 	- La figure du desert
 		- Espace où la vie n'est plus
