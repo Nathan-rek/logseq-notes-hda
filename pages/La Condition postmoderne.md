@@ -1,4 +1,4 @@
-- JFL écrit le livre sous commande pour établi un rapport sur l'état du savoir
+- JFL écrit le livre sous commande pour établi un rapport sur l'état du savoir a l'ère de la [[Post-Modernité]]
 	- Marxiste et militantisme
 	- Dans ce rapport il regarde l'évolution du savoir dans un monde post-industrielle
 		- Le savoir change de nature et cela implique des bouleversements politiques
@@ -21,11 +21,14 @@
 			- Pour Lyotard cette dissolution du lien social comme un atomisation de la société est une vision utopique d'une société organique. Or pour Lyotard notre tissu de relation est visible et présent vie nos jeu de langages
 - ## Métarécits
 - Le discours scientifique à un problème de légitimisassions
-	- Une légitimisassions qui est légitime par un discours qui lui n'est pas scientifique mais par un métarécit ( dans le cas de la science c'est le progrès )
+	- Une légitimisassions qui est légitime par un discours qui lui n'est pas scientifique mais par un métarécit ( dans le cas de la science c'est le progrès ) forme d'incrédibilité de la sciences
 	- La chute de ses métarécits de la [[Modernité]] à bouleverser le discours scientifiques
 		- L'un des points qui a faillit c'est le faite que le discours scientifique se justifie par son performativité
 		- Le champ lexicale utiliser pour parler de la société a évoluer il est passez d'un champ lexicale biologique a cybernétique ou informatique ( on ne parle plus de corps mais de système)
 	- La légitimation c'est souvent fait par des discours narratifs
+- On doute de la surpuissance de l'individu rationnel de l'esprit universelle de Hegel
+	- Comment avoir encore confiance dans la raison
+	- Grand doute dans le savoir, bouleversement épistémologiques
 - ## [[Les Immatériaux 1985]]
 -
 -

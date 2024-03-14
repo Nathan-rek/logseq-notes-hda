@@ -1,0 +1,1 @@
+- S'emparent de canon de la culture classique et le fait fusionner avec de matériaux non légitimes (bout de rubikscube)

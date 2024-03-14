@@ -1,0 +1,8 @@
+- Pratique qui c'est vu chargée d'une forte charge de revendication politique présente dans l'espace publique
+- Pratique souvent rallier au vandalisme (dégradation de bien public)
+- L'intérêt de l'étude culturelle du Street-art s'est vu légitimer cette pratique
+	- Une esthétique intègre le monde de l'art et les instituions et se demande si elle à encore du sens car n'est plus revendicatrice et devient juste un style graphique
+	- Déplacement de la culture urbaine dans le champ de l'art qui se veut hermétique
+- Street-art maintenant participe à la gentrification de certains quartiers
+- [[Banksy]]
+- [[Invader]]

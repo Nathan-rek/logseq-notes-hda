@@ -1,6 +1,6 @@
 - Object Oriented Philosophy : refuse de réduire les différent objet a l'expression d'une substance uniques
 	- Il s’ensuit une ontologie plate, où tout existant est un objet et où tout objet est irréductible à n’importe quel autre
-	- L'enjeu est dans les condition d'interactions entre les différent objets en évitant à la fois de faire disparaitre les parties dans le tout
+	- L'enjeu est dans les conditions d'interactions entre les différents objets en évitant à la fois de faire disparaitre les parties dans le tout
 		- Dans ces conditions, les objets n’interagissent pas directement, mais au moyen de certaines propriétés sensibles se manifestant dans le cadre d’un rapport particulier
 			- Autrement dit, les objets sont doués d’une certaine capacité de « sentir », « percevoir », « connaître » les autres dans le cadre d’une relation particulière,
 	- On aboutit en conséquence à une perspective anti-anthropocentrique où l’humain n’est pas l’auteur de l’ordre de la réalité phénoménale, voire le point de vue privilégié, mais un des objets dont la modalité de relation au monde ne diffère pas essentiellement de celle de tout autre.

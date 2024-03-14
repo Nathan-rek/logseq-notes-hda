@@ -1,0 +1,7 @@
+- Participe à une chaine de coopérations
+- La réception critique populaire du travail de Banksy peut être problématique
+	- L'espace publique devient une espace qui se veut sacralisé et quitte les enjeux du street art
+- Légitime la pratique du street-art un dehors et dedans du street art qui dérange
+- Banksy Peckham Rock: ![Banksy hoax caveman art to go back on display at British Museum](https://c.files.bbci.co.uk/5595/production/_101590912_banksy_hoax_brit_museum2.jpg)
+- Un dessin vendu 60$ vendu dans la rue en vaut 160 000$ quand vendu dans le monde de l'art
+- Rend compte du process de légitimation du monde de l'art

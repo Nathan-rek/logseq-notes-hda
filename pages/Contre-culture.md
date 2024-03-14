@@ -34,22 +34,38 @@
 	- [[Gustav Metzger]]
 - La contre-culture à comme limite de crée des sous-cultures qui elles peuvent renforcer l'industrie culturelles
 - D'autres formes de production culture plus contestataire devienne complètent intègre à un écosystème globale qu'a un moment voulait combattre: La BD, Le cinéma ( comme théâtre filme, forme de rhétorique de légitimation de pratique culturelle)
-- Fabien Hein commente que la culture Punk peut être perverse:
-	- la figure du punk contestataire est celui qui cherche l'alternatives mais certain figure emblématique en trouvant une place dans leur monde devienne de vrai produit musical qui appartiens à une industrie culturelle
+- Fabien Hein *Do it Yourself: autodétérmination et culutre punk*:
+	- Commente que la culture Punk peut être perverse
+	- La figure du punk contestataire est celui qui cherche l'alternatives mais certain figure emblématique en trouvant une place dans leur monde devienne de vrai produit musical qui appartiens à une industrie culturelle
 		- Cree un nouveau marché dans le marché globales: Celui qui s'autodétermine avec le [[Bricolage]] rentre dans l'idée néo-libéraliste
 		- La culture Punk est un produit de la culture néo-libérale
+			- Contribue à la multiplication des cultures légitimées
 - La légitimisassions de la culture
-	- Bourdieu constate les différente valorisation de la culture. Dans les école la littérature classique est plus légitime que l'histoire des musiques rock
-		- Se base sur les nouvelle outils de la static
+	- Bourdieu constate les différente valorisation de la culture. Dans les écoles la littérature classique est plus légitime que l'histoire des musiques rock
+		- Se base sur les nouveaux outils de la statistique: 3ème vague de la culture de la sociologie
 	- L'espace social est fait de différent champ social
 		- Un champ est toujours conflictuelle: sociologie de la domination
 	- Habitus: bagage culturelle hérite et qui se construis et définit notre habitus futur
 	- Capital: comme ensemble des référence culturelles qui est inégale.
-		- Capital Culturelle objectivé: Ensemble des objets culturelles
+		- Capital Culturelle objectivé: Ensemble des objets culturelles sans forcément les activés
 		- Capital Culturel Institutionnelle: Tout ce qu'une institution peut donner
 		- Capital Culturel Incorporé: Les ressources que l'on disposent qui permettent d'activer le capital culturelle objectivée
 	- Cette inégalité peut provoquer des rapports de force violents
 		- *La disticntion*: on consomme de la culture pour se positionner socialement
-	- La vision binaire de Bourdieu se voit tres caricaturale
+	- La vision binaire de Bourdieu se voit très caricaturale
 		- Face à cela un éclectisme culturel (qui est surtout vrai dans un certain niveau de la population), omnivorie culturelle
-		- la culture des individus dissonances culturelles et distinction de soi : L'antogonie culturelle de Bourdieu se trouve assez changer
+		- la culture des individus dissonances culturelles et distinction de soi : L'antogonie culturelle de Bourdieu se trouve assez changé
+		- Bernard Lahire *La culture des individus*
+		- On n'échappe à notre classe social mais nous sommes une somme des classes que l'on rencontrons
+		- Dilution de la légitimité culturelle
+			- Concurrences de instituions qui vont légitimer des biens différents
+			- Augmentation des consommations privés, on peut consommer sans êtres vu
+- ## [[Street-art]] et [[Skate]]
+- Ce veut des pratiques qui dégradent l'espace public
+- Qu'elle contestation dans l'art à l'ère contemporaine
+- *Révolte consommé le mythe de la contre culture*
+	- Depuis le néo-transcendentaliste
+	- Figure du non-conformisme participe au mythe de l'individu libres
+	- Le non-conformisme se veut vendeur notamment dans les [[Industries Culturelles]]
+- [[The Yes Men]]
+-

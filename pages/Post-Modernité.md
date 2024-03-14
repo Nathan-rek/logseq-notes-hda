@@ -1,8 +1,25 @@
-- Fin de la modernité
+- Fin de la modernité, faille de l' [[Utopie Moderne]]
 	- On ne rêve plus de faire un monde avec rien on fait un monde avec
-- Cette transition accompagne la transition de capital entre L'europe qui centralise les pratique d'avant gardes et Les USA qui commence a prendre de plus en plsu d'importance
-	- En 1964 La biennale de Venise attribue à [[Robert Rauschenberg]] le prix le plus important pour ses ((65480be3-db0d-4b16-af81-2255a4ecd935))
+		- Culte du maintenant
+			- Une figure hédonisme apparait
+	- La société démocratique pluriel fragmente la société en groupe sociaux et fragmentation de l'individu
+		- Omnivorie culturelle, pluri-identité
+- La figure post moderne peut introduir au néotribalisme
+	- Necesite de vouloir appartenir a une culture
+		- La culture techno signe de ce néo tribalisme
+			- Malgré l'indivudualime exacerber il faut quand meme se ratacher à quelque chose
+- Gilles Lipovestky: l'ère du vide
+	- Ne considère plus la postmodernité mais l'hypermodernité
+		- Toutes est vérité, tout est superlatif, tout est hyper, exacerbation du tout
+		- Plutôt comme une deuxième phase de la [[Modernité]] des [[Modernité]] avancées
+- Frederic Jameson: *Le post-modernisme ou la logique culturelle du capitalisme tardif*
+	- Le postmodernisme se veut est une époque pénètre pas la culture capitaliste notamment dans le champ de la culture
 - Les acteur..ices du monde de l'art changent
+	- Le langage de l'architecture Post-moderne: Charles Jencks
+		- Contrairement à l'architecture de la modernité on ne pense plus le futur mais on se mêle au langage passéiste
+	- Cette transition accompagne la transition de capital entre L'Europe qui centralise les pratique d'avant gardes et Les USA qui commence a prendre de plus en plus d'importance
+		- En 1964 La biennale de Venise attribue à [[Robert Rauschenberg]] le prix le plus important pour ses ((65480be3-db0d-4b16-af81-2255a4ecd935))
+		- Le langage postmodernité se transforme dans un post-modernisme
 	- Les femmes et les personne racisée sont de plus en plus intégré au monde de l'art
 		- En 1989, le centre Georges-Pompidou et la grande halle de la Villette proposent une exposition “[*Magiciens de la terre*](https://www.centrepompidou.fr/fr/programme/agenda/evenement/cTEXnL)”, qui expose 101 artistes qui ne sont pas occidentaux ou qui sont orienté..es hors occident, en les exposant..e sans jugement hiérarchique.
 			- L'expositon se differencie de [*Primitivism in Twentieth Century Art : Affinity of the Tribal and the Modern*](https://www.moma.org/calendar/exhibitions/1907) qui ne parle juste de l'influence du monde non occidental sur des artiste occidentaux..les
@@ -15,5 +32,5 @@
 	- [[Andy Warhol]]: [*Diamond Dust Shoes*](https://www.sothebys.com/en/buy/auction/2021/contemporary-art-day-auction-2/diamond-dust-shoes), 1980 ![Diamond Dust Shoes | Contemporary Art Day Auction | 2021 | Sotheby's](https://sothebys-md.brightspotcdn.com/dims4/default/f024b33/2147483647/strip/true/crop/2000x1379+0+0/resize/2048x1412!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fc7%2Fb8%2F8e3cee804b6cafdbd2f0d16726d5%2F361n10683-bq9px-01-a.jpg)
 - Une forme de dissolution des classes antogonistes bourgeoise
 	- *“Le postmodernisme va devenir par excellence le règne de l'imaginaire populaire dévoyé par la marchandisation de la culture, sur fond d'une inégalité exponentielle. En sortir est une affaire politique, et non de bilan.”*
-- La post-modernité donnera naissance a une ére de [[L'appropriationnisme]]
+- La post-modernité donnera naissance à une ère de [[L'appropriationnisme]] car le métarécit de [[L'Originalité]] se voit désenchanter pas la post-modernité
 -
