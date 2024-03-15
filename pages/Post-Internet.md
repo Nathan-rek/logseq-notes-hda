@@ -34,4 +34,5 @@
 		- En réponse à l’évolution des conditions d’audience de l’art contemporain, la monté des blogs...
 		  
 		  *« Rien n’est dans un état fixe, tout est autre chose, que ce soit parce que tout objet est capable de devenir un autre type d’objet ou parce qu’un objet existe déjà en flux entre de multiple instance »*
+- [[Parker Ito]]
 -

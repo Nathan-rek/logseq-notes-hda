@@ -4,7 +4,8 @@
 		- CTG Japan: [*Déformation of Sharaku*](http://dada.compart-bremen.de/item/artwork/228)
 			- ![](http://dada.compart-bremen.de/imageUploads/medium/02CTG_Sharaku.jpg)
 			- Cinq techniques distinctes d'échange de coordonnées sont appliquées aux données originales du dessin
-		- Figure 592: CTG Japan :Shot Kennedy No. 1
+		- CTG Japan :Shot Kennedy No. 1, 1967 ![](http://dada.compart-bremen.de/imageUploads/medium/05CTGKennedy67.jpg)
+		  id:: 65481319-eb41-499e-bbee-79a0d7f98c4e
 	- Métamorphose
 		- La même forme se métamorphose en fonction des placement de ligne
 			- CTG Japan:[*Running Cola is Africa!*](http://dada.compart-bremen.de/item/artwork/195), 1968
