@@ -32,7 +32,7 @@
 	- Il y compare un site web dont l’expérience est assez individuelle mais est simultané avec de nombreuses personnes peut être considéré comme une œuvre d’art public autant voir plus réussi qu’un monument niché sur une place urbaine.
 		- L’œuvre d’art public est une forme d’appréciation anachronique. Une appréciation communautaires
 			- Mais cette expérience communautaire est une approche de moins en moins viable.
-				- Il l’illustra avec ironie [ [[Seth Price]] : [*Puppy, after Jeff Koons *](https://zine.artcat.com/2009/04/index.html), 2002 https://zine.artcat.com/upload/2009/04/PricePup%20copy-thumb-300x242.jpg des chiots de [[Jeff Koons]] qui semble utiliser le format d’art public pour y présenter des gestes ‘d’avant-garde’.
+				- Il l’illustra avec ironie [ [[Seth Price]] : [*Puppy, after Jeff Koons *](https://zine.artcat.com/2009/04/index.html), 2002 https://zine.artcat.com/upload/2009/04/PricePup%20copy-thumb-300x242.jpg des chiots de [[Jeff Koons]] qui semble utiliser le format d’art public pour y présenter des gestes ‘d’avant-gardes’.
 		- A l’inverse par exemple l’album de musique qui utilise les mécanismes du capitalisme numérique de libre marché
 			- Ce système de distribution à permit et généralisé l’expérience et la consommation privé.
 				- Pour l’auteur la boucle sera bouclé mesure que les techniques de distribution numérique permettront une personnalisation croissante en fonction des consommateur..ices individuel
