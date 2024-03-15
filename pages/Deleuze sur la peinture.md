@@ -1,7 +1,7 @@
 ## Cours 1981-03-31
-- Qu'est ce que la peinture à en lien avec la notion de catastrophes
+- Qu'est ce que la peinture à en lien avec la notion de catastrophe
 	- Pour Claudel la composition en peinture est un ensemble, mais qui est en train de se déséquilibrer
-	- Deleuze garde ce point de chute,
+	- Deleuze garde ce point de chute
 		- Les pots de [[Paul Cézanne]] sont direct à ce déséquilibre
 			- [[Paul Cézanne]] : [*Pots de Fleur*](https://www.wikiart.org/en/paul-cezanne/flower-pots), 1887 ![Flower Pots, c.1887 - Paul Cezanne](https://uploads4.wikiart.org/images/paul-cezanne/flower-pots.jpg!Large.jpg)
 	- La catastrophe non pas que dans le tableau mais dans l'acte de peindre
@@ -21,13 +21,13 @@
 	- Pour [[Paul Cézanne]] la couleur monte
 	- Pour Paul Klee la nécessité de chaos pour qu'en sorte l'œuf, la cosmogénèse
 - Si la catastrophe est trop grandes et que rien ne sort ?
-- Analyse des rapport de Gasquet sur les parloe de [[Paul Cézanne]], dout sur la parole post-kantienne de [[Paul Cézanne]]qui aurait dit *" je voudrais peindre l’espace et le temps pour qu’il deviennent les formes de la sensibilité des couleurs, parce que j’imagine parfois les couleurs comme de grandes entités nouménales, des idées vivantes, des êtres de raison pure "*
-	- Ce qui importe c'est que [[Paul Cézanne]] présente deux moment dans l'acte de peindre
+- Analyse des rapports de Gasquet sur les parole de [[Paul Cézanne]], doute sur la parole post-kantienne de [[Paul Cézanne]]qui aurait dit *" je voudrais peindre l’espace et le temps pour qu’il deviennent les formes de la sensibilité des couleurs, parce que j’imagine parfois les couleurs comme de grandes entités nouménales, des idées vivantes, des êtres de raison pure "*
+	- Ce qui importe c'est que [[Paul Cézanne]] présente deux moments dans l'acte de peindre
 		- Il nomme le premier **chaos ou abime** et l'autre **catastrophe**
 			- Ce qui sort du chaos puis de la catastrophe c'est la couleur
 	- Le texte de [[Paul Cézanne]] évoque une histoire du monde
 		- La catastrophe est déjà la avant même de peindre
-			- La catastrophe est pré pictural: il image par exemple les squelettes pierreux avant de peindre, "les pierre rouge elle sorte de l'abime" l'abime c'est le chaos
+			- La catastrophe est pré-pictural : il image par exemple les squelettes pierreux avant de peindre, "les pierre rouge elle sorte de l'abime" l'abime c'est le chaos
 				- Avant le tableau l'œil n'est pas il est chaos, il ne voit rient
 				- Ensuite quelque chose sort du chaos: l'armature, la géologie
 				- Deuxième temps: la catastrophe emporte les assises et les plans on repart à zéro
@@ -45,7 +45,7 @@
 	- c'est un cas de synthèse du temps qui devient pictural sur le tableaux
 - Paul Klee et le point gris
 	- *" Le chaos comme antithèse de l’ordre n’est pas proprement le chaos, ce n’est pas le chaos véritable. C’est une notion localisée, relative à la notion d’ordre cosmique. Le chaos véritable ne saurait se mettre sur le plateau d’une balance, mais demeure à jamais impondérable et incommensurable. Il correspondrait plutôt au centre de la balance "*  Paul Klee
-		- Mais le chaos ne se donne pas il est relatif a rien et prend tout
+		- Mais le chaos ne se donne pas il est relatif à rien et prend tout
 			- Le chaos est être néant ou ce non-être est le concept non conceptuel de la non-contradiction
 			- Le chaos se symbolise en un point
 				- Point mathématiques sans taille
@@ -55,11 +55,11 @@
 - L'acte de peindre c'est fixer ce point gris chaos
 	- Ce qui engendre l'ordre, la dimension, l'œuf
 - Francis Bacon
-	- Bacon dit Avant de peindre des chose se sont passé
+	- Bacon dit *Avant de peindre des choses se sont passé*
 		- C'est pour cela qu'il y a catastrophe, catastrophe sur la toile pour se défaire de tout ce qui précède, de tout ce qui pèse
 			- Le peintre doit se débarrasser de ces 'fantômes'
-	- Ce qui les précède c'est les clichés
-		- Le clichés comme des bêtes qui se précipitiez avant que tu peigne
-		- Il faut alors tuer et empêcher tout ca il faut noyer tout ces clichés avant même de peindre
+			- Une toile n'est jamais vierge
+	- Ce qui les précèdes c'est les clichés
+		- Le clichés comme des bêtes qui se précipite avant que tu peignes
+		- Il faut alors tuer et empêcher tout ça il faut noyer tout ces clichés avant même de peindre
 			- *"il faut que le peintre se jette dans cette espèce de tempête, qui va quoi ? Qui va précisément annuler, faire fuir les clichés. La lutte contre le cliché."* Deleuze
-- ## Cours 1981-03-31
