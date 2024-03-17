@@ -1,7 +1,7 @@
-- En se basant sur la thèse de Sébastien BISET, l’art relationnelle fait son émergence dans un contexte artistique particulier.
+- En se basant sur la thèse de Sébastien Biset *"Le paradigme relationnel "*, l’art relationnelle fait son émergence dans un contexte artistique particulier.
   L’œuvre d’art et redéfinit par plusieurs événement.
 - La révolution esthétique de [[John Cage]] notamment au [[Black Mountain College]], une révolution qui s’inscrit dans les considérations philosophique et pédagogique du philosophe John DEWEY.
-	- Une influence qui c’est exprimée et catalysée avec la ((655b5ec9-73b2-4fb7-bb87-9ba83e560892)) [ Figure 313: Xanti SCHAWINSKY: Danse macabre, 1938 ]
+	- Une influence qui c’est exprimée et catalysée avec la ((655b5ec9-73b2-4fb7-bb87-9ba83e560892)) ((655b5ec9-589c-44e1-9115-b112be147357))
 - Le déploiement des stratégies [[Fluxus]] qui ont permis une nouvelle considération du..la spectateur..ice et de l’artiste. ((65439bf5-b9b9-449b-99a2-da38638219c9)) ((65439bf5-bc3b-4313-83cb-e4ac83a0d654)) ((65439bf5-4502-4f69-8893-b13f695b1c10))
 - ###  L’œuvre, L’acteur..ice et Le..a spectateur..ice
 - Rappelons que devant une œuvre d’art, quelle qu’elle soit, chaque consommateur, en réagissant à une « constellation de stimuli », exerce sa sensibilité personnelle (une culture, des goûts, des tendances) qui oriente fondamentalement sa lecture et sa jouissance. Puisque « ce sont les regardeurs qui font le tableau », l’œuvre ne peut être dissociée tant de l’état d’esprit avec lequel on l’appréhende que de son contexte de présentation.

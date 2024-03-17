@@ -11,4 +11,6 @@
 - La violence et la déconstruction était très souvent présente dans les œuvres des Neo-Dada Organizers.
 	- Il cherchait notamment à détruire physiquement les formes conventionnelles de art
 		- En septembre, 1960 ils organisent une performance déconstruction en plein air intitulé *The Bizarre Assembly*. La performance a eu lieu dans leur atelier. C’est lors de cette performance qu’est née une œuvre célèbre du groupe
-			- Ushio SHINOHARA: [*Boxing Art*](https://www.youtube.com/watch?v=IiNKab5RaZQ) > attaque violemment les toiles avec un gant de boxes
+			- Ushio SHINOHARA: [*Boxing Art*](https://www.youtube.com/watch?v=IiNKab5RaZQ)
+			- ![Ushio Shinohara | Boxing Painting, 2009 | Art Basel](https://d2u3kfwd92fzu7.cloudfront.net/catalog/artwork/gallery/1448/photo/US_PA_09_001_350dpi_200mm.jpg)
+				- Attaque violemment les toiles avec un gant de boxes

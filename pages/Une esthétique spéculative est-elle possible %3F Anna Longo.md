@@ -7,11 +7,25 @@
 - il s’agit de redéfinir l’anti-corrélationnisme comme une stratégie soutenant le pouvoir de la raison contre toute limitation établie *a priori* ;
   de l’autre,
 - [[Realisme Materialism Art]]
-- le [[Néo-materialisme]] et l' [[Object Oriented Philosophy]] sont des philosophies spéculatives qui supposent que la réalité phénoménale dépend, pour ce qui concerne sa détermination, d’une réalité métaphysique immanente en tant que raison ultime de l’apparaitre des formes sensibles particulières.
+- le [[Néo matérialisme]] et l' [[Object Oriented Philosophy]] sont des philosophies spéculatives qui supposent que la réalité phénoménale dépend, pour ce qui concerne sa détermination, d’une réalité métaphysique immanente en tant que raison ultime de l’apparaitre des formes sensibles particulières.
 	- Cette instance métaphysique, ou réalité ultime, n’est pas connaissable. On peut seulement la supposer, comme l’indique le caractère
 	  spéculatif de ces philosophies
 		- Ces deux approches ont été considérées comme des positions où la continuité entre l’humain et le non-humain, entre l’organique et l’inorganique, entre la nature et la pensée, est obtenue au prix d’une réduction de la pensée à une fonction partagée par tous les systèmes matériels ou par tous les objets, ce que rendrait de fait le réalisme impossible
 			- Effectivement, si tout pense, au moins à un degré minimal, il devient impossible de connaître l’autre que la pensée, c’est-à-dire le réel dans sa complète indépendance.
-			- Telles sont les critiques régulièrement adressées au [[Néo-materialisme]] et à la [[Object Oriented Philosophy]] par les représentants des approches rationalistes de la spéculation, tels que Meillassoux et Brassier.
+			- Telles sont les critiques régulièrement adressées au [[Néo matérialisme]] et à la [[Object Oriented Philosophy]] par les représentants des approches rationalistes de la spéculation, tels que Meillassoux et Brassier.
 				- Ces derniers, en fait, refusent de projeter sur les objets et sur la nature toutes propriétés caractérisant le sujet, comme la capacité d’agir, de sentir, de vouloir, de créer, etc... et considèrent la réalité comme étant complètement indépendante de l’humain : la pensée est autonome par rapport à la nature, et la nature est autonome par rapport à la pensée.
 					- Suivant les approches rationalistes, il faut donc reconnaître une différence de nature entre matière et esprit
+- La considération de l'expérience esthétique,  dans le cas des philosophies explicite au dessus, se trouve peut propice au paradigme de l'art contemporain comme lieu de production dont les qualités subjectifs seuls viendrait en dialogue avec l'intellect.
+	- Les instruction pieces d'artiste comme Sol Lewitt ou Yoko Ono amorcerait la révolution nécessaire pour ce question esthétique.
+		- Sol LeWitt: [*Drawing Instructions*](https://whitney.org/education/families/kids-art-challenge/sol-lewitt), 1976 ![Drawing Instructions | Whitney Museum of American Art](https://whitneymedia.org/assets/image/822825/large_WMAA_PROGRAMMED_06_PS_SM.jpg)
+		- Yoko Ono: [*22 Instructions for Paintings*](https://www.moma.org/magazine/articles/61):  ![Yoko Ono's 22 Instructions for Paintings | Magazine | MoMA](https://www.moma.org/d/assets/W1siZiIsIjIwMTkvMDQvMjUvN3ZxdTJhZzdmb18zMDAxMzU4ODRfdncxMjZfUklDUl9QcmVzc19Vc2UuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMTE4NHg4ODhcdTAwM2UiXV0/300135884_vw126_RICR-Press%20Use.jpg?sha=ea63d2bc0d10e020)
+		- Avec des pièces qui ne sont pas forcement réalisées et des œuvres qui ne sont pas évaluer par rapport à une expérience sensible ou physique mais dont la liste des condition d'existence réside dans l'intellect
+			- Mais cette art est indifférent du regard de l'autre et n'apporterait aucun jugement esthétique
+				- On serait non pas à la fin de l'art mais à la fin de l'esthétique, entendue comme l’ensemble des jugements rapportant
+				  la représentation au sentiment subjectif
+	- On pourrait en conclure que dans le cadre de la philosophie spéculative récente, l’esthétique se voit menacée de deux manières différentes : d’abord par la tendance à l’esthétisation de toute relation entre acteurs humains et non humains [ Pic a plusieurs pratique New media art], ensuite par la volonté d’éviter toute considération subjective de l’expérience
+- ## Esthétique de la spéculation
+- Pour ce qui concerne le [[Néo matérialisme]] il semble évident que l’image d’une nature dont les formes sont animées par une force vivifiante, où les différents systèmes organiques et inorganiques s’efforcent de se conserver tout en se modifiant réciproquement dans un devenir libre, correspond au point de vue esthétique décrit par Fichte dans la *Doctrine de la science Nova methodo*.
+  id:: 65f5e750-9447-4e9c-a083-1d6411d02b9c
+	- la nature apparait comme construite par une sorte de créativité essentielle, c’est-à-dire comme l’ensemble des productions d’une force (plus fondamentale que les forces actuellement reconnue par la physique) qu’il s’agit de supposer comme principe ultime, comme condition de l’expérience et de la connaissance scientifique
+		- Ici, le point de vue transcendantal correspond à l’intuition de la réalité dans sa totalité comme quelque chose de librement produit par une dynamique d’interaction ()qui permet l’émergence des concepts grâce auxquels on construit la représentation scientifique du monde dont on cherche la condition ultime),

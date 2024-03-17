@@ -44,7 +44,7 @@
 - ### Matérialisme Aléatoire
 - L'esthétique relationnelle serait issu d'un matérialisme
 	- Matérialisme au sens matérialisme de la rencontre
-	- Dans un esprit de trans-individualité où chacun..e seraient des êtres constituées d'un ensemble de sous des formes sociales (Marx: l'essence humaines est l'ensemble des rapport sociaux)
+	- Dans un esprit de trans-individualité où chacun..es seraient des êtres constituées d'un ensemble de sous des formes sociales (Marx: l'essence humaines est l'ensemble des rapport sociaux)
 	- Pour Bourriaud l'art se réactualise en permanence par les changements sociaux.
 		- Ce qui reste c'est le jeu ( le jeu de l'art ) c'est ce jeu inter-humain sur lequel il se concentre.
 - Il préconise l'esthétique relationnelle non pas comme une théorie de l'art mais une théorie de la forme.
@@ -65,7 +65,7 @@
 	- Produire une forme c'est inventer des rencontres possibles, recevoir une forme c'est créer les conditions d'un échange
 - L'interactivité de plus en forte apparait aussi dans les arts avec des œuvres qui s'adonnent de plus en plus à des possibilités d'interactions
 	- Question le monde de l'art comme un milieu relationnelle suralimenté de d'inter-connexion. De ce réseaux dense certain..e voit une autonomie ou "c'est l'art qui fait l'art, pas les artistes"
-		- [[Nicolas Bourriaud]] s'oppose à ce cyber-déterminisme car pour lui le [[Monde de l'art]] est alimentés par des pratiques extérieurs, il qualifie donc le réseau de l'art comme poreux et il détermine l'évolution du [[Monde de l'art]] par le rapport de ce réseaux à  avec l'ensemble des champs de productions.
+		- [[Nicolas Bourriaud]] s'oppose à ce cyber-déterminisme car pour lui le [[Monde de l'art]] est alimentés par des pratiques extérieurs, il qualifie donc le réseau de l'art comme poreux et il détermine l'évolution du [[Monde de l'art]] par le rapport de ce réseaux à avec l'ensemble des champs de productions.
 		- Il y ajoute une historicité de l'art relationnelle.
 			- Dans un premier temps l'art est une interface qui nous met en relation avec le divin ( Humanité - Divin)
 			- Puis l'art est une relation au monde physique ( Humanité et objets )
@@ -77,8 +77,8 @@
 - ## Rendez vous
 - En donnant rendez vous on détermine un instant et un rapport avec quelque chose.
 	- [[Marcel Duchamp]] avait inventer les rendez vous d'art.
-		- Détermine arbitrairement qu'a une certaine heure de la journée, le premier objet se trouvant à sa porté serait transforme en [[Ready-made]]
-- Cette importance du rendez vous comme nouvelle objet esthétique à pousser certain..es artiste a travaillé..e la forme de la carte de visite où l'importance de l'annonce du vernissage ( carton d'invitation )
+		- Détermine arbitrairement qu'à une certaine heure de la journée, le premier objet se trouvant à sa porté serait transforme en [[Ready-made]]
+- Cette importance du rendez vous comme nouvelle objet esthétique à pousser certain..es artiste à travaillé..e la forme de la carte de visite où l'importance de l'annonce du vernissage ( carton d'invitation )
 - Une œuvre comme dispositif relationnel comporte un certain degré d'aléatoire
 	- Braco Dimitrijevic: [*The Casual Passerby I Met at 11.09 A.M. Paris
 	  (Le passant que j'ai rencontré par hasard à 11h09 à Paris)*] , 1971 ![The Casual Passerby I Met at 11.09 A.M. Paris (Le passant que j'ai  rencontré par hasard à 11h09 à Paris) - Centre Pompidou](https://www.centrepompidou.fr/media/picture/bd/d7/bdd7e0075fe6ff567701079ee62ec335/thumb_large.jpg)
@@ -88,7 +88,7 @@
 		  id:: 656fa6a2-78a9-4ee5-a943-4fd582ff6d6d
 - Pour [[Nicolas Bourriaud]] les pratiques des années 1990 reprennent cette problématique mais n'ont pas question de la définition de l'art
 	- Le but est plus d'éprouver les capacités de résistance de l'art à l'intérieur du champ social global
-- La fin des [[Utopie Moderne]] à créé des micro utopies quotidiennes. Dans une société où la marginalisation est une forme impossible voir régressive.
+- La fin des [[Utopie Moderne]] à créé des micro-utopies quotidiennes. Dans une société où la marginalisation est une forme impossible voir régressive.
 	- *" Autant je pense qu'il est illusoire de miser sur une transformations de proche en proche de la société, autant je crois que les tentatives microscopiques, type de communauté, comites de quartier ..... jouent un rôle absolument fondamental" Félix Guattari*
 	- L'art aujourd'hui peut être une ligne de fuite individuelle et collectives
 - Les artiste s'emparent donc des lieux et des gens pour établir des systèmes de relation dénués de toutes formes autres que la relation elle mêmes. ((65671acb-50e5-42ca-b4e2-c52fec4cc100))
@@ -135,7 +135,7 @@
 		- Une œuvre qui n'expose pas son processus de construction, mais la forme de sa présence parmi un public
 	- Cette problématique de la disponibilité de l'œuvre est pour [[Nicolas Bourriaud]] fondatrice de sens au cœur de l'esthétique contemporaine.
 - Sur cette héritage de l'intersubjectivité et la place dominante de l'intérêt à la relation à l'autre il place des artistes comme Dominique Gonzales-Foerster et Jorge Pardo notamment dans leur utilisation de la couleur comme socle commun d'intersubjectivité comme le ferait [[Felix Gonzalez-Torres]] avec le rouge dans ((65776d08-5d4b-4d7b-aa1f-f2752977014c))
-- Les oeuvres ont pour point commun
+- Les œuvres ont pour point commun
 	- *"leur faculté a produire le sens de l'existence humaine ( indiquer des trajectoires possibles) au sein de ce chaos qu'est la réalité"*
 		- Le concept de sens est critiqué car le sens est notion qui se préétablie et une affiche de papier dans un cas prend sens que quand il a échange entre humain..es
 		- Cette incertitude va pour [[Nicolas Bourriaud]] à l'encontre du marché de l'art car dominé par un système capitaliste où le dollar prévôt ( in god we trust) l'incertitude dans le sens ne peut exister de façon viable dans un marché comme celui de l'art.
@@ -155,6 +155,5 @@
 			- Contrairement à la critique de Fried dans [[Art et Objectité]] la participation oculaire du..la regardeur..euses dans l'espace n'est pas qu'un présence arbitraire physique mais ses sa complète présence et participation qui est mis en jeux
 				- [[Felix Gonzalez-Torres]] [*"Untitled" (Arena)*](https://www.felixgonzalez-torresfoundation.org/works/untitled-arena), 1993 ![Felix Gonzalez-Torres | | Flash Art](https://flash---art.com/wp-content/uploads/2016/12/Felix-Gonzales-Torres3_FlashArt-720x725.jpg)
 				- Ce n'est pas que compléter l'œuvre par le regard c'est y entreprendre un rapport d'intersubjectivité entre les formes mises à disposition et la réponse émotionnelle sociale et comportementale
-	- Là où la [[Modernité]] a mis à mal le groupe sous le prétexte de l'aliénation collective il faut en ces temps contemporains faire un synthèse des modes d'être ensemble.
+	- Là où la [[Modernité]] à mis à mal le groupe sous le prétexte de l'aliénation collective il faut en ces temps contemporains faire un synthèse des modes d'être ensemble.
 	- L'art contemporain déplace l'aura de l'œuvre elle n'est plus dans son origine mais dans son effet.
--

@@ -1,4 +1,4 @@
-- le néo-matérialisme cherche à actualiser le matérialisme classique, lié au mécanisme par rapport au avancées de la science
+- le néo matérialisme cherche à actualiser le matérialisme classique, lié au mécanisme par rapport au avancées de la science
 	- Basée sur des philosophies comme Deleuze, Simondon, Nietzsche...
 		- Systèmes expliquant le devenir comme l'expression d'une puissance naturelle immanente, laissant émerger les êtres déterminés comme des différences ne cessant de se modifier réciproquement.
 - La matière est alors réalité ultime dont tout être particulier dépend et, à la fois, comme ce qui n’existe pas hors de ses productions particulières.

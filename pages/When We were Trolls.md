@@ -1,7 +1,7 @@
 - <a name="__refheading___toc7341_275591901 copie 1 copie 1 copie 1 copie 3 copie 1 copie 1"></a>[When We Were Trolls](https://vimeo.com/365940777) est une exposition de Caroline Delieutraz à la galerie 22,48 m² dans laquelle elle s’intéresse à la part sombre d’internet par le biais de la figure du « troll[». Une démarche que l'on peut qualifier de [[Post-Internet]] car la culture web se voit traiter dans une domaine artistique
 - Créant un personnage nommé [Aurélien](http://delieutraz.net/aurelien-fr/) et navigant dans son disque dur
 	- Caroline Delieutraz : [*Aurélien \[ détail \]*](https://www.2248m2.com/carolinedelieutraz?lightbox=dataItem-k10wj3g3), 2019
-	- Pour Philippe BETTINELLI ( commissaire d’exposition et critique ) Aurélien est un personnage se désignant lui-même comme sociopathe, à partir d’éléments dont le statut oscille, par l’activité même du troll et l’anonymat qu’elle présuppose, entre la pièce à conviction et le trophée
+	- Pour Philippe BETTINELLI (commissaire d’exposition et critique) Aurélien est un personnage se désignant lui-même comme sociopathe, à partir d’éléments dont le statut oscille, par l’activité même du troll et l’anonymat qu’elle présuppose, entre la pièce à conviction et le trophée
 		- Caroline Delieutraz : [*Monologue \[ Aurélien \]*](http://delieutraz.net/aurelien-fr/2021-aurelien-fr.pdf), 2019 ![](https://static.wixstatic.com/media/d26af2_40855c008dc94dc8a5a812efc4c2d24d~mv2.jpg/v1/fill/w_405,h_720,al_c,q_80,usm_0.33_1.00_0.00,enc_auto/d26af2_40855c008dc94dc8a5a812efc4c2d24d~mv2.jpg)
 			- Dans ce monologue le personnage se désigne comme sociopathe
 				- Il y décrit tout les traits de sa personnalité qui fait de lui un sociopathe
