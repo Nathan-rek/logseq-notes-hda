@@ -2,7 +2,7 @@
 - [[Jeff Koons]] se figure dans l'image de l'artiste super star que [[Andy Warhol]] a conçu et pensé lors de sa carrière
 - L'art de la [[Post-Modernité]] ne se range plus à travers des mouvement mais des artiste phare comme le sont ces trois artistes
 - L'esprit de la factory à fort influencé [[Jeff Koons]] célébre pour ne pas toucher ses œuvres et travailler avec un grand nombres d'assistant..es
-- Les trois artiste emploi des formes issu de style d'avant gardes
+- Les trois artistes qui emploient des formes issu de style d'avant gardes
 	- Damien Hirst: Dequalinium Chloride, 2016 https://cdn.sanity.io/images/dqllnil6/production/537b6eca8c43b46982da4c2af786fb1124592d0a-1200x995.jpg?w=1920&q=60&auto=format
 		- Renvoi au [[Color-Field Painting]] et au technique picturale d'exploration de la couleur mais avec une certain ironie car le procès est très loin de la spontanéité que peuvent représenter les peintres de l' [[Expressionnisme Abstrait Américain]]
 	- [[Jeff Koons]]: Equilibrium: https://cms.guggenheim-bilbao.eus/uploads/2021/03/Jeff-Koons-1985-One-Ball-Total-Equilibrium-Tank-Spalding-DrJK-241-Series.jpg

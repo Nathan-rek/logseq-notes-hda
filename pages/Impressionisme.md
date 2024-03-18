@@ -7,7 +7,8 @@
 		- La scène en arrière-plan est directement reprise d’un gravure de GOYA: [*La Tauromaquia*](https://fr.wikipedia.org/wiki/La_tauromaquia), 1816 ![undefined](https://upload.wikimedia.org/wikipedia/commons/9/94/La_muerte_de_Pepe-Hillo.jpg){:height 310, :width 450}
 		- fait poser ses personnages devant des images ils les reconstruits les incrustent.
 - Tableau polémique:
-	- MANET: [*Le Déjeuner Sur L’herbe*](https://fr.wikipedia.org/wiki/Le_Déjeuner_sur_l%27herbe), 1863 ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/%C3%89douard_Manet_-_Le_D%C3%A9jeuner_sur_l%27herbe.jpg/1024px-%C3%89douard_Manet_-_Le_D%C3%A9jeuner_sur_l%27herbe.jpg)
+	- Manet : [*Le Déjeuner Sur L’herbe*](https://fr.wikipedia.org/wiki/Le_Déjeuner_sur_l%27herbe), 1863 ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/%C3%89douard_Manet_-_Le_D%C3%A9jeuner_sur_l%27herbe.jpg/1024px-%C3%89douard_Manet_-_Le_D%C3%A9jeuner_sur_l%27herbe.jpg)
+	  id:: 65d3770e-5e8a-462d-8e8e-d94c1f7c56c3
 		- présenter au salon : critique l’irréalisme de la scène:
 	- MANET: [*Olympia*](https://fr.wikipedia.org/wiki/Olympia_\(Manet\)), 1863 ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Edouard_Manet_-_Olympia_-_Google_Art_Project_2.jpg/1024px-Edouard_Manet_-_Olympia_-_Google_Art_Project_2.jpg){:height 313, :width 450}
 	  id:: 6564d3ba-c961-4551-86a5-7ddca48e4602

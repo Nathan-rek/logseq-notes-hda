@@ -4,6 +4,10 @@
 	- Critique la non-participation des femmes dans les discussion liée au technologies
 	- Souligne la nature masculine de la technoscience
 	- La place des femmes dans le développement technologiques
+- La cyber-féminisme à tendance à plus s'expérimenter dans le soft-ware
+	- [[Shu Lea-Cheang]] ((65dc9352-8599-45eb-9169-7e78770d9ffe))
+	- ou à travers des logiciel de production visuel:
+		- [[Eden Tinto Colins]] ((65f83291-1373-4cd4-8459-d0cb4e8ed1c3)) / [[Shu Lea-Cheang]] I.K.U
 - Donna Haraway
 	- [*Cyborg Manifesto : Science, Tehcnology and Socialist-Feminist in the Late Twentieth Century*](https://www.sfu.ca/~decaste/OISE/page2/files/HarawayCyborg.pdf)
 		- L'informatique de la domination
@@ -17,4 +21,5 @@
 	- Ne s'identifient pas à leur origine ni à la nature, afin de développer un sentiment de compréhension à travers les différences entre eux et les autres
 - Internet feministe
 	- https://www.feministinternet.com/
-	-
+- [[Antye Guenther]]
+-

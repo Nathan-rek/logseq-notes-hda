@@ -63,3 +63,70 @@
 		- Le clichés comme des bêtes qui se précipite avant que tu peignes
 		- Il faut alors tuer et empêcher tout ça il faut noyer tout ces clichés avant même de peindre
 			- *"il faut que le peintre se jette dans cette espèce de tempête, qui va quoi ? Qui va précisément annuler, faire fuir les clichés. La lutte contre le cliché."* Deleuze
+- Le diagramme devient une zone d'effacement de ces clichées préalables pour ouvrir de nouvelles possibilités
+	- Le diagramme est ce qui permet aux peintres de crée des formes, il s'apparente au style et est propre à chacun..e.
+	- *Un diagramme c’est une possibilité de fait*
+- ## Cours 1981-03-31
+- Encre une chronologie de la peinture avec le pré-picturale [texte de [[Paul Cézanne]] ] le chaos germe, diagramme et ce qui sort du diagramme
+	- la lutte contre le fantôme ou contre les donnés, l’instauration du diagramme ou du chaos catastrophe et, ce qui en sort, à savoir : le fait pictural.
+- Parallele entre le *datum *et le *factum* de Kant le *donnés* et le *fait*
+	- Le donné serait le temps pré-pictural: se pose la  question: Qu’est-ce qui est donné sur la toile avant que la peinture ne commence ?
+- Retour sur la page blanche qui n'est jamais vide car déjà pleine, pleine de clichés
+	- Dans un monde de simulacre le clichés est grandissant et rapide
+		- Oscar Wilde *« c’est la nature qui se met à ressembler à tel peintre »*.
+			- met en avant la vitesse avec laquelle un acte de peinture devient un cliché
+		- Il y a aussi les clichés interne, sur les qualités de l'idée en quoi sont elle des idées personnelle ou unique la notion d'idée comme remède au clichées est en fait un remède très biaisée
+- ## La donnés le cliché
+	- Fromanger: [*Le boulevard des italiens*](https://www.artnet.fr/artistes/g%C3%A9rard-fromanger/boulevard-des-italiens-hCsTHKYBdPii6ij6tnNvTA2): ![Boulevard des Italiens par Gérard Fromanger sur artnet](https://www.artnet.fr/WebServices/images/ll00247lldD1kFFgjJECfDrCWvaHBOcVFG/g%C3%A9rard-fromanger-boulevard-des-italiens.jpg)
+	- Accompagné d'un photographe se presse il se balade dans la rue et demande au photographe de scène de rue en noir et blanc. Dans une scène il demandais une douzaine de photo puis ensuite Fromanger en choisit une parmi les douze.
+		- Commence déjà l'acte de peindre: car son choix se base sur une idée qu'il a en tête. Les scènes évoque en lui une couleur et donc dans le choix de la photo il y a déjà acte de peindre
+			- La projection rend la toile déjà rempli d'une vérité
+			- Fromanger fait surgir les clichés pour les mettre sur sa toile afin de les détruire et d’en faire sortir un fait pictural, c’est une manière déjà de les conjurer
+	- On retrouve les trois temps : le moment pré-pictural, cliché, cliché, rien que des clichés. La nécessité d’un diagramme qui va brouiller, qui va nettoyer le cliché, pour qu’en sorte quelque chose
+		- Le diagramme n’étant qu’une possibilité de fait, le cliché, c’est le donné, c’est ce qui donné, donné dans la tête, donné dans la rue, donné dans la perception, donné, donné partout.
+			- Le diagramme intervient comme ce qui va brouiller le cliché pour que la peinture en sorte. Bien. Je retrouve mes trois temps là.
+- Cette *lutte contre le cliché* est assez importante chez [[Paul Cézanne]]
+	- Le texte de Lawrence évoque aussi la capacités de l'artiste à crée ses propres clichés
+	- Cette lutte du clichés de [[Paul Cézanne]] l'a amner a comprend le fait.
+		- [[Paul Cézanne]]: Les pommes, 1890 ![Fichier:Paul Cézanne, Les Pommes. 1889-1800, Sotheby's.jpg — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/c/c9/Paul_C%C3%A9zanne%2C_Les_Pommes._1889-1800%2C_Sotheby%27s.jpg)
+		- Il a compris le *« fait de la pomme »* ce que Lawrence appelle *« le caractère pommesque de la pomme. »*
+			- Cette compréhension du fait n'est pas universelle elle est assez intrinsèque a la formes Lawrence dit que Cézanne peint des femmes avec un caractères pommesque
+				- [[Paul Cézanne]] [*Femme au miroir*](https://www.musee-orsay.fr/fr/oeuvres/femme-au-miroir-16333), 1866 ![Fichier:Femme au miroir, par Paul Cézanne.jpg — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Femme_au_miroir%2C_par_Paul_C%C3%A9zanne.jpg/638px-Femme_au_miroir%2C_par_Paul_C%C3%A9zanne.jpg)
+		- Michel-Ange lui a compris les larges dos d'hommes
+			- Michel-Ange: [*Le jugement dernier*](https://fr.wikipedia.org/wiki/Le_Jugement_dernier_%28Michel-Ange%29) ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Last_Judgement_by_Michelangelo.jpg/800px-Last_Judgement_by_Michelangelo.jpg)
+	- La tâche du peintre, de tout temps, ça a été faire naître le fait pictural, ça a été lutter contre les données
+- Illustrations et narrations
+	- Deux grand danger que Baudelaire définit et que Bacon craint aussi. La figuration est le concept qui regroupe ces deux concepts
+- Les tableaux n'ont rien à figurer il ne sont pas narratifs, d'autres domaines le font très bien. Mais la narration et l'illustration font partis de ces donnés présentes avant de peindre
+	- Ce tendance narrative est parfois trop dominante et presque impossible à dépasser
+		- Jean-Baptiste Greuze: [*Le Fils puni*](https://fr.wikipedia.org/wiki/Jean-Baptiste_Greuze#/media/Fichier:Greuze.jpg), 1778 https://upload.wikimedia.org/wikipedia/commons/6/66/Greuze.jpg
+		- Un tableau inséparable de ça narration
+			- Ce lien est pour Deleuze plus délicat chez nos contemporains
+			  id:: 65f830aa-4d1b-41bf-bec5-fbb34988ac2e
+				- Balthus: [*Le peintre et son modèle*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cazjBkd), 1980 ![Le peintre et son modèle - Centre Pompidou](https://www.centrepompidou.fr/media/picture/33/60/3360c7935566a20787b0f421d1ad9c45/thumb_large.jpg)
+					- l’image est prise, prélevée sur quelque chose qui se passe, il y a que de l'histoire
+- Supprimer la narration et l'illustration c'est le rôle du diagramme et du chaos catastrophe, on surprime des données figuratives car les figurations et les narrations, elles sont données
+	- il faut donc, faire passer les données figuratives et narratives par le chaos catastrophe, par la catastrophe germe, pour qu’en sorte quelque chose de tout à fait autre, à savoir le fait.
+- ## Le fait pictural
+- Qu’est-ce que c’est qu’on pourrait appeler le fait pictural par opposition aux données pré-picturales
+	- ## Le cas de Michel-Ange
+	- Dans le cas de Michel-Ange qu'il se caractérise comme celui qui à montre au grand jour le fait picturale par son indifférence face au sujet
+		- Il est un peintre qui par la négociation avec Jules II et le pape obtient un commande carte blanche.
+		- Michel Ange: [*La Sainte Famille*](https://fr.wikipedia.org/wiki/Tondo_Doni), 1506 ![La Sainte Famille avec saint Jean-Baptiste enfant par - œuvre d'art  analysée en images | Panorama de l'art](https://panoramadelart.com/sites/default/files/filesPanorama/FA201-a-tondo-doni_0.jpg)
+			- Les hommes du fond sont la pour être la et les corps du devant se fondent sans raconter d'histoire
+				- Le position des corps joue exactement le rôle du diagramme. Qui brise avec les données figuratives et narratives pour faire surgir le « fait pictural ». Le « fait pictural », c’est trois corps en une figure.
+		- Michel-Ange: [*Batailles de Cascina*](https://www.italian-renaissance-art.com/Battle-of-Cascina.html) : ![The Battle of Cascina Michelangelo's unfinished masterpiece.](https://www.italian-renaissance-art.com/images/Battle-of-Cascina.jpg)
+		  id:: 65f81de5-a79e-4480-83a1-c28c0b768572
+			- Tableau étant une commande pour célébrer une bataille mais ou la place des soldat est minime il s'empare de la commande pour représenter des corps qui sortent de l'eau
+			- Michel-Ange révèle la capacité des peintres athé..es à arracher des faits pictural au christianisme
+				- ils arrachent le christianisme à toute figuration et narration pour en tirer un « fait pictural ».
+		- Michel-Ange est rallié à l'école des Maniéristes
+	- Le fait pour Bacon par exemple c'est quand il y a plusieurs ou plusieurs niveaux de Figures
+		- Il l'illustra en prennant le tableau de [[Paul Cézanne]]
+			- [[Paul Cézanne]]: [*Les Grandes baigneuses*](https://fr.wikipedia.org/wiki/Les_Grandes_Baigneuses_%28C%C3%A9zanne%29) ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Les_Grandes_Baigneuses%2C_par_Paul_C%C3%A9zanne%2C_Yorck.jpg/1024px-Les_Grandes_Baigneuses%2C_par_Paul_C%C3%A9zanne%2C_Yorck.jpg)
+			- Cree une nécessité de coexistence entre les personnage a travers le fait pictural
+				- Ainsi, le "fait pictural" réside dans cette capacité à créer une composition où plusieurs figures coexistent sur la toile de manière harmonieuse et significative, même en l'absence d'une histoire narrative explicite
+			- Cette coexistence est crucial par exemple dans le cas du ((65d3770e-5e8a-462d-8e8e-d94c1f7c56c3))
+			- Vous l’appréhendez picturalement lorsque vous supprimez toute histoire. Cette histoire ne pourrait être que dégoûtante si il y avait une histoire
+		- Il faut une nécessité pictural: une nécessité qui ne peux venir que de la lumière et de la couleur
+-
