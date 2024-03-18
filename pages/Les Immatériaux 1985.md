@@ -12,8 +12,8 @@
 - # Matériau
 - Le matériau est le support du message
 	- Matériaux: ce sur quoi s’inscrit un message: son support. Il résiste. Il faut savoir le prendre le vaincre. C’était le métier, faire une table avec un arbre
-- Peau:
-	- Nu vain:
+- Peau
+	- Nu vain
 		- Le corps dépouillé. La nudité comme limite du sens comme présence absurde . La chaire remplacée par le matériaux neutre mesurable, démutlitipliable, immatriculable
 		- Douze mannequins asexués, en fond une projection d’une séquence du film Monsieur Klein de Joseph LOSEY
 	- Deuxième peau : La peau naturelle considérée comme premier vêtement, enveloppe protégeant le corps de l’extérieure, elle instaure l’opposition dedans/dehors
@@ -130,7 +130,7 @@
 - Les 46 chromosomes d’un embryon, de multiples combinaison possible. Naître aujourd’hui ne remet pas uniquement en question le droit, la morale, la religion mais aussi des évidences dites «naturelles» tenues pour définitives
 	- Annegret SOLTAU: [*Schwanger*](https://www.artsy.net/artwork/annegret-soltau-schwanger-pregnant), 1980 ![Annegret Soltau | Schwanger (Pregnant) (1980-1982) | Available for Sale |  Artsy](https://d7hftxdivxxvm.cloudfront.net/?height=801&quality=1&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FVBG-RPfNxdDvVYyFYk3Ibw%2Fsmall.jpg&width=801)
 - Négoce Peint
-	- Le tableau a représente le commerce dans sa gloire et dans sa honte. L’artiste peut signifier que l’ouvre est elle même une valeur commercial.
+	- Le tableau a représente le commerce dans sa gloire et dans sa honte. L’artiste peut signifier que l’oeuvre est elle même une valeur commercial.
 		- Quentin METSYS: [*Le prêteur et sa femme*](https://fr.wikipedia.org/wiki/Le_Prêteur_et_sa_Femme), 1514 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Massysm_Quentin_%E2%80%94_The_Moneylender_and_his_Wife_%E2%80%94_1514.jpg/260px-Massysm_Quentin_%E2%80%94_The_Moneylender_and_his_Wife_%E2%80%94_1514.jpg)
 			- L’homme compte l’argent et la femme lit la bible
 		- [[Marcel Duchamp]] : [*Obligation pour la roulette de Monte-Carlo*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cy9Epa), 1924 ![Obligations pour la roulette de Monte-Carlo (André Breton)](https://www.andrebreton.fr/fr/file/205494/raw/HR_56600100131600_1_watermarked.jpg){:height 628, :width 450}

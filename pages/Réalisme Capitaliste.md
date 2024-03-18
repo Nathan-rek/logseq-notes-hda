@@ -1,6 +1,6 @@
 - Le terme a été utilisé en Allemagne, pour décrire l’art marchand du [[Pop Art]] des années 1980 et 1990.il a été utilisé pour décrire l’aspect idéologique et esthétique du capitalisme d’entreprise contemporain en Occident. Il se position aussi en parallèle au Réalisme socialiste développe par L’Union Soviétique
 	- La première apparition du terme est pour une exposition de 1963: Vivre avec le pop – Une démonstration pour le réalisme capitaliste
-		- Avec des œuvres comme Sigmar POLKE, Gerhard Richter, Konrad LUEG.
+		- Avec des œuvres comme Sigmar POLKE, [[Gerhard Richter]] , Konrad LUEG.
 			- Les participants à l'exposition se sont concentrés sur les représentations de la culture de consommation croissante et de la société saturée par les médias en Allemagne avec des stratégies, en partie influencées par celles de leurs homologues Pop Art américains
 				- Gerhard Richter, avant de s'enfuir en République fédérale d'Allemagne en 1961. Dans une lettre Richter parlait non seulement d'un réalisme impérialiste, mais aussi d'un réalisme capitaliste
 				- Qui, suivant la conception anglo-américaine du Pop Art , reconnaît et traite les médias de masse modernes comme un véritable phénomène culturel
