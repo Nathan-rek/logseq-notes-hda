@@ -21,5 +21,5 @@
 	- Ne s'identifient pas à leur origine ni à la nature, afin de développer un sentiment de compréhension à travers les différences entre eux et les autres
 - Internet feministe
 	- https://www.feministinternet.com/
-- [[Antye Guenther]]
+-
 -

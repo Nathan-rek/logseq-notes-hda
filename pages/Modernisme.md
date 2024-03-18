@@ -1,6 +1,6 @@
 - Un fraction de la modernité. Le modernisme est une approche critique de l’art moderne sous un angle formelle.
 - Clément GREENBERG esprit de ce modernisme qui cherche a comprendre l’évolution de l’art moderne
-- A travers des textes comme *Avant garde et Kitsch* - [[Modernist Painting, Clément Greenberg]]
+- A travers des textes comme *Avant garde et Kitsch* ou  *[[Modernist Painting, Clément Greenberg]]*
 	- l’art moderne comme matière réflexif qui  s’oppose au Kitsch qui lui ne propose rien comme discours. La culture populaire est le Kitsch.
 		- Clément GREENBERG y v oit une culture facilement consommable. Il assimile le kitsch à la propagande. Un conception qui rejoint la conception des philosophe de l’école de Francfort
 			- ADORNO pense la ce que la culture produit par les industries culturelles est. Il pense que la culture de masse nous anesthésie. Penser une art autonome, une art qui vit dans son monde propre.
@@ -38,3 +38,5 @@
 	- Fusionne le support et la couleur en crée des papiers de couleur verte. Le support c’est la couleur
 		- Elle se rend aussi compte que la peinture c’est aussi une expérience d’espace
 			- Marthe WERY - Christian KIECKENS, [*1995*](https://cac-synagoguedelme.org/exhibitions/25-)
+-
+-
