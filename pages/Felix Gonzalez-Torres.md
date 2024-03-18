@@ -1,5 +1,5 @@
 ## L'homosexualité comme paradigme de cohabitation
-- Pour [[Nicolas Bourriaud]] ( [[Esthétique Relationnelle]] ) la force de l'artiste réside dans son habilite a instrumentaliser des formes pour  toucher au cœur de l'expérience humaine. L'homosexualité n'est pas un thème discursif mais une dimension émotionnelle
+- Pour [[Nicolas Bourriaud]]la force de l'artiste réside dans son habilite a instrumentaliser des formes pour  toucher au cœur de l'expérience humaine. L'homosexualité n'est pas un thème discursif mais une dimension émotionnelle
 	- Ce n'est pas qu'une affirmation communautaire c'est un mode de vie partageable par tous..tes.
 		- Ce qui génère des formes spécifique qui par exemple se caractérise dans la dualité sans opposition
 			- Le chiffre 2 en est le symbole il est pourtant autre qu'un opposition binaire il est double

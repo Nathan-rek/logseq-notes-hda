@@ -7,7 +7,7 @@
 	- Mike Kelley, Paul McCarthy: *Fresh Acconci*, 1995 ![Mike Kelley, Paul McCarthy | Fresh Acconci | Whitney Museum of American Art](https://whitneymedia.org/assets/artwork/34267/2012_11_still.jpeg) font rejouer la performance de Vito Acconci par des mannequins
 	- [[Pierre Huyghe]] : [*Conical Intersect*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cEzLKe), 1997 ![Light Conical Intersect, Event, Paris - Centre Pompidou](https://www.centrepompidou.fr/media/picture/ca/b2/cab2ab8ba47d653b7b569b983bd83bc4/thumb_large.jpg) : projette un film de Gordon Matta-clark sur les lieux de tournage de se film
 - ### Habiter des styles
-	- [[Felix Gonzalez-Torres]] utilise le vocabulaire de l'art [[Minimalisme]] en les recodant par ses propres intérêts politiques ((65d3770e-1a25-4ab3-8402-a7762f5b422d))
+	- [[Felix Gonzalez-Torres]] utilise le vocabulaire de l'art [[Minimalisme]] en les recodants par ses propres intérêts politiques ((65d3770e-1a25-4ab3-8402-a7762f5b422d))
 	- Maurizio Catellan: [*Sans Titre*](https://www.artnet.com/artists/maurizio-cattelan/sans-titre-zorro-1997-vIIcZACXAzy5OlsWNQ73jg2), 1997 ![SANS TITRE ZORRO, 1997 by Maurizio Cattelan on artnet](https://www.artnet.com/WebServices/images/ll00073lldZkVJFgp2qCfDrCWvaHBOcE2UF/maurizio-cattelan-sans-titre-(zorro),-1997.jpg)
 		- repeint le Z de Zoro mais dans le style de Lucio Fontana
 - ### Usage de l'image
@@ -21,9 +21,9 @@
 	- Daniel Pflumm, [*IKEA*](https://greenenaftaligallery.com/artists/daniel-pflumm), 1999 ![](https://gngallery.nyc3.cdn.digitaloceanspaces.com/media/DP1.jpeg)
 		- lui en fait le matériaux de ses sculptures
 - ### Investir les médias et la mode
-	- Vanessa Beecroft croise la perfomance et le shooting photo de la mode
+	- Vanessa Beecroft croise la performance et le shooting photo de la mode
 		- Vanessa Beecroft: [*VB16*](https://www.sothebys.com/en/buy/auction/2022/contemporary-discoveries-9/vb-16-performance-detail-deitch-projects-new-york) ![](https://www.artwiki.fr/wp-content/uploads/2023/02/VB16_VANESSA_BEECROFT_WP.jpg.webp)
-- Tout ces pratiques ont recoure à des formes déja produites
+- Tout ces pratiques ont recoure à des formes déjà produites
 	- L'œuvre s'inscrit directement dans un réseau de signe et quitte son autonomie
 	- L'oeuvre doit s'initier du milieu ce n'est plus " *que faire de nouveau ?* " mais " *que faire avec ?* "
 		- Créer de la singularité
@@ -35,12 +35,12 @@
 - Dans les années 60 le regard sur la consommation est diffèrent [[Andy Warhol]] s'intéresse à ce qui pousse à l'achat, à l'avant et les nouveaux réalistes comme [[Daniel Spoerri]] s'intéresse aux reliques de la consommation (archéologie de la consommation)
 	- L'idée est d'en dégager une matière iconographique
 	- Ces thématiques évolueront vers les [[Simulationisme]]
-		- [[Jeff Koons]] est convecteur de désire il prend le rôle du marqueteur et crée l'objet du désire en le situant dans des dispostif qui lui ajoute cette valeurs
+		- [[Jeff Koons]] est convecteur de désire il prend le rôle du marqueteur et crée l'objet du désire en le situant dans des dispositifs qui lui ajoute cette valeurs
 			- ((653ee431-a669-4d87-99a6-fc6d40151326))
 - ### Le marché aux puces, forme dominantes de l'art des années 1990
-- La transition entre les années 1980 et 1990 pour [[Nicolas Bourriaud]] peut s'illustrer entre le passage d'une victrine de magasin ([[Jeff Koons]]) a un stand au marché au puces ( Rikrit Tiravanija)
+- La transition entre les années 1980 et 1990 pour [[Nicolas Bourriaud]] peut s'illustrer entre le passage d'une vitrine de magasin ([[Jeff Koons]]) a un stand au marché au puces ( Rikrit Tiravanija)
 	- Un système formel s'est substitué à un autres
-	- Le marché reste une forme une réferenc omnipresente dans l'art
+	- Le marché reste une forme une référence omniprésente dans l'art
 		- Dan Cameron remploi l'opposition Cri et cuit de Claude Lévi Strauss dans son exposition en présentant des artistes qui proposent des œuvres avec des matériaux transformées ( cuit) et d'autres propose des œuvres qui préservent l'aspect singulier de ces matériaux original (cru)
 			- Le marché et le lieu de cette crudité
 			- La masse chaotique du marche et de l'étalage résonne avec le paysage contemporain et son impossibilité de centre
@@ -49,24 +49,34 @@
 - ### Figure du DJ
 	- Avec les déclaration de Guy Deborg soutenu par [[L’international situationniste]] le principes de détournement artistique prend formes
 		- Un [[Ready-made]]-réciproque comme les appelles [[Marcel Duchamp]] en disant utiliser un Rembrant en planche à repasser
-			- Le détournemnt n'est pas une négation de style mais un style de négation
+			- Le détournement n'est pas une négation de style mais un style de négation
 				- Considère les œuvres comme fessant parti d'un décor dans lequel l'on peut piocher des éléments
 		- Contrairement aux artistes de la postproduction le..a situationniste cherchent à changer la valeur des œuvres qu'il..elles prennent en corrompant la valeur de l'œuvre détournée
 	- L'interstices entre production et consommation rétrécit
-	- Le producteur tend vers l'emetteur
+	- Le producteur tend vers l'émetteur
 	- Mike Kelley: Framed & Frame https://i.guim.co.uk/img/media/fcab233a102463516e43b87d39ffeba2e3a3ee7e/0_207_2835_1701/master/2835.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=3908ceccf658fc227df2c6ad5c987fd9
 		- Utiliser les formes pour faire de l'informe
 		- Notre société marche par décontextualisation décrochage, racolage, greffes , transplantations
-			- Le cadre devient marqueru il design ce qu'il faut regarder ile faut un détourage et crée un objet objets et un vertige celui du non-référencé
-			- La haute culture ce base sur le socla et le cadre pour encododer les moyens de présenter l'objets a l'inverse la culture populaire elle est exalteer par le hors limites, la transgression.
+			- Le cadre devient marqueur il design ce qu'il faut regarder ile faut un détourage et crée un objet objets et un vertige celui du non référencé
+			- La haute culture ce base sur le socle et le cadre pour encoder les moyens de présenter l'objets à l'inverse la culture populaire elle est exaltée par le hors limites, la transgression.
 			- Kelley organise des cours circuit entre ces deux maniere d'être
 				- La décontextualisation se présente comme motif de cette pratique. Cela peur permettre de crée des formes en tant qu'outils cognitif car libérés de leur conditionnement originel.
 				- Mike Kelley: [*Garbage Drawing*](https://www.moma.org/collection/works/96315), 1988 https://www.marcjancou.com/custom/media/cache/resolve/enlarge/5ca28a44a5aa2c9e4b8b4567/e5c648c4d3ff555924620e0ff6faeeb6.jpeg
 					- Il décontextualise un dessin issu de commis le frame de sont autour et en fait un dessin presque abstrait car non référencé.
 - ### La formes comme scénario
 - Les formes qui nous entour sont les matérialisation des récit/ scripts d'un capitalisme tardif ( script nos maniere d'être au loisir, travail, amour...)
-- L'artiste d ela postproduction utilsie ses formes nont pas pout les affirmer mais pour les présnete comme des structure possibkement altérnable et réagensable.
+- L'artiste de la postproduction utilise ses formes non pas pour les affirmer mais pour les présenter comme des structure possiblement altérable et ré-agensable.
 	- Il essaie de quitter le régime de ses scénarios collectifs
 - Rikrit Tiravanija permet de rompre la différence de geste du..la regardeur..euse et de l'artiste
 	- Rikrit Tiravanija: Untitled (One revolution per minute), 1996 https://www.leconsortium.fr/sites/default/files/styles/slide_wide/public/TIRAVANIJA%20R%201996%2050_0.jpg?h=4d3ee5e8&itok=RhWa1oLG
--
+- ### L'usage du monde
+- L'expostion devient un lieu de production et non une happy end comme le dit [[Philippe Parreno]]
+	- [[Ozone]]
+	- Dans *Les atelier du paradises* à Air de Paris Pierre Joseph [[Philippe Parreno]] habite l'espace lors de l'exposition et suive un programme lors de la semaine.
+		- Les spectateur..ices sont invité..es à porter des t-shirt permettent à la réalisatrice Marion Vernoux de rediriger l'exposition en temps réelle grave a ce jeu d'identités
+- L'espace de la galerie n'est plus comme pour les artistes [[Art Conceptuel]] un lieu à questionner dans le but de questionner un système idéologiques plus grand.
+	- Certain..es artistes ayant plutôt tendu vers une annihilation de ces lieu ou vers un désacralisation ou un disjonctent
+		- Gordon Matta-Clark: [*Descending Step*](https://www.amc-archi.com/photos/derniers-jours-de-la-retrospective-gordon-matta-clark-au-musee-du-jeu-de-paume,8704/harry-gruyaert-gordon-matta-cl.6): ![Harry Gruyaert Gordon Matta Clark (en reflet) travaillant à Descending  Steps for Batan et Yvon Lambert, Galerie Yvon Lambert, Paris, 1977](https://www.amc-archi.com/mediatheque/2/2/4/000041422_large/harry-gruyaert-gordon-matta-clark-reflet.jpg)
+			- Perce le sol de la galerie Yvon Lombert
+	- Pour ces artistes il s'agit plus de situer ces espaces à l'intérieur des systèmes de production avec lesquelles les relation s'établissent
+		- La galerie est un lieu comme un autres imbriquer dans un mécanisme globale

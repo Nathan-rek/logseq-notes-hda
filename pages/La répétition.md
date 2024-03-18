@@ -1,8 +1,6 @@
 - Cette exposition aux Centre Pompidou Metz s’attache à montrer comment pour de nombreux..ses artistes du 20ème et du 21ème siècles, la création naît de la répétition, par multiplication, accumulation, redoublement ou recommencement. Elle remet en cause l’idée simpliste que la modernité serait caractérisée uniquement par l’invention et l’exception
-  
-  Eric de Chassey : Directeur de l’institut national de l’historie de l’art, commissaire d’exposition
-  
-  Le Centre Pompidou Metz, invite à une libre déambulation à travers les multiples phénomènes de la répétition. Elle se compose en 13 sections comme  les phénomènes de la répétitions
+- Eric de Chassey : Directeur de l’institut national de l’historie de l’art, commissaire d’exposition
+- Le Centre Pompidou Metz, invite à une libre déambulation à travers les multiples phénomènes de la répétition. Elle se compose en 13 sections comme  les phénomènes de la répétitions
 - Essayer :
 	- Jusqu’à la fin du 19ème siècle, la séparation est nette entre l’œuvre d’art et les essaies qui l’ont précédées. Le modernisme met en valeur le caractère progressif du processus de création, conduisant les artistes à ne plus concentrer leurs efforts dans l’exécution d’un ultime chef-d’œuvre, mais plutôt à procéder par suite d’essais d’égales valeurs
 		- François MORELLET: [*1952 x n°4 Quand j’étais petit je ne faisais pas grand*](https://www.centrepompidou.fr/fr/ressources/oeuvre/c888p94) ![1952 x 4 n°4 Quand j'étais petit je ne faisais pas grand - Centre Pompidou](https://www.centrepompidou.fr/media/picture/ad/6f/ad6fb1de597fec6055d97cfff28e0302/thumb_large.jpg)

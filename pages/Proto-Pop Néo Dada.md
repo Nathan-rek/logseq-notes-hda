@@ -1,4 +1,4 @@
-- Apparu dans les années 1950, a la recherche d’une alternative à la peinture gestuelle de se mouvement se caractérise par une fracture plus impersonnel.
+- Apparu dans les années 1950, à la recherche d’une alternative à la peinture gestuelle de se mouvement se caractérise par une fracture plus impersonnel. Il sont considére comme des contemporains aux artistes du [[Pop Art]]
 - ### [[Jasper Johns]]
 - En considérant les «images préexistant» il se concentre sur d’autre niveau d’iconographie.
 - Il incite les spectateur..ices à considérer l’art comme quelque chose d’ordinaire ou de familier

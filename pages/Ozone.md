@@ -1,0 +1,6 @@
+- Ozone est une exposition assez importantes dans la carrière de [[Nicolas Bourriaud]] / [[Philippe Parreno]] Dominique gonzales Foerster et Pierre Joseph
+- Traitant de la couche d'ozone les 3 artistes proposent une exposition en strate d'informations
+- Le..a visituer..euse sont invité..es a travers l'expsotion et d'efffectuer par el..lui-même son montage visuel
+	- Un espace cinégénique où le..a spectateur..ice est invité..e à participer activement à la construction de la signification de l'œuvre d'art
+-
+-

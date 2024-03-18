@@ -12,7 +12,7 @@
   id:: 65671aae-e15a-4486-b07c-c7a39ff4922c
 	- Table de ping pong dont on peut jouer à 4 dessus
 	  id:: 65671ad9-e4e3-4bd3-86ba-7989f7a45008
-- [[Philippe Parreno]] : Snow Dancing, 1995 ![Philippe Parreno | Snow Dancing (1995) | Artsy](https://d7hftxdivxxvm.cloudfront.net/?height=800&quality=85&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fv1HzRO13ZxYSthiT9pEIVA%2Fmain.jpg&width=800){:height 288, :width 223}
+- [[Philippe Parreno]] : *Snow Dancing*, 1995 ![Philippe Parreno | Snow Dancing (1995) | Artsy](https://d7hftxdivxxvm.cloudfront.net/?height=800&quality=85&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fv1HzRO13ZxYSthiT9pEIVA%2Fmain.jpg&width=800){:height 288, :width 223}
   id:: 65671acb-50e5-42ca-b4e2-c52fec4cc100
 	- Texte dans le quelle il traite de la fête dans le contexte de post-modernité. Des individus qui seul constitue une masse lors d'un temps
 	- Il met en scène son texte en organisant une vrai fête, lors de l'exposition on pouvaient voir les traces de la scène ou la fête a eu lieu
@@ -32,9 +32,9 @@
 	- Travaille avec des publics qui ne sont pas ceux du monde de l'art. Tentative de démocratisation de la culture
 - ## Analyse du texte - Esthétique relationnelle
 - [[Nicolas Bourriaud]] déplore un manque d’analyse des pratiques contemporaines de son époque (Années 1990). Il prend comme point de départ des pratiques qui tournent autour des notions d’interactivité de convivialité et de relation.
-- Face au grand voie de la communication comment récrer du contact autrement que par ses voies.
+- Face au grand voie de la communication comment récréer du contact autrement que par ses voies.
 	- Les relations rentreraient dans le système de consommation mis en place par le capitalisme. Cette affections du monde relationnelle est pour Debord le dernier Stade de mutation vers la sociétés de spectacle. [[L’international situationniste]]
-- Bourriaud approche les pratiques contemporaines comme une autre manière d’être au monde réel. Sans être dans l’utopie moderne de crée avec des œuvres une autre réalité imaginaire mais de constituer des modes d’existence ou des modèles d’action au sein du réel existant.
+- [[Nicolas Bourriaud]] approche les pratiques contemporaines comme une autre manière d’être au monde réel. Sans être dans l’utopie moderne de crée avec des œuvres une autre réalité imaginaire mais de constituer des modes d’existence ou des modèles d’action au sein du réel existant.
 	- L’art comme générateur d’interstice sociales. Prenant en compte le rôle de l’urbanisation dans nos rapport au autres. Les artistes contemporain..es face à cela créent et repensent le rapport monde à travers notre rapport à la ville ou aux autre.
 		- Gabriel Orozco: [*Crazy Tourist*](https://www.mariangoodman.com/artists/56-gabriel-orozco/works/39141/), 1991 ![Gabriel Orozco, Crazy Tourist (Turista maluco), 1991 | Marian Goodman](https://artlogic-res.cloudinary.com/w_1680,h_1680,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/mariangoodman/images/view/48e05fa17f7c0a07bebcf778f94cdcf4j.jpg)
 			- Dépose une orange sur les étals d’un marche brésilien désert.
@@ -51,7 +51,7 @@
 	- Forme: unité cohérente, une structure qui présente les caractéristiques d'un monde
 		- De cette forme nait la cohésion durable nécessaire  / La forme comme une rencontre durable
 	- Cette cohésion durable est une condition primordiale qui crée des possibilité de vie nouvelle
-		- Pour Deleuze et Guattari c'est l'art comme un bloc d'affects et de precepts
+		- Pour Deleuze et Guattari c'est l'art comme un bloc d'affects et de préceptes
 			- L'art fait tenir un moment de subjectivité liées à des expériences singulières
 	- La forme de l'œuvre contemporaine est au delà de sa forme matérielle elle est l'élément reliant
 - La forme peut devenir créatrice de dialogue (une forme relationnelle ?)
@@ -157,3 +157,4 @@
 				- Ce n'est pas que compléter l'œuvre par le regard c'est y entreprendre un rapport d'intersubjectivité entre les formes mises à disposition et la réponse émotionnelle sociale et comportementale
 	- Là où la [[Modernité]] à mis à mal le groupe sous le prétexte de l'aliénation collective il faut en ces temps contemporains faire un synthèse des modes d'être ensemble.
 	- L'art contemporain déplace l'aura de l'œuvre elle n'est plus dans son origine mais dans son effet.
+-
