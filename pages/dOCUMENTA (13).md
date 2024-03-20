@@ -1,7 +1,13 @@
-- Carolyne Christov-Bakargiev, commissaire de la Documeta 13, s’est inspirée des idées de Harman [[Object Oriented Philosophy]].
-  L’exposition fut pensée comme un ensemble d’objets hétérogènes dans une perspective « holiste et anti-logocentrique"
+- Carolyne Christov-Bakargiev, commissaire de la Documeta 13, s’est inspirée des idées de Harman [[Object Oriented Philosophy]]. L’exposition fut pensée comme un ensemble d’objets hétérogènes dans une perspective « holiste et anti-logocentrique".
 	- Holisme dans l'importance de comprendre les système dans leur totalité plutôt que simplement en examinant leurs parties individuellement
 	- Le logocentrisme est une notion critique souvent associée à la philosophie de Jacques Derrida, qui critique la tendance occidentale à privilégier la parole (logos) ou le texte écrit comme source principale de connaissance et de signification, au détriment d'autres formes d'expression et de compréhension. Une approche anti-logocentrique, donc, cherche à décentrer cette prédominance du langage verbal et écrit dans la production et l'interprétation des savoirs
-- Refusant donc tout *a priori* concernant la vérité de l'art pour laisser les objets se manifester par leurs propres activités sensibles
-- [[Untilled - dOCUMENTA (13)]]
+	- Refusant donc tout *a priori* concernant la vérité de l'art pour laisser les objets se manifester par leurs propres activités sensibles
+- L'exposition se déroulait a Kassel au Fridericalium et aussi a Kaboul, ou des artistes travaillaient autour de la thématique "afghanes"
+	- L'un des élément de liaisons entre était le travail de Alighiero Boetti ayant longtemps vécu en afghanistan
+		- Alighiero Boetti: [*Senza Titolo (Tra l'incudine e il martello)*](https://www.ilgiornaledellarte.com/articoli/quando-l-afghanistan-era-aperto-al-mondo/137333.html), 1989 https://www.ilgiornaledellarte.com/immagini/IMG2021101819113342_1000.jpeg
+- Cette édition se caracterisait ausis par un retour aux soruces avec un dialogue assez fort avec l'historie de l'art, en donnant a voir des oeuvre oubliés ou passées.
+	- [[Joseph Beuys]] et ses ((653e63b1-925e-43e6-a815-551ac22c526b)) se sont vu réactiver par [[Pierre Huyghe]] dans [[Untilled - dOCUMENTA (13)]]
+	- Le documenta Halle fesait l'objet d'un présentation du travail des années 1950 de [[Gustav Metzger]]
+- L'une des pièces central de cette édition était *The brain* https://www.artforum.com/wp-content/uploads/2012/09/article_large-9.jpg
+	- Rassemblant au centre du Fridericianum un ensemble d’éléments sans lien apparent entre eux, si ce n’est l’idée qu’ils renverraient tous aux choix curatoriaux. Il y avait là une cinquantaine d’objets : des photographies de Lee Miller se baignant dans la salle de bains d’Hitler, des bouteilles utilisées comme modèles par Giorgio Morandi, la maquette d’un des premiers ordinateurs, des poteries paraguayennes, des sculptures fondues lors d’un bombardement à Beyrouth, différentes versions de l’*Objet à détruire* de Man Ray https://www.centrepompidou.fr/media/picture/14/11/14119eeda35fda4c1adbd7d3883882b4/thumb_large.jpg une peinture de [[Gustav Metzger]]  accidentellement détruite… et des «  princesses bactriennes  », sculptures de 4 000 ans en provenance d’Afghanistan
 -

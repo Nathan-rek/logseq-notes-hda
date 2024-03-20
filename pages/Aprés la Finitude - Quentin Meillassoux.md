@@ -7,11 +7,11 @@
 				- Les qualités première serait des qualités inséparables de l'objet des propriétés de l'en soi
 					- Pour Descartes se sont les propriétés de l'entendue et donc peuvent faire l'objet de démonstration géométriques : longueur, larguer , profondeur, mouvement , figure, gradeur
 						- Donc les propriétés mathématisables d'un objet s'exemptent de cette rapport de qualités secondes
-	- Cette thèse se fait invalider par le problème même qu'en la pensant on pense un monde en soi et qu'il n'y a donc pas de qualité première
-		- Autocontradictoire car en la pensant on l'invalide
-			- La pensée ne serait distinguer le monde *en soi* et le monde *pour nous*
-			- Hegel le rappelle nous ne pouvons rien connaitre qui soit au delà de nos relation au monde
-				- Disqualification du réalisme naïf des métaphysiques dogmatiques
+					- Cette thèse se fait invalider par le problème même qu'en la pensant on pense un monde en soi et qu'il n'y a donc pas de qualité première
+						- Autocontradictoire car en la pensant on l'invalide
+							- La pensée ne serait distinguer le monde *en soi* et le monde *pour nous*
+							- Hegel le rappelle nous ne pouvons rien connaitre qui soit au delà de nos relation au monde
+								- Disqualification du réalisme naïf des métaphysiques dogmatiques
 - Corrélation : idée qu'on a accès qu'as la corrélation entre être et pensée et jamais a un de ces termes de façon isolées
 	- Corrélationisme: tous courant de penser qui soutient le caractère corrélative de ces rapports.
 		- Consiste à disqualifier toutes toute prétention a considérer lés sphères de la subjectivité et de l'objectivité indépendamment l'une de l'autres

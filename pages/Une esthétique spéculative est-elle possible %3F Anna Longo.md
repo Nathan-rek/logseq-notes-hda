@@ -1,7 +1,7 @@
 - Développé par des philosophes comme Graham Harman, Quentin Meillasoux [[Aprés la Finitude - Quentin Meillassoux]], Ray Brassier
 - La [[dOCUMENTA (13)]] est forte inspiré de la pensée de Graham Harman.
 	- Influencer qui s'est suivi avec les colloques (*medium is a contingency*) la serie *Speculative Tate*
-- L'anti-corrélationnisme défendu par les différences tendances philosophiques contemporaines [[Aprés la Finitude - Quentin Meillassoux]] qui prétendent accéder a un réel en soi
+- L'anti-corrélationnisme défendu par les différences tendances philosophiques contemporaines [[Aprés la Finitude - Quentin Meillassoux]] qui prétendent accéder à un réel en soi
 	- Ce qui en théorie exclut le *a priori* et donc la pertinences des aspects esthétiques de l'expérience
 	- En effet le l'anti-corrélationsime s'éloigne des conditions subjectives de l'appréciation du réel défendu par le corrélationsime
 - il s’agit de redéfinir l’anti-corrélationnisme comme une stratégie soutenant le pouvoir de la raison contre toute limitation établie *a priori* ;
@@ -18,7 +18,7 @@
 - La considération de l'expérience esthétique,  dans le cas des philosophies explicite au dessus, se trouve peut propice au paradigme de l'art contemporain comme lieu de production dont les qualités subjectifs seuls viendrait en dialogue avec l'intellect.
 	- Les instruction pieces d'artiste comme Sol Lewitt ou Yoko Ono amorcerait la révolution nécessaire pour ce question esthétique.
 		- Sol LeWitt: [*Drawing Instructions*](https://whitney.org/education/families/kids-art-challenge/sol-lewitt), 1976 ![Drawing Instructions | Whitney Museum of American Art](https://whitneymedia.org/assets/image/822825/large_WMAA_PROGRAMMED_06_PS_SM.jpg)
-		- Yoko Ono: [*22 Instructions for Paintings*](https://www.moma.org/magazine/articles/61):  ![Yoko Ono's 22 Instructions for Paintings | Magazine | MoMA](https://www.moma.org/d/assets/W1siZiIsIjIwMTkvMDQvMjUvN3ZxdTJhZzdmb18zMDAxMzU4ODRfdncxMjZfUklDUl9QcmVzc19Vc2UuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMTE4NHg4ODhcdTAwM2UiXV0/300135884_vw126_RICR-Press%20Use.jpg?sha=ea63d2bc0d10e020)
+		- Yoko Ono: [*22 Instructions for Paintings*](https://www.moma.org/magazine/articles/61), 1962  ![Yoko Ono's 22 Instructions for Paintings | Magazine | MoMA](https://www.moma.org/d/assets/W1siZiIsIjIwMTkvMDQvMjUvN3ZxdTJhZzdmb18zMDAxMzU4ODRfdncxMjZfUklDUl9QcmVzc19Vc2UuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMTE4NHg4ODhcdTAwM2UiXV0/300135884_vw126_RICR-Press%20Use.jpg?sha=ea63d2bc0d10e020)
 		- Avec des pièces qui ne sont pas forcement réalisées et des œuvres qui ne sont pas évaluer par rapport à une expérience sensible ou physique mais dont la liste des condition d'existence réside dans l'intellect
 			- Mais cette art est indifférent du regard de l'autre et n'apporterait aucun jugement esthétique
 				- On serait non pas à la fin de l'art mais à la fin de l'esthétique, entendue comme l’ensemble des jugements rapportant

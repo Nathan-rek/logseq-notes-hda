@@ -8,7 +8,7 @@
 			- il s’agit de montrer que la détermination des objets n’est pas une construction humaine ; au contraire, chaque objet se laisse construire par un autre tout en restant irréductible à chaque représentation
 	- Ces propriétés sensibles comme conditions d'interactions concerne une expérience esthétique, ce que Harman appelle philosophie première
 		- [[dOCUMENTA (13)]] / Harman refuse de réduire les objets aux qualités sensibles par lesquelles ils se manifestent, c’est-à-dire les aspects que l’on peut décrire
-			- une véritable expérience esthétique devrait pointer vers l’objet réel inaccessible derrière son apparence sensible
+			- Une véritable expérience esthétique devrait pointer vers l’objet réel inaccessible derrière son apparence sensible
 			- C'est cette séparation entre l'identité inaccessible de l'objet et ses qualité sensibles qui forme pousse les objets à fusionner dans un troisième
 - Contrairement au [[Néo matérialisme]] ici ne se concentre pas sur le devenir d'un réseau de relation mais que contraire d'un "*paradigme non relationelle*"
 	- l’impossibilité d’épuiser les objets par l’énumération des relations sensibles dans lesquelles ils peuvent entrer

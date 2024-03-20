@@ -84,3 +84,4 @@
 - En 1877 Sir Francis GALTON [^83]. Crée une procédure de réalisation de photo composites. Fabriquées par un processus d’enregistrement et d’exposition successif de portrait sur une seul plaque les composites de GALTON étaient censées constituer des moyennes statistiques représentant des types d’humain..es (Criminel..les, juif..ve, anglais..e, et autres)
 	- Pour GALTON «les visages idéaux obtenus par la méthode du portrait composite semblent avoir beaucoup en commun avec… les idées dites abstraites»
 		- Il été convaincu qu’il donnait une forme matérielle tangible aux idées abstraites
+-
