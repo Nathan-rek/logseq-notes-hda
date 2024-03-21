@@ -1,12 +1,14 @@
 - Certain..e place les débuts du pop art en 1956 avec
-	- Richard Hamilton qui compose son collage Just what was it that made yesterday’s homes so different, so appealing?, 1956 ![](https://media.tate.org.uk/art/images/work/P/P11/P11358_10.jpg)
+	- Richard Hamilton qui compose son collage
+		- Richard Hamilton: Just what was it that made yesterday’s homes so different, so appealing?, 1956 ![](https://media.tate.org.uk/art/images/work/P/P11/P11358_10.jpg)
 	- Avec des images provenant de magazine et de journaux collectées par l’artiste John McHALE
 	  *«Nous ne ressentions pas d’animosité pour la culture commerciale qui étais de mise chez les intellectuels, mais acceptions cette culture comme un fiat inéluctable, en discutions dans le détail et en faisions une consommation enthousiaste»*
 	  Lawrence Alloway1: critique, à propos de la pensée du pop art
 - Le pop-art est un mouvement qui s’est fortement inscrit au Etats-Unis de part l’héritage américain [[Proto-Pop Néo Dada]] qu’il possède. De-plus les Etats-Unis ont été une nation qui a fortement contribué à développer les sujets et les intérêts du pop art. Le Pop-art à beau être pratiqué par des artistes autres qu’américain..e une majorité des considérations du pop-art prennent leur source de la culture américaine: personnalité, style, sujet, objet.
   id:: 653ee9a5-6c53-48eb-8f26-96c303edb2dc
 - Le drapeaux américain lui même s’invite dans les images à traiter par les artistes pop art:
-	- Entre les ((653ece31-c93e-42a6-bea8-02fe7b6725c8)) et le [[Roy Lichtenstein]]: Forms In Space, 1965 ![Forms In Space - Roy Lichtenstein - Guy Hepner | Art Gallery | Prints for  Sale | Chelsea, New York City](https://www.guyhepner.com/wp-content/uploads/2016/08/Forms-In-Sapce.png),
+	- Entre les ((653ece31-c93e-42a6-bea8-02fe7b6725c8)) et le
+	- [[Roy Lichtenstein]]: Forms In Space, 1965 ![Forms in Space par Roy Lichtenstein sur artnet](https://www.artnet.fr/WebServices/images/ll70149lldOy9GFgaSeR3CfDrCWvaHBOcoKaE/roy-lichtenstein-forms-in-space.jpg)
 - Le drapeau américain est à la fois symbole et sujet. L’intégration d’icône nationale comme le drapeaux reste un processus très vaste et compliqué, il peut résulter de la simple citation, à la déconstruction ou simple sujet visuel
 - ## Sujets
 - Images
@@ -20,8 +22,10 @@
 	- [[Andy Warhol]]: Paramount (F. & S. II.352), 1985 ![ANDY WARHOL | PARAMOUNT (F. & S. II.352) | Prints & Multiples Evening Sale  | 2019 | Sotheby's](https://sothebys-md.brightspotcdn.com/bc/bd/c67547184058b8787da3c5790192/n10053-16-web.jpg)
 - Objet de la vie quotidienne, objet de consommation
 	- L’arrivé de la culture fast-food dans la culture populaire et son hyper commercialisation a inspiré des artiste Pop art comme pour Claes Oldenburg qui proposera plusieurs sculptures traitant de ce phénomène
-		- Allant du Burger, symbole iconique de ce phénomène avec Floor Burger (Giant Hamburger) ![JOURNÉE INTERNATIONALE DU HAMBURGER ! - Museum TV](https://www.museumtv.art/wp-content/uploads/2018/10/Claes-Oldenburg-hamburger-museumtv-02.jpg)
+		- Allant du Burger, symbole iconique de ce phénomène avec 
 		  id:: 653ee4bb-b9ee-447b-a0f2-979eabd1108d
+		- Claes Oldenburg: Floor Burger (Giant Hamburger) ![JOURNÉE INTERNATIONALE DU HAMBURGER ! - Museum TV](https://www.museumtv.art/wp-content/uploads/2018/10/Claes-Oldenburg-hamburger-museumtv-02.jpg)
+		  id:: 65fbfa78-86ff-4bba-83e6-6b04914669bc
 	- Ou d’autres éléments de fétichisation du fast-food et de l’iconographie qui en découle avec Spoonbridge and cherry (collaboration with Van Bruggen) qui décline l’image publicitaire de la cerise rouge et de la cuillère à smoothie
 	- [[Andy Warhol]]: Brillo Soap Boxes, 1964 ![Brillo Boxes](https://iiif.micr.io/imOEx/full/%5E1200,/0/default.jpg)
 	  id:: 65480be3-7ec8-4db9-9289-62be8b4f1216
