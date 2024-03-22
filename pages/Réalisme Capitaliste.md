@@ -37,7 +37,7 @@
 - Tout comme les artistes du [[Pop Art]] américains les artistes du réalisme capitaliste adopte un style qui fait écho au media et leur diffusion
 	- L’artiste Sigmar POLKE utilise la technique d’impression raster-dot / halftone proche des techniques utilisées par Roy Lichtenstein.
 		- Sigmar POLKE: [*Rasterbild mit Palmen*](https://www.sothebys.com/en/buy/auction/2021/the-macklowe-collection/rasterbild-mit-palmen), 1966 ![Rasterbild mit Palmen | The Macklowe Collection | 2021 | Sotheby's](https://sothebys-md.brightspotcdn.com/dims4/default/9aa7c51/2147483647/strip/true/crop/1715x2000+0+0/resize/385x449!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F69%2F27%2F1a9f33bf41bdab7547c938bf82e7%2F157n10819-3x6z6-ds.jpg)
-		- D’autres artistes utilisent le raster dot et l’utilise en outil d’abstraction
+		- D’autres artistes utilisent le raster dot et l’utilise en outil d’ [[Abstraction]]
 			- Manfred KUTTNER: [Werkshau Survey Inside Image](https://www.wikiart.org/en/manfred-kuttner/werkshau-survey-inside-image) ![Werkshau Survey Inside Image - Manfred Kuttner - WikiArt.org](https://uploads1.wikiart.org/00282/images/manfred-kuttner/werkshau-survey-inside-image.jpg!Large.jpg)
 	- POLKE utilise une toile réalisée en tissu d'ameublement, l'élevant ainsi au rang de motif visuel
 		- Sigmar POLKE: [*Propellerfrau*](https://twitter.com/propellerfrau1/status/1016976709936189445), 1969

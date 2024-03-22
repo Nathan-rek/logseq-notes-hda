@@ -1,1 +1,2 @@
 - Il est le premier lauréats du [Praemium Imperiale](https://fr.wikipedia.org/wiki/Praemium_Imperiale) de peinture en 1989
+-

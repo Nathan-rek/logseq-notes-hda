@@ -1,5 +1,5 @@
 - En référence à APOLLINAIRE c’est Phillipe SOUPAULT et André BRETON qui utilise et créait le terme de surrréaliste pour qualifier leur recueil en prose Les Champs Magnétiques en 1919 rédiger en présence de leur inconscients
-	- Avec le manifeste surréaliste BRETON en 1924, marque la rupture avec le Dada et place l’écriture automatique comme seul principe créateur
+	- Avec le manifeste surréaliste BRETON en 1924, marque la rupture avec le [[Dada]] et place l’écriture automatique comme seul principe créateur
 	- Libérer la pensé de tout contrôle de la raison de tout censure et de s’affranchir des préoccupations esthétiques ou morales
 	- Réintroduise le hasard, l’alogique [[Dada]] dans le processus créatif > Cadavre Exquis
 - ## L’inconscient

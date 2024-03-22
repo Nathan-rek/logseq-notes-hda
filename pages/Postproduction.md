@@ -72,7 +72,7 @@
 - ### L'usage du monde
 - L'expostion devient un lieu de production et non une happy end comme le dit [[Philippe Parreno]]
 	- [[Ozone]]
-	- Dans *Les atelier du paradises* à Air de Paris Pierre Joseph [[Philippe Parreno]] habite l'espace lors de l'exposition et suive un programme lors de la semaine.
+	- Dans [*Les atelier du paradises*](http://www.airdeparis.com/exhibitions/paradise.htm) à Air de Paris Pierre Joseph [[Philippe Parreno]] habite l'espace lors de l'exposition et suive un programme lors de la semaine.
 		- Les spectateur..ices sont invité..es à porter des t-shirt permettent à la réalisatrice Marion Vernoux de rediriger l'exposition en temps réelle grave a ce jeu d'identités
 - L'espace de la galerie n'est plus comme pour les artistes [[Art Conceptuel]] un lieu à questionner dans le but de questionner un système idéologiques plus grand.
 	- Certain..es artistes ayant plutôt tendu vers une annihilation de ces lieu ou vers un désacralisation ou un disjonctent

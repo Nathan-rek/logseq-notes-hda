@@ -1,10 +1,10 @@
-- En 1960 l’art allemand privilégie l’abstraction
+- En 1960 l’art allemand privilégie l’ [[Abstraction]]
 	- on pourrait lire cette direction comme une abstraction pour mieux gommer son passé en évitant toute figuration de ce que l’Allemagne peut incarner. Georg Baselitz s’y oppose radicalement en développant un art figuratif fondé sur la laideur et l’ironie
 - En 1963 Georg Baselitz marque fortement ces intentions de défier la convention et provoquer la morale bourgeoise d’une société allemande
 	- [*La Grande Nuit dans le Seau*](https://www.paperblog.fr/7347395/grande-retrospective-georg-baselitz-a-la-haus-der-kunst-de-munich/) ![](https://media.paperblog.fr/i/734/7347395/grande-retrospective-georg-baselitz-haus-der--R-BDG3bB.jpeg)
 		- Un adolescent, le sexe dressé vers le spectateur, en train de se masturber.
-- L’aspect iconoclaste ne s’arrête pas à la présentation de ses obsessions sexuels. Il passe par un retour brutal à la figuration dans un pays où le panorama artistique est dominé par l’abstraction. Cela est du au triomphe de [[Expressionnisme Abstrait Américain]] qui s’exporte massivement dans le sillon du plan Marshall
-- Dans un pays où l’auto-soupçon règne l’abstraction permet de constituer une solution plastique nouvelle comme un langage universelle.
+- L’aspect iconoclaste ne s’arrête pas à la présentation de ses obsessions sexuels. Il passe par un retour brutal à la figuration dans un pays où le panorama artistique est dominé par l' [[Abstraction]] . Cela est du au triomphe de [[Expressionnisme Abstrait Américain]] qui s’exporte massivement dans le sillon du plan Marshall
+- Dans un pays où l’auto-soupçon règne l’ [[Abstraction]] permet de constituer une solution plastique nouvelle comme un langage universelle.
 	- Les récents souvenirs qu’il s’agisse des traces du pouvoir national-socialiste essaie d’être effacées
 		- Les motifs de Georg Baselitz brisent ce tabou et déclare la fin des mensonges et des refoulements
 		- L’artiste s’attaque aux symboles glorieux de l’historie germanique: des symboles que la propagande est venu s’emparer
