@@ -1,0 +1,20 @@
+- Issu d'un école formaliste proche de Greenberg et Fried elle suivra sa propre voir par la suite vers uen socilogie de l'art
+- # Grilles, Rosalind Krauss
+- La grilles comme structure formelle apparait en Europe dans les art visuels.
+	- La grille contre l'illusion de la parole
+	- Cette sur investigation de la grille se voue aujourd'hui a l'échec pour Krauss face au pratique de l'art contemporain.
+- La grille résiste à l'expansion, l'extension, la transmutation.
+	- Pour Krauss [[Piet Mondrian]] a émis une œuvre ((65d37714-b729-417a-8824-f7b8e7265c57)) et la répète pendant 15 ans et le [[Modernisme]] continue d'engendrer des exemples de grille.
+- la grille fonction de deux manieres
+	- Spatial: bidimensionelle, géometrique odoné, elle ets antinaturele , anti-mimétique elle va a l'encontre du réel.
+		- Décret esthétique do l'ordre n'est que relation pure, elle permet de refouler la prétentention qu'ont les objet naturel d'avoir un ordre propre
+			- La grille devient un espace autonome et autotélique
+- La grille symbole de [[Modernité]] qui marque l'omniprésence de l'art à l'ère moderne
+	- La grille a permis au [[Cubisme]] au [[De Stijl - Néo-plasticisme]] à [[Kazimir Malevitch]] de s'inscrire dans le présent et rend tout ce qui n'est pas grille passé.
+		- Même si la grille pouvait apparaitre dans les études de perspective de DaVinci
+			- Ma la perspective est une science du réel et non un moyen de s'en abstraire.
+	- La grille ne représentant pas le réel pour être un manifeste matérialiste mais ni [[Kazimir Malevitch]] ni [[Piet Mondrian]] ne traite de la toile il traite de l'être
+		- Dans un monde de plus en plus désacraliser l'art moderne et sa grille rejoue de cette héritage issue de la croix. l'art devien le refuge de l'émotion religieuse.
+- Le paradoxe de la grille et dans son pouvoir a nous faire croire qu'on touche a des notions logique et a travers un matérialisme logique et scientifique alors que l'on ouvre en même temps un chemin vers la croyance et l'illusion
+- Les traités d'optique physiologique qui se concentre sur couleur non pas entant que telle mais dans la couleur dans l'interaction retienne de l'œil avec la lumière
+	- Ces traites utilise la grille pour illustrer les l'interaction de particules spécifique à l'interieru d'un champ continu

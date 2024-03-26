@@ -48,7 +48,7 @@
 				- La photo est animé par la réflexion de la lumière sur le verre et semble taché par de la gouache.
 	- Le vrai voyage qui développa la photographie chez TWOMBLY est son voyage en Europe avec [[Robert Rauschenberg]]
 		- Les deux documentaient leur voyage de photos
-			- [[Robert Rauschenberg]]: [*Cy and Roman Steps*](https://www.sfmoma.org/artwork/98.297.A-E/), 1952 ![Robert Rauschenberg, Cy + Roman Steps (I–V), 1952, printed ca. 1997 · SFMOMA](https://sfmoma-media-dev.s3.us-west-1.amazonaws.com/www-media/2018/05/18114625/CY_98.297.A-E.jpg)
+			- [[Robert Rauschenberg]]: [*Cy and Roman Steps*](https://www.sfmoma.org/artwork/98.297.A-E/), 1952 ![Robert Rauschenberg, Cy + Roman Steps (I–V), 1952, printed ca. 1997 · SFMOMA](https://sfmoma-media-dev.s3.us-west-1.amazonaws.com/www-media/2018/05/18114625/CY_98.297.A-E.jpg){:height 110, :width 450}
 				- Une série de clichés qui montrent Twombly en train de descendre les escaliers en face d’une église romaine
 			- L’attrait photographique dépasse la photographie de documentation et les artistes intègrent une recherche d’expérimentation de l’outil photographiques
 				- [[Robert Rauschenberg]]: [*Bob + Cy, Venice*](https://www.artsy.net/artwork/robert-rauschenberg-bob-plus-cy-venice), 1952 ![Robert Rauschenberg | Bob + Cy, Venice (1952) | Artsy](https://d7hftxdivxxvm.cloudfront.net/?height=788&quality=85&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FEodeI0e-tFQu-Xmi7KgVcg%2Fnormalized.jpg&width=799)

@@ -1,1 +1,2 @@
-- Question la biométrie notamment à travers l'utilisation de logiciel de biométrie qui sont biaiser par le fait que le modèles unique est celui de l'homme blanc
+- Questionne la biométrie notamment à travers l'utilisation de logiciel de biométrie biaisés par le fait que le modèles unique est celui de l'homme blanc
+	- conception sexo-spécifique
