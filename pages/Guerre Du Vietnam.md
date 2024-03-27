@@ -1,7 +1,7 @@
 - En 1969, un réseau d'activistes anti-guerre à travers les États-Unis a planifié le Moratoire national sur le Vietnam, une protestation coordonnée à l'échelle nationale contre la guerre au Vietnam.
 - La [Galerie Leo Castalli](https://www.castelligallery.com/) crée des expositions à propos de ce moratoire national.
-	- Il commande à [[Jasper Johns]] un poste pour cette exposition.
-		- [[Jasper Johns]] : [*Moratorium*] (https://whitney.org/collection/works/63180), 1969 ![Jasper Johns | Moratorium | Whitney Museum of American Art](https://whitneymedia.org/assets/artwork/63180/2020_98_cropped.jpeg)
+	- Il commande à [[Jasper Johns]] un poster pour cette exposition.
+		- [[Jasper Johns]] : [*Moratorium*](https://whitney.org/collection/works/63180), 1969 ![Jasper Johns | Moratorium | Whitney Museum of American Art](https://whitneymedia.org/assets/artwork/63180/2020_98_cropped.jpeg)
 		  id:: 653fc197-dba8-4f8c-8f4f-193b63e052ed
 			- [[Jasper Johns]] a peint un drapeau toxique, symbole national empoisonné par la guerre. Les rayures de son drapeau étaient noires et vertes, le vert maladif ressemblant vaguement à un camouflage de la jungle. Le champ orange nauséabond était rempli d’étoiles noircies. Au centre du drapeau peint se trouvait un seul point blanc, représentant un impact de balle Il reprendra l’icône du drapeau américain qu’il a déjà utiliser dans des œuvres comme ((653ece31-c93e-42a6-bea8-02fe7b6725c8))
 			- De plus [[Jasper Johns]] est habitué à travailler le drapeau américain

@@ -54,13 +54,8 @@
 			- La créativité peut être vu comme un outil qui permet une autre approche de la réalité extérieur.
 - En situant l’expérience culturelle dans cette espace intermédiaire, un espace entre l’individu et son environnement. C’est dans cette jonction que l’art et ça nature participative est envisagé
 	- Le but de l’artiste, devenu médiateur..ice, catalyseur, est de générer des situations (ouvertes, libres, spatio-temporellement circonscrites et profondément symboliques) au sein desquelles le..a participant..e peut développer ou laisser cours à l’impulsion créatrice qu’il..elle porte en lui..elle.
-		- Le jeu, et par extension l’art, se comprend donc dans sa relation dynamique avec l’environnement, mais aussi un échange relationnel fondamental au sein de cette aire intermédiaire d’expérience
+		- L' [[Espace du jeu]] , et par extension l’art, se comprend donc dans sa relation dynamique avec l’environnement, mais aussi un échange relationnel fondamental au sein de cette aire intermédiaire d’expérience
 	- Or cette potentialité de communion à travers le jeu est possible si il y a consensus commun or cet espace potentiel est largement variable, d’un individu à l’autre, alors que les deux autres localisations (la réalité personnelle ou psychique et le monde existant) sont relativement constantes
-- [[Cercle d'Art Prospectif]]
-- [[L’international situationniste]]
-- [[Tom Marioni]]
-- [[Esthétique Relationnelle]]
-- [[Daniel Spoerri]]
 - [[Fred Forest]]
 -
 - ## Footnotes

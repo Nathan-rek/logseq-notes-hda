@@ -27,8 +27,8 @@ L’art minimal se développe dans les années 1960 au état-unis, conteste les 
 		- Ellsworth KELLY: [*Spectrum Colors Arranged by Chance II*](https://www.tate.org.uk/tate-etc/issue-16-summer-2009/sixty-years-full-intensity), 1951 ![Ellsworth Kelly Mediterranee 1952](https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/ellsworth-kelly-mediterrane_0.width-340.jpg)
 			- Il l'a créé en utilisant des bouts de papier numérotés; chacun faisait référence à une couleur, une parmi dix-huit teintes différentes à placer sur une grille de 40 pouces sur 40 pouces. Chacun des huit collages utilisaient un procédé différent
 - La couleur comme élément pictural primordiale a été un principe que les minimalistes ont beaucoup travaillé..es, par les interaction des KELLY les structures de STELLA mais aussi par une interaction du blanc avec le blanc.
-	- L’artiste Robert RYMAN a questionné beaucoup l’interaction du blanc en les confrontant à lui-même.
-		- Robert RYMAN: [*Four Aquatints and One Etching: one print*](https://www.artnet.fr/artistes/robert-ryman/four-aquatints-and-one-etching-one-print-xPw1yzwygPtfgZ0K0UvDOQ2), 1991 https://www.artnet.fr/WebServices/images/ll00074lldFJ3JFgUNECfDrCWvaHBOcXRmG/robert-ryman-four-aquatints-and-one-etching:-one-print.jpg
+	- L’artiste [[Robert Ryman]] a questionné beaucoup l’interaction du blanc en les confrontant à lui-même.
+		- [[Robert Ryman]] : [*Four Aquatints and One Etching: one print*](https://www.artnet.fr/artistes/robert-ryman/four-aquatints-and-one-etching-one-print-xPw1yzwygPtfgZ0K0UvDOQ2), 1991 https://www.artnet.fr/WebServices/images/ll00074lldFJ3JFgUNECfDrCWvaHBOcXRmG/robert-ryman-four-aquatints-and-one-etching:-one-print.jpg
 			- L’œuvre est une double surface. Dans ce dépassement de la peinture moderniste le peintre veut venir hybrider le medium de la peinture et le démantelant de sa structure d’objets
 - ### Sculptures
 - Les sculpteur..ices minimalistes utilisent des structures élémentaires et simple

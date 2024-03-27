@@ -9,4 +9,5 @@
 			  id:: 657994d9-982c-444e-8a9a-7cb06c40bf44
 				- Le lingot à une double valeur il à sa valeur financière et artistique du à sa transvaluation de l'art
 			- L'artiste déclare la faillite de son musée car c'est le système qui est faillible.
--
+- Marcel Broodthaers: [*Une seconde d'éternité, (d'après une idée de Charles Baudelaire*](https://lesoeuvres.pinaultcollection.com/fr/oeuvre/une-seconde-deternite-dapres-une-idee-de-charles-baudelaire-0),1970 ![Marcel Broodthaers - Une seconde d'eternité (D'après une idée de Charles  Baudelaire) (A Second of Eternity [After an Idea by Charles Baudelaire])](https://static4.museoreinasofia.es/sites/default/files/obras/AD07431_0.jpg)
+  id:: 65d3770e-0a1c-428c-a1c8-b0c81f20b2d0

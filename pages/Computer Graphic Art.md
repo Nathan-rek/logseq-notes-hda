@@ -11,7 +11,7 @@
 - L’exposition ICCH/2[^24] à marqué une différence avec la phase One.
 	- On  y retrouve dans cette exposition une continuité avec les artistes de l’exposition Cybernetic Serendipity
 		- Herbert Franke poursuis les recherches de [[Michael Noll]] sur [[Test de Turing de Michael Noll]]
-			- Herbert FRANKE: [Random Squares](http://dada.compart-bremen.de/item/artwork/1265)
+			- Herbert FRANKE: [*Random Squares*](http://dada.compart-bremen.de/item/artwork/1265)
 				- ![](http://dada.compart-bremen.de/imageUploads/medium/ransqur_franke.jpg)
 - Dans la Phase One les travaux étaient souvent statiques comme figés
 	- Les artistes de la Phase Two ont voulut animer les travaux soit par une animation de poésie de couleur ou technique.

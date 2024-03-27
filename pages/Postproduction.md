@@ -80,3 +80,5 @@
 			- Perce le sol de la galerie Yvon Lombert
 	- Pour ces artistes il s'agit plus de situer ces espaces à l'intérieur des systèmes de production avec lesquelles les relation s'établissent
 		- La galerie est un lieu comme un autres imbriquer dans un mécanisme globale
+- Le travail de [[Philippe Parreno]] part du principe que la réalité est structuré comme un langage et que l'art permet d'articuler ce language
+	- Il expose l'inconscient de la production humaine et l'élève au statu d'un matériau de construction

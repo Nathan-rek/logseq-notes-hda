@@ -4,6 +4,7 @@
 		- Ce qui génère des formes spécifique qui par exemple se caractérise dans la dualité sans opposition
 			- Le chiffre 2 en est le symbole il est pourtant autre qu'un opposition binaire il est double
 			- Felix Gonzalez-Torres [*"Untitled" (Perfect Lovers)*](https://www.moma.org/collection/works/81074) 1991 ![Felix Gonzalez-Torres. "Untitled" (Perfect Lovers). 1991 | MoMA](https://www.moma.org/media/W1siZiIsIjIxMDU3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=0b890f2e81b051ef)
+			  id:: 65d3770e-5f6b-484e-a594-ef933a2f3851
 			- Felix Gonzalez-Torres [*“Untitled” (billboard of an empty bed), 1991*](https://smarthistory.org/felix-gonzalez-torres-untitled-billboard-of-an-empty-bed/) ![Felix Gonzalez-Torres, “Untitled” (billboard of an empty bed)](https://ka-perseus-images.s3.amazonaws.com/ea6d523b2a1a3fb6efdbcb1574fc4156f07c5ed0.jpg)
 			- L'unité de base est le double. La solitude n'est pas le 1 mais l'absence du 2. Un représentation du couple qui n'est plus cette de l'addition de deux réalité fatalement hétérogènes mais celle d'une unité double et calme comme une ellipse
 		- Il ne raconte pas sa vie mais il raconte le couple à travers le sien:
@@ -21,4 +22,5 @@
 - L'artiste réinvente un répertoire de formes déjà existantes.
 	- Le cube [[Minimalisme]] des affiches, les couvrements de coin qui s'apparent au process art ((65480be3-8a6f-4279-a8de-10d523cd5dca))
 - Mais la question n'est pas sur notre perception de la réalité mais *"comment puis-je habiter dans ta réalité ?"* ou *"comment une rencontre entre deux réalité peut-elle les modifier bilatéralement"*
--
+- Felix Gonzalez-Torres: [*"Untitled" (Orpheus, Twice)*](https://www.felixgonzalez-torresfoundation.org/works/untitled-orpheus-twice), 1991 ![Untitled" (Orpheus, Twice) - Works - Felix Gonzalez-Torres Foundation](https://www.felixgonzalez-torresfoundation.org/custom/media/cache/resolve/1010x580_fit/5b844b306aa72cea5f8b4567/d58bc0593a5286bce9941bbb6b9571f9.jpeg)
+  id:: 65dbbe48-d5a3-494c-9d7a-ae5a9f8008de
