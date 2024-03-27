@@ -1,0 +1,11 @@
+- Ecrit de [[Nicolas Bourriaud]]
+- Tout les formes de l'art peuvent nous aider à mieux circuler dans un monde de circulations
+	- *Les artistes, sous n'importe quelle latitude, ont aujourd'hui pour tâche d'envisager ce que serait la première* *culture véritablement mondiale,*
+- Le terme Radicant vient d'un terme de biologies
+	- Il inverse se mouvement a la racine mais parle d'une plante radicant une plante qui déplace ses racine en fonction du milieux
+		- On se trouve dan sun mouvment un itineraire de developement
+		- Les identités sont pluriel et la rupture avec la racine original n'est pas un problèmes
+- Ses trajectoire sont lié a nos paysage culturel
+	- Le web-surfing, est une forme d'itinéraire, nous sommes une culture habitué au voyage rapides
+		- Composition par trajet, la culture comme un hypertexte
+- [[Simon Starling]]

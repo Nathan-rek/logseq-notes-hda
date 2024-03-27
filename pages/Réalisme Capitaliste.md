@@ -1,4 +1,4 @@
-- Le terme a été utilisé en Allemagne, pour décrire l’art marchand du [[Pop Art]] des années 1980 et 1990.il a été utilisé pour décrire l’aspect idéologique et esthétique du capitalisme d’entreprise contemporain en Occident. Il se position aussi en parallèle au Réalisme socialiste développe par L’Union Soviétique
+- Le terme a été utilisé en Allemagne, pour décrire l’art marchand du [[Pop-Art]] des années 1980 et 1990.il a été utilisé pour décrire l’aspect idéologique et esthétique du capitalisme d’entreprise contemporain en Occident. Il se position aussi en parallèle au Réalisme socialiste développe par L’Union Soviétique
 	- La première apparition du terme est pour une exposition de 1963: Vivre avec le pop – Une démonstration pour le réalisme capitaliste
 		- Avec des œuvres comme Sigmar POLKE, [[Gerhard Richter]] , Konrad LUEG.
 			- Les participants à l'exposition se sont concentrés sur les représentations de la culture de consommation croissante et de la société saturée par les médias en Allemagne avec des stratégies, en partie influencées par celles de leurs homologues Pop Art américains
@@ -7,7 +7,7 @@
 - ### Sujets
 - Les images  qu’utilisent les artistes du mouvement contiennent des commentaires incisifs et parodiques sur la société de consommation, la scène politique d'après-guerre en Allemagne et les conventions artistiques classiques. Les artistes tendent un miroir cynique à une société dangereusement endoctrinée par le consumérisme
 - Sur la société de consommation
-	- Les artistes du réalisme socialiste ont des intérêts et des sujet similaires au [[Pop Art]] américains mais ils sont traités différemment
+	- Les artistes du réalisme socialiste ont des intérêts et des sujet similaires au [[Pop-Art]] américains mais ils sont traités différemment
 	- Les peintures de Richter ont commencé à montrer de l'intérêt pour l'actualité, la société de consommation, les médias et la culture populaire.
 		- Pourtant Gerhard Richter a toujours voulu s’éloigner du contenu des images intrinsèque
 			- Présentant des images parfois extrêmement banale comme
@@ -34,7 +34,7 @@
 	- Sigmar POLKE a souvent usé des icônes de féminité publicitaire de l’époque
 		- Sigmar POLKE:[*B-Mode*](https://www.boumbang.com/sigmar-polke/), 1987 ![Sigmar Polke | BOUMBANG](https://www.boumbang.com/wp-content/uploads/2012/02/Sigmar-Polke-B-Mode.jpg)
 - ### Style
-- Tout comme les artistes du [[Pop Art]] américains les artistes du réalisme capitaliste adopte un style qui fait écho au media et leur diffusion
+- Tout comme les artistes du [[Pop-Art]] américains les artistes du réalisme capitaliste adopte un style qui fait écho au media et leur diffusion
 	- L’artiste Sigmar POLKE utilise la technique d’impression raster-dot / halftone proche des techniques utilisées par Roy Lichtenstein.
 		- Sigmar POLKE: [*Rasterbild mit Palmen*](https://www.sothebys.com/en/buy/auction/2021/the-macklowe-collection/rasterbild-mit-palmen), 1966 ![Rasterbild mit Palmen | The Macklowe Collection | 2021 | Sotheby's](https://sothebys-md.brightspotcdn.com/dims4/default/9aa7c51/2147483647/strip/true/crop/1715x2000+0+0/resize/385x449!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F69%2F27%2F1a9f33bf41bdab7547c938bf82e7%2F157n10819-3x6z6-ds.jpg)
 		- D’autres artistes utilisent le raster dot et l’utilise en outil d’ [[Abstraction]]

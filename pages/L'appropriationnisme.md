@@ -5,9 +5,10 @@
 		- La propriéte
 			- Bien que [[Elaine Sturtevant]] ne se revendiquais pas de se courant elle la fort inspiré
 			- ((65480be3-0c83-4d67-bd74-3b38528cd30e))
-				- Regardant attentivement les artistes du [[Pop Art]] elle demandera a [[Andy Warhol]] lui même ses trames de sérigraphies pour pousser l'appropriation de la technique picturales
+				- Regardant attentivement les artistes du [[Pop-Art]] elle demandera a [[Andy Warhol]] lui même ses trames de sérigraphies pour pousser l'appropriation de la technique picturales
 			- ((655a7e71-ca8c-49fb-b21c-de12ed36eaca))
 	- ((65f9e2a5-cf92-4907-bf51-b1de14a55908))
 	  id:: 65d3770e-fc61-44fa-b307-388857629b7d
 - Se courant prend une forme de concrétisation avec l'expsotion de 1977 au MET de la [[Pictures Generations]]
+- [[Christian Marclay]]
 -

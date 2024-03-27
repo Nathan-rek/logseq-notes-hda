@@ -67,5 +67,6 @@
 	- Depuis le néo-transcendentaliste
 	- Figure du non-conformisme participe au mythe de l'individu libres
 	- Le non-conformisme se veut vendeur notamment dans les [[Industries Culturelles]]
+	-
 - [[The Yes Men]]
 -

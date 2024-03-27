@@ -1,4 +1,5 @@
 - Certain..e place les débuts du pop art en 1956 avec
+  title:: Pop-Art
 	- Richard Hamilton qui compose son collage
 		- Richard Hamilton: Just what was it that made yesterday’s homes so different, so appealing?, 1956 ![](https://media.tate.org.uk/art/images/work/P/P11/P11358_10.jpg)
 	- Avec des images provenant de magazine et de journaux collectées par l’artiste John McHALE

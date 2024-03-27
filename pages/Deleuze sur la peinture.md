@@ -168,7 +168,7 @@
 					- la forme est la rencontre de ces deux forces celle de l'aplatissment et celle de la chair qui descend des os
 						- Il a rendu visible dans ce tableau deux forces invisibles
 - Les données figuratives et narratives sont toujours la elle sont pré picturale elle sont déjà-la
-	- Que ce soit un carré de [[Piet Mondrian]] ((653ec305-ecb3-4d52-93a9-29b5625299ae)) ou un ligne chez Pollock ((653ee430-1eca-4a79-9a49-45525fd705c0)) les idées, les clichés sont toujours la même chez les plus abstrait
+	- Que ce soit un carré de [[Piet Mondrian]] ((653ec305-ecb3-4d52-93a9-29b5625299ae)) ou une ligne chez Pollock ((653ee430-1eca-4a79-9a49-45525fd705c0)) les idées, les clichés sont toujours la même chez les plus abstrait
 	- Ce qui rend le cliché inévitable c’est que le cliché, il est fondamentalement intentionnel. Toute intention est intention de cliché. Toute intention vise un cliché. Or il n’y a pas de peinture sans intention
 - ## L'intention
 - Pour Deleuze l'intention c’est la différence entre une pomme et une femme ((65f835c1-b5ba-48aa-a36a-015d598c14c7)) / ((65f819b1-0463-45b1-a3b9-d4eb35a16034))
