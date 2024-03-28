@@ -1,6 +1,6 @@
 - Simon Starling: [*Rescued Rhododendrons*](https://www.artimage.org.uk/18442/simon-starling/rescued-rhododendrons--1999-), 2000 ![Rescued Rhododendrons (1999) : Simon Starling : Artimage](https://cdn.artimage.org.uk/production/18/4/18442-842.jpg)
 	- Cherche à sauver une espèces de plante invasive (le rhododendrons) en ramenant les plantes à leur terre d'origine
-		- Cree des relation entre des élement qui passe inaperçues
+		- Cree des relations entre des éléments qui passent inaperçues
 	- Simon Starling: [*Flaga*](https://www.artimage.org.uk/18347/simon-starling/flaga--1972-2000---2002-), 2002 ![Flaga (1972-2000) (2002) : Simon Starling : Artimage](https://cdn.artimage.org.uk/production/18/3/18347-842.jpg)
 		- Fiat d'origine turinoise qui conduit jusqu'en Pologne et qu'il modifie avec des peintures polonaises
 	- Simon Starling: [*Autoxylopyrocycloboros*](https://www.artimage.org.uk/20198/simon-starling/autoxylopyrocycloboros--2006-), 2006 ![Autoxylopyrocycloboros (2006) : Simon Starling : Artimage](https://cdn.artimage.org.uk/production/20/1/20198-842.jpg)

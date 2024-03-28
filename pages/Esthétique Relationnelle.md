@@ -103,7 +103,7 @@
 			- Maurizio Cattelan: [*Errotin, le vrai lapin*](https://www.perrotin.com/fr/artists/Maurizio_Cattelan/2/errotin-le-vrai-lapin-a-b-c/18757)
 				- ![Errotin, le vrai lapin (a, b, c) | Maurizio CATTELAN (1995) | PERROTIN](https://s3.perrotin.com/d:800xauto/details/photo/maurizio-cattelan-18757_14683@2x.jpg)
 			- Maurizio Cattelan déguise Emmanuel Perrotin
-			- Dominique Gonzales-Foerster fait la biographie de Ester Schnipper
+			- [[Dominique Gonzalez-Foerster]]  fait la biographie de Ester Schnipper
 	- Le contrat devient sujet de pratique relationnelle. Indiquant de maniere formelle et législative les possibilités de relation
 		- Alix Lambert: [*Wedding Piece*](https://tiffobenii.wordpress.com/performing-gender/alix-lambert/), 1992 ![BOMB Magazine | D.I.V.O.R.C.E.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIeGIb3FRvMUYH3V6SzLGAQw31UfsRXJFBd2lq0REtDGG4p1IZYyw7rRgwl0Nl7HdJqUY&usqp=CAU)
 			- Performance où elle se marie et divorce 4 fois de suite dans un temps records de six mois. Questionne l'institution matrimoniale comme usine de réification des relations
@@ -134,7 +134,7 @@
 	- Un tas d'affiche bleu ciel encadrée d'un lisserai blanc, des affiches accessibles proposées au public.
 		- Une œuvre qui n'expose pas son processus de construction, mais la forme de sa présence parmi un public
 	- Cette problématique de la disponibilité de l'œuvre est pour [[Nicolas Bourriaud]] fondatrice de sens au cœur de l'esthétique contemporaine.
-- Sur cette héritage de l'intersubjectivité et la place dominante de l'intérêt à la relation à l'autre il place des artistes comme Dominique Gonzales-Foerster et Jorge Pardo notamment dans leur utilisation de la couleur comme socle commun d'intersubjectivité comme le ferait [[Felix Gonzalez-Torres]] avec le rouge dans ((65776d08-5d4b-4d7b-aa1f-f2752977014c))
+- Sur cette héritage de l'intersubjectivité et la place dominante de l'intérêt à la relation à l'autre il place des artistes comme [[Dominique Gonzalez-Foerster]] et Jorge Pardo notamment dans leur utilisation de la couleur comme socle commun d'intersubjectivité comme le ferait [[Felix Gonzalez-Torres]] avec le rouge dans ((65776d08-5d4b-4d7b-aa1f-f2752977014c))
 - Les œuvres ont pour point commun
 	- *"leur faculté a produire le sens de l'existence humaine ( indiquer des trajectoires possibles) au sein de ce chaos qu'est la réalité"*
 		- Le concept de sens est critiqué car le sens est notion qui se préétablie et une affiche de papier dans un cas prend sens que quand il a échange entre humain..es

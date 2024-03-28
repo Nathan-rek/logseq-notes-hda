@@ -97,7 +97,7 @@
 		- Cézanne malgré cette lutte crée lui aussi un discipline chez ses disciples, un cliché qui frôle avec cette fragilité du diagramme a raté ((65f9deff-aa7d-4ad3-bc3e-a73c5cb8820a))
 			- Dépasse le cliché fait par le maitre n'est pas une mince affaires: il prend l'exemple [[Robert Rauschenberg]] qui efface un dessin de [[Willem DeKooning]]
 				- ((65d3770e-fc61-44fa-b307-388857629b7d))
-					- l y a une espèce de volonté, là, de, de passer par le diagramme
+					- il y a une volontéf de passer par le diagramme
 		- Michel-Ange lui a compris les larges dos d'hommes
 			- Michel-Ange: [*Le jugement dernier*](https://fr.wikipedia.org/wiki/Le_Jugement_dernier_%28Michel-Ange%29) ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Last_Judgement_by_Michelangelo.jpg/800px-Last_Judgement_by_Michelangelo.jpg)
 	- La tâche du peintre, de tout temps, ça a été faire naître le fait pictural, ça a été lutter contre les données

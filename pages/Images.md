@@ -5,7 +5,7 @@
 - Dans un continuum ou [[Walter Benjamin]] craint la reproductibilité, Baudrillard exprime l’affirmation du post-modernisme et ne distingue plus l’original de la copie > Pour l’auteur le 11/09 et les guerres du golf on discrédité la pensé de Baudrillard avec l’arrivé des actes de terreurs médiatisés
 	- Comment aborder les images qui peuvent nous permettre d’aborder le réel. Le réelle est la où la violence est faite au corps, mais l’art y est impuissant
 		- Malgré la violence généralisé
-- Pour parler de Francis Bacon Gilles Deleuze remarque que l’artiste ne commence jamais sur une surface vierge
+- Pour parler de Francis Bacon Gilles Deleuze remarque que l’artiste ne commence jamais sur une surface vierge dans ses cours [[Deleuze sur la peinture]]
 	- Cette espace vide est encombré de cliché visuelle la question est donc comment donner une image critique à partir du vaste flux d’image reproduites
 - En cela l’exposition est une étude de ce problème et des réponse critiques à apporter à ces questions
 	- [[Elaine Sturtevant]] : [*Plato’s Dual Action:Same/Idea/Transposed (2004)*](https://archiv3.fridericianum.org/exhibitions/images) ![Fridericianum](https://archiv3.fridericianum.org/img/5529fb68db560cd2/sturtevant-01-fabian-frinzel.jpg)

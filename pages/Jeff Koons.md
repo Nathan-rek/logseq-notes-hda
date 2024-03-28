@@ -5,5 +5,5 @@
 - La réimportation des images populaire dans la monde de l'art pose problèmes de propriétes
 	- Jeff Koons: Banality ![JEFF KOONS Ushering in Banality Poster 2011 Pop Art Multicolore, Cochon  Rose 69,8 x 100,3 cm : Amazon.fr: Cuisine et Maison](https://m.media-amazon.com/images/I/81Ft7s5UTfS.jpg)
 		- Koons a été condamné notamment pour ses œuvres de la série Banality
-	- Dans une démarche de [[L'appropriationnisme]]
+	- Dans une démarche proche de celle de [[L'appropriationnisme]]
 -

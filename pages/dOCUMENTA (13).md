@@ -2,7 +2,7 @@
 	- Holisme dans l'importance de comprendre les système dans leur totalité plutôt que simplement en examinant leurs parties individuellement
 	- Le logocentrisme est une notion critique souvent associée à la philosophie de Jacques Derrida, qui critique la tendance occidentale à privilégier la parole (logos) ou le texte écrit comme source principale de connaissance et de signification, au détriment d'autres formes d'expression et de compréhension. Une approche anti-logocentrique, donc, cherche à décentrer cette prédominance du langage verbal et écrit dans la production et l'interprétation des savoirs
 	- Refusant donc tout *a priori* concernant la vérité de l'art pour laisser les objets se manifester par leurs propres activités sensibles
-- L'exposition se déroulait a Kassel au Fridericalium et aussi a Kaboul, ou des artistes travaillaient autour de la thématique "afghanes"
+- L'exposition se déroulait a Kassel au Fridericalium et aussi à Kaboul, ou des artistes travaillaient autour de la thématique "afghanes"
 	- L'un des élément de liaisons entre était le travail de Alighiero Boetti ayant longtemps vécu en afghanistan
 		- Alighiero Boetti: [*Senza Titolo (Tra l'incudine e il martello)*](https://www.ilgiornaledellarte.com/articoli/quando-l-afghanistan-era-aperto-al-mondo/137333.html), 1989 https://www.ilgiornaledellarte.com/immagini/IMG2021101819113342_1000.jpeg
 - Cette édition se caracterisait ausis par un retour aux soruces avec un dialogue assez fort avec l'historie de l'art, en donnant a voir des oeuvre oubliés ou passées.
@@ -20,9 +20,9 @@
 	  risque d’être taxé(e) de féminisme ou de machisme en invitant plus de femmes que d’hommes ou plus d’hommes que de femmes.
 	- Pour Paul Ardenne la curation se fait sous obligation : *d'avaliser les options dominantes de l’establishment artistique, ménager la chèvre et le chou, ne jamais se montrer propagandiste de manière unilatérale*
 		- En rendant hommage artistes qui souffrent de la dicatature
-			- Ai Weiwei assigné a résidence dans son payse ou les Pussy Riots emprisoné en Russie
+			- Ai Weiwei assigné à résidence dans son payse ou les Pussy Riots emprisoné en Russie
 	- Pour Paul Ardenne la sélection a comme résultat de rendre compte de la force de l'art
 		- Un art qui parle de tout et représente tout
-	- Mais cette engagement est dissout et restituer dans les œuvre elle même, l'auteur y voit un non-engagement ou la responsabilité politique est pris par l'artiste.
+	- Mais cette engagement est dissout et restituer dans les œuvres elle même, l'auteur y voit un non-engagement ou la responsabilité politique est pris par l'artiste.
 	-
 	-
