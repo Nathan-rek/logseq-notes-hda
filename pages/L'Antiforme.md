@@ -4,7 +4,7 @@
 	- De ce constats Morris veut valoriser la matière mettant en avant ces caractéristiques autodestructives. Dans un ambition paradoxale de **pérenniser l’éphémère**, En insiparation avec les sculpture molles de Claes Oldenburg ((65fbfa78-86ff-4bba-83e6-6b04914669bc))
 	- Robert Morris: [*Wall Hanging*](https://www.centrepompidou.fr/fr/ressources/oeuvre/c5eBbqa), 1969 https://mediation.centrepompidou.fr/education/ressources/ENS-antiforme/images/xl/3I00017.jpg
 		- Elle est constituée de plaques de feutre industriel, lacérées, puis suspendues au mur pour que les formes naissent du **poids de la matière**
-			- L'artiste s'efface derrières la matière, Morris voit cet acte notamment avec Jackson Pollock qui laisse la matière à elle même car tout dans son travail privilégie le dégoulinement de la peinture
+			- L'artiste s'efface derrières la matière, Morris voit cet acte notamment avec [[Jackson Pollock]] qui laisse la matière à elle même car tout dans son travail privilégie le dégoulinement de la peinture
 - Eva Hesse: [*No Title*](https://www.artsy.net/artwork/eva-hesse-no-title-5), 1969 ![Eva Hesse | No title (1969-1970) | Artsy](https://d7hftxdivxxvm.cloudfront.net/?height=426&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fq1mxygJ8t03pui7SRLBMFA%2Flarge.jpg&width=640)
 	- Artiste qui donne aussi a voir les qualités de la matière en leur restituant à leur propriétés physiques
 - Bruce Nauman: Smoke Rings (Model for underground Tunnels)

@@ -42,14 +42,17 @@
 		- Organisation d’un Atlas: planche de même format qui lui permet d’agencer l’arrière plan de la productions de ces peintures: réorganiser un ensemble de matériaux issue de différent type de reproduction agencer de manière libre sans normes
 		- S’articuler à travers un montage d’image > construire certaine représentation de l’histoire par l’image
 		- Partir d’image personnelle > produire une représentation visuel à travers une expérience personnelle
-	- En opposition à la perte de l’aura de l’œuvre > face à cette reproductibilité c’est de reproduire un aura du à cette reproductibilité
-		- Interroger le principe de vérité qui accompagne cette reproduction de l’image > Re-subjectivisation de ce qui accompagne les images
+	- En opposition à la perte de l’aura de l’œuvre de [[Walter Benjamin]]
+		- Face à cette reproductibilité c’est de reproduire un aura du à cette reproductibilité
+		- Interroger le principe de vérité qui accompagne cette reproduction de l’image
+			- Re-subjectivisation de ce qui accompagne les images
 	- Le travail documentaire en référence:
 		- Warburg: [*Atlas Mnémosyne*](http://indexgrafik.fr/atlas-mnemosyne-aby-warburg/): Collecte de formes en fonction de mouvement emphatique
-		- [[Joseph Beuys]] : Déployer son travail d’artiste à partir d’un trauma historique (Allemand qui à participé de la second guerre mondiale) > en construisant un mythologie personnelle
+		- [[Joseph Beuys]] : Déployer son travail d’artiste à partir d’un trauma historique (Allemand qui à participé de la second guerre mondiale) en construisant un mythologie personnelle
 - ROTH: installe un système de captation visuel dans sa maison lors de sa dernière années de vie (film 24/24):
-	- œuvre de nature testamentaire
-	- Narcissisme détourné: se considère comme sujet d’inspection à travers l’outil technologie > L’artiste n’est pas que sujet, il est sujet et objet
+	- œuvre de nature testamentaire.
+	- Narcissisme détourné: se considère comme sujet d’inspection à travers l’outil technologie
+		- L’artiste n’est pas que sujet, il est sujet et objet
 	- Recours à des stratégies de documentation pour interroge une vérité > La vérité de l’image
 		- L’image photographique dispose d’une valeur de vérité > au déploiement des nouvelles images numériques les images de vérité se déplacent des modèles photographiques et déplace la valeur de vérité de l’image
 - Hans Peter Feldmann: [*Die Toten*](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.fr%2FDie-Toten-1967-1993-Peter-Feldman%2Fdp%2F3933485010&psig=AOvVaw3xm74lsUb-un7u-I_sY21P&ust=1682501047558000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODo0fvaxP4CFQAAAAAdAAAAABAE): recueille d’images de massacre terroriste > Peut être exposé de façon exposition
@@ -60,6 +63,7 @@
 			- Constitue un corpus d’image > La manière dont se fait à été mis en image > Comment visibiliser
 			- La fonction répétitive de la mise en page > Permet au spectateur de ce mettre lui même dans une position d’analyse de la médiatisation des images
 - ### [*Altas Group*](https://www.theatlasgroup1989.org/)(collectif fictif) > Walid Raad
+	- ![Walid Raad, Inside Information | Zérodeux / 02](https://www.zerodeux.fr/wp-content/uploads/2014/10/atlasGroup_the_weather_helped-USA_Switzerland.jpg)
 	- le conflit Israël / Liban :
 	- Une instance fictionnelle partir du quelle une interrogation historique va naître
 	- La fictionnalisation au-delà de sa vérité énonce quelque chose de véritable
@@ -70,8 +74,8 @@
 		- Oscillation entre la beauté et l’effroi dans les productions
 	- Monochrome de couleur qui représente les codes couleurs de zone maritime libanaise
 		- Prendre un échantillon du code couleur de la carte maritime ou un bateau à été immergé lors du conflit
-	- Hall FOESTER: questionne le tournant archivistique
-- Pratique artistique capable de charger en histoire les archives
-	- Archive Fever:- Exposition montée par Okwui ENWEZOR issue du livre de DERRIDA (Mal d’archives): analyse en quoi les problématiques de l’archivage sont des enjeux idéologiques:
-		- Se ressaisir des archives historiques pour repenser la situation
-		- Œuvre > Ergon  / Document préparatoire > Parergon
+- Hall FOESTER: questionne le tournant archivistique
+	- Pratique artistique capable de charger en histoire les archives
+		- Archive Fever:- Exposition montée par Okwui ENWEZOR issue du livre de DERRIDA (Mal d’archives): analyse en quoi les problématiques de l’archivage sont des enjeux idéologiques:
+			- Se ressaisir des archives historiques pour repenser la situation
+			- Œuvre > Ergon  / Document préparatoire > Parergon

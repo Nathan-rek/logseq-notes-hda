@@ -33,7 +33,7 @@
 		- Une lecture qui s’opère a une période du Ready-made > Cette mis en de l’originalité doit beaucoup à la lecture critique de l’[[Expressionnisme Abstrait Américain]]
 	- La répétition du culte de l’originalité en tant que l’originalité de l’objet et la singularité de l’artiste témoin d’un geste singulier
 	- Se prenant comme témoin de l’originalité de l’œuvre et de la singularité artistique cela conduit à une capitalisation des œuvres extrêmement importantes
-		- Jackson Pollock : [*Number 5*](https://en.wikipedia.org/wiki/No._5,_1948), 1948 ![No.5 and Jackson Pollock's Groundbreaking Style and Technique](https://www.singulart.com/blog/wp-content/uploads/2019/08/number-5.jpg)
+		- [[Jackson Pollock]] : [*Number 5*](https://en.wikipedia.org/wiki/No._5,_1948), 1948 ![No.5 and Jackson Pollock's Groundbreaking Style and Technique](https://www.singulart.com/blog/wp-content/uploads/2019/08/number-5.jpg)
 		  id:: 653ee430-1eca-4a79-9a49-45525fd705c0
 			- Œuvre la plus chère vendu de l’artiste
 	- L’état soutient particulièrement cette expressionnisme américains

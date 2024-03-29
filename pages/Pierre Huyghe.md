@@ -60,8 +60,8 @@
 	- Une moquette mur à mur qui semble montrer les ombres projetées par la lumière du soleil traversant une fenêtre imaginaire. La grande composition est composée de diverses formes rectangulaires de différents tons de la même couleur. En fait, le motif généré par un décor architectural fictif est créé à partir de sections incrustées dans le tapis.
 - [[Pierre Huyghe]] : [*Silence Score (1997):*](https://www.artsy.net/artwork/pierre-huyghe-silent-score) ![Pierre Huyghe, Silence Score, 1997 | Marian Goodman](https://artlogic-res.cloudinary.com/w_1680,h_1680,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/mariangoodman/images/view/86e66a5e88e2148d4cc741ff1757718ej.jpg) imprègnent les imperceptibles de [[4:33]] de [[John Cage]]
 -
-- ## [[Untilled - dOCUMENTA (13)]]
-- ## [[No Ghost Just a Shell]]
-- ## [[Variants]]
+-
+-
+-
 -
 -

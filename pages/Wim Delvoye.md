@@ -1,5 +1,5 @@
 - Artiste belge flamand, dans l'héritage [[Pop-Art]]
-	- Mêler les références
+	- Mêler les références entre Pop et Histoire de l'Art
 	- Wim Delvoye: Logo Cloaca ![Cloaca Original • wimdelvoye.be](https://wimdelvoye.be/medialibrary/cache/projectthumbretina/media/8b52eae8-8457-347b-b0f0-23bedd6edb95_1269.jpg?t=20141031044012)
 	- *Cloaca* renvoi à la calligraphie de coca et au sigle ford
 		- La lecture est lisible, elle rompt avec la fétichisation des objets dans l'art contemporain
@@ -7,8 +7,8 @@
 	- Wim Delvoye: [*Gandagas*](https://www.artnet.fr/artistes/wim-delvoye/gandagas-a-4148-1988-pGVAu50r140LFg1dqMdVUw2), 1998 ![Wim Delvoye - Sous l'œil désabusé de Rodin - ArtsHebdoMédias](https://www.artshebdomedias.com/wp-content/uploads/web_Grieksegasfles_Gandagas_A78522__02.jpg)
 		- Ornemente des bombonnes de gaz avec le style de la peinture rouge ( styel de céramique grécque)
 - Rencontre des matériaux et du luxe
-	- Wim Delvoye: Marble Floor, 1999 ![DELVOYE Wim (né en 1965), Marble floor # 93, 1999, série de photographies  de marqueterie de charcuterie, C-print, 129x145 cm. | Art contemporain,  Art, Nourriture](https://i.pinimg.com/474x/58/ae/e2/58aee2b6eeda604ecdbde852a6b6d2c5.jpg)
+	- Wim Delvoye: [*Marble Floor*](https://www.perrotin.com/artists/Wim_Delvoye/7/marble-floor-102/14240), 1999 ![DELVOYE Wim (né en 1965), Marble floor # 93, 1999, série de photographies  de marqueterie de charcuterie, C-print, 129x145 cm. | Art contemporain,  Art, Nourriture](https://i.pinimg.com/474x/58/ae/e2/58aee2b6eeda604ecdbde852a6b6d2c5.jpg)
 - Intègre les logiques de production
 	- intègres les logiques d'un capitalisme tardif
-- Wim Delvoye: Action Doll ![Wim DELVOYE (Né en 1965) - Posable action figure and clo… | Drouot.com](https://cdn.drouot.com/d/image/lot?size=fullHD&path=90/118978/9bb17d1a717115e699e1b439ab4ec250)
+- Wim Delvoye: [*Action Doll*](https://fr.storeparis.perrotin.com/products/wim-delvoye-action-doll), 2007 ![Wim DELVOYE (Né en 1965) - Posable action figure and clo… | Drouot.com](https://cdn.drouot.com/d/image/lot?size=fullHD&path=90/118978/9bb17d1a717115e699e1b439ab4ec250)
 	- Poupées à son effigie vendu pour 200$ qui renvoi a la boite verte de [[Marcel Duchamp]] en réalisant des œuvres miniatures et rentre dans les logiques du merchandising et de produit dérivés

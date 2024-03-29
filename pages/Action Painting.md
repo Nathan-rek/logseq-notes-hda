@@ -1,5 +1,5 @@
 - Terme crée par Harold Rosenberg pour qualifier la peinture gestuelle. L’action painting comporte plusieurs approche comme
-	- Technique du dripping de ((653ee430-1eca-4a79-9a49-45525fd705c0))[^2]
+	- Technique du dripping de [[Jackson Pollock]] ((653ee430-1eca-4a79-9a49-45525fd705c0))[^2]
 - Porter une intention à la texture et à la consistance de la peinture. Pour Clement GREENBERG les peintures de l’Abs-ex était en général painterly > présentant pour la plupart des effets de peinture qui allait à la rencontre de la planéité du tableau
 	- Franz Kline : untitled, 1957 ![Untitled, 1957 - Franz Kline - WikiArt.org](https://uploads7.wikiart.org/images/franz-kline/untitled-1957-1.jpg!Large.jpg)
 		- La texture et la consistance de la peinture est visible dans sa planéité présentant des ombrages ou des pliures

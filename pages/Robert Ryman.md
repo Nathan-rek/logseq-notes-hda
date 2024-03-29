@@ -11,3 +11,4 @@
 			- portaient le nom de la marque de fibre de verre sur laquelle les plus petites pièces de ce groupe étaient peintes
 - A partir des années 1975 il accroche ses peintures avec des accroches en métal qu'il design spécialement pour chaque pièces
 	- Robert Ryman: [*Ledger*](https://www.tate.org.uk/art/artworks/ryman-ledger-t03550), 1982 ![Ledger', Robert Ryman, 1982 | Tate](https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_zxuuf0d.jpg)
+-
