@@ -9,7 +9,7 @@
 			- L’agrandissement d’une composition ancienne lui confère une plus-value mais le titre suggère que celle-ci est dérisoire
 		- Richard SERRA: [*Main attrapant du plomb*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cAXpry) ![Hand Catching Lead - Centre Pompidou](https://www.centrepompidou.fr/media/picture/3b/0c/3b0c68c51a37390105c439c112b7a834/thumb_large.jpg)
 			-
-			- Premier film de l’artiste américain connu pour ses sculptures minimales en métal au tournant des années 1960-1970 Figure 455: Richard SERRA: Torqued Ellipses, 1996
+			- Premier film de l’artiste américain connu pour ses sculptures minimales en métal au tournant des années 1960-1970 ((65dbc11e-388f-4dc3-8140-d16cdc66f1e0))
 			- Ce film constitue une mise en abyme du dispositif cinématographique. La main de l’artiste essaie de capturer des feuilles de plomb qui tombent dans le champ de la caméra
 		- [[Frantisek Kupka]] : [*Femmes cueillant des fleurs*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cx96jx), 1910 ![Femme cueillant des fleurs - Centre Pompidou](https://www.centrepompidou.fr/media/picture/07/3b/073bde6824d1f55e7a6ecf30e6152ff0/thumb_large.jpg)
 		  id:: 6543a5de-9d27-4c93-a154-b13dd2e3e099

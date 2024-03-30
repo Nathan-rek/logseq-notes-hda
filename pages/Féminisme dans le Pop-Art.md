@@ -1,4 +1,4 @@
-- De nombreux..ses artistes du Pop-art porte un message politique et parmi ces messages le militantisme féministe.
+- De nombreux..ses artistes du [[Pop-Art]] porte un message politique et parmi ces messages le militantisme féministe.
 - Le pop art comme forme d'expression du féminisme politique se heurte avec le fait que beaucoup d'images utilisées par le courant artistique font à l'origine partie de la pornographie, sont des images à caractère misogyne ou encore sont des iconographies qui servent à la culture patriarcale.
 	- Les œuvres de [[Roy Lichtenstein]] sont assez démonstratives de cette vision de la femme et de l’image que la culture populaire crée avec des œuvres où les femmes sont objectivées par l’homme. Dans un dimensions patriarcale la femme n’est que représenté par et pour l’homme.
 		- L’œuvre de LICHTENSTEIN use de ce principes sans vraiment le critique mais l’illustre à travers ses dialogues notamment où même les titres d’œuvres Figure 191: Roy LICHTENSTEIN: Thinking of Him.

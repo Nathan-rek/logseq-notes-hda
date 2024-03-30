@@ -60,6 +60,7 @@
 	- Dans un siècle ou la matérialité et les icônes pesant de l’industrialisation prend le dessus sur le paysages visuelle. La présence des matériaux ( bois, acier, béton, goudron) n’as rien de magique
 		- La matérialité concrète - est passé de la connaissance primaire et de la crainte à la routine brutale
 	- Dans [*Torqued Ellipses*](https://www.guggenheim.org/artwork/17143) l’artiste travaille avec des plaques d’acier massives mais leur physique n’est pas le but. Les [*Torqued Ellipses*](https://www.guggenheim.org/artwork/17143) produisent une expérience de l’espace émergent.
+	  id:: 65dbc11e-388f-4dc3-8140-d16cdc66f1e0
 		- Ce n’est pas l’acier mais le fait que l’espace est ici devenu matériaux
 		  
 		  *« Je n'étais pas intéressé par l'esthétique de ces pièces, mais par le fait qu'une forme générique, une ellipse, puisse être tordue sur elle-même pour produire une forme inédite… Je partais du vide, c'est-à-dire de l'espace, en partant de l'intérieur vers l'extérieur, pas de l'extérieur vers l'intérieur, pour trouver la peau. »*

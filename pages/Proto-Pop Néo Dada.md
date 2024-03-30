@@ -4,7 +4,7 @@
 - Il incite les spectateur..ices à considérer l’art comme quelque chose d’ordinaire ou de familier
 	- L’utilisation des drapeaux permet de considérer ses œuvres comme composer d’image ordinaire pré-existant : ((653ece31-c93e-42a6-bea8-02fe7b6725c8))
 	- L’utilisation d’objet quotidien notamment des biens de consommation comme avec ((653ee430-b774-4c95-a86c-b76061c0e54d))
-- Considérer les images comme préexistante en utilisant des objets et des images ordinaires et familières à permis au pop-art d’intégrer la culture populaire et la culture de consommation dans leurs sujets et leurs stratégie picturales
+- Considérer les images comme préexistante en utilisant des objets et des images ordinaires et familières à permis au [[Pop-Art]] d’intégrer la culture populaire et la culture de consommation dans leurs sujets et leurs stratégie picturales
 - ### [[Robert Rauschenberg]]
 - Les premiers *combine paintings* de 1954 usant collage, peinture, sculpture visent notamment à faire de l’art une expérience visuellement aussi diverse que le fait de déambuler le long d’une rue en ville
   id:: 65480be3-db0d-4b16-af81-2255a4ecd935

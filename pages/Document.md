@@ -23,6 +23,7 @@
 	- Approche culturelle de l’art
 		- La gazette des Beaux art: Revue qui témoigne le point de vue du statue des beaux arts > A l’inverse il n’y a pas ce titre dans Document
 	- Essaie d’analyser des éléments théoriques – Archéologiques – De Beaux Art (intègre des pratiques populaires) –  ethnographique: Revue multidisciplinaire > Construire une méthodologie d’approche artistique
+	  id:: 65d3770d-812b-4143-a25c-69a4c6fd4d9e
 		- Anticipe les clivages disciplinaires > Transformation méthodologique
 		- Désamorcer l’esthétique traditionnelle occidentales:
 		- Théorie dialectique des écarts entre pulsions rationnelles et pulsion vitales:

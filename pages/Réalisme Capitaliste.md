@@ -3,7 +3,7 @@
 		- Avec des œuvres comme Sigmar POLKE, [[Gerhard Richter]] , Konrad LUEG.
 			- Les participants à l'exposition se sont concentrés sur les représentations de la culture de consommation croissante et de la société saturée par les médias en Allemagne avec des stratégies, en partie influencées par celles de leurs homologues Pop Art américains
 				- Gerhard Richter, avant de s'enfuir en République fédérale d'Allemagne en 1961. Dans une lettre Richter parlait non seulement d'un réalisme impérialiste, mais aussi d'un réalisme capitaliste
-				- Qui, suivant la conception anglo-américaine du Pop Art , reconnaît et traite les médias de masse modernes comme un véritable phénomène culturel
+				- Qui, suivant la conception anglo-américaine du [[Pop-Art]] , reconnaît et traite les médias de masse modernes comme un véritable phénomène culturel
 - ### Sujets
 - Les images  qu’utilisent les artistes du mouvement contiennent des commentaires incisifs et parodiques sur la société de consommation, la scène politique d'après-guerre en Allemagne et les conventions artistiques classiques. Les artistes tendent un miroir cynique à une société dangereusement endoctrinée par le consumérisme
 - Sur la société de consommation
