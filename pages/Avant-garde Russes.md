@@ -2,3 +2,4 @@
 - [[Rayonnisme]]
 - [[Constructivisme Russe]]
 - [[Suprématisme (art)]]
+- [[Cubo-futuriste]]

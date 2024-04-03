@@ -1,7 +1,7 @@
 - Les acteur..ices du monde de l'art changent
 	- *Le langage de l'architecture Post-moderne*: Charles Jencks
 		- Contrairement à l'architecture de la [[Modernité]] on ne pense plus le futur mais on se mêle au langage passéiste
-	- Las Vega comme protypes d'une ville post-moderne:
+	- Las Vegas comme prototypes d'une ville post-moderne:
 		- Ville neuve qui s'est construit sur un rapport au temps décomplexés
 			- Remploie le langage formelle, pastiche de style réimplémenter à échelle
 - Cette transition accompagne la transition de capital entre l'Europe qui centralise les pratique d'avant gardes et Les USA qui commence a prendre de plus en plus d'importance
@@ -23,4 +23,6 @@
 	- *“Le postmodernisme va devenir par excellence le règne de l'imaginaire populaire dévoyé par la marchandisation de la culture, sur fond d'une inégalité exponentielle. En sortir est une affaire politique, et non de bilan.”*
 - La post-modernité donnera naissance à une ère de [[L'appropriationnisme]] car le métarécit de [[L'Originalité]] se voit désenchanter pas la post-modernité
   id:: 65f1939d-b892-4710-a628-cc285145e695
+- L'artiste pioche dans les styles et dans l'histoire de l'art, dans une forme de citations
+	- Comment recycler les données culturelles.
 - [[Wim Delvoye]]

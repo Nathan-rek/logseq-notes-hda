@@ -1,9 +1,9 @@
 - Artiste américain symptomatique de l'esprit de la [[Post-Modernité]]
 - Lui aussi hérité du [[Pop-Art]] il puisse dans l'historie de l'art des formes pour les réactualiser
-	- Jeff Koons: Ballon Venus ![Balloon Venus by Jeff Koons, a unique creation Dom Pérignon](https://www.themilliardaire.com/en//wp-content/uploads/2013/10/koons-venus.jpg)
+	- Jeff Koons: [*Ballon Venus*](https://jeffkoons.com/artwork/antiquity/balloon-venus) ![Balloon Venus by Jeff Koons, a unique creation Dom Pérignon](https://www.themilliardaire.com/en//wp-content/uploads/2013/10/koons-venus.jpg)
 	- Déplace des formes antiques avec des matériaux actuels
 - La réimportation des images populaire dans la monde de l'art pose problèmes de propriétes
-	- Jeff Koons: Banality ![JEFF KOONS Ushering in Banality Poster 2011 Pop Art Multicolore, Cochon  Rose 69,8 x 100,3 cm : Amazon.fr: Cuisine et Maison](https://m.media-amazon.com/images/I/81Ft7s5UTfS.jpg)
-		- Koons a été condamné notamment pour ses œuvres de la série Banality
+	- Jeff Koons: [*Banality*](https://jeffkoons.com/artwork/banality) ![JEFF KOONS Ushering in Banality Poster 2011 Pop Art Multicolore, Cochon  Rose 69,8 x 100,3 cm : Amazon.fr: Cuisine et Maison](https://m.media-amazon.com/images/I/81Ft7s5UTfS.jpg)
+		- Koons à été condamné notamment pour ses œuvres de la série *Banality*
 	- Dans une démarche proche de celle de [[L'appropriationnisme]]
 -

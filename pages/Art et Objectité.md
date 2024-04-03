@@ -21,7 +21,7 @@
 		-
 	- Ce qui détermine leur identité picturales c’est la manière dont elles se confrontent à la nécessité d’être convaincante en tant que formes
 - La peinture moderniste s’est donné à invalider ou suspendre sa propre objectité[^15] a travers
-- ##### <a name="__refheading___toc45892_3584917644"></a>L’art littéraliste et la sculpture
+- ### L’art littéraliste et la sculpture
 - Donald JUDD considère la sculpture comme des objets spécifiques.
 - Robert MORRIS inscrit ses sculptures dans la ligné de la pensé constructivistes.
 	- Malgré leurs point de vu différent ils s’opposent à l’idée de la sculpture comme un ensemble de parties distinctes composées ensemble dans une sculpture.
@@ -65,7 +65,7 @@
 - Mais pour nous c’est une situation constante que d’être environnées d’objet. Mais les œuvres minimales devraient accentuer ce fait par leur présence.
 - Mais là où FRIED entre en critique c’est que les œuvres minimales ne permettent pas ces reconsidérations pour la situation dans son ensemble
 	- Il n’y a rien que les spectateur..ices remarquent lorsqu'un objet est présent car c’est un objet et il ne peut être perçu que comme élément de la situation.
-		- De-plus la présence que note GREENBERG relève de ce caractère théâtral. C’est en quelque sorte un présence scénique.
+		- De plus la présence que note GREENBERG relève de ce caractère théâtral. C’est en quelque sorte un présence scénique.
 			- Le caractère scénique des œuvres résulte non seulement de la pression qu'exerce l'œuvre littéraliste, mais aussi de la complicité particulière que celle-ci impose aux spectateur..ices
 - Les œuvres minimalistes enfaîte ne dépasse le caractère non-relationnelle et mettent aussi une distance avec par l’expression de leur objectité.
 	- Encore une fois son rapport à l’œuvre est celui d’un sujet avec un objet. Un objet impassible accroché au mur ou mis au sol.

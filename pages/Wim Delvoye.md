@@ -1,6 +1,6 @@
 - Artiste belge flamand, dans l'héritage [[Pop-Art]]
-	- Mêler les références entre Pop et Histoire de l'Art
-	- Wim Delvoye: Logo Cloaca ![Cloaca Original • wimdelvoye.be](https://wimdelvoye.be/medialibrary/cache/projectthumbretina/media/8b52eae8-8457-347b-b0f0-23bedd6edb95_1269.jpg?t=20141031044012)
+	- Mêler les références entre Pop et Histoire de l'Art, capacité à voyager entre les signes, lisible par le plus grand nombres.
+	- Wim Delvoye: [*Logo Cloaca*](https://wimdelvoye.be/work/cloaca/cloaca-original-1/) ![Cloaca Original • wimdelvoye.be](https://wimdelvoye.be/medialibrary/cache/projectthumbretina/media/8b52eae8-8457-347b-b0f0-23bedd6edb95_1269.jpg?t=20141031044012)
 	- *Cloaca* renvoi à la calligraphie de coca et au sigle ford
 		- La lecture est lisible, elle rompt avec la fétichisation des objets dans l'art contemporain
 - Se spécialise dans la rencontre entre des formes a priori antagoniste

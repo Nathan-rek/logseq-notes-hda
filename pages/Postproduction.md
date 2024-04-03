@@ -1,4 +1,5 @@
 - Ecrit en 2002 par [[Nicolas Bourriaud]]
+- les artistes sont les techniciens qualifiés de la postproduction
 - La culture comme scénario comment l'art reprogramme le monde contemporain
 - Le ré-emploie de forme ((65398c42-8c9d-442a-b162-6f249a183c3a)) ]) dans un régime de postproduction met à la mal production et consommation.
 	- Le matériaux brut n'est plus la base ce sont des matériaux déjà informées

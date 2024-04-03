@@ -1,4 +1,4 @@
-- 1973 – délitement de l’œuvre d’art avènement de la modernité – ERG repose sur une ré-articulation entre pratique et théorie.
+- 1973 – délitement de l’œuvre d’art avènement de la [[Modernité]] – ERG repose sur une réarticulation entre pratique et théorie.
 	- Capable de comprendre les images qui nous entourent et leur outils
 	- Ajouter à cela une prise en compte du tissu social qui l’environne
 	- Thierry DE DUVE s’inscrit part du constate la fin du système des Beaux-Arts

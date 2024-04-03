@@ -188,8 +188,8 @@
 - Le diagramme serait la relation entre le chaos et le germe
 	- Un chaos dont quelque chose doit sortir
 - Le diagramme est une affaire manuel, c’est l’expression d’une main libérée de toute soumission à l’œil, la main ne se guidait plus sur les données visuelles
-	- La main va faire violence à l'oeil Goeringer
-		- Similarité avec la igne gothique de Goeringer
+	- La main va faire violence à l'œil Goeringer
+		- Similarité avec la ligne gothique de Goeringer
 		  id:: 6605364e-465b-46ad-b8c6-608cc0f56e11
 			- Une ligne manuelle qui s’impose à la vue comme si la main qui la trace, était animée par une volonté étrangère à la vue elle même.
 - Quel rapport entre l'œil et la main dans la peinture ?
@@ -200,12 +200,12 @@
 		- L'étymologie du mot peinture en français tend vers un rapport visuel alors que le mot allemand est plus sur la tache
 - Le diagramme est ce chaos de trait qui ne constitue pas de forme visuelle
 - **Si le diagramme c’est le trait/tache, d’origine manuelle qui surgit sur la toile et qui récuse les cordonnées optiques, les coordonnées visuelles, qui les entraîne dans une espèce d’effondrement, comment le définir ?**
-	- Se serait le gris, cette possibilite blanc noir ou vert rouge.
+	- Se serait le gris, cette possibilité blanc noir ou vert rouge.
 		- Ce qui va sortir du diagramme c’est la double gamme picturale : Lumière - Couleur.
 	- Même chose pour le trait : le trait n’est pas la ligne picturale mais la ligne picturale en sortira
 		- le trait, c’est l’élément de composition manuel de la ligne visuelle
 	- La représentation c’est l’avant, l’avant peindre. La présence c’est ce qui sort du diagramme
-	- Les chrétiens dans leurt maneire de définri l'home *« Dieu a créé l’homme à son image et ressemblance, et par le péché, l’homme a gardé l’image, mais il a perdu la ressemblance »*
+	- Les chrétiens dans leurs manière de définir l'home *« Dieu a créé l’homme à son image et ressemblance, et par le péché, l’homme à gardé l’image, mais il a perdu la ressemblance »*
 		- Le péché est l’acte par lequel l’homme se constitue comme image sans ressemblance
 			- Une image sans ressemblance pourrait être l'icone
 	- le diagramme c’est l’instance par lequel je défais la ressemblance pour produire l’image présence
