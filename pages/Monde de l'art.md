@@ -11,6 +11,7 @@
 		- *"Voir quelque chose comme de l'art requiert quelque chose que l'œil ne peut apercevoir - une atmosphère de théorie artistique, une connaissance de l'histoire de l'art: un monde de l'art" - Danto*
 		- La valeur n'est pas dans l'œuvre même dans la démarche et dans le discours de l'artiste
 - Arthur Danto: *La transfiguration du banale*, 1989
+  id:: 65d3770f-5748-408e-8fa4-ae4087cae3ad
 	- Le  monde de l'art est un espace autre qui peut transfigurer le banale en une autre chose, il est transvaluer, il perd sa fonction initiale
 	- C'est la nature de l'objet qui est transformée
 	- Comme la transvaluation du pain et du vin dans l' [[Espace Sacré]] ont s'accorde a évaluer un protocole conceptuelle

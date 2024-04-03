@@ -1,0 +1,6 @@
+- Autoure des pratique d'ordre relationelle
+	- En déambulant dans la rue elle essaye d'avoir le plus grand nombre de contact physique
+	- Geste non-visible
+- Elle va broder dans des vêtements des fleurs dans des endroits imperceptibles, il peut ne jamais être vue
+- Pratique à l'esthétique de la furtivités [[Pratique furtives]]
+-

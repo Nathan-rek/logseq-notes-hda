@@ -1,0 +1,11 @@
+- Monument contre le fascisme dans l'espace public où n'importe que peut écrire dessus
+	- Monument contre le facisme
+	- ![Jochen Gerz “Le nom est souvent le dernier bout du chemin de la mémoire”](https://journals.openedition.org/temoigner/docannexe/image/3232/img-2.png)
+	- Mais à chaque fois que une face est couvert le monument s'enfonce dans le sol
+		- ![B. Présentation de l'artiste: A . Présentation généraliste de l'œuvre: HDA  arts pl](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAgkqub5iEHTfldwD5_s8_UHw8oq1Zfeu3IWjlzMhAVhqHamsQwxSFOna48XZBXoyHOzU&usqp=CAU)
+		- Le monument n'est plus visible mais il est encore présente dans la mémoire
+		- La mémoire se sédimente dans le sol
+- Monument contre le racisme ![JOCHEN GERZ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNrHUVume1Wy2sHHEwKUn9cU3vNCIkK0GUJvKlhQuCGA&s)
+	- Des pavés délogés et y on inscrit un nom de cimetière juif et on réenfoui le pavé
+-
+-

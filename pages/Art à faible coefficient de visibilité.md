@@ -1,0 +1,17 @@
+- Art en crise
+- Permacrise: ère de plusieurs crise permanent qui s'entremêle
+- L'art contemporain est en crise
+	- Ontologique: Crise dans sa nature même de ce qu'elle est ((65d3770f-5748-408e-8fa4-ae4087cae3ad))
+	- Epistémologique: Quelle est la limite de l'art dans un contexte [[L'artiste théoricien..ne]].
+		- Quand l'art excelle le langage écrit[[Art & Language]] L'art et la théorie de l'art fusionne
+	- Axiomatique: Qu'est ce l'art / **L'art est un faux concept anhistorique**
+- Cette état de crise de l'art contemporain
+- ## Un art de la disparition
+- Suite à la dématérialisation des [[Art Conceptuel]] que comment Lucy R. Lippard
+	- L'art devient une affaire de process, on délaisse l'objet au profit du contexte; L'art n'est plus objectal
+	- Paul Ardenne: *Un Art Contextuel*
+		- Etudie les pratiques qui quittent le musée pour se fondre dans la rue et devenir des expériences
+- [[Max Neuhaus]]
+- [[Jochen Gerz]]
+- [[Diane Bursato]]
+- [[Inframince]]
