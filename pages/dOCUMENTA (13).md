@@ -2,10 +2,10 @@
 	- Holisme dans l'importance de comprendre les système dans leur totalité plutôt que simplement en examinant leurs parties individuellement
 	- Le logocentrisme est une notion critique souvent associée à la philosophie de Jacques Derrida, qui critique la tendance occidentale à privilégier la parole (logos) ou le texte écrit comme source principale de connaissance et de signification, au détriment d'autres formes d'expression et de compréhension. Une approche anti-logocentrique, donc, cherche à décentrer cette prédominance du langage verbal et écrit dans la production et l'interprétation des savoirs
 	- Refusant donc tout *a priori* concernant la vérité de l'art pour laisser les objets se manifester par leurs propres activités sensibles
-- L'exposition se déroulait a Kassel au Fridericalium et aussi à Kaboul, ou des artistes travaillaient autour de la thématique "afghanes"
+- L'exposition se déroulait à Kassel au Fridericalium et aussi à Kaboul, ou des artistes travaillaient autour de la thématique "afghanes"
 	- L'un des élément de liaisons entre était le travail de Alighiero Boetti ayant longtemps vécu en afghanistan
 		- Alighiero Boetti: [*Senza Titolo (Tra l'incudine e il martello)*](https://www.ilgiornaledellarte.com/articoli/quando-l-afghanistan-era-aperto-al-mondo/137333.html), 1989 https://www.ilgiornaledellarte.com/immagini/IMG2021101819113342_1000.jpeg
-- Cette édition se caracterisait ausis par un retour aux soruces avec un dialogue assez fort avec l'historie de l'art, en donnant a voir des oeuvre oubliés ou passées.
+- Cette édition se caractérisait aussi par un retour aux sources avec un dialogue assez fort avec l'historie de l'art, en donnant a voir des œuvres oubliés ou passées.
 	- [[Joseph Beuys]] et ses ((653e63b1-925e-43e6-a815-551ac22c526b)) se sont vu réactiver par [[Pierre Huyghe]] dans [[Untilled - dOCUMENTA (13)]]
 	- Le documenta Halle fesait l'objet d'un présentation du travail des années 1950 de [[Gustav Metzger]]
 - L'une des pièces central de cette édition était *The brain* https://www.artforum.com/wp-content/uploads/2012/09/article_large-9.jpg
@@ -16,13 +16,11 @@
 		- Cette contemplation de soi-même se traduit comme le besoin *de lui faire ressentir la densité de sa vie à lui, vie d’excellence et de raffinement, rien d’autre*
 		- Des instalations comme celle ou Enrique Vila-Matas, Aaron Peck ou encore Adania Shibli occupés à écrire se voit pour Paul Ardenne être observées par les visiteur..ices comme des singe en zoo
 		- Le cours d'Anton Zeilinger sur la physique quantique qui nous donne à voir une science complexe.
-	- L'auteur critique une selection oecuménique marquete ou il ne faut pas immetre d'inviter des acteur non-occidentale ou de ne pas prendre le
+	- L'auteur critique une sélection oecuménique marqueté ou il ne faut pas omettre d'inviter des acteurs non occidentale ou de ne pas prendre le
 	  risque d’être taxé(e) de féminisme ou de machisme en invitant plus de femmes que d’hommes ou plus d’hommes que de femmes.
 	- Pour Paul Ardenne la curation se fait sous obligation : *d'avaliser les options dominantes de l’establishment artistique, ménager la chèvre et le chou, ne jamais se montrer propagandiste de manière unilatérale*
-		- En rendant hommage artistes qui souffrent de la dicatature
+		- En rendant hommage artistes qui souffrent de la dictature
 			- Ai Weiwei assigné à résidence dans son payse ou les Pussy Riots emprisoné en Russie
 	- Pour Paul Ardenne la sélection a comme résultat de rendre compte de la force de l'art
 		- Un art qui parle de tout et représente tout
 	- Mais cette engagement est dissout et restituer dans les œuvres elle même, l'auteur y voit un non-engagement ou la responsabilité politique est pris par l'artiste.
-	-
-	-

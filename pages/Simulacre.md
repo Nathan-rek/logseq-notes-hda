@@ -6,5 +6,10 @@
 			- Bret Easton ELLIS: American Psycho: Basé sur un contexte entrepreneurial d’une entreprise qui gère de fond pour faire fructifier de l’argent début de rapport à la virtualité.
 				- Psychose qui née entre les contrainte pulsionnelle et sociétale
 		- REAGAN président américain: Le gouvernement n’est pas la solution c’est le problème: Politique de l’historie américaine caractérisé par la mise en place d’un doctrine économique ultra libérale
+- Pour Baudrillard il y a quatre façons d’obtenir de la valeur
+	- Valeur fonctionnel : objectifs principal d’un objet
+	- Valeur d’échange : Valeur économique d’un objets
+	- Valeur Symbolique : valeur attribuer par un sujet part rapport à un autre sujet
+	- Valeur de signe : la valeur d’un objet au sien d’un système d’objet
 - ### [[Simulationisme]]
 -

@@ -1,3 +1,4 @@
 - Un espace autre littéralement - L'hétéropie existe c'est un espace physique
 - Michel Foucault : hétérotopie de crise ou de déviation. État vécu ou les individus sont en état de crise ( ex: crise d’adolescence / Vieillesse ). Hétérotopie de déviation (dominant dans les culture occidentale ) Individus dont le comportement est devient face au dispositif de normalisation. Espace construit (ex: Maison de Repos / Clinique Psychiatrique)
 - Tout comme l' [[Espace Sacré]] il est un espace autre
+- Pour Baudrillard, le DisneyLand Floride est une hétérotopie réalisé

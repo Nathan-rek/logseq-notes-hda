@@ -1,4 +1,4 @@
-- Artiste musicien qui décide de quitter la salle de concert car trop monotone, Préfère sortir dans la ville et attire les bruit sur nos environnement ordinaires
+- Artiste musicien qui décide de quitter la salle de concert car trop monotone, Préfère sortir dans la ville et attire les bruits sur nos environnement ordinaires
 	- Installation de dispositif sonore fondu dans les décor
 		- Max Neuhaus:[*Times Square*](https://en.wikipedia.org/wiki/Times_Square_(Neuhaus)), 1977 ![Traduction française – Times Square Un travail sonore de Max Neuhaus à New  York – Ulrich Loock | Desartsonnants](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDB1hxWuviIWFQXqrkNFGQhxJzV4Q1fpWW1es15PD-bA&s)
 			- Un son qui se fond dans la rumeur quotidienne du bruit, faible coefficient de sensibilité et [[Art à faible coefficient de visibilité]]

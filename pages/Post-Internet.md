@@ -17,9 +17,11 @@
 	  id:: 656489b5-0718-46dc-89e5-ed63d37ca9ee
 		- Utiliser des traces numériques d’une nation qui n’existe plus (Yougoslavie)
 	- Morehshin Allahyari : [*Material Speculation, ISIS*](https://morehshin.com/material-speculation-isis/), 2015 ![](https://i0.wp.com/morehshin.com/wp-content/uploads/2016/02/morehshin_allahyari-material_speculation-lamassu-1.jpg?ssl=1)
-		- Projet de modélisation et d’impression 3D > reconstruction de 12 statues de la ville romaine de Hatra et Ninive ( Syrie ) détruit en 2015. A l’intérieur des objets on retrouve des clé USB ou des carte mémoire
-			- Comme capsule temporaire d’un artefact > propose une solution politique et pratique d’archivage d’artefact
-		- Face au colonialisme numérique > la tendance des technologies de l’information à se déployées de manière à reproduire les relations de pouvoir coloniales, Allahyari décide de ne pas publier les modèles 3D en ligne
+		- Projet de modélisation et d’impression 3D
+			- Reconstruction de 12 statues de la ville romaine de Hatra et Ninive ( Syrie ) détruit en 2015. A l’intérieur des objets on retrouve des clé USB ou des carte mémoire
+			- Comme capsule temporaire d’un artefact
+				- Propose une solution politique et pratique d’archivage d’artefact
+		- Face au colonialisme numérique la tendance des technologies de l’information à se déployées de manière à reproduire les relations de pouvoir coloniales, Allahyari décide de ne pas publier les modèles 3D en ligne
 - ### Définition changeante de l’œuvres d’art:
 - Artie Vierkant: le Post-internet se définit comme le résultat du monde contemporain :
 	- Informé de façon inhérente par l’omniprésence des auteurs
@@ -28,7 +30,7 @@
 	- La reproductibilité et la mutabilité infinies des matériaux numérique
 	  
 	  *"Toute production culturelle qui a été influencée par une idéologie de réseau est Post-Internet."*
-- [*Image Object, 2011*](https://d1v7jayx2s9clc.cloudfront.net/user/pages/image-objects/io-6.png) ![](https://d1v7jayx2s9clc.cloudfront.net/user/pages/image-objects/io-6.png)
+- Artie Vierkant: [*Image Object, 2011*](https://d1v7jayx2s9clc.cloudfront.net/user/pages/image-objects/io-6.png) ![](https://d1v7jayx2s9clc.cloudfront.net/user/pages/image-objects/io-6.png)
 	- Offrant une approche théorique et pratique pour comprendre la définition changeante de l’œuvre d’art à l’ère numérique
 	- Une ensemble d’œuvre sculpturales qui existaient entre l’objet physique et l’image numérique médiatisée > Chaque œuvres est à l’origine un fichier numérique, qui est ensuite imprimé sur des panneaux composites en aluminium et découpé avec précision afin qu’ils apparaissent en trois dimensions. Lorsque les objets sont photographiés officiellement VIERKANT modifie la documentation afin de créer une nouvelle variation
 		- En réponse à l’évolution des conditions d’audience de l’art contemporain, la monté des blogs...

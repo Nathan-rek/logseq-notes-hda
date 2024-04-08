@@ -1,4 +1,4 @@
-### Minimalisme
+## Minimalisme
 L’art minimal se développe dans les années 1960 au état-unis, conteste les théories modernistes de Clément GREENBERG [[Modernist Painting, Clément Greenberg]] et ses applications sur l’[[Expressionnisme Abstrait Américain]]
 - Un des héritages du minimalisme est Ludwig Mies van Der ROHE «less is more» un artiste du [[Bauhaus]] de Dressau s’étant exporte à Chicago, l'amélioration d'une œuvre se faisant selon les minimalistes par soustraction.
 - Contre cette automatisation de l’œuvre. Naît la nécessité de proposer des gestes artistiques accompagnés par une théorisation du geste. Les artistes eux..lles mêmes produisent les discours dans les formes artistique. Les courants de pratique féministe vont se développer par la production d’un discours théorique, la nécessite de produire un récit thermique pour crée un territoire libre et reprendre la main sur la théorie. La critique ne fonde plus la théorie.
@@ -20,7 +20,7 @@ L’art minimal se développe dans les années 1960 au état-unis, conteste les 
 - Explore les formats de toiles notamment
 	- Explorant des formats irréguliers avec la série [*Irregular Polygon (Polygone irrégulier)*](https://www.youtube.com/watch?v=lgaPuHDV8v0) ![FRANK STELLA (B. 1936)](https://www.christies.com/img/LotImages/2014/NYR/2014_NYR_03499_0109_000(frank_stella_eccentric_polygons040356).jpg?mode=max)
 	  id:: 65480be3-10a8-46cb-b307-d1e747a0efe7
-	- qui présente des formats de toile autre que les formats rectangulaires
+	- qui présente des formats de toiles autre que les formats rectangulaires
 	- Il souligne l’image comme objet plutôt comme de l’image comme représentation de quelque chose, que ce soit dans le monde physique ou dans le monde émotif de l’artiste
 - D’autre artistes ont entreprit des expérimentation picturale similaire à celle de STELLA dans les signes et les procèdes
 	- Ellsworth KELLY aussi se limitait à des couleurs en aplat
@@ -33,7 +33,7 @@ L’art minimal se développe dans les années 1960 au état-unis, conteste les 
 - ### Sculptures
 - Les sculpteur..ices minimalistes utilisent des structures élémentaires et simple
 	- Le choix des volumes géométriques simples sont à appréhender immédiatement pour ce qu'ils sont (sans artifice)
-		- Carl ANDRÉ: [*144 titanium Square*], 2011 ![144 Titanium Square', Carl Andre, 2011, fabricated 2017–8 | Tate](https://media.tate.org.uk/art/images/work/AR/AR01265_9.jpg)
+		- Carl ANDRÉ: *144 titanium Square*, 2011 ![144 Titanium Square', Carl Andre, 2011, fabricated 2017–8 | Tate](https://media.tate.org.uk/art/images/work/AR/AR01265_9.jpg)
 		  id:: 65480be3-eb6e-476e-8e48-200bc5c97e96
 - Les sculptures sont souvent réalisées dans des matériaux bruts ( cuivre poli, acier )
 	- Les couleurs, les matériaux individuels permettent de produire des objets qui n'ont aucune histoire émotionnelle et donc le contenu de la sculpture n'est autre que la sculpture elle-même, c'est une représentation minimale parce qu'elle se limite à l'essentiel.
@@ -42,3 +42,4 @@ L’art minimal se développe dans les années 1960 au état-unis, conteste les 
 	- Richard SERRA: [*Promenade*](https://www.paris-art.com/monumenta-2008-promenade/), 2008 ![Monumenta 2008, une promenade avec Richard Serra - archéologie du futur /  archéologie du quotidien](https://idata.over-blog.com/0/41/70/57/Exposition/Promenade--installation-de--Richard-Serra---Monumenta-2.jpg)
 		- Ces promenades étaient «rythmées» par de la musique, et notamment celle de Philip GLASS ( artiste minimaliste )
 - ### [[Art et Objectité]]
+-

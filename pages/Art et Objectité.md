@@ -7,7 +7,7 @@
 - Les pratiques littéralistes critiquent pour la peinture plusieurs éléments.
 	- Le caractère relationnelle des œuvres picturales
 	- La quasi inévitable illusion picturale
-- Pour Donald JUDD l’un des problèmes de la peinture est l’idée de de relie des parties entre elle ce qui fait pré-existe une hypothèses qu’il exista un vague tout.
+- Pour Donald JUDD l’un des problèmes de la peinture est l’idée de relier des parties entre elle ce qui fait préexiste une hypothèses qu’il exista un vague tout.
 	- Mais la peinture est un rectangle bien définies, qui lui même contient des partis.
 		- Donald JUDD émet une critique de surface plane de la peinture avec des peintures qui rentre directement en résonance avec le caractère bidimensionnelle de la toile, en traversant les peintures de lignes sur la hauteur et la longueur marquant leur limites spatial.
 		- Donald JUDD: [*Sans titre*](https://icamiami.org/calendar/donald-judd-paintings-opening-night/), 1960 ![image.png](../assets/image_1698707941172_0.png) 
@@ -44,10 +44,12 @@
 		- Ce n’est pas la dimension de l’œuvre qui lui donne sa présence mais c’est son esthétique de non-art
 	- Cette condition d’apparence était propre à la sculpture avec sa tridimensionnalité, car pour lui une toile cloué au mur ou sur un chassie est déjà une peinture. Elle ne peut donc pas flirter avec cette apparence de non-art
 		- Il intègre une autre condition qui est d’éviter l’effet machine des objets de matière non artistique.
-			- Car pour certain..es artistes comme TINGUELY [Jean TINGUELY: [*Sculpture méta-mécanique automobile*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cbqzXzx), 1954 ![Sculpture méta-mécanique automobile - Centre Pompidou](https://www.centrepompidou.fr/media/picture/3e/9c/3e9cfb8fb1dce58ad0d18680c0dd151a/thumb_large.jpg)] la machine est artistique
+			- Car pour certain..es artistes comme TINGUELY
+			- Jean TINGUELY: [*Sculpture méta-mécanique automobile*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cbqzXzx), 1954 ![Sculpture méta-mécanique automobile - Centre Pompidou](https://www.centrepompidou.fr/media/picture/3e/9c/3e9cfb8fb1dce58ad0d18680c0dd151a/thumb_large.jpg)
+			- la machine est artistique
 	- Mais même si simple l’objet soit il, l’objet intègre toujours des rapports de surface, de contour, d’intervalle spatiale.
 - Il y a un contraste entre la manière dont la tendance littéraliste adhère à l'objectité
-	- comme à un art à part entière
+	- Comme à un art à part entière
 - Et l'impératif que s'impose la peinture moderniste d'invalider ou de suspendre sa propre objectité par le biais de la forme.
 - ### Pourquoi adhérer à l’objectité
   L’auteur est y voit un nouveau genre de théâtre, un théâtre qui serait l’antithèse de l’art.
@@ -95,4 +97,3 @@
 - Après avoir dénoncé comme théâtral le parti pris du littéralisme de situer l’œuvre d’art dans l’espace réel de sa perception, l’essayiste en vient à la question du temps. Il cite Robert Morris : « L’expérience d’une œuvre se situe nécessairement dans le temps ». Par cet aspect aussi, l’esthétique littéraliste est théâtrale, car « ce à quoi en appelle le théâtre, au fond, [est] le sentiment de la temporalité ». Là encore, le littéralisme s'oppose diamétralement avec le modernisme, car, avec les peintures et les sculptures qui se réclament de ce dernier, « tout se passe comme si notre expérience […] n’avait aucune durée » (ce que Fried appelle la « présenteté »).
 - N’occultant ni l’espace qui entoure l’œuvre, ni le temps qu’implique sa perception, autrement dit théâtral, le Minimalisme doit être combattu. Or, comme chacun le sait, « le théâtre est aujourd’hui la négation de l’art ». Une telle affirmation ne manque pas d’étonner : pour la sensibilité contemporaine, le théâtre serait presque devenu le parangon de l’art —la scène s’entendant comme le lieu, relativement autonome, d’un illusionnisme sans complexe. Mais pour Fried, le théâtre n’est pas vraiment le théâtre. La preuve en est qu’il ne s’en prend nullement aux gestes artistiques de l’époque qui, davantage que les « objets spécifiques » de Donald Judd, semblent se tenir dans le voisinage du théâtre : la performance, le happening. Dans la doctrine friedienne, le théâtre n’est que le synonyme d’un art conscient d’avoir un spectateur et d’être dans le même espace et le même temps que lui. L’art ne saurait accepter pareille promiscuité avec le théâtre du monde.
 - Dans les dernières lignes de l’essai, Fried précise une ultime fois ses motivations, puis se laisse aller à un aveu : « Et il est bien sûr que ce texte m’a été inspiré par le désir de distinguer entre ce qui m’apparaît comme l’art authentique de notre temps et les autres œuvres qui […] me semblent présenter certaines qualités associées aux concepts de littéralisme et de théâtre. Je voudrais toutefois […] souligner que cette sensibilité ou manière d’être que je qualifie ici de corrompue ou de pervertie par le théâtre est chose fort courante —virtuellement universelle. Littéralistes, nous le sommes tous, à chaque instant ou presque de notre vie ». Aussi, seule une illusion, Fried l’admet, peut-elle permettre à des peintures ou des sculptures de sembler exister en dehors du temps et de l’espace qui est celui du spectateur.
--
