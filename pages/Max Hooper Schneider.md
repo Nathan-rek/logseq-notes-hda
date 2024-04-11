@@ -2,8 +2,8 @@
 - [[Max Hooper Schneider]] a qualifié son travail de "exchange vibratory".
 - ## Art is biology
 	- MHS compose et considère l'art comme une biologie et ses œuvres répondent donc à des structures complexes biologiques.
-		- Bien que tout soit biologie sans forcement l'être visible dans ces Aquariums ce n'est pas l'objet qui est c'est l'ensemble des composants que se lient entre eux
-		- MHS: [*The extinction of Neon 2*](https://highart.fr/exhibitions/max-hooper-schneider/), 2015 ![](https://highart.fr/wp-content/uploads/2015/09/HA-MHS-NTOVS-PRESS-5.jpg)
+		- Bien que tout soit biologie sans forcement l'être visible dans ces aquariums ce n'est pas l'objet qui est c'est l'ensemble des composants que se lient entre eux
+		- MHS: [*The extinction of Neon 2*](https://highart.fr/exhibitions/max-hooper-schneider/), 2015 ![Sold at Auction: Max Hooper Schneider, Max Hooper Schneider, The Extinction  of Neon](https://image.invaluable.com/housePhotos/lamodern/28/749328/H1045-L334344367.jpg)
 		- Il utilise ces compositions biologiques et par exemple l'installation d'une lampe dans un aquarium est en soi non pas un non-sens mais une cohésion car la lampe comme le corail sont enfaite composée de matériaux similaires.
 		- Il rallie à la foi l'adhésion vitale entre certains éléments et en même temps le pouvoir de décomposition de certains
 		- Une discontinuité entre human et non-humain et mort et vie / [[Nature - Culture]]
@@ -20,4 +20,4 @@
 - L'art et la pratique de MHS joue sur diffèrents aspects et les valeurs d'échelles sont très différentes
 	- L’immense et le minuscule semblent coexister dans un même objet, obligeant le..a spectateur..ices à abandonner son regard humain et à changer d’échelle.
 	- *" Max Hooper Schneider compose un long morceau de death metal, à partir des vestiges de la biosphère." Nicolas Bourriaud*
-	- MHS: [*Eocène Epizoon*](https://www.enrevenantdelexpo.com/2022/02/11/max-hooper-schneider-pourrir-dans-un-monde-libre-moco-panacee/), 2021 ![DAMAGED BY MIRACLES, MAX HOOPER SCHNEIDER / HIGH ART](https://highart.fr/wp-content/uploads/2021/08/HA-MHS-DAMAGED-BY-MIRACLES-WEB-3-1-scaled.jpg)
+	- MHS: [*Eocène Epizoon*](https://www.enrevenantdelexpo.com/2022/02/11/max-hooper-schneider-pourrir-dans-un-monde-libre-moco-panacee/), 2021 ![Max Hooper Schneider at High Art – Art Viewer](https://artviewer.org/wp-content/uploads/2021/11/Max-Hooper-Schneider-at-High-Art-8.jpg)
