@@ -1,11 +1,10 @@
 - Certain..e place les débuts du pop art en 1956 avec
-  title:: Pop-Art
 	- Richard Hamilton qui compose son collage
 		- Richard Hamilton: Just what was it that made yesterday’s homes so different, so appealing?, 1956 ![](https://media.tate.org.uk/art/images/work/P/P11/P11358_10.jpg)
 	- Avec des images provenant de magazine et de journaux collectées par l’artiste John McHALE
 	  *«Nous ne ressentions pas d’animosité pour la culture commerciale qui étais de mise chez les intellectuels, mais acceptions cette culture comme un fiat inéluctable, en discutions dans le détail et en faisions une consommation enthousiaste»*
 	  Lawrence Alloway1: critique, à propos de la pensée du pop art
-- Le pop-art est un mouvement qui s’est fortement inscrit au Etats-Unis de part l’héritage américain [[Proto-Pop Néo Dada]] qu’il possède. De-plus les Etats-Unis ont été une nation qui a fortement contribué à développer les sujets et les intérêts du pop art. Le Pop-art à beau être pratiqué par des artistes autres qu’américain..e une majorité des considérations du pop-art prennent leur source de la culture américaine: personnalité, style, sujet, objet.
+- Le pop-art est un mouvement qui s’est fortement inscrit au Etats-Unis de part l’héritage américain [[Proto-Pop Néo Dada]] qu’il possède. De-plus les Etats-Unis ont été une nation qui a fortement contribué à développer les sujets et les intérêts du pop art. Le Pop-art à beau être pratiqué par des artistes autres qu’américain..e une majorité des considérations du pop-art prennent leurs sources de la culture américaine: personnalité, style, sujet, objet.
   id:: 653ee9a5-6c53-48eb-8f26-96c303edb2dc
 - Le drapeaux américain lui même s’invite dans les images à traiter par les artistes pop art:
 	- Entre les ((653ece31-c93e-42a6-bea8-02fe7b6725c8)) et le
@@ -15,6 +14,7 @@
 - Images
 	- Les artistes pop-art réutilisent des images existantes issue de medium diverses et variés
 		- Richard Hamilton Commença à peindre des scènes de genre comme avec Countdown, 1989
+			- ![Countdown, 1989 - Richard Hamilton - WikiArt.org](https://uploads2.wikiart.org/images/richard-hamilton/countdown-1989.jpg!Large.jpg)
 		- [[Andy Warhol]] à travers différent processus pictural réintégrera de nombreux signes et images:
 - Symbole:
 	- [[Andy Warhol]]: Dollar Sign, 1981 ![Andy Warhol, Dollar Sign, 1981 Muriel Anssens / Mamac Nice © The Andy Warhol  Foundation for the Visual Arts, Inc. / Licensed by ADAGP, Paris, 2023 -  ARTVISIONS by Ouvretesyeux](https://artvisions.fr/wp-content/uploads/2023/02/Capture-decran-2023-02-08-a-15.36.07.png)
