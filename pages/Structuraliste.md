@@ -1,3 +1,0 @@
-- Courant de pensé du 20eme siècle qui propose que tout est une construction est que les structures sont arbitraire
-	- Le langage comme construction - Ferdinand de Saussure propose le langage comme un système
--
