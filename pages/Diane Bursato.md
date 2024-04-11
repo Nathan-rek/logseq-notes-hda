@@ -3,4 +3,5 @@
 	- Geste non-visible
 - Elle va broder dans des vêtements des fleurs dans des endroits imperceptibles, il peut ne jamais être vue
 - Pratique à l'esthétique de la furtivités [[Pratique furtives]]
--
+- Un art face au principe d'exposabilité de l' [[Académie - Beaux-Arts]]
+	- La création d'un paradigme dans lequel les pratiques à [[Art à faible coefficient de visibilité]] sort de ce cadre.

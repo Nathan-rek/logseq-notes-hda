@@ -7,7 +7,7 @@
 	- Wim Delvoye: [*Gandagas*](https://www.artnet.fr/artistes/wim-delvoye/gandagas-a-4148-1988-pGVAu50r140LFg1dqMdVUw2), 1998 ![Wim Delvoye - Sous l'œil désabusé de Rodin - ArtsHebdoMédias](https://www.artshebdomedias.com/wp-content/uploads/web_Grieksegasfles_Gandagas_A78522__02.jpg)
 		- Ornemente des bombonnes de gaz avec le style de la peinture rouge ( styel de céramique grécque)
 - Rencontre des matériaux et du luxe
-	- Wim Delvoye: [*Marble Floor*](https://www.perrotin.com/artists/Wim_Delvoye/7/marble-floor-102/14240), 1999 ![DELVOYE Wim (né en 1965), Marble floor # 93, 1999, série de photographies  de marqueterie de charcuterie, C-print, 129x145 cm. | Art contemporain,  Art, Nourriture](https://i.pinimg.com/474x/58/ae/e2/58aee2b6eeda604ecdbde852a6b6d2c5.jpg)
+	- Wim Delvoye: [*Marble Floor*](https://www.perrotin.com/artists/Wim_Delvoye/7/marble-floor-102/14240), 1999 ![DELVOYE Wim (né en 1965), Marble floor # 93, 1999, série de photographies  de marqueterie de charcuterie, C-print, 129x145 cm. | Art contemporain,  Art, Nourriture](https://i.pinimg.com/474x/58/ae/e2/58aee2b6eeda604ecdbde852a6b6d2c5.jpg){:height 359, :width 450}
 - Intègre les logiques de production
 	- intègres les logiques d'un capitalisme tardif
 - Wim Delvoye: [*Action Doll*](https://fr.storeparis.perrotin.com/products/wim-delvoye-action-doll), 2007 ![Wim DELVOYE (Né en 1965) - Posable action figure and clo… | Drouot.com](https://cdn.drouot.com/d/image/lot?size=fullHD&path=90/118978/9bb17d1a717115e699e1b439ab4ec250)

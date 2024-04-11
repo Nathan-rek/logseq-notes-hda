@@ -1,3 +1,0 @@
-- Carthographie des différentes positions concernant la relation entre la production artistique et les trois approches principales qui constituent le champ de la spéculation actuelle :
-- ## Approche rationaliste (Le matérialisme transcendantale)
-- ## [[Object Oriented Philosophy]]

@@ -1,17 +1,46 @@
 - Art en crise
 - Permacrise: ère de plusieurs crise permanent qui s'entremêle
 - L'art contemporain est en crise
-	- Ontologique: Crise dans sa nature même de ce qu'elle est ((65d3770f-5748-408e-8fa4-ae4087cae3ad))
+	- Ontologique: Crise dans sa nature même de ce qu'elle est ((65d3770f-5748-408e-8fa4-ae4087cae3ad)). L'art problématise ce qu'est l'art
 	- Epistémologique: Quelle est la limite de l'art dans un contexte [[L'artiste théoricien..ne]].
 		- Quand l'art excelle le langage écrit[[Art & Language]] L'art et la théorie de l'art fusionne
 	- Axiomatique: Qu'est ce l'art / **L'art est un faux concept anhistorique**
 - Cette état de crise de l'art contemporain
 - ## Un art de la disparition
+- Un art comme symptôme de cette crise
 - Suite à la dématérialisation des [[Art Conceptuel]] que comment Lucy R. Lippard
 	- L'art devient une affaire de process, on délaisse l'objet au profit du contexte; L'art n'est plus objectal
 	- Paul Ardenne: *Un Art Contextuel*
 		- Etudie les pratiques qui quittent le musée pour se fondre dans la rue et devenir des expériences
+		- L'art difficilement détachable du domaine de l'esthétique.
+		- L'art sans spectateur..ices de Stefan Wright
+- Les exposition du vides sont des manifestations qui prennent de plus en plus forme.
+	- Souvent l'exposition du vide se prête à une forme de [[Critique institutionnelle]]
+		- Maria Eichhorn qui pour son exposition utilise le budget pour rénover l'institution dans laquelle elle expose.
+			- Pour la biennal de venise elle soustrait des éléments du pavillon allemand ![Maria Eichhorn investigates the hidden history of the German Pavilion in  Venice | Inexhibit](https://www.inexhibit.com/wp-content/uploads/2022/04/Maria-Eichhorn-German-Pavilion-59th-Venice-Art-Biennale-2022-3-Inexhibit.jpg)
+		- Robert Barry: durant l'exposition la galerie sera vide
+		- Yves Klein: [*Zone de sensibilité picturale immatérielle*](https://en.wikipedia.org/wiki/Zone_de_Sensibilit%C3%A9_Picturale_Immat%C3%A9rielle), 1959 ![Zone de sensibilité picturale immatérielle Série n°1, Zone n°02 (receipt to  Jacques Kugel) | Collection Loïc Malle: Only Time Will Tell | 2022 |  Sotheby's](https://sothebys-md.brightspotcdn.com/dims4/default/7c70585/2147483647/strip/true/crop/4783x3368+0+0/resize/1024x721!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F89%2F16%2F7a1583b74050b977e01a2fa0a584%2Fpf2275-c5vsb-02.jpg)
+		- Ruben Osltund: The Square: Un commissaire d'exposition propose un dispositif hérité de l'[[Esthétique Relationnelle]] qui dans ce film est le sujet a une critique institutionnelle sur ce qu'est l'art qui se dit relationnelle ou crée du lien social
 - [[Max Neuhaus]]
 - [[Jochen Gerz]]
 - [[Diane Bursato]]
 - [[Inframince]]
+- L'usage d'un espace en fait un lieux.
+	- En déposant des tables dans des espaces quel qu'onques les espaces deviennent des lieux
+- Jean-Yves Jouannais: *Artiste sans œuvres*
+	- Catalogue des œuvre qui n'ont jamais exister, qui ont été fantasmées
+	- L'écriture littéraire pour courir le risque de ce perdre dans les circuit commerciaux de l'industrie.
+		- L'absence d'œuvre peut sembler plus créatrice
+		- " *I woudl Prefer not to* "
+			- Issue d'une nouvelle ou un Notaire qui un jour refuse d'effectuer les taches qu'on lui donne et préfère ne plus rien faire
+			- Combattre l'appareil d'état à distance, se soustraire à l'action peut être une maniere d'affronter.
+				- La disparition peut être une option d'existence
+		- Pierre Zaoui: *La discrétion*
+			- Un art de disparaitre
+				- Réapprendre à ne pas être vue
+- ## L'art de mourir
+- [[Bas Jan Ader]]
+- Daniel Savatore Schiffer: Traité de sublime de la mort sublime
+	- Socrate accepte la mort et met en pratique une leçon philosophique au principe de sa mort
+- Recherche du sublime, la mort comme comment sublime ou l'on se retrouve confronter à la limite de la vie
+-

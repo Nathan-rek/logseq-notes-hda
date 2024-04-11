@@ -3,7 +3,6 @@
 - Révélé la capacité de l'humain..e à s'autodétruire
 	- La peinture la sculpture ne sont plus à même de rendre compte de la violence de la société
 		- Il va développer un art autodestructif: écrit un manifeste [*Auto-destructive Art*](https://designmanifestos.org/gustav-metzger-auto-destructive-art-manifesto/),1960 https://designmanifestos.files.wordpress.com/2020/04/metzger_gustav_auto-destructive_art_demonstration_1961.jpg
-			- ![Archives des Feu - Page 2 sur 3 - ARCHIVES GAMMA](https://lh3.googleusercontent.com/proxy/FqRtA6W2YumO5_KHC-6vCXLMBPTN07CZtROCGuTS3zo6mMougosjUZqFjvHVqVHoEzXxxRKPaA-JUfuGj2laU1ny1HjH5yaBJL-yi7f8dfVIwis7XPSwbWa66fl4Sw6h4lzBOGO5faDKxg300aHQScky)
 	- Il va ensuite développer l'autocréation la ruine peut aboutir à un nouveau processus
 	- En 1966 il organise un symposius sur la destruction en art:
 		- Se retrouve des représentant de [[Fluxus]] ou [[Hermann Nitsch]]
@@ -12,5 +11,5 @@
 		- Autodestruction qui projette de nouveaux visuelle Autocréation
 - Dans les années 1977 a 1980 il rentre dans une grève de l'art
 	- Les artistes participent à multiplier des productions qui finissent à avoir des valeurs marchandes
-		- Tout ça pour réinventer un art qui ne serait pas de valeur marchandes. Il souhaite changer le [[Monde de l'art]] avec un caractère réformiste
+		- Tout ça pour réinventer un art qui ne serait pas de valeur marchandes. Il souhaite changer le [[Monde de l'art]] avec un caractère réformiste par la grève
 			- Cette [[Critique institutionnelle]] se fait au sein de l'institution donc ne prend pas sens pour lui

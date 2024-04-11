@@ -91,7 +91,7 @@
 - La fin des [[Utopie Moderne]] à créé des micro-utopies quotidiennes. Dans une société où la marginalisation est une forme impossible voir régressive.
 	- *" Autant je pense qu'il est illusoire de miser sur une transformations de proche en proche de la société, autant je crois que les tentatives microscopiques, type de communauté, comites de quartier ..... jouent un rôle absolument fondamental" Félix Guattari*
 	- L'art aujourd'hui peut être une ligne de fuite individuelle et collectives
-- Les artiste s'emparent donc des lieux et des gens pour établir des systèmes de relation dénués de toutes formes autres que la relation elle mêmes. ((65671acb-50e5-42ca-b4e2-c52fec4cc100))
+- Les artistes s'emparent donc des lieux et des gens pour établir des systèmes de relation dénués de toutes formes autres que la relation elle mêmes. ((65671acb-50e5-42ca-b4e2-c52fec4cc100))
 	- Cette aménagement du tissu social est aménager de différentes manières. La plupart des artistes l'aménagent de maniere amicale conviviale.
 		- D'autre vont agir de façon plus parasitaires. Douglas Gordon explore la dimension sauvage de cette interactivité
 			- Angus Fairhurst par exemple hack les ondes téléphoniques et met en relation deux galeries d'art au téléphone sans qu'aucune d'elle n'est appeler l'autre et créer un quiproquo invraisemblable

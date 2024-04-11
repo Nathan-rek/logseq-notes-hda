@@ -24,20 +24,6 @@
 - Lors de la Documenta de 1972 Beuys avait installé un bureau d’information d’Organisation pour la démocratie directe par référendum. Lors de débat fort animés son élève Abraham Christian Moebus l’invita à un combat de boxe pour la démocratie directe. Le match aura lieu le dernier jour de l’exposition > Boxkampf für die direkte Demokratie, 1972 ![image.png](../assets/image_1698509690383_0.png){:height 32, :width 500}
 	- Un autre élève Anatol Herzfeld était arbitre et proclama Beuys vainqueur au point pour la démocratie direct grâce à ses directs.
 - Beuys a souvent intégré la boxe comme principe esthétique. Pour l’artiste l’art est une activité politico-sociale global, un échange permanent d’énergie et de coups entre des personnes appartenant..es à une même société qui se sentent unies.
-- ### Le dessin Chez Beuys – Impulse Drawing
-- A travers l’acte physique il utilise le dessin comme moyen de cristalliser sa pensée conceptuelle. Et non comme des études de matériaux préparatoire à des projets sur d’autres support.
-	- Il affirma la fonction du dessin en tant que domaine générateur de la réflexion profonde de l’artiste sur la nature de l’art
-		- Joseph Beuys : Bewegung Rhythmus, 1962 ![image.png](../assets/image_1698509787965_0.png)
-		  id:: 653e63b1-e2a9-4714-b3bb-d75b22d57e18
-			- Combinant des éléments figuratif et abstrait la nature de l’aquarelle est ambiguë.
-			  Les flèches présentes font écho au principe d’énergie que l’artiste a théorisé et conceptualisé dans de nombreuses œuvres.
-- Utilisant notamment des tableaux noirs qu’il utilisait lors de conférence ou de cours où il y dessinait dans le but de communiquer avec autrui.
-	- Joseph Beuys : Ökologie und Sozialismus [Ecology and Socialism], 1980 ![image.png](../assets/image_1698509793623_0.png)
-	  id:: 653d3a15-94b4-41fb-a748-0fa60dacf0ac
-		- Estimant que les systèmes graphiques étaient capable de transmettre des concept d’une manière qui transcendait les limites de l’expression linguistique
-- On y retrouve des constantes notamment dans les intérêts et les considérations de l’artiste pour certains sujets
-	- Les sciences naturelles étant une passion que l’artiste avait se retrouve dans de nombreux dessins
-		- Joseph Beuys : Untitled, 1980 ![image.png](../assets/image_1698509798929_0.png)
 - ### Energie
 - L’énergie apparait pour l’artiste comme un potentiel une possibilité de création
 	- Travaille souvent avec la chaleur humaine - l’amour:
@@ -53,11 +39,25 @@
 - ### Matériaux
 - Comment expliquer les tableaux à un lièvre mort ![image.png](../assets/image_1698509952739_0.png){:height 708, :width 500}
 	- Le lièvre n’est pas que l’animal
-		- Il est l’incarnation d’un principe vitale > creusé un terrier au sol pour BEUYS ce ce que l’homme où la femme accomplissent avec leurs pensées > se frotter à la matière
+		- Il est l’incarnation d’un principe vitale
+			- Creusé un terrier au sol pour BEUYS ce que l’homme où la femme accomplissent avec leurs pensées: se frotter à la matière
 - Chaise avec graisse, 1963 ![image.png](../assets/image_1698510485044_0.png)
 	- La graisse aussi est une matière qui incarne la transformations des états de sa matière
 	- Sensible à la chaleur vient à fondre et à changer d’états
 - Luge en bois, feutre, torche éclectique, sangle, graisse, 1969
 	- Le feutre est un isolement ((653d3440-3a15-4764-a08b-ac161825b58b))
 	- Le cuivre un conducteur électricité et donc de chaleur
--
+- ### Le dessin Chez Beuys – Impulse Drawing
+- A travers l’acte physique il utilise le dessin comme moyen de cristalliser sa pensée conceptuelle. Et non comme des études de matériaux préparatoire à des projets sur d’autres support.
+	- Il affirma la fonction du dessin en tant que domaine générateur de la réflexion profonde de l’artiste sur la nature de l’art
+		- Joseph Beuys : Bewegung Rhythmus, 1962 ![image.png](../assets/image_1698509787965_0.png)
+		  id:: 653e63b1-e2a9-4714-b3bb-d75b22d57e18
+			- Combinant des éléments figuratif et abstrait la nature de l’aquarelle est ambiguë.
+			  Les flèches présentes font écho au principe d’énergie que l’artiste a théorisé et conceptualisé dans de nombreuses œuvres.
+- Utilisant notamment des tableaux noirs qu’il utilisait lors de conférence ou de cours où il y dessinait dans le but de communiquer avec autrui.
+	- Joseph Beuys : Ökologie und Sozialismus [Ecology and Socialism], 1980 ![image.png](../assets/image_1698509793623_0.png)
+	  id:: 653d3a15-94b4-41fb-a748-0fa60dacf0ac
+		- Estimant que les systèmes graphiques étaient capable de transmettre des concept d’une manière qui transcendait les limites de l’expression linguistique
+- On y retrouve des constantes notamment dans les intérêts et les considérations de l’artiste pour certains sujets
+	- Les sciences naturelles étant une passion que l’artiste avait se retrouve dans de nombreux dessins
+		- Joseph Beuys : Untitled, 1980 ![image.png](../assets/image_1698509798929_0.png)

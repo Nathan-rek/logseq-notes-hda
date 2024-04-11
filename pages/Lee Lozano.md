@@ -1,0 +1,6 @@
+- Artiste américaine quia un moment acquiert un certaine reconnaissance dans le monde de l'art
+	- Lee Lozano: [*Untitled (Tool)*](https://www.moma.org/collection/works/96565), 1963 ![Lee Lozano. Untitled (Tool). c. 1963 | MoMA](https://www.moma.org/media/W1siZiIsIjExNzk5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=6f9540a8f5660bd2)
+- Elle va intentionnellement mettre fin à sa carrière artistique
+	- Elle développe des pièces conceptuels langagières qui sont pour elle un support pour dire adieu aux règles de sa vie en tant qu'artiste
+	- L'intention est de sortir du [[Monde de l'art]] pour engager une révolution personnelle.
+		- Dans un premier temps elle refuse de parler aux femmes

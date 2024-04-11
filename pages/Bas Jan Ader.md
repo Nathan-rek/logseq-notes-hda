@@ -1,0 +1,4 @@
+- Un art de la chute, montrer la chute
+- Bas Jan Ader: [*Performance «Fall 2» («Chute 2»)*](https://culturieuse.blog/2021/09/11/bas-jan-ader-1942-1975-%C2%A7-chute/), 1970 ![](https://culturieuse.blog/wp-content/uploads/2021/09/file7h8yzxkzs2r1k3twol6s.jpg?w=768)
+- Bas Jan Ader dans une performance *à la rechercha du miraculeux* disparait on retrouve son bateau mais il disparait du monde
+-

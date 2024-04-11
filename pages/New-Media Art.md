@@ -1,12 +1,8 @@
-- Donc l'art des nouveaux médias propose une interrelation
-  esthétique et une collaboration entre l'art, le plus que humaine, la
-  science et la technologie.
-  Diverses pratiques artistiques inventent leurs propres technologies
-  ou utilisent les technologies existantes et servent même
+- Donc l'art des nouveaux médias propose une interrelation esthétique et une collaboration entre l'art, le plus que humaine, la science et la technologie. Diverses pratiques artistiques inventent leurs propres technologies ou utilisent les technologies existantes et servent même
   d'innovateur pour les nouvelles technologies.
 - Les New-media art remettent en question le principe d’objet d’art
 	- Différence explicite avec les pratiques artistiques qui utilisent des médias visuels traditionnels: Comme la peinture, la sculpture, etc.
-- Comment un objet peut être éphémère ((65480be2-61ae-478a-a933-8878be470ebf))
+		- [[Bio-Art]]
 - L’interactivité
 - Processualité
 	- Le processus fait parti intégrante de l’œuvre, les œuvres se sont pas fixes

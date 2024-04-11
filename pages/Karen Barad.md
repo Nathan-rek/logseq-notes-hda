@@ -1,0 +1,4 @@
+- Philosphe et physicienne qui s'intéresse au [[Sujet-Objet]]
+- Basé sur le principe de la physique quantique de Bohr: l'incertitude (visualisation de la matière est incertaine)
+	- Qui deviendra l'indétermination
+- Réalisme Agentielle

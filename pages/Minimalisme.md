@@ -30,16 +30,16 @@ L’art minimal se développe dans les années 1960 au état-unis, conteste les 
 	- L’artiste [[Robert Ryman]] a questionné beaucoup l’interaction du blanc en les confrontants à lui-même.
 		- [[Robert Ryman]] : [*Four Aquatints and One Etching: one print*](https://www.artnet.fr/artistes/robert-ryman/four-aquatints-and-one-etching-one-print-xPw1yzwygPtfgZ0K0UvDOQ2), 1991 https://www.artnet.fr/WebServices/images/ll00074lldFJ3JFgUNECfDrCWvaHBOcXRmG/robert-ryman-four-aquatints-and-one-etching:-one-print.jpg
 			- L’œuvre est une double surface. Dans ce dépassement de la peinture [[Modernisme]] le peintre veut venir hybrider le medium de la peinture et le démantelant de sa structure d’objets
-- ### Sculptures
-- Les sculpteur..ices minimalistes utilisent des structures élémentaires et simple
-	- Le choix des volumes géométriques simples sont à appréhender immédiatement pour ce qu'ils sont (sans artifice)
-		- Carl ANDRÉ: *144 titanium Square*, 2011 ![144 Titanium Square', Carl Andre, 2011, fabricated 2017–8 | Tate](https://media.tate.org.uk/art/images/work/AR/AR01265_9.jpg)
-		  id:: 65480be3-eb6e-476e-8e48-200bc5c97e96
-- Les sculptures sont souvent réalisées dans des matériaux bruts ( cuivre poli, acier )
-	- Les couleurs, les matériaux individuels permettent de produire des objets qui n'ont aucune histoire émotionnelle et donc le contenu de la sculpture n'est autre que la sculpture elle-même, c'est une représentation minimale parce qu'elle se limite à l'essentiel.
-		- Donald JUDD: [*Untitled*](https://bkdh.nl/en/kunstwerken/untitled-object/) (Acier),1982 ![Untitled object - Buitenkunst Den Haag](https://bkdh.nl/app/uploads/2021/06/DH500_06.jpg)
-- Les sculptures minimalistes invitent les spectateur..ices à se mouvoir dans les œuvres minimales
-	- Richard SERRA: [*Promenade*](https://www.paris-art.com/monumenta-2008-promenade/), 2008 ![Monumenta 2008, une promenade avec Richard Serra - archéologie du futur /  archéologie du quotidien](https://idata.over-blog.com/0/41/70/57/Exposition/Promenade--installation-de--Richard-Serra---Monumenta-2.jpg)
-		- Ces promenades étaient «rythmées» par de la musique, et notamment celle de Philip GLASS ( artiste minimaliste )
+	- ### Sculptures
+	- Les sculpteur..ices minimalistes utilisent des structures élémentaires et simple
+		- Le choix des volumes géométriques simples sont à appréhender immédiatement pour ce qu'ils sont (sans artifice)
+			- Carl ANDRÉ: *144 titanium Square*, 2011 ![144 Titanium Square', Carl Andre, 2011, fabricated 2017–8 | Tate](https://media.tate.org.uk/art/images/work/AR/AR01265_9.jpg)
+			  id:: 65480be3-eb6e-476e-8e48-200bc5c97e96
+	- Les sculptures sont souvent réalisées dans des matériaux bruts ( cuivre poli, acier )
+		- Les couleurs, les matériaux individuels permettent de produire des objets qui n'ont aucune histoire émotionnelle et donc le contenu de la sculpture n'est autre que la sculpture elle-même, c'est une représentation minimale parce qu'elle se limite à l'essentiel.
+			- Donald JUDD: [*Untitled*](https://bkdh.nl/en/kunstwerken/untitled-object/) (Acier),1982 ![Untitled object - Buitenkunst Den Haag](https://bkdh.nl/app/uploads/2021/06/DH500_06.jpg)
+	- Les sculptures minimalistes invitent les spectateur..ices à se mouvoir dans les œuvres minimales
+		- Richard SERRA: [*Promenade*](https://www.paris-art.com/monumenta-2008-promenade/), 2008 ![Monumenta 2008, une promenade avec Richard Serra - archéologie du futur /  archéologie du quotidien](https://idata.over-blog.com/0/41/70/57/Exposition/Promenade--installation-de--Richard-Serra---Monumenta-2.jpg)
+			- Ces promenades étaient «rythmées» par de la musique, et notamment celle de Philip GLASS ( artiste minimaliste )
 - ### [[Art et Objectité]]
 -

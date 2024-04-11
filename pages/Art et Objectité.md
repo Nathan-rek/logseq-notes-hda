@@ -1,13 +1,12 @@
 - Art et objectité est un article de Michael FRIED, disciple de Clément GREENBERG, FRIED écrit cette article dans Artforum[^14]. L’article se retrouve autour de plusieurs textes d’artistes théoricien..nes qui s’empare de la théorie comme une nouvelle manière d’exister. La nécessité de proposer des gestes artistiques accompagnés par une théorisation du geste. Les artistes eux..lles mêmes produisent les discours dans les formes artistique notamment dans les pratiques minimaliste qui commence à ce constituer lors de la publication de ce Artforum.
-  
-  Michael FRIED va être amené à parler d’artistes et de pratique que l’on qualifie de minimale mais pour Fried il les nommes art littéraliste.
+- Michael FRIED va être amené à parler d’artistes et de pratique que l’on qualifie de minimale mais pour Fried il les nommes art littéraliste.
 - Il présente l’art littéraliste comme des pratiques qui d’abord se situe par rapport a un regard sur la peinture et la sculpture moderniste.
 - S’en suit une critique méthodique des différent élément que l’art minimal propose
 - ### Critique de la peinture moderniste
-- Les pratiques littéralistes critiquent pour la peinture plusieurs éléments.
+- Les pratiques littéralistes critiquent la peinture pour plusieurs éléments.
 	- Le caractère relationnelle des œuvres picturales
 	- La quasi inévitable illusion picturale
-- Pour Donald JUDD l’un des problèmes de la peinture est l’idée de relier des parties entre elle ce qui fait préexiste une hypothèses qu’il exista un vague tout.
+- Pour Donald JUDD l’un des problèmes de la peinture est l’idée de relier des parties entre elles ce qui fait préexister une hypothèses qu’il existe un vague tout.
 	- Mais la peinture est un rectangle bien définies, qui lui même contient des partis.
 		- Donald JUDD émet une critique de surface plane de la peinture avec des peintures qui rentre directement en résonance avec le caractère bidimensionnelle de la toile, en traversant les peintures de lignes sur la hauteur et la longueur marquant leur limites spatial.
 		- Donald JUDD: [*Sans titre*](https://icamiami.org/calendar/donald-judd-paintings-opening-night/), 1960 ![image.png](../assets/image_1698707941172_0.png) 
@@ -17,17 +16,17 @@
 		  *Donald Judd*
 - Plus la forme du support de la peinture est tendu est présent plus on rencontre cette tension
 	- Michael FRIED à notamment écrit à propos des peintures qui mettent en crise la forme comme propriété fondamentales des objets et la formes comme support de la peinture.
-		- L’enjeu est de savoir si ces œuvres sont perçues comme des tableaux ou des objets. Dans les peintures de ((65480be3-10a8-46cb-b307-d1e747a0efe7)) c’est la forme du cadre qui remet en question ces considérations. C’est la matérialité qui sort de peinture au pistolet de ((65480be2-cd22-49e2-ab2f-efb588767f8d))
+		- L’enjeu est de savoir si ces œuvres sont perçues comme des tableaux ou des objets. Dans les peintures de ((65480be3-10a8-46cb-b307-d1e747a0efe7)) c’est la forme du cadre qui remet en question ces considérations. C’est la matérialité qui sort de la peinture au pistolet de ((65480be2-cd22-49e2-ab2f-efb588767f8d))
 		-
 	- Ce qui détermine leur identité picturales c’est la manière dont elles se confrontent à la nécessité d’être convaincante en tant que formes
-- La peinture moderniste s’est donné à invalider ou suspendre sa propre objectité[^15] a travers
+- La peinture [[Modernisme]] s’est donné à invalider ou suspendre sa propre objectité
 - ### L’art littéraliste et la sculpture
 - Donald JUDD considère la sculpture comme des objets spécifiques.
-- Robert MORRIS inscrit ses sculptures dans la ligné de la pensé constructivistes.
+- Robert MORRIS inscrit ses sculptures dans la ligné de la pensé constructiviste.
 	- Malgré leurs point de vu différent ils s’opposent à l’idée de la sculpture comme un ensemble de parties distinctes composées ensemble dans une sculpture.
 		- Pour JUDD cette attitude de composition relève de l’anthropomorphisme
-			- Il préfère utilise la répétition d’objet unique pour y relever une certaine complétude plus proche de cette d’un sculpture qui se composerai de partie.
-				- Donald JUDD: [*Untitled*](https://sis.modernamuseet.se/objects/1296/untitled), 1965 ![Untitled](https://sis.modernamuseet.se/internal/media/dispatcher/29056/preview)
+			- Il préfère utilise la répétition d’objet unique pour y relever une certaine complétude plus proche de cette d’une sculpture qui se composerai de partie.
+				- Donald JUDD: [*Untitled*](https://sis.modernamuseet.se/objects/1296/untitled), 1965 ![Untitled](https://sis.modernamuseet.se/internal/media/dispatcher/29056/preview){:height 474, :width 450}
 				  
 				  *«Le grand problème est là: dès lors que quelque chose n'est pas absolument simple, il tend à avoir des parties. La question est donc de pouvoir travailler et de faire des choses différentes sans pour autant briser la complétude de l’œuvre. Pour moi, si une pièce est faite de cuivre et de cinq verticales, elle a d'abord cette forme-là.»*
 				  
@@ -39,8 +38,8 @@
 - ### L’art littéraliste et la formes
 - A l’inverse de la peinture moderniste qui essai d’invalider sa propre objectivé l’art minimaliste lui l’affirme comme essence
 - La **présence** de la sculpture minimalistes.
-	- Pour GREENBERG c’est le travail de Anne TRUITT
-		- Anne TRUITT: [*Knight’s Heritage*](https://matthewmarks.com/artists/anne-truitt/lightbox/works/32621), 1963 ![Sculpture by Anne Truitt, , dated 1963](https://mmg.nyc3.cdn.digitaloceanspaces.com/online/32621/_1600x1600_fit_center-center_none/Truitt_Knights-Heritage_1963_32621_01.jpg)  et l’apparence non-art de ses œuvres qui donne aux œuvres une certaine présence.
+	- Pour GREENBERG c’est le travail de Anne TRUITT qui s'y rapproche avec une esthétique du non-art
+		- Anne TRUITT: [*Knight’s Heritage*](https://matthewmarks.com/artists/anne-truitt/lightbox/works/32621), 1963 ![Sculpture by Anne Truitt, , dated 1963](https://mmg.nyc3.cdn.digitaloceanspaces.com/online/32621/_1600x1600_fit_center-center_none/Truitt_Knights-Heritage_1963_32621_01.jpg)  et l’apparence non-art de ses œuvres qui donne aux œuvres une certaine **présence**.
 		- Ce n’est pas la dimension de l’œuvre qui lui donne sa présence mais c’est son esthétique de non-art
 	- Cette condition d’apparence était propre à la sculpture avec sa tridimensionnalité, car pour lui une toile cloué au mur ou sur un chassie est déjà une peinture. Elle ne peut donc pas flirter avec cette apparence de non-art
 		- Il intègre une autre condition qui est d’éviter l’effet machine des objets de matière non artistique.

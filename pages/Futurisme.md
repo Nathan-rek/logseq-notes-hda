@@ -1,17 +1,19 @@
 ## Manifeste
 - [*Fondation et Manifeste Futuriste*](https://pierre-lamble2.eu/resources/Exposés_BTS/Manifeste%20du%20Futurisme.pdf)Filippo Tommaso MARINETTI, 1909: Constitution du mythe futuriste et établissement des principes du manifeste:
 - Texte construit avec un principe colonial
-- Se positionne en tant qu’avant Garde > culte de l’isolement d’avant-gardes
-	- Intégrer des pratiques picturales issue d’autre mouvement:
+- Se positionne en tant qu’avant Garde
+	- Culte de l’isolement des [[Avant-Gardes "Historique"]]
+	- Intégrer des pratiques picturales issues d’autres mouvements:
 		- intègre le [[Cubisme]] : approche formel et pictural proche
 			- Gino Severini: [*autoportrait*](https://www.centrepompidou.fr/fr/recherche/oeuvres?artiste=Gino%20Severini) ![Autoportrait - Centre Pompidou](https://www.centrepompidou.fr/media/picture/71/64/7164cf3728b34eb55501e35f8801a95d/thumb_large.jpg)
 		- Technique comme le divisionnisme 44
 			- Carlo CARRA: [*Night at Piazza Beccaria in Milan*](https://www.wikiart.org/en/carlo-carra/night-at-piazza-beccaria-in-milan), 1910 https://uploads7.wikiart.org/images/carlo-carra/night-at-piazza-beccaria-in-milan.jpg!Large.jpg
 - Racisme
 - Critique littéral face au théorie féministe: glorification du mépris de la femme / Combat contre le féministe
-- Culte du progrès: pense la capacité à produire de l’irrationalité > Culte de l’originalité
+- Culte du progrès: pense la capacité à produire de l’irrationalité
+	- Culte de [[L'Originalité]]
 - Instant pulsionnelle: dans l’association homme-machine il n’y voit pas un développement traditionnelle mais un moteur vers l’instinct
-- Culte anthropocentriste > L’homme assoit le reste à lui
+- Culte anthropocentriste, l’homme assoit le reste à lui
 	- Certain dont MARINETTI rejoigne le fascisme de MUSOLINI. Dans l’envie de faire tabula-rasa il s’associe à la pensé de la guerre et en font un culte
 		- Alfredo Gauro AMBROSI: [*Aeroritratto di Mussolini aviator*](https://fr.wikipedia.org/wiki/Alfredo_Gauro_Ambrosi), 1930 https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Alfredo_Gauro_Ambrosi_%22Aeroritratto_di_Mussolini_aviatore%22.jpg/220px-Alfredo_Gauro_Ambrosi_%22Aeroritratto_di_Mussolini_aviatore%22.jpg
 		  

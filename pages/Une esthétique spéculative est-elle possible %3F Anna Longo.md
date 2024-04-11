@@ -1,4 +1,4 @@
-- Développé par des philosophes comme Graham Harman, Quentin Meillasoux [[Aprés la Finitude - Quentin Meillassoux]], Ray Brassier
+- Développé par des philosophes comme Graham Harman [[Graham Harman: Art Without Relations]] , Quentin Meillasoux [[Aprés la Finitude - Quentin Meillassoux]], Ray Brassier
 - La [[dOCUMENTA (13)]] est forte inspiré de la pensée de Graham Harman.
 	- Influencer qui s'est suivi avec les colloques (*medium is a contingency*) la serie *Speculative Tate*
 - L'anti-corrélationnisme défendu par les différences tendances philosophiques contemporaines [[Aprés la Finitude - Quentin Meillassoux]] qui prétendent accéder à un réel en soi

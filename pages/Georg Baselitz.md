@@ -19,7 +19,7 @@
 	- La laideur et l’ironie : ses tableaux aux tonalités grises et terreuse conjugue une tacticité brutale
 		- L’artiste déclare que l’Allemagne est le pays des tableaux laid.
 			- L’ironie se trouve aussi dans les titres de ces tableaux avec sa série [*Les Héros*](https://www.guggenheim-bilbao.eus/fr/expositions/georg-baselitz-les-heros) ![blocked painter 1965](https://cms.guggenheim-bilbao.eus/uploads/2021/02/blocked-painter-1965.jpg) & [*Types Nouveaux*](https://www.artsy.net/artwork/georg-baselitz-the-new-type)![Georg Baselitz | The New Type (1966) | Artsy](https://d7hftxdivxxvm.cloudfront.net/?height=800&quality=85&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FXBNWA-fc06QvzrGxtjmaQA%2Fnormalized.jpg&width=634)  en dérision à l’idéologie de crée un homme nouveaux et héroïque
-				- Les titres glorieux sont démentis par les personnage qui errent sans but précis dans les paysages de désolation > des anti-héros aux attitudes pathétiques.
+				- Les titres glorieux sont démentis par les personnages qui errent sans but précis dans les paysages de désolation > des anti-héros aux attitudes pathétiques.
 - L’artiste entame un long processus de dé-construction systématique de la figuration traditionnelle avec comme cible l’être humain
 	- Parfois un arbre peut substituer l’homme mais pour Andreas FRANZKE l’arbre présente les mêmes blessures que l’homme, mêmes mutilations, mêmes plaies sanguinolentes
 - L’artiste décompose les tableaux de plusieurs manières
