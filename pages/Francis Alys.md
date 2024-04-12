@@ -1,5 +1,0 @@
-- Pratique symptomatique de c
-- Le déplacement peut produire des formes ou ne mené a rien
-	- Le processus compte peut importe le résultat
-- Ce que Davilla nomme la ciné-plastie, le mouvement dans la ville produit des formes
-- Œuvre à échelle 1:1
