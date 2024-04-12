@@ -1,15 +1,13 @@
-- Développé par des philosophes comme Graham Harman [[Graham Harman: Art Without Relations]] , Quentin Meillasoux [[Aprés la Finitude - Quentin Meillassoux]], Ray Brassier
+- Les philosophies éveloppés par des philosophes comme Graham Harman, Quentin Meillasoux [[Aprés la Finitude - Quentin Meillassoux]], Ray Brassier se voit aujourd'hui avoir eu une forte influence sur l'art contemporain
 - La [[dOCUMENTA (13)]] est forte inspiré de la pensée de Graham Harman.
-	- Influencer qui s'est suivi avec les colloques (*medium is a contingency*) la serie *Speculative Tate*
-- L'anti-corrélationnisme défendu par les différences tendances philosophiques contemporaines [[Aprés la Finitude - Quentin Meillassoux]] qui prétendent accéder à un réel en soi
+	- Thématique qui se sont vu prolonger avec les colloques (*medium is a contingency*) la serie *Speculative Tate*
+- L'anti-corrélationnisme défendu par les différences tendances philosophiques contemporaines [[Aprés la Finitude - Quentin Meillassoux]] prétendent accéder à un réel en soi
 	- Ce qui en théorie exclut le *a priori* et donc la pertinences des aspects esthétiques de l'expérience
 	- En effet le l'anti-corrélationsime s'éloigne des conditions subjectives de l'appréciation du réel défendu par le corrélationsime
 - il s’agit de redéfinir l’anti-corrélationnisme comme une stratégie soutenant le pouvoir de la raison contre toute limitation établie *a priori* ;
   de l’autre,
-- [[Realisme Materialism Art]]
 - Le [[Néo matérialisme]] et l' [[Object Oriented Philosophy]] sont des philosophies spéculatives qui supposent que la réalité phénoménale dépend, pour ce qui concerne sa détermination, d’une réalité métaphysique immanente en tant que raison ultime de l’apparaitre des formes sensibles particulières.
-	- Cette instance métaphysique, ou réalité ultime, n’est pas connaissable. On peut seulement la supposer, comme l’indique le caractère
-	  spéculatif de ces philosophies
+	- Cette instance métaphysique, ou réalité ultime, n’est pas connaissable. On peut seulement la supposer, comme l’indique le caractère spéculatif de ces philosophies
 		- Ces deux approches ont été considérées comme des positions où la continuité entre l’humain et le non-humain, entre l’organique et l’inorganique, entre la nature et la pensée, est obtenue au prix d’une réduction de la pensée à une fonction partagée par tous les systèmes matériels ou par tous les objets, ce que rendrait de fait le réalisme impossible
 			- Effectivement, si tout pense, au moins à un degré minimal, il devient impossible de connaître l’autre que la pensée, c’est-à-dire le réel dans sa complète indépendance.
 			- Telles sont les critiques régulièrement adressées au [[Néo matérialisme]] et à la [[Object Oriented Philosophy]] par les représentants des approches rationalistes de la spéculation, tels que Meillassoux et Brassier.
