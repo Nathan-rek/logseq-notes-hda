@@ -54,11 +54,11 @@
 		- *La disticntion*: on consomme de la culture pour se positionner socialement
 	- La vision binaire de Bourdieu se voit très caricaturale
 		- Face à cela un éclectisme culturel (qui est surtout vrai dans un certain niveau de la population), omnivorie culturelle
-		- la culture des individus dissonances culturelles et distinction de soi : L'antogonie culturelle de Bourdieu se trouve assez changé
+		- la culture des individus dissonances culturelles et distinction de soi : L'antagonie culturelle de Bourdieu se trouve assez changé
 		- Bernard Lahire *La culture des individus*
 		- On n'échappe à notre classe social mais nous sommes une somme des classes que l'on rencontrons
 		- Dilution de la légitimité culturelle
-			- Concurrences de instituions qui vont légitimer des biens différents
+			- Concurrence de instituions qui vont légitimer des biens différents
 			- Augmentation des consommations privés, on peut consommer sans êtres vu
 - ## [[Street-art]] et [[Skate]]
 - Ce veut des pratiques qui dégradent l'espace public
@@ -67,6 +67,4 @@
 	- Depuis le néo-transcendentaliste
 	- Figure du non-conformisme participe au mythe de l'individu libres
 	- Le non-conformisme se veut vendeur notamment dans les [[Industries Culturelles]]
-	-
 - [[The Yes Men]]
--

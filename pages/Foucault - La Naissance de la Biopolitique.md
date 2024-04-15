@@ -14,6 +14,7 @@
 	- En quoi une norme irait servi une économie
 		- Le Capitalisme à besoin du mythe du genre binaire
 - Individu
-	- La création d'invidu est un produit de la [[Modernité]] Preciado propose de repenser se rapport à l'identité
+	- La création d'invidu est un produit de la [[Modernité]]
+		- [[Paul. B Preciado]] propose de repenser se rapport à l'identité
 		- Propose le mutant relationnelle : ne pas se figer autour d'une identité supporté par une idéologie
 - Propose un grand processus de néologisme pour apporter des nuances très précises en sursaturant des nuances

@@ -1,0 +1,4 @@
+- Open Source Estrogen
+	- Propose une accessibilité au traitement hormonales
+	- Une forme de désobéissance civile biotechnique
+	- Cherche à développer un système de protocole DIY pour l'émancipation de la biomolécule (hormone) ostéogène
