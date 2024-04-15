@@ -1,0 +1,15 @@
+- Les NFT permette de redonner une valeur auratique au œuvre qui selon [[Walter Benjamin]] se voit en perte d'aura par la capacité a reproduire les œuvres
+	- La ou les institutions et particulièrement le marché étaient détenteurs de la qualification de cette aura c'est aujourd'hui la technologie blockchain
+- La pratique numérique se voit ouvrir deux voies
+	- Le simulacre
+		- Un voie que ouvre le Web 1.0 ou copie set duplicat foisonne sans contrôle.
+			- La culture du simulacre c'est vu renforcer par la cultur web
+	- L'opérationnalisation de l'aura
+		- La sécurisation du contenu appariait comme une antithèse à l'esprit d'internet
+- Quelle futur économique - écologique
+	- Si Bataille soutenait que toute économie restreinte, organisée pour maintenir la stabilité et l'utilité, est toujours enracinée dans une économie plus vaste, une économie d'excès et d'irrationalité, dont la source principale, exemplaire et ultime est la dépense énergétique gratuite du soleil.
+		- Pour Bataille toute sociéte est en quelque sorte en répression de cette force solaire
+			- Les sacrifices humains des Aztèques au dieu solaire Huitzilopochtli ou même l'art et la violence dans les société technologique modernes
+				- L'art serait donc se moment de gâchis de cette force. Or son accointance avec le marché rompt cette excès en gâchis
+				- Dans la même idée le monde serait devenue un volcan en irruption constante
+					- Une monde qui exploite la formation carbonifère et en la crachant dans le ciel

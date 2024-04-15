@@ -1,4 +1,8 @@
 - Philosphe et physicienne qui s'intéresse au [[Sujet-Objet]]
-- Basé sur le principe de la physique quantique de Bohr: l'incertitude (visualisation de la matière est incertaine)
-	- Qui deviendra l'indétermination
+- Basé sur le principe de la physique quantique de Bohr
+	- Bohr à changer l'incertitude en l'interdetermination
 - Réalisme Agentielle
+	- L'unite de base de la réalite au niveua des propriétes empriquement verifiables de la metiere esrt le phenomene entre les partie
+	- Les choses n'existent pas seul elles sont en interdépendance et donc la matière au niveau atomique et enchevêtrer.
+		- Sortir d'une vision individualiste et séparatrice de la matière
+	- L'existence entre un phénomène est inséparable d'un autres phénomènes

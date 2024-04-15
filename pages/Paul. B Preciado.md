@@ -1,0 +1,1 @@
+- Dysphorie ne serait pas une maladie mentale mais serait une inadéquation politique et esthétique par rapport à nos systèmes politiques

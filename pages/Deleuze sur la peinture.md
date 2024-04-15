@@ -77,42 +77,42 @@
 			- Oscar Wilde *« c’est la nature qui se met à ressembler à tel peintre »*.
 				- met en avant la vitesse avec laquelle un acte de peinture devient un cliché
 			- Il y a aussi les clichés interne, sur les qualités de l'idée en quoi sont elle des idées personnelle ou unique la notion d'idée comme remède au clichées est en fait un remède très biaisée
-- ## La donnés le cliché
-	- Fromanger: [*Le boulevard des italiens*](https://www.artnet.fr/artistes/g%C3%A9rard-fromanger/boulevard-des-italiens-hCsTHKYBdPii6ij6tnNvTA2): ![Boulevard des Italiens par Gérard Fromanger sur artnet](https://www.artnet.fr/WebServices/images/ll00247lldD1kFFgjJECfDrCWvaHBOcVFG/g%C3%A9rard-fromanger-boulevard-des-italiens.jpg)
-	- Accompagné d'un photographe se presse il se balade dans la rue et demande au photographe de scène de rue en noir et blanc. Dans une scène il demandais une douzaine de photo puis ensuite Fromanger en choisit une parmi les douze.
-		- Commence déjà l'acte de peindre: car son choix se base sur une idée qu'il a en tête. Les scènes évoque en lui une couleur et donc dans le choix de la photo il y a déjà acte de peindre
-			- La projection rend la toile déjà rempli d'une vérité
-			- Fromanger fait surgir les clichés pour les mettre sur sa toile afin de les détruire et d’en faire sortir un fait pictural, c’est une manière déjà de les conjurer
-	- On retrouve les trois temps : le moment pré-pictural, cliché, cliché, rien que des clichés. La nécessité d’un diagramme qui va brouiller, qui va nettoyer le cliché, pour qu’en sorte quelque chose
-		- Le diagramme n’étant qu’une possibilité de fait, le cliché, c’est le donné, c’est ce qui donné, donné dans la tête, donné dans la rue, donné dans la perception, donné, donné partout.
-			- Le diagramme intervient comme ce qui va brouiller le cliché pour que la peinture en sorte. Bien. Je retrouve mes trois temps là.
-- Cette *lutte contre le cliché* est assez importante chez [[Paul Cézanne]]
-	- Le texte de Lawrence évoque aussi la capacités de l'artiste à crée ses propres clichés
-	- Cette lutte du clichés de [[Paul Cézanne]] l'a amner a comprend le fait.
-		- ((65fdfc6e-ac4c-49a4-8a7a-7045ea351a65))
-		  id:: 65f819b1-0463-45b1-a3b9-d4eb35a16034
-		- Il a compris le *« fait de la pomme »* ce que Lawrence appelle *« le caractère pommesque de la pomme. »*
-			- Cette compréhension du fait n'est pas universelle elle est assez intrinsèque a la formes Lawrence dit que Cézanne peint des femmes avec un caractères pommesque
-				- ((65fdfc9c-1914-4506-81b2-7fd24622d3e0))
-		- Cézanne malgré cette lutte crée lui aussi un discipline chez ses disciples, un cliché qui frôle avec cette fragilité du diagramme a raté ((65f9deff-aa7d-4ad3-bc3e-a73c5cb8820a))
-			- Dépasse le cliché fait par le maitre n'est pas une mince affaires: il prend l'exemple [[Robert Rauschenberg]] qui efface un dessin de [[Willem DeKooning]]
-				- ((65d3770e-fc61-44fa-b307-388857629b7d))
-					- il y a une volontéf de passer par le diagramme
-		- Michel-Ange lui a compris les larges dos d'hommes
-			- Michel-Ange: [*Le jugement dernier*](https://fr.wikipedia.org/wiki/Le_Jugement_dernier_%28Michel-Ange%29) ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Last_Judgement_by_Michelangelo.jpg/800px-Last_Judgement_by_Michelangelo.jpg)
-	- La tâche du peintre, de tout temps, ça a été faire naître le fait pictural, ça a été lutter contre les données
-- Illustrations et narrations
-	- Deux grand danger que Baudelaire définit et que Bacon craint aussi. La figuration est le concept qui regroupe ces deux concepts
-- Les tableaux n'ont rien à figurer il ne sont pas narratifs, d'autres domaines le font très bien. Mais la narration et l'illustration font partis de ces donnés présentes avant de peindre
-	- Ce tendance narrative est parfois trop dominante et presque impossible à dépasser
-		- Jean-Baptiste Greuze: [*Le Fils puni*](https://fr.wikipedia.org/wiki/Jean-Baptiste_Greuze#/media/Fichier:Greuze.jpg), 1778 https://upload.wikimedia.org/wikipedia/commons/6/66/Greuze.jpg
-		- Un tableau inséparable de ça narration
-			- Ce lien est pour Deleuze plus délicat chez nos contemporains
-			  id:: 65f830aa-4d1b-41bf-bec5-fbb34988ac2e
-				- Balthus: [*Le peintre et son modèle*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cazjBkd), 1980 ![Le peintre et son modèle - Centre Pompidou](https://www.centrepompidou.fr/media/picture/33/60/3360c7935566a20787b0f421d1ad9c45/thumb_large.jpg)
-					- l’image est prise, prélevée sur quelque chose qui se passe, il y a que de l'histoire
-- Supprimer la narration et l'illustration c'est le rôle du diagramme et du chaos catastrophe, on surprime des données figuratives car les figurations et les narrations, elles sont données
-	- il faut donc, faire passer les données figuratives et narratives par le chaos catastrophe, par la catastrophe germe, pour qu’en sorte quelque chose de tout à fait autre, à savoir le fait.
+	- ## La donnés le cliché
+		- Fromanger: [*Le boulevard des italiens*](https://www.artnet.fr/artistes/g%C3%A9rard-fromanger/boulevard-des-italiens-hCsTHKYBdPii6ij6tnNvTA2): ![Boulevard des Italiens par Gérard Fromanger sur artnet](https://www.artnet.fr/WebServices/images/ll00247lldD1kFFgjJECfDrCWvaHBOcVFG/g%C3%A9rard-fromanger-boulevard-des-italiens.jpg)
+		- Accompagné d'un photographe se presse il se balade dans la rue et demande au photographe de scène de rue en noir et blanc. Dans une scène il demandais une douzaine de photo puis ensuite Fromanger en choisit une parmi les douze.
+			- Commence déjà l'acte de peindre: car son choix se base sur une idée qu'il a en tête. Les scènes évoque en lui une couleur et donc dans le choix de la photo il y a déjà acte de peindre
+				- La projection rend la toile déjà rempli d'une vérité
+				- Fromanger fait surgir les clichés pour les mettre sur sa toile afin de les détruire et d’en faire sortir un fait pictural, c’est une manière déjà de les conjurer
+		- On retrouve les trois temps : le moment pré-pictural, cliché, cliché, rien que des clichés. La nécessité d’un diagramme qui va brouiller, qui va nettoyer le cliché, pour qu’en sorte quelque chose
+			- Le diagramme n’étant qu’une possibilité de fait, le cliché, c’est le donné, c’est ce qui donné, donné dans la tête, donné dans la rue, donné dans la perception, donné, donné partout.
+				- Le diagramme intervient comme ce qui va brouiller le cliché pour que la peinture en sorte. Bien. Je retrouve mes trois temps là.
+	- Cette *lutte contre le cliché* est assez importante chez [[Paul Cézanne]]
+		- Le texte de Lawrence évoque aussi la capacités de l'artiste à crée ses propres clichés
+		- Cette lutte du clichés de [[Paul Cézanne]] l'a amner a comprend le fait.
+			- ((65fdfc6e-ac4c-49a4-8a7a-7045ea351a65))
+			  id:: 65f819b1-0463-45b1-a3b9-d4eb35a16034
+			- Il a compris le *« fait de la pomme »* ce que Lawrence appelle *« le caractère pommesque de la pomme. »*
+				- Cette compréhension du fait n'est pas universelle elle est assez intrinsèque a la formes Lawrence dit que Cézanne peint des femmes avec un caractères pommesque
+					- ((65fdfc9c-1914-4506-81b2-7fd24622d3e0))
+			- Cézanne malgré cette lutte crée lui aussi un discipline chez ses disciples, un cliché qui frôle avec cette fragilité du diagramme a raté ((65f9deff-aa7d-4ad3-bc3e-a73c5cb8820a))
+				- Dépasse le cliché fait par le maitre n'est pas une mince affaires: il prend l'exemple [[Robert Rauschenberg]] qui efface un dessin de [[Willem DeKooning]]
+					- ((65d3770e-fc61-44fa-b307-388857629b7d))
+						- il y a une volontéf de passer par le diagramme
+			- Michel-Ange lui a compris les larges dos d'hommes
+				- Michel-Ange: [*Le jugement dernier*](https://fr.wikipedia.org/wiki/Le_Jugement_dernier_%28Michel-Ange%29) ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Last_Judgement_by_Michelangelo.jpg/800px-Last_Judgement_by_Michelangelo.jpg)
+		- La tâche du peintre, de tout temps, ça a été faire naître le fait pictural, ça a été lutter contre les données
+	- Illustrations et narrations
+		- Deux grand danger que Baudelaire définit et que Bacon craint aussi. La figuration est le concept qui regroupe ces deux concepts
+	- Les tableaux n'ont rien à figurer il ne sont pas narratifs, d'autres domaines le font très bien. Mais la narration et l'illustration font partis de ces donnés présentes avant de peindre
+		- Ce tendance narrative est parfois trop dominante et presque impossible à dépasser
+			- Jean-Baptiste Greuze: [*Le Fils puni*](https://fr.wikipedia.org/wiki/Jean-Baptiste_Greuze#/media/Fichier:Greuze.jpg), 1778 https://upload.wikimedia.org/wikipedia/commons/6/66/Greuze.jpg
+			- Un tableau inséparable de ça narration
+				- Ce lien est pour Deleuze plus délicat chez nos contemporains
+				  id:: 65f830aa-4d1b-41bf-bec5-fbb34988ac2e
+					- Balthus: [*Le peintre et son modèle*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cazjBkd), 1980 ![Le peintre et son modèle - Centre Pompidou](https://www.centrepompidou.fr/media/picture/33/60/3360c7935566a20787b0f421d1ad9c45/thumb_large.jpg)
+						- l’image est prise, prélevée sur quelque chose qui se passe, il y a que de l'histoire
+	- Supprimer la narration et l'illustration c'est le rôle du diagramme et du chaos catastrophe, on surprime des données figuratives car les figurations et les narrations, elles sont données
+		- il faut donc, faire passer les données figuratives et narratives par le chaos catastrophe, par la catastrophe germe, pour qu’en sorte quelque chose de tout à fait autre, à savoir le fait.
 - ## Le fait pictural
 	- Qu’est-ce que c’est qu’on pourrait appeler le fait pictural par opposition aux données pré-picturales
 		- ## Le cas de Michel-Ange
@@ -152,7 +152,7 @@
 		- Le rôle du diagramme, ça va être d’établir un lieu des forces telle que la forme en sortira comme « fait pictural »
 			- C’est dès lors la déformation de la forme picturale qui fait voir la force non-visible.
 	- Bacon peindrait non pas un homme qui dort mais la force d'aplatissement dans le sommeil
-		- Francis Bacon: Sleeping figure, 1974 ![FRANCIS BACON Sleeping Figure, 1974 Medium Oil on canvas Dimensions 78 x 58  inches jpg (800×1060) | Francis bacon, Bacon art, Painting](https://i.pinimg.com/736x/a9/ea/b8/a9eab82166f82fd05cac8f882652623d.jpg){:height 604, :width 450}
+		- Francis Bacon: [*Sleeping figure*](https://www.francis-bacon.com/artworks/paintings/sleeping-figure-0), 1974 ![FRANCIS BACON Sleeping Figure, 1974 Medium Oil on canvas Dimensions 78 x 58  inches jpg (800×1060) | Francis bacon, Bacon art, Painting](https://i.pinimg.com/736x/a9/ea/b8/a9eab82166f82fd05cac8f882652623d.jpg){:height 604, :width 450}
 			- La forme en rapport avec une force de déformation à savoir la force qui l’aplatit
 				- Cette forces dépasse la figuration du sommeil et de la force du sommeil
 	- Le quartier de viande par exemple est un sujet traiter figurativement de différentes manières par différents peintres
@@ -185,29 +185,30 @@
 	  id:: 65f9deff-aa7d-4ad3-bc3e-a73c5cb8820a
 	- **En quoi, en quoi le diagramme est tout à fait autre chose qu’un code de la peinture** ?
 - ## Cours 1981-04-28
-- Le diagramme serait la relation entre le chaos et le germe
-	- Un chaos dont quelque chose doit sortir
-- Le diagramme est une affaire manuel, c’est l’expression d’une main libérée de toute soumission à l’œil, la main ne se guidait plus sur les données visuelles
-	- La main va faire violence à l'œil Goeringer
-		- Similarité avec la ligne gothique de Goeringer
-		  id:: 6605364e-465b-46ad-b8c6-608cc0f56e11
-			- Une ligne manuelle qui s’impose à la vue comme si la main qui la trace, était animée par une volonté étrangère à la vue elle même.
-- Quel rapport entre l'œil et la main dans la peinture ?
-	- La peinture peut être un rapport Couleur/Trait : rapport visuel ou un rapport Trait/tache rapport Manuel
-		- Le chevalet en peinture agit comme une fenêtre qui fait apparaitre une réalité visuel et appartiens au couple  des art visuel.
-			- Bien que certain peinture utilise le chevalet sans en faire une fenêtre [[Piet Mondrian]].
-		- Les peinture hors chevalet ou a tendance murale [[Piet Mondrian]] sont plus dans un rapport manuel. Les Sérigné de [[Jackson Pollock]] et ses toiles non tendue
-		- L'étymologie du mot peinture en français tend vers un rapport visuel alors que le mot allemand est plus sur la tache
-- Le diagramme est ce chaos de trait qui ne constitue pas de forme visuelle
-- **Si le diagramme c’est le trait/tache, d’origine manuelle qui surgit sur la toile et qui récuse les cordonnées optiques, les coordonnées visuelles, qui les entraîne dans une espèce d’effondrement, comment le définir ?**
-	- Se serait le gris, cette possibilité blanc noir ou vert rouge.
-		- Ce qui va sortir du diagramme c’est la double gamme picturale : Lumière - Couleur.
-	- Même chose pour le trait : le trait n’est pas la ligne picturale mais la ligne picturale en sortira
-		- le trait, c’est l’élément de composition manuel de la ligne visuelle
-	- La représentation c’est l’avant, l’avant peindre. La présence c’est ce qui sort du diagramme
-	- Les chrétiens dans leurs manière de définir l'home *« Dieu a créé l’homme à son image et ressemblance, et par le péché, l’homme à gardé l’image, mais il a perdu la ressemblance »*
-		- Le péché est l’acte par lequel l’homme se constitue comme image sans ressemblance
-			- Une image sans ressemblance pourrait être l'icone
-	- le diagramme c’est l’instance par lequel je défais la ressemblance pour produire l’image présence
-		- Effondrement de la ressemblance et production de l’image. C’est l’aspect avant et l’aspect après, entre les deux le diagramme
--
+	- Le diagramme serait la relation entre le chaos et le germe
+		- Un chaos dont quelque chose doit sortir
+	- Le diagramme est une affaire manuel, c’est l’expression d’une main libérée de toute soumission à l’œil, la main ne se guidait plus sur les données visuelles
+		- La main va faire violence à l'œil Goeringer
+			- Similarité avec la ligne gothique de Goeringer
+			  id:: 6605364e-465b-46ad-b8c6-608cc0f56e11
+				- Une ligne manuelle qui s’impose à la vue comme si la main qui la trace, était animée par une volonté étrangère à la vue elle même.
+	- Quel rapport entre l'œil et la main dans la peinture ?
+		- La peinture peut être un rapport Couleur/Ligne: rapport visuel ou un rapport Trait/tache rapport Manuel
+			- Le chevalet en peinture agit comme une fenêtre qui fait apparaitre une réalité visuel et appartiens au couple des art visuel.
+				- Bien que certaine peintures utilisent le chevalet sans en faire une fenêtre [[Piet Mondrian]].
+			- Les peintures hors chevalet ou à tendance murale [[Piet Mondrian]] sont plus dans un rapport manuel. Comme avec les seringues de [[Jackson Pollock]] et ses toiles non tendues
+			- L'étymologie du mot peinture en français tend vers un rapport visuel alors que le mot allemand est plus sur la tache
+	- Le diagramme est ce chaos de trait qui ne constitue pas de forme visuelle
+	- **Si le diagramme c’est le trait/tache, d’origine manuelle qui surgit sur la toile et qui récuse les cordonnées optiques, les coordonnées visuelles, qui les entraîne dans une espèce d’effondrement, comment le définir ?**
+		- Se serait le gris, cette possibilité blanc noir ou vert rouge.
+			- Ce qui va sortir du diagramme c’est la double gamme picturale : Lumière - Couleur.
+		- Même chose pour le trait : le trait n’est pas la ligne picturale mais la ligne picturale en sortira
+			- Le trait, c’est l’élément de composition manuel de la ligne visuelle
+		- La représentation c’est l’avant, l’avant peindre. La présence c’est ce qui sort du diagramme
+		- Les chrétiens dans leurs manière de définir l'home *« Dieu a créé l’homme à son image et ressemblance, et par le péché, l’homme à gardé l’image, mais il a perdu la ressemblance »*
+			- Le péché est l’acte par lequel l’homme se constitue comme image sans ressemblance
+				- Une image sans ressemblance pourrait être l'icone
+		- Le diagramme c’est l’instance par lequel je défais la ressemblance pour produire l’image présence
+			- Effondrement de la ressemblance et production de l’image. C’est l’aspect avant et l’aspect après, entre les deux le diagramme
+	- **ll a fallu passer par une catastrophe manuelle du diagramme, pour produire le fait pictural, c’est à dire pour produire le troisième œil.**
+	-

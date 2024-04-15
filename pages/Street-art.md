@@ -4,5 +4,4 @@
 	- Une esthétique intègre le monde de l'art et les instituions et se demande si elle à encore du sens car n'est plus revendicatrice et devient juste un style graphique
 	- Déplacement de la culture urbaine dans le champ de l'art qui se veut hermétique
 - Street-art maintenant participe à la gentrification de certains quartiers
-- [[Banksy]]
 - [[Invader]]

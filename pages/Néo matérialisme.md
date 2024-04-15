@@ -37,7 +37,6 @@
 		- Par exemple un humain peut avoir une relation avec le plus qu'humain
 - Proche des nouvelles perspectives anthropologiques.
 	- Perspectivisme: pensée d'autre manière de voir la vie, le vivant, le sujet
-- [[Judith Butler]]
 - Concept: Ontologie
 	- Branche de la métaphysique qui s'articule autour de la question de l'existence, le devenir et le réalité de l'être
 - [[Isabelle Stengers]]
