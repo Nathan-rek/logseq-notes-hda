@@ -5,7 +5,7 @@
 	- Fin d’un enseignement traditionnelle
 	- Question de la fonction de l’atelier - enseignement base sur une transversalité.
 		- Le nom de l’erg tend vers une utopie celle d’intégrer l’artiste dans la société – faire de l’école un lieu d’ouverture dans la pratique pour palier à la problématique moderne de vide idéologique technico-ésthetique
-- Colin Ronstant: Les pratiques Fonctionnelles
+- Colin Roustant: Les pratiques Fonctionnelles
 	- Les usagers de l'art contemporain
 	- Perspective de l'usage de l'art, on passe du spectacle à l'usage. Ce qui rompt avec le paradigme de l'[[Académie - Beaux-Arts]] mais vers un paradigme de l'usologie
 	- Propose de désactiver la fonction esthétique de l'art pour engager sa fonction usologique

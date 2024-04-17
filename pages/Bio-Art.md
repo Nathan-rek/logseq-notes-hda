@@ -14,6 +14,8 @@
 - Heather Barnett: [*The Physarum Experimences*](https://heatherbarnett.co.uk/work/the-physarum-experiments/), 2008 https://heatherbarnett.co.uk/wp-content/uploads/2015/07/Slime-mould-navigating-a-maze-1030x386.jpg
 	- Travaillant avec un Blop[^33]
 		- Le blop présente un battement permanent qui lui permet de comprendre son environnement
+- Eduardo Kac: [*GFP Bunny*](https://www.ekac.org/gfpbunny.html), 2000 ![GFP Bunny](https://www.ekac.org/albagreen-cutout.png)
+	- Développe des pratiques qui nécessitent un usage des méthodes scientifiques comme les modifications génétiques
 - *[^30]: L'ensemble des techniques faisant appel aux principes et aux méthodes de l'ingénierie, de la culture cellulaire, des sciences de la vie, des sciences des matériaux pour comprendre les relations entre les structures et les fonctions des tissus normaux et pathologiques des mammifères, afin de développer des substituts biologiques pouvant restaurer, maintenir ou améliorer les fonctions des tissus*
 - *[^31]: Mise au point en 2012 par deux chercheuses les CRISPR-CAS9 sont une technique biotechnologique de modification génétique qui permet de copier de l’information génétique dans L’ADN. Il sont des ciseaux moléculaires permettant de manipuler les branches d'ADN.*
 - *[^32]: Artiste portugaise considérée comma la première femme bio-artiste, Elle a travaillé sur les rapports entre art et biologie sous diverses formes, bio-tech mais également par le biais de supports traditionnels, dessins et peintures.*

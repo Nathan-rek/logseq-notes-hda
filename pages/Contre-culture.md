@@ -38,7 +38,7 @@
 	- Commente que la culture Punk peut être perverse
 	- La figure du punk contestataire est celui qui cherche l'alternatives mais certain figure emblématique en trouvant une place dans leur monde devienne de vrai produit musical qui appartiens à une industrie culturelle
 		- Cree un nouveau marché dans le marché globales: Celui qui s'autodétermine avec le [[Bricolage]] rentre dans l'idée néo-libéraliste
-		- La culture Punk est un produit de la culture néo-libérale
+		- La culture Punk est un produit de la culture néo-libérale, le punk est proche de la figure de l'auto-entrepreneur
 			- Contribue à la multiplication des cultures légitimées
 - La légitimisassions de la culture
 	- Bourdieu constate les différente valorisation de la culture. Dans les écoles la littérature classique est plus légitime que l'histoire des musiques rock

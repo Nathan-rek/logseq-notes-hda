@@ -1,2 +1,3 @@
 - S'emparent de canon de la culture classique et le fait fusionner avec de matériaux non légitimes (bout de rubikscube)
 	- Invader: [Rubik Mona Lisa](https://www.lemonde.fr/culture/article/2020/02/24/la-joconde-en-rubik-s-cube-de-l-artiste-invader-vendue-480-000-euros-aux-encheres_6030646_3246.html), 1980 ![La Joconde en Rubik's Cube de l'artiste Invader vendue 480 000 euros aux  enchères](https://img.lemde.fr/2020/02/24/30/0/4368/2910/1440/960/60/0/9c63321_pzGgUQpqaM0KcdlCGJvccF4u.jpg){:height 308, :width 450}
+		- Rencontre en la culture vernaculaire et la grand cultures

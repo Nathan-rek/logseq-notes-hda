@@ -43,4 +43,6 @@
 - Daniel Savatore Schiffer: Traité de sublime de la mort sublime
 	- Socrate accepte la mort et met en pratique une leçon philosophique au principe de sa mort
 - Recherche du sublime, la mort comme comment sublime ou l'on se retrouve confronter à la limite de la vie
--
+- ## Stefan Wright - Coefficient artistique
+- Le coefficient artistique œuvre qui n'as pas la forme d'une œuvre d'art
+	- [[Marcel Duchamp]] engage déjà a utiliser le terme de coefficient artistique

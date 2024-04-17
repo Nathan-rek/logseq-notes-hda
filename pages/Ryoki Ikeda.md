@@ -1,0 +1,6 @@
+- Artiste sonore qui met en forme sa relation avec les outils scientifique dans la création sonore
+- Participe à une exposition au CERN
+	- [*Ryoji Ikeda at CERN*](https://arts.cern/article/ryoji-ikeda-cern)
+	- Modéliser les recherche des physicien..nes du CERN
+	- Rencontre entre les recherches artistisque et scientifique [[Art & Science]]
+-

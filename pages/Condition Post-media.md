@@ -1,8 +1,8 @@
-- La condition post-media. Un considération qui dépasse les mediums habituelles classique (peinture, sculpture).
-- L’usage des technologies comme medium privilégier a cette condition post media
+- La condition post-media est une considération qui dépasse les mediums habituelles classique (peinture, sculpture).
+- L’usage des technologies comme medium privilégié à cette condition post media
 	- Random International: [*Rain Room*](https://www.moma.org/calendar/exhibitions/1352), 2013 ![Rain Room | MoMA](https://www.moma.org/d/assets/W1siZiIsIjIwMTYvMDUvMTYvM2RsOWlyZDlwdV9yYWluX3Jvb20zLmpwZyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDEyMDB4NjAwXHUwMDNlIl1d/rain_room3.jpg?sha=134c593796f5982a)
 		- Cette œuvre permet aux utilisateur..ices de marcher sans se mouiller dans un couloir de pluie passant d’une expérience passive à participative.
-	- Olafur ELIASSON: [*Your view matter*](https://www.yourviewmatter.art/), 2022 ![Your view matter • Artwork • Studio Olafur Eliasson](https://res.cloudinary.com/olafureliasson-net/image/private/q_auto:eco,c_fit,h_640,w_640/img/sphere-your-view-matter-2022-detail_26746.jpg)
+	- [[Olafur Eliasson]] : [*Your view matter*](https://www.yourviewmatter.art/), 2022 ![Your view matter • Artwork • Studio Olafur Eliasson](https://res.cloudinary.com/olafureliasson-net/image/private/q_auto:eco,c_fit,h_640,w_640/img/sphere-your-view-matter-2022-detail_26746.jpg)
 		- En fonction du déplacement des utilisateur..ices le paysage change et invite au déplacement. L’œuvre existe dans l’interaction des visiteur..ices.
 	- Casy REAS: [*A Mathematical theory of cummunication*](https://landmarks.utexas.edu/artwork/mathematical-theory-communication#:~:text=A%20Mathematical%20Theory%20of%20Communication%20blends%20conceptual%20art%20and%20information,), 2014 ![An office with a large wall mural](https://landmarks.utexas.edu/sites/default/files/styles/wide_artwork/public/artwork-gallery-images/04_casey-reas_a-mathematical-theory-of-communication_photo-by-paul-bardagjy_optimized.jpg?itok=ZG7U7Zu1)
 	- Rafael LOZANO-HEMMER: [*Pulse Topology*](https://www.lozano-hemmer.com/pulse_topology.php), 2021 ![pulse_topology_durham_2023_rlh_010](https://www.lozano-hemmer.com/image_sets/pulse_topology/durham_2023/pulse_topology_durham_2023_rlh_010.jpg)

@@ -20,7 +20,7 @@
 	- Ces traités utilisent la grille pour illustrer les interactions de particules spécifiques à l'intérieur d'un champ continu
 	- La grille devient l'emblème de l'infrastructure de la vision, marqué par la peinture Néo- [[Impressionisme]] qui mette à l'exemple les traités d'optique physionomique.
 		- Cela pousse aussi vers une abstraction certaine, la science commençait à produire son contraire: Le [[Symbolisme]]
-- Les symbolistes s'opposaient au proposition entre art et science et la représentation d'un réel.
+- Les symbolistes s'opposaient au proposition entre [[Art & Science]] et la représentation d'un réel.
 	- Le [[Symbolisme]] cherche à comprendre la métaphysique, non terrestre des objets. Le symbolisme vas plus sur une interprétions du réel que son imitation optique.
 		- Malgré ce dépassement optique la grille existe chez les symbolistes à travers l'usage de la fenêtres.
 		- Dans les mains des symbolistes la fenêtre devient moderniste car il en font une expérience du réel
