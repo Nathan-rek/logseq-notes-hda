@@ -6,7 +6,7 @@
 		- l’exposition est influencée par le lien entre les mathématique et l’art dans les formes. Une liaison que les artistes du [[Bauhaus]] était venu a travailler.
 - La Randomisation était de quelque chose de très présent dans ces pratiques.
 - ### Phase Two
-- Petit à petit les artistes ont commencé..es à travailler avec des programmeur..euses. Et ont elle..ux même appris à programmer.
+- Petit à petit les artistes ont commencé..es à travailler avec des programmeur..euses. Et ont elle..ux même on appris à programmer.
 - Cette liaison entre art et nouvelle technologie à permis à de nouveaux médias et mediums d’apparaître.
 - L’exposition ICCH/2[^24] à marqué une différence avec la phase One.
 	- On  y retrouve dans cette exposition une continuité avec les artistes de l’exposition Cybernetic Serendipity

@@ -6,10 +6,11 @@
 		- Elle est constituée de plaques de feutre industriel, lacérées, puis suspendues au mur pour que les formes naissent du **poids de la matière**
 			- L'artiste s'efface derrière la matière, Morris voit cet acte notamment avec [[Jackson Pollock]] qui laisse la matière à elle même car tout dans son travail privilégie le dégoulinement de la peinture
 - Eva Hesse: [*No Title*](https://www.artsy.net/artwork/eva-hesse-no-title-5), 1969 ![Eva Hesse | No title (1969-1970) | Artsy](https://d7hftxdivxxvm.cloudfront.net/?height=426&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fq1mxygJ8t03pui7SRLBMFA%2Flarge.jpg&width=640)
-	- Artiste qui donne aussi a voir les qualités de la matière en leur restituant à leur propriétés physiques
-- Bruce Nauman: Smoke Rings (Model for underground Tunnels)
-	- Propose une partiellement fragile
-- Barry Flanagan: *[Casb 1'67](https://www.barryflanagan.com/artworks/casb-1-67/)*, 1967 ![Barry Flanagan, Casb 1'67, 1967. Sac tronconique rempli de sable et érigé  sur une base circulaire. Toile et fil de coton, sable, bois. Hauteur … |  Fil de coton, Sac](https://i.pinimg.com/736x/3d/44/5d/3d445da9bb0270544b8740d24189bbb3.jpg){:height 683, :width 450}
+	- Artiste qui donne aussi à voir les qualités de la matière en leur restituant à leur propriétés physiques
+- Bruce Nauman: [*Smoke Rings (Model for underground Tunnels)*](https://www.centrepompidou.fr/en/ressources/oeuvre/cRRLdae)
+	- ![Smoke Rings (Model for Underground Tunnels) (Ronds de fumée (Modèle de  tunnels souterrains)) - Centre Pompidou](https://www.centrepompidou.fr/media/picture/8a/ee/8aeea06ab747a766a9f671b06006014d/thumb_large.jpg)
+	- Propose une sculptures partiellement fragile
+- Barry Flanagan: [*Casb 1'67*](https://www.barryflanagan.com/artworks/casb-1-67/), 1967 ![Barry Flanagan, Casb 1'67, 1967. Sac tronconique rempli de sable et érigé  sur une base circulaire. Toile et fil de coton, sable, bois. Hauteur … |  Fil de coton, Sac](https://i.pinimg.com/736x/3d/44/5d/3d445da9bb0270544b8740d24189bbb3.jpg){:height 683, :width 450}
   id:: 65fbfd46-3f9f-43c3-a8d6-f0ace19b3f71
 	- Cherche a réconcilier les formes avec leur matériaux en cherchant des formes qui soit en adéquation avec les matériaux qu'il utilise
 - Sarkis: [*Les trois rouleaux qui ...(jour)*](https://www.centrepompidou.fr/fr/ressources/oeuvre/c5ed7qX) ![Les trois rouleaux qui ...(jour) - Centre Pompidou](https://www.centrepompidou.fr/media/picture/7c/8d/7c8d2b737ba3c9d6d9d92c157f7495f4/thumb_large.jpg)

@@ -1,11 +1,14 @@
 - Catégorie de Signe : Un signe qui dépasse l’origine du signe :
 	- Signe Original
 	- Signe copie
-	- Signe simulacre > Accélération des simulacres ( du au monde contemporaine )  : Réseaux de simulacre qui nous empêche d’être en contacte avec une réalité existante originale >
+	- Signe simulacre
+		- Accélération des simulacres ( du au monde contemporaine )
+		- Réseaux de simulacre qui nous empêche d’être en contacte avec une réalité existante originale
 		- Culture de la virtualité: culture publicitaire, informatique :
-			- Bret Easton ELLIS: American Psycho: Basé sur un contexte entrepreneurial d’une entreprise qui gère de fond pour faire fructifier de l’argent début de rapport à la virtualité.
-				- Psychose qui née entre les contrainte pulsionnelle et sociétale
-		- REAGAN président américain: Le gouvernement n’est pas la solution c’est le problème: Politique de l’historie américaine caractérisé par la mise en place d’un doctrine économique ultra libérale
+			- Bret Easton Elis, *American Psycho* : Basé sur un contexte entrepreneurial d’une entreprise qui gère des fonds pour faire fructifier de l’argent début de rapport à la virtualité.
+				- Psychose qui née entre les contraintes pulsionnelles et sociétales qui se caractérise dans le comportement du personnage Patrick Bateman
+		- Reagan est président américain: Le gouvernement n’est pas la solution c’est le problème:
+			- Politique de l’historie américaine caractérisé par la mise en place d’un doctrine économique ultra libérale
 - Pour Baudrillard il y a quatre façons d’obtenir de la valeur
 	- Valeur fonctionnel : objectifs principal d’un objet
 	- Valeur d’échange : Valeur économique d’un objets
