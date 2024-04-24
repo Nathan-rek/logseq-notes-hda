@@ -15,9 +15,9 @@
 				- Le sujet qui à le pouvoir et l'objet soumis à celui-ci
 			- Féministe qui dit qu'il faut sortir de l'essentialisme de responsabilité de reproduction
 		- Les cyborgs pour Haraway sont des individus androgènes qui dépasse la biologies, individu non sexuées et donc post-binaire
-			- Ne s'identifie pas a une origine il peut se lier à plusieurs choses
+			- Ne s'identifie pas à une origine il peut se lier à plusieurs choses
 - Cyborg
-	- Figure central de la science-fiction qui décrit un être humain moitié organique moitié cybernétique dont les fonction physiologiste sont améliorés par des modification biochimiques et électroniques
+	- Figure central de la science-fiction qui décrit un être humain moitié organique moitié cybernétique dont les fonction physiologiste sont améliorés par des modification biochimiques et électroniques (Neil Harbisson)
 	- Ne s'identifient pas à leur origine ni à la nature, afin de développer un sentiment de compréhension à travers les différences entre eux et les autres
 - Internet feministe
 	- https://www.feministinternet.com/

@@ -16,3 +16,9 @@
 	- La différence n'est pas péjoratif
 - ## Déconstruire l'identité
 - [[Transfeminisme]]
+- ## Technologies
+- Réflexion critique sur la coévolution entre le technologie et l'humain
+	- Ne cherche pas a la supprimer ni en à en faire un espoir divin
+- Le soucis est dans l'usage qu'on en fait
+	- Le post humanisme refuse les relations utilitaires que la technologies peut cree
+		- Le post-humanisme critique l'utilisation des technologies pour transformer les forces naturelles en énergie.
