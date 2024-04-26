@@ -13,7 +13,7 @@
 - L’état soutient particulièrement cette expressionnisme américains
 - Harold ROSENBERG:  A l’image de l’école de New York et de [[Expressionnisme Abstrait Américain]]: 
   *«toile définie comme une arène une zone qui est destinée à recueillir l’existence même de l’artiste au moyen d’une technique picturale»*
-- Anime le culte de singularité et d’originalité – réarticulation de l’originalité
+- Anime le culte de singularité et d’originalité – réarticulation de [[L'Originalité]]
 - ## Footnotes
 	- [^1]:Livre de David Anfam spécialiste de l’expressionnisme abstrait
 	  «L’Expressionnisme abstrait n’était pas un mouvement mais un
