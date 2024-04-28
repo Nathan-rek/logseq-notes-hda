@@ -3,7 +3,7 @@
 - #### <a name="__refheading___toc31253_904435087"></a>Introduction à la théorie neuroesthétique
 - Positiviste:
 	- La neuroesthétique positiviste utilise des méthodes scientifiques et la neuro-imagerie pour expliquer et situer les origines de la production artistique et culturelle dans les modules cérébraux du cerveau matériel confinés par la carapace osseuse du crâne.
-		- Les produits esthétique comme la sculpture et la peinture sont considérés comme des objets ayant un intérêt considérable dans l’étude et la méthode scientifique. Cette méthode est méthodologique mais elle est réductrice et déterministe car ne prend pas en compte l’historie de l’œuvre dans son devenir social politique économique ou culturel.
+		- Les produits esthétiques comme la sculpture et la peinture sont considérés comme des objets ayant un intérêt considérable dans l’étude et la méthode scientifique. Cette méthode est méthodologique mais elle est réductrice et déterministe car ne prend pas en compte l’historie de l’œuvre dans son devenir social politique économique ou culturel.
 		- La neuroesthétique positiviste cherche à situer les origines de l'expression artistique et culturelle dans les limites déterminées de modules dits cérébraux
 	- La neuroesthétique positiviste est liée aux enquêtes scientifiques positivistes et aux épistémologies philosophiques analytiques
 - Idéaliste
@@ -85,4 +85,6 @@
 - En 1877 Sir Francis GALTON [^83]. Crée une procédure de réalisation de photo composites. Fabriquées par un processus d’enregistrement et d’exposition successif de portrait sur une seul plaque les composites de GALTON étaient censées constituer des moyennes statistiques représentant des types d’humain..es (Criminel..les, juif..ve, anglais..e, et autres)
 	- Pour GALTON «les visages idéaux obtenus par la méthode du portrait composite semblent avoir beaucoup en commun avec… les idées dites abstraites»
 		- Il été convaincu qu’il donnait une forme matérielle tangible aux idées abstraites
+- ## Cerveau et art
+- Rupture avec le binaire [[Nature - Culture]], qui est
 -

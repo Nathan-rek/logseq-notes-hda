@@ -126,7 +126,7 @@
 				- Tableau étant une commande pour célébrer une bataille mais ou la place des soldat est minime il s'empare de la commande pour représenter des corps qui sortent de l'eau
 				- Michel-Ange révèle la capacité des peintres athé..es à arracher des faits pictural au christianisme
 					- ils arrachent le christianisme à toute figuration et narration pour en tirer un « fait pictural ».
-			- Michel-Ange est rallié à l'école des Maniéristes, un mouvement ou les corps sont assez artificielle, contournés
+			- Michel-Ange est rallié à l'école des Maniéristes, un mouvement où les corps sont assez artificielles, contournés
 				- Que Deleuze définit comme: le rapport du corps visible avec la force invisible
 					- *Si bien que je crois que le maniérisme est en fait une dimension fondamentale, une dimension consubstantielle de la peinture.*
 		- Le fait pour Bacon par exemple c'est quand il y a plusieurs ou plusieurs niveaux de Figures
@@ -211,18 +211,22 @@
 		- Le diagramme c’est l’instance par lequel je défais la ressemblance pour produire l’image présence
 			- Effondrement de la ressemblance et production de l’image. C’est l’aspect avant et l’aspect après, entre les deux le diagramme
 	- **ll a fallu passer par une catastrophe manuelle du diagramme, pour produire le fait pictural, c’est à dire pour produire le troisième œil.**
-- l' [[Expressionnisme Abstrait Américain]] est un style ou les peinture tendes avec le chaos où le diagramme frôle le chaos
-	- Le diagramme quand t'il s'élève à son maximum tend vers le chaos(abstrait) mais lorsqu'on le réduit ont tend vers l'ordre picutrale le figuralisme
+- l' [[Expressionnisme Abstrait Américain]] est un style ou les peintures tendent avec le chaos où le diagramme frôle le chaos
+	- Le diagramme quand t'il s'élève à son maximum tend vers le chaos (abstrait) mais lorsqu'on le réduit ont tend vers l'ordre picturale le figuralisme
 		- L'abstraction géométrique cherche t-elle à remplace le diagramme par un code.
 			- La peinture n'appliquerait qu'un code extérieur, qu'est ce qui distingue un triangle de [[Vassily Kandisky]] que celui d'un géomètre
 				- Auguste Herbin est pour Deleuze un peintre abstrait qui manie le code de l'abstrait et en fait un code pictural et non un code extérieur appliqué a la peinture
 				- Auguste Herbin: [*Alphabet Coloré III*](http://emblemes.blog.free.fr/index.php?post/2018/01/20/Alphabet-color%C3%A9-%282%29%3A-Alphabet-plastique-d-Auguste-Herbin.), 1950 : ![Alphabet coloré (3): Alphabet plastique d'Auguste Herbin. - Emblèmes, le  blog](https://lh6.googleusercontent.com/proxy/lw8EnLeO3G5RccGRSqvlQYuMD0yzcnEp2GwKLUVf-Ss51ybwb9K4GGrmhBG2rWmqe01Q9IbT3RDH1D9sQW3gKK1hLUAkJKP7Tnv0H1ZjPA)
 - Si la peinture moderne plait c'est pour cette capacité à faire ressortir du chaos 
    omniprésente (pollution, bombe atomique...)un ordre moderne en sort
-	- Pour Kandinsky l'homme moderne doit retoruver de la spiritualité et la peinture est l'agent de cette vie spirituel
+	- Pour Kandinsky l'homme moderne doit retrouver de la spiritualité et la peinture est l'agent de cette vie spirituel
 		- Il faut construire un troisième œil un œil interne à l'homme moderne
-	- Pour les [[Expressionnisme Abstrait Américain]] il ne faut pas evite le tumulte du chaos en le diminuant mais il faut l'affronter en l'étendant comme un [[Jackson Pollock]].
+	- Pour les [[Expressionnisme Abstrait Américain]] il ne faut pas évite le tumulte du chaos en le diminuant mais il faut l'affronter en l'étendant comme un [[Jackson Pollock]].
 	- Le peintres abstrait [[Abstraction]] ([[Vassily Kandisky]], [[Piet Mondrian]]... ) dirait " *limitant au maximum le chaos pour faire surgir un ordre moderne qui serait un code de la vie* "
 	- La formule de l’expressionnisme ([[Jackson Pollock]]) ce serait : « *rajoutons toujours au chaos, rajoutons au chaos, juste ce petit grain d’excès par rapport à lui même tel qu’en sorte quelque chose.* »
 - La troisième position serait un positon ni dans le trop ni dans le peu mais dans une modération entre le diagramme et le fait picturale. Il sont pas pas des peintres figuratifs mais des peintres figuraux.
 	- Ca serait Gaugin ou Van Gogh, tout pour le diagramme
+- ## Le digitale dans la peinture de Deleuze
+- Lecture pictural par le digital
+- Diagramme > un langage analogique
+- Langage digital: flux d'information qui peut être transformer en digits

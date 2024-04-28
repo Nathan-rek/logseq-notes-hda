@@ -1,4 +1,4 @@
-- Clément GREENBERG propose une définition de la [[Modernité]] . Dans un esprit [[Modernisme]] qui est une fraction de la [[Modernité]] , le [[Modernisme]] est une approche critique de l’art moderne
+- Clément GREENBERG propose une définition de la [[Modernité]] . Dans un esprit [[Modernisme]] qui une approche critique de l’art moderne
 - *«... the use of characteristic methods of a discipline to criticize the discipline itself, not in order to subvert it but in order to entrench it more firmly in its area of competence.»*
 - Le modernisme couvre tout ce qui est vivant dans la culture. La civilisation occidentale n’est pas la première civilisation à se retourner et à remettre en question ses propres fondations.
 - Mais c’est celle qui est allé le plus loin en ce sens.
@@ -13,7 +13,7 @@
 	- Les arts pourraient sembler se trouver dans une situation comparable à celle de la religion.
 		- Ayant été privés par les Lumières de toutes les tâches qu’il pouvaient prendre au sérieux, L’art à semblé s’être assimilé au divertissement pur et simple, et le divertissement lui-même semblait aller être assimilé.
 			- Comme la religion à la thérapie
-		- Les arts ne pouvait échapper à ce nivellement vers le bas qu’en démontrant que le type d’expérience qu’il offraient était précieux en soi et ne pouvait être obtenu par aucun autre type d’activité.
+		- Les arts ne pouvait échapper à ce nivellement vers le bas qu’en démontrant que le type d’expérience qu’il offraient était précieux en soi et ne pouvait être obtenu par aucune autre type d’activité.
 			- Chaque art devait déterminer, par ses propres opérations et œuvres, les effets qui lui étaient exclusifs. Ce faisant, il réduirait certes son domaine de compétence, mais en même temps il rendait encore plus sure sa possession de ce domaine
 				- Le domaine unique et propre à chaque art coïncide avec tout ce qui était unique dans la nature de son medium
 					- L’autocritique consistait désormais à éliminer des effets spécifiques de chaque art
@@ -38,4 +38,3 @@
 				- On prend conscience de la  planéité de leur images avant, et non après, de ce que contient cette planéité
 	- On a tendance à voir ce qu’il y a dans les tableaux anciens avant de voir le tableau ancien.
 	- A l’inverse le tableaux modernes on y voit d’abord un tableau moderne
--

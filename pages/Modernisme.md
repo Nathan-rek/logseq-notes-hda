@@ -1,8 +1,8 @@
-- Un fraction de la modernité. Le modernisme est une approche critique de l’art moderne sous un angle formelle.
-- Clément GREENBERG esprit de ce modernisme qui cherche a comprendre l’évolution de l’art moderne
+- Le modernisme est une fraction de la modernité. Le modernisme est une approche critique de l’art moderne sous un angle formelle.
+- Clément GREENBERG esprit de ce modernisme qui cherche à comprendre l’évolution de l’art moderne
 - A travers des textes comme *Avant garde et Kitsch* ou  *[[Modernist Painting, Clément Greenberg]]*
-	- l’art moderne comme matière réflexif qui  s’oppose au Kitsch qui lui ne propose rien comme discours. La culture populaire est le Kitsch.
-		- Clément GREENBERG y v oit une culture facilement consommable. Il assimile le kitsch à la propagande. Un conception qui rejoint la conception des philosophe de l’école de Francfort
+	- L’art moderne comme matière réflexif qui s’oppose au Kitsch qui lui ne propose rien comme discours. La culture populaire est le Kitsch.
+		- Clément GREENBERG y voit une culture facilement consommable. Il assimile le kitsch à la propagande. Un conception qui rejoint la conception des philosophe de l’école de Francfort
 			- ADORNO pense la ce que la culture produit par les industries culturelles est. Il pense que la culture de masse nous anesthésie. Penser une art autonome, une art qui vit dans son monde propre.
 - L’art quelque soit le mediums vas vers l’épuration. En cela il produit un discours sur la peinture un méta-discours. La peinture s’offre une auto-critique.
 	- L’architecture aussi se réduit à son essentiel. On quitte petit à petit l’ornementation car elle n’as pas de fonction. Rationalisme et fonctionnalisme
