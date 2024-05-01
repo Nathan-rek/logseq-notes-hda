@@ -41,7 +41,7 @@
 		- La culture Punk est un produit de la culture néo-libérale, le punk est proche de la figure de l'auto-entrepreneur
 			- Contribue à la multiplication des cultures légitimées
 - La légitimisassions de la culture
-	- Bourdieu constate les différente valorisation de la culture. Dans les écoles la littérature classique est plus légitime que l'histoire des musiques rock
+	- Bourdieu constate les différentes valorisation de la culture. Dans les écoles la littérature classique est plus légitime que l'histoire des musiques rock
 		- Se base sur les nouveaux outils de la statistique: 3ème vague de la culture de la sociologie
 	- L'espace social est fait de différent champ social
 		- Un champ est toujours conflictuelle: sociologie de la domination

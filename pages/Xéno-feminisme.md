@@ -8,6 +8,5 @@
 			- Refuse l'utilisation de la "nature" pour justifier des considérations "sociale" (prédisposition des femmes à la maternité)
 			- Penche vers le bio hacking et désacralise le corps naturel
 		- Abolitionnisme du genre
-		-
 - Dans un monde qui rentre dans un accélérateur technologiques géant transformé par l'automatisation, la mondialisation et la révolution numérique
--
+- S'émanciper par l'aliénation,
