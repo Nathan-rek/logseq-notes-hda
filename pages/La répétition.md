@@ -41,7 +41,6 @@
 		- Vera MOLNÀR:[*2carrés en 3 morceaux*](https://www.centrepompidou.fr/en/ressources/oeuvre/c67A55) ![2 carrés en 3 morceaux - Centre Pompidou](https://www.centrepompidou.fr/media/picture/35/04/3504d4e7cf287bf093538e6674e7b3e8/thumb_large.jpg){:height 32, :width 450}
 			- Originaire du Budapest l’artiste arrive Rome puis Paris elle explique que son travail se situe entre les «trois con»: conceptuel – constructivisme – computer
 		- Agnes MARTIN: [*Sans titre 1*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cGEeknA) ![Untitled 1 (Sans titre 1) - Centre Pompidou](https://www.centrepompidou.fr/media/picture/c9/44/c94408c2e2cd80a8685cb239f2c9c6b6/thumb_large.jpg)
-			- Longtemps associé au [[Minimalisme]] , même si elle se considérait plus proche de [[Expressionnisme Abstrait Américain]] son œuvre [*Sans titre 1*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cGEeknA) est réalisée après une période de deuil et de retrait du monde de l’art. Elle engage un nouveau langage plastique plus radical qu’auparavant.
 		- Josef ALBERS: [*Hommages au carré*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cxxAbL7) ![Affectionate (Homage to the Square) (Affectueux (Hommage au carré)) - Centre  Pompidou](https://www.centrepompidou.fr/media/picture/75/ee/75ee69d40b4f4a95866e690774cdb583/thumb_large.jpg)
 		  id:: 6543a5de-be3a-40ff-a206-bc09fea9652a
 			- Série de 2000 tableaux qui représentent systématiquement trois ou quatre carrés imbriqués, selon une disposition identique. Les couleurs changent, elles dévoilent leurs force et leurs expressivité

@@ -6,7 +6,7 @@
 	- L’introduction des formes est reste assez simple avec des forme circulaire
 		- Kennet Noland : [*First*](https://www.centrepompidou.fr/fr/ressources/oeuvre/crbGo6), 1958 ![First (Premier) - Centre Pompidou](https://www.centrepompidou.fr/media/picture/7b/7a/7b7ac2034f38726448f230075e81f86b/thumb_large.jpg)
 	- Ou des formes rectangulaires:
-		- Jack BUSH: Big A, 1968 ![big-a-1968 by Jack Bush - Totally History](https://totallyhistory.com/wp-content/uploads/2012/08/big-a-1968-by-Jack-Bush.jpg)
+		- Jack Bush : Big A, 1968 ![big-a-1968 by Jack Bush - Totally History](https://totallyhistory.com/wp-content/uploads/2012/08/big-a-1968-by-Jack-Bush.jpg)
 - Peinture aux taches
 	- Les artistes mélangeaient et diluaient leurs peintures pour obtenir un liquide fluide, puis i..ells la versaient sur une toile brute non apprêtée, généralement du coton-canard
 		- Paul JENKINS: [*Phenomena Edge of August*](https://www.artsy.net/artwork/paul-jenkins-phenomena-the-edge-of-august) ![Paul Jenkins | Phenomena The Edge of August (1995) | Available for Sale |  Artsy](https://d7hftxdivxxvm.cloudfront.net/?height=799&quality=85&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FPJVDjlQoCjP5C_p8ETuROw%2Fmain.jpg&width=571)

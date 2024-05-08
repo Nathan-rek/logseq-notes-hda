@@ -1,5 +1,5 @@
 - Notion qui désigne des pratiques artistiques qui questionne le [[Monde de l'art]] et l'institution
-	- Se base sur le musée une invention de la [[Modernité]]. Le musée s'adresse au public, Le musée a une mission de collection
+	- Se base sur le musée une invention de la [[Modernité]]. Le musée s'adresse au public, Le musée à une mission de collection
 	- Cette critique apparait déjà dans les [[Avant-Gardes "Historique"]] pour qui l'art ne peut pas montrer le vivant car le musée à une valeur mortifère. Il neutralise les éléments qu'il expose
 		- Les [[Futurisme]] souhaitent bruler les musées
 		- Les [[L’international situationniste]] souhaitent dépasser l'objet marchand et donc l'objet qui vise le musée
