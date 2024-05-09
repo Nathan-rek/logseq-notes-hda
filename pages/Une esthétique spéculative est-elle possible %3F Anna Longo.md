@@ -1,6 +1,6 @@
-- Les philosophies éveloppés par des philosophes comme Graham Harman, Quentin Meillasoux [[Aprés la Finitude - Quentin Meillassoux]], Ray Brassier se voit aujourd'hui avoir eu une forte influence sur l'art contemporain
-- La [[dOCUMENTA (13)]] est forte inspiré de la pensée de Graham Harman.
-	- Thématique qui se sont vu prolonger avec les colloques (*medium is a contingency*) la serie *Speculative Tate*
+- Les philosophies développés par des philosophes comme Graham Harman, Quentin Meillasoux [[Aprés la Finitude - Quentin Meillassoux]], Ray Brassier ont eu une forte influence sur l'art contemporain
+- La [[dOCUMENTA (13)]] est forte inspiré de la pensée de Graham Harman. ((661023ca-833b-48f9-9239-7bbe86cabb2e))
+	- Thématique qui se sont vu prolonger avec les colloques (*medium is a contingency*) / la serie *Speculative Tate*
 - L'anti-corrélationnisme défendu par les différences tendances philosophiques contemporaines [[Aprés la Finitude - Quentin Meillassoux]] prétendent accéder à un réel en soi
 	- Ce qui en théorie exclut le *a priori* et donc la pertinences des aspects esthétiques de l'expérience
 	- En effet le l'anti-corrélationsime s'éloigne des conditions subjectives de l'appréciation du réel défendu par le [[Corrélationisme]]

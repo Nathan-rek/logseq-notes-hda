@@ -10,7 +10,7 @@
 - Déterritorialisation: Processus par lequel une relation sociale, un « territoire » subit une modification, une mutation ou une déconstruction de son organisation et de son contexte actuels. Les éléments constituent alors un nouveau territoire, ce qui est le processus de « re-territorialisation»
 - Nick Land: le capitalisme n’a jamais été correctement libéré, mais qu’il avait toujours été freiné par la politique
 - ### Artiste influencé..e par L'accélérationnisme:
-- Jake & Dinos CHAPMAN: Artiste contemporain connu notamment pour les scandales qu’ils engendrent – membre de la Young British Artist[^35] (Damien HIRST – Gary HUME...) avec d’autres artistes anglais..es.
+- Jake & Dinos CHAPMAN: Artiste contemporain connu notamment pour les scandales qu’ils engendrent – membre de la Young British Artist[^35] ([[Damien Hirst]] – Gary HUME...) avec d’autres artistes anglais..es.
 	- Portant un attrait pour le dégoût et l’horreur les frères CHAPMAN ne croit pas au progrès ni au passé.
 		- On retrouve leurs peintures [*Disasters of War IV*](https://jakeanddinoschapman.com/works/disasters-of-war-iv/)  sur la couverture du livre <a name="producttitle"></a><a name="title"></a>[*Fanged Noumena: Collected Writings 1987-2007*] ![image.png](../assets/image_1701088780911_0.png)  de Nick LAND
 			- En référence au ((7d086422-be2d-4e96-952d-82eb8c64c998))

@@ -7,6 +7,7 @@
 	- Historique déjà développée par Gilles DEULEUZE, lequel établit une distinction similaire à celle de BAUDRIART  afin de distinguer le simulacre et la copie.
 	- C’est un art qui par la multiplication des copies met un place une distance entre l’image produites et l’original
 	- [[Andy Warhol]] : Nine Jackies ![image.png](../assets/image_1698533715100_0.png)
+	  id:: 661023ca-f7eb-43c2-a9e1-99a89b6a5dc9
 	- Le simulationnisme ajoute une étape qui dépasse l’abstraction picturales des formes ou un ready-made de la peinture. C’est également une réflexion sur l’image dans son rapport à la culture contemporaine
 		- Se simulationnisme se présente également comme critique :
 			- Peter HALLEY: The Crisis in Geometry ![image.png](../assets/image_1698533704060_0.png)
