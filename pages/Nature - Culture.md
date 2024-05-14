@@ -60,4 +60,3 @@
 - Land-Art: ré-articulation de l’œuvre dans le cadre naturel mais se fait au prix du re-façonnage de la nature
 - Élise DUCLAUX:  Cherche une cohabitation entre Nature / Culture: Intervenir sur la tombe d’un artiste: version-microscopique d’un jardin macroscopique
 	- Dispositif: Zone de fauchage tardives:  Délimiter certaines zones > L’institution artistique achète une collection de semence
-- [[Untilled - dOCUMENTA (13)]]

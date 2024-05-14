@@ -1,20 +1,19 @@
 - Le monde de l'art est un terme issu de la philosophie de l'art et en sociologie de l'art
 - Ryohei Kan: [*Endless White Cube*](https://ryoheikan.com/works/endless-white-cube-2016-2017/), 2016 https://ryoheikan.com/wp-content/uploads/2017/10/endless-white-cube.jpg
 	- Espace hermétique coupé du monde
-- Arthur Danto: transfiguration du banale
-	- Se consacre sur la pensée sur l'art il est le témoin d'un changement de l'histoire de l'art - au tournant de l'art moderne et de l'art contemporain
-	- Se base sur une œuvre de [[Roy Lichtenstein]] et se demande comment sur une revue comme Artforum je suis confronte a une image issu de la culture populaire légitimise cette image et ce répertoire de formes.
-	- Il nomme les indiscernable
-		- Par exemple les ((65480be3-7ec8-4db9-9289-62be8b4f1216))
-		- On ne peut pas savoir si c'est une œuvre ou une vrai boite
-		- ou ((65480be2-746a-4677-ab0b-a80ec601a276))
-		- *"Voir quelque chose comme de l'art requiert quelque chose que l'œil ne peut apercevoir - une atmosphère de théorie artistique, une connaissance de l'histoire de l'art: un monde de l'art" - Danto*
-		- La valeur n'est pas dans l'œuvre même dans la démarche et dans le discours de l'artiste
 - Arthur Danto: *La transfiguration du banale*, 1989
   id:: 65d3770f-5748-408e-8fa4-ae4087cae3ad
 	- Le  monde de l'art est un espace autre qui peut transfigurer le banale en une autre chose, il est transvaluer, il perd sa fonction initiale
 	- C'est la nature de l'objet qui est transformée
 	- Comme la transvaluation du pain et du vin dans l' [[Espace Sacré]] ont s'accorde a évaluer un protocole conceptuelle
+	- Il est le témoin d'un changement de l'histoire de l'art - au tournant de l'art moderne et de l'art contemporain
+	- Se base sur une œuvre de [[Roy Lichtenstein]] et se demande comment sur une revue comme Artforum il peut être confronté à une image issu de la culture populaire. Artforum légitimise cette image et ce répertoire de formes.
+	- Il nomme les indiscernables
+		- Par exemple les ((65480be3-7ec8-4db9-9289-62be8b4f1216))
+		- On ne peut pas savoir si c'est une œuvre ou une vrai boite
+		- ou ((65480be2-746a-4677-ab0b-a80ec601a276))
+		- *"Voir quelque chose comme de l'art requiert quelque chose que l'œil ne peut apercevoir - une atmosphère de théorie artistique, une connaissance de l'histoire de l'art: un monde de l'art" - Danto*
+		- La valeur n'est pas dans l'œuvre même dans la démarche et dans le discours de l'artiste
 - Mais pourquoi un monde
 	- Un mundos / cosmos: un univers organisé
 		- Des règles, un fonctionnement partagées
@@ -35,7 +34,7 @@
 			- ((653e63b1-925e-43e6-a815-551ac22c526b))
 			- Le geste bien qu'il soit banale est symbolique car il est inscrit dans le monde de l'art
 			- ((65480be3-75c7-477e-84b4-da63a78f3465))
-- Tout ces tendances appartiennent au pratique d'art contemporains: Nathalie Heinich: [*Le paradigme de l'art contemporain*](https://www.gallimard.fr/Catalogue/GALLIMARD/Bibliotheque-des-Sciences-humaines/Le-paradigme-de-l-art-contemporain)
+- Tout ces tendances appartiennent aux pratiques d'art contemporains: Nathalie Heinich: [*Le paradigme de l'art contemporain*](https://www.gallimard.fr/Catalogue/GALLIMARD/Bibliotheque-des-Sciences-humaines/Le-paradigme-de-l-art-contemporain)
 	- La transition entre moderne et contemporain problématise l'art ce qui rend l'art dure à accéder
 	- Un paradigme est une réponse que l'on se fait propre à un milieux
 		- Le discours est le commentaire deviennent important dans l'art contemporains. Les démarches sont appréhendable d'un point de vue intellectuel est nécessité donc une médiation
@@ -43,4 +42,3 @@
 	- Questionne la mise en espace du lieux d'exposition et propose plus des œuvres comme display et investi les pratiques curatorials
 - [[Critique institutionnelle]]
 - [[L'artiste théoricien..ne]]
--

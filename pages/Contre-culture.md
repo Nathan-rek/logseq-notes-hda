@@ -63,7 +63,7 @@
 - ## [[Street-art]] et [[Skate]]
 - Ce veut des pratiques qui dégradent l'espace public
 - Qu'elle contestation dans l'art à l'ère contemporaine
-- *Révolte consommé le mythe de la contre culture*
+- Joseph Heath et Andrew Potter: *Révolte consommé le mythe de la contre culture*
 	- Depuis le néo-transcendentaliste
 	- Figure du non-conformisme participe au mythe de l'individu libres
 	- Le non-conformisme se veut vendeur notamment dans les [[Industries Culturelles]]
