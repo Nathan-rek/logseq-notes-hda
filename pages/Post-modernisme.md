@@ -8,7 +8,7 @@
 			- Las Vegas remploie plein de langage formelle, pastiche de style réimplémenter à échelle
 - Cette transition accompagne la transition de capital entre l'Europe qui centralise les pratiques d' [[Avant-Gardes "Historique"]] et Les USA qui commence à prendre de plus en plus d'importance
 	- En 1964 La biennale de Venise attribue à [[Robert Rauschenberg]] le prix le plus important pour ses combine paintings ((653fbfba-d80d-4fe7-bc0b-405e41804d57))
-- Les femmes et les personnes racisées sont de plus en plus intégré au monde de l'art
+- Les femmes et les personnes racisées sont de plus en plus intégré au [[Monde de l'art]]
 	- En 1989, le centre Georges-Pompidou et la grande halle de la Villette proposent une exposition “[*Magiciens de la terre*](https://www.centrepompidou.fr/fr/programme/agenda/evenement/cTEXnL)”, qui expose 101 artistes qui ne sont pas occidentaux ou qui sont orienté..es hors occident, en les exposant..e sans jugement hiérarchique.
 	  id:: 65d3770f-40e1-4de4-8826-0c3b4dbdafa0
 		- L'expositon se differencie de [*Primitivism in Twentieth Century Art : Affinity of the Tribal and the Modern*](https://www.moma.org/calendar/exhibitions/1907) qui ne parle juste de l'influence du monde non occidental sur des artiste occidentaux..les
@@ -21,8 +21,7 @@
 	- [[Andy Warhol]]: [*Diamond Dust Shoes*](https://www.sothebys.com/en/buy/auction/2021/contemporary-art-day-auction-2/diamond-dust-shoes), 1980 ![Diamond Dust Shoes | Contemporary Art Day Auction | 2021 | Sotheby's](https://sothebys-md.brightspotcdn.com/dims4/default/f024b33/2147483647/strip/true/crop/2000x1379+0+0/resize/2048x1412!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fc7%2Fb8%2F8e3cee804b6cafdbd2f0d16726d5%2F361n10683-bq9px-01-a.jpg)
 - Une forme de dissolution des classes antogonistes bourgeoises
 	- *“Le postmodernisme va devenir par excellence le règne de l'imaginaire populaire dévoyé par la marchandisation de la culture, sur fond d'une inégalité exponentielle. En sortir est une affaire politique, et non de bilan.”*
-- La post-modernité donnera naissance à une ère de [[L'appropriationnisme]] car le métarécit de [[L'Originalité]] se voit désenchanter par la [[Post-Modernité]]
+- La [[Post-Modernité]] donnera naissance à une ère de [[L'appropriationnisme]] car le métarécit de [[L'Originalité]] se voit désenchanter par la [[Post-Modernité]]
   id:: 65f1939d-b892-4710-a628-cc285145e695
 	- L'artiste pioche dans les styles et dans l'histoire de l'art, dans une forme de citations [[Wim Delvoye]]
 		- Comment recycler les données culturelles.
--

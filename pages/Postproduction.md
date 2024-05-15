@@ -3,7 +3,7 @@
 - La culture comme scénario comment l'art reprogramme le monde contemporain
 - Le ré-emploie de forme ((65398c42-8c9d-442a-b162-6f249a183c3a)) ]) dans un régime de postproduction met à la mal production et consommation.
 	- Le matériaux brut n'est plus la base ce sont des matériaux déjà informées
-- Postproduction prend le contre-pied de [[Esthétique Relationnelle]] il reprend le point de départ de l'arrivé du réseaux numérique comme bouleversement paradigmatique mais contrairement a esthétique relationnelle il ne prend pas ce bouleversement comme engrais à de nouvelles pratiques relationnelles mais comment déchiffrer ce nouveaux paysage
+- Postproduction prend le contre-pied de [[Esthétique Relationnelle]] il reprend le point de départ de l'arrivé du réseaux numérique comme bouleversement paradigmatique mais contrairement à l' [[Esthétique Relationnelle]] il ne prend pas ce bouleversement comme engrais à de nouvelles pratiques relationnelles mais comment déchiffrer ce nouveaux paysage
 - ### Reprogrammer des oeuvres
 	- Mike Kelley, Paul McCarthy: *Fresh Acconci*, 1995 ![Mike Kelley, Paul McCarthy | Fresh Acconci | Whitney Museum of American Art](https://whitneymedia.org/assets/artwork/34267/2012_11_still.jpeg) font rejouer la performance de Vito Acconci par des mannequins
 	- [[Pierre Huyghe]] : [*Conical Intersect*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cEzLKe), 1997 ![Light Conical Intersect, Event, Paris - Centre Pompidou](https://www.centrepompidou.fr/media/picture/ca/b2/cab2ab8ba47d653b7b569b983bd83bc4/thumb_large.jpg) : projette un film de Gordon Matta-clark sur les lieux de tournage de se film

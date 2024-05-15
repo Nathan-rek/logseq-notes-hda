@@ -8,7 +8,7 @@
 			- Travail la relation au sens structuraliste
 - Travail ensuite le lien inter-humains
 	- Lacques Lennep: [*Le musée de l'homme*](https://www.lennep.be/Lennep/Musee_de_lhomme.html), 1974 ![l'homme zèbre - Hilde Van Gelder](https://archive-magazine.jeudepaume.org/blogs/hildevangelder/files/2011/07/f1.jpg)
-		- Initiatives qui démarre en 1974 qui décide plutôt d'exposer des personne dites 'ordinaire' en dehors du monde de l'art,
+		- Initiatives qui démarre en 1974 qui décide plutôt d'exposer des personne dites 'ordinaire' en dehors du [[Monde de l'art]] ,
 			- N'exposant pas des artistes mais des personnes dont le mode de vie s'apparente à de l'art
 				- Lecture et relation, 1977
 	- Approche plus relationnelle, expose l'homme telle qu'il est *"On est tous artistes"* chacun peut déploier une dispositif artistique

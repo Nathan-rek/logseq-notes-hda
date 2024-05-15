@@ -14,7 +14,7 @@
 	  id:: 65671ad9-e4e3-4bd3-86ba-7989f7a45008
 - [[Philippe Parreno]] : *Snow Dancing*, 1995 ![Philippe Parreno | Snow Dancing (1995) | Artsy](https://d7hftxdivxxvm.cloudfront.net/?height=800&quality=85&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fv1HzRO13ZxYSthiT9pEIVA%2Fmain.jpg&width=800){:height 288, :width 223}
   id:: 65671acb-50e5-42ca-b4e2-c52fec4cc100
-	- Texte dans le quelle il traite de la fête dans le contexte de post-modernité. Des individus qui seul constitue une masse lors d'un temps
+	- Texte dans le quelle il traite de la fête dans le contexte de [[Post-Modernité]] . Des individus qui seul constitue une masse lors d'un temps
 	- Il met en scène son texte en organisant une vrai fête, lors de l'exposition on pouvaient voir les traces de la scène ou la fête a eu lieu
 - [[Felix Gonzalez-Torres]] : [*Untitled ( Portrait of Ross in L.A)*](https://www.artic.edu/artworks/152961/untitled-portrait-of-ross-in-l-a), 1991 ![Untitled” (Portrait of Ross in L.A.), 1991 - Felix Gonzalez-Torres -  WikiArt.org](https://uploads2.wikiart.org/images/felix-gonzalez-torres/untitled-portrait-of-ross-in-l-a-1991.jpg){:height 363, :width 450}
   id:: 65671f12-cfe5-466c-a0ba-d7a337dd083d
@@ -27,9 +27,9 @@
 	- Questionne l'expropriation des produits culturelles de culture occidentale
 - ## Reproche
 - Vision angélique des pratiques
-	- Le public du monde de l'art n'est pas le vrai marqueur de lien social. C'est un public bienveillant qui n'est pas représentatif de la création de possible lien social
+	- Le public du [[Monde de l'art]] n'est pas le vrai marqueur de lien social. C'est un public bienveillant qui n'est pas représentatif de la création de possible lien social
 - Thomas Hirschhorn: [*Musée précaire*](https://mouseionsite.wordpress.com/2017/05/22/musee-precaire-albinet-thomas-hirschhorn/), 2004 ![](https://mouseionsite.files.wordpress.com/2017/05/musc3a9e-prc3a9caire-albinet-thomas-hirschhorn-2004-_vue_2_0.jpg?w=1280)
-	- Travaille avec des publics qui ne sont pas ceux du monde de l'art. Tentative de démocratisation de la culture
+	- Travaille avec des publics qui ne sont pas ceux du [[Monde de l'art]] . Tentative de démocratisation de la culture
 - ## Analyse du texte - Esthétique relationnelle
 - [[Nicolas Bourriaud]] déplore un manque d’analyse des pratiques contemporaines de son époque (Années 1990). Il prend comme point de départ des pratiques qui tournent autour des notions d’interactivité de convivialité et de relation.
 - Face au grand voie de la communication comment récréer du contact autrement que par ses voies.
@@ -126,7 +126,7 @@
 		- Les œuvres produisent des espace-temps relationnelles, des expériences inter-humaines qui s'éloignent des contraintes de l'idéologie de la communication de masse
 - Les artiste approchent l'œuvre dans un triple point de vue
 	- Esthétique (quelle traduction matérielle)
-	- Historique (quelle jeu de référence artistiques): Les pratique relationnelles dépassent les objets sur lesquelles elles s'appuient  ( méthodes conceptuelle, Fluxus, Dan Graham...) la question est plus sur les modes d'exposition juste par rapport au contexte culturel et par rapport à l'actualisation contemporaine de l'historie de l'art
+	- Historique (quelle jeu de référence artistiques): Les pratique relationnelles dépassent les objets sur lesquelles elles s'appuient  ( méthodes conceptuelle, [[Fluxus]] , Dan Graham...) la question est plus sur les modes d'exposition juste par rapport au contexte culturel et par rapport à l'actualisation contemporaine de l'historie de l'art
 		- [[Nicolas Bourriaud]] sépare ces pratiques de l' [[Art Conceptuel]] car ne célèbrent aucune immatérialité: les artistes ne privilégient pas le concept. Il ne fétichise pas le processus mentale au détriment de l'objet. Le langage par exemple n'est pas quelque chose à dépasser [[Art & Language]] mais est considéré comme vecteur de relations à l'autres.
 	- Sociale (trouver une positon cohérent par rapport à l'état de la production et des relations sociales)
 - ## L'héritage de [[Felix Gonzalez-Torres]]

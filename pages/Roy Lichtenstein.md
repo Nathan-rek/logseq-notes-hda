@@ -1,4 +1,4 @@
-- Pionner du [[Pop-Art]] il explorera le medium de la peinture a travers des recherche stylistique et conceptuelle tout en embrassant le flux du pop-art
+- Pionner du [[Pop-Art]] il explorera le medium de la peinture a travers des recherche stylistique et conceptuelle tout en embrassant le flux du [[Pop-Art]]
 - ### Un dialogue avec l’histoire des styles
   *«Je ne cois pas que je fasse des parodies. Je crois que je réinterprète des œuvres antérieures; comme Picasso quand il réinvente Vélazquès, Delacroix, ou Rembrandt»*
 - Roy LICHTENSTEIN se prêtera a des exercices de style en dialogue avec des styles préexistant et son style à lui

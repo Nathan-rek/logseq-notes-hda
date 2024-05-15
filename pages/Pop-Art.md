@@ -43,8 +43,9 @@
 	- Que ce soit les acteur..ices, les sportif..ves, ou les célébrités en tout genre. Elles sont vite devenu des symboles et des images à utiliser dans le Pop-art
 	- [[Andy Warhol]]en fera un des ses sujets dominant en réalisant un multitude de série de portrait de tout genre de personnalités
 		- Politique: [[Andy Warhol]]: Mao, 1973 ![Mao by Andy Warhol Background & Meaning | MyArtBroker](https://cdn.sanity.io/images/dqllnil6/production/a95bf5851797a2db87b8714d26688d16d4aadac4-603x600.jpg?w=1920&q=60&auto=format)
-			- La figure de Mao à déjà été utilisé par [[Roy Lichtenstein]] avec un portrait du politicien Mao,1971 ![Roy Lichtenstein - Mao(1971) - Lithographie | En vente sur Composition  Gallery.](https://media.composition.gallery/artworkpic/roy-lichtenstein-mao-lithograph-available-for-sale-on-composition-gallery1641212219-20590_371x500.jpeg)
+			- La figure de Mao à déjà été utilisé par [[Roy Lichtenstein]] avec un portrait du politicien 
 			  id:: 653ee4df-986c-4af5-ae5e-7bccbb9abb47
+				- Mao,1971 ![Roy Lichtenstein - Mao(1971) - Lithographie | En vente sur Composition  Gallery.](https://media.composition.gallery/artworkpic/roy-lichtenstein-mao-lithograph-available-for-sale-on-composition-gallery1641212219-20590_371x500.jpeg)
 				- En 2005 l’artiste Yu YOUHAN joue des séries de portrait de [[Andy Warhol]]avec des œuvre qui combine deux portrait célèbres celui de Mao et de ((65699b1e-dc24-414f-ad45-3550a93f0d6c)) avec Untitled (Mao Marylin) ![Untitled (Mao/Marilyn) - Yu Youhan - WikiArt.org](https://uploads1.wikiart.org/images/yu-youhan/untitled-mao-marilyn.jpg!Large.jpg)
 		- Artiste
 			- [[Andy Warhol]]: Mike Jagger, 1975 ![Oeuvre d'art contemporain - Lithographie - Mick Jagger - Andy Warhol](https://www.artalistic.com/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/e/l/el_pa.0122_005.jpg)

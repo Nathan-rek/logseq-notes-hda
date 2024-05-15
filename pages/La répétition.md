@@ -35,7 +35,7 @@
 	- La multiplication du module avec ou sans variations. La même opération de multiplication modulaire est effectuées par Cornelia PARKER dans sa séries des: [*Dessins de balle*](https://www.centrepompidou.fr/fr/ressources/oeuvre/c8EGKEk) ![Bullet drawing - Centre Pompidou](https://www.centrepompidou.fr/media/picture/10/b4/10b42b2f43bbc0bf17eae21040f3be2e/thumb_large.jpg)
 		- Comme un retournement de l’abstraction dont elle revêt les apparences, le matériau de départ est trouvé dans le monde extérieur, y comprise le plus violent > Les grilles flottent sont constituées de filament de balle de fusil
 - Diviser & Multiplier:
-	- Il n’y a guère de forme plus minimale que le carré. Un minimalisme qui devient potentiellement dynamique avec la composition [[De Stijl - Néo-plasticisme]] Jean Gorin :[*compositions n°3*](https://www.museedegrenoble.fr/oeuvre/2293/1922-composition-n-3.htm) ![Composition n°3](https://images.navigart.fr/1000/4T/01/4T01111.jpg)
+	- Il n’y a guère de forme plus minimale que le carré. Un [[Minimalisme]] qui devient potentiellement dynamique avec la composition [[De Stijl - Néo-plasticisme]] Jean Gorin :[*compositions n°3*](https://www.museedegrenoble.fr/oeuvre/2293/1922-composition-n-3.htm) ![Composition n°3](https://images.navigart.fr/1000/4T/01/4T01111.jpg)
 	  id:: 6543a5de-45c0-4ce5-8ad5-bcf521e7ac81
 		- de 1940 qui font suite à des tableaux se distinguant peu de ceux du [[De Stijl - Néo-plasticisme]]
 		- Vera MOLNÀR:[*2carrés en 3 morceaux*](https://www.centrepompidou.fr/en/ressources/oeuvre/c67A55) ![2 carrés en 3 morceaux - Centre Pompidou](https://www.centrepompidou.fr/media/picture/35/04/3504d4e7cf287bf093538e6674e7b3e8/thumb_large.jpg){:height 32, :width 450}

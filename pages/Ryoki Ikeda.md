@@ -2,5 +2,5 @@
 - Participe à une exposition au CERN
 	- [*Ryoji Ikeda at CERN*](https://arts.cern/article/ryoji-ikeda-cern)
 	- Modéliser les recherche des physicien..nes du CERN
-	- Rencontre entre les recherches artistisque et scientifique [[Art & Science]]
+	- Rencontre entre les recherches artistiques et scientifiques [[Art & Science]]
 -

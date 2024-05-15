@@ -9,10 +9,11 @@
 	- L’académie crée le principe même d’exposition à travers le salon
 	- Paolo FREIRE : La notion d'éducation n'est pas une accumulation bancaire du savoir.
 - LABAN ( Chorégraphe vient expérimenter des techniques pédagogiques ) s'installe à Monte Verita E. Reclus : Géographe anarchiste : Géographe sociale > début d'un courant écologique Implantation du mouvement [[Bauhaus]] à Monte-Verita
-- Monte Verita: Anarchiste italien qui cherche un camp de base pour ce fédérer > Invite des artistes des philosophes des penseur..es
+- Monte Verita: Anarchiste italien qui cherche un camp de base pour ce fédérer
+	- Invite des artistes des philosophes des penseur..es
 	- La famille OEDENKOVEN[^53] s'installe à Monte Verita en 1900. Une communauté basée sur les principes de socialisme primitif (où le rapport à l’environnement conduit à repenser le rapport au social) entre 1913 et 1918 sera monté une école d’art par Rudolf LABAN
 - [[Joseph Beuys]] : [[Sculpture sociale]] : Repense l’institution notamment à l’école des Beaux art de Düsseldorf, renvoyé en 1972
-- Comment mettre en place des rapports entre les individus: organise des séminaires en expérimentant l’éducation et la pédagogie. Faisant de son enseignement une forme de «sculpture sociale», comme lieu d’apprentissage non plus uniquement de techniques, de compétences, mais de mise en place possible de structure de coopération et de collaboration entre individus.
+- Comment mettre en place des rapports entre les individus: organise des séminaires en expérimentant l’éducation et la pédagogie. Faisant de son enseignement une forme de « [[Sculpture sociale]] », comme lieu d’apprentissage non plus uniquement de techniques, de compétences, mais de mise en place possible de structure de coopération et de collaboration entre individus.
 - Mike KELLEY: Façonner une maquette rétrospective des espace dans lesquelles il a été confronté à des systèmes éducatifs ( famille, école, etc… ): [*Educational Complexe*](https://whitney.org/collection/works/10293), 1995 ![](https://whitneymedia.org/assets/artwork/10293/96_50_cropped.jpeg)
 - #### <a name="__refheading___toc34406_3754709155"></a>Réforme de l’académie:
 - Paris en 1863: ré-articulations pratique et théorique ( historiquement Paris n’enseigne que la théorie )- tentative d’adaptation a la modernité.
@@ -22,6 +23,7 @@
 			- Cette reforme de l’enseignement a une nécessite historique – ce défaire des acquis de l’académie royale qi établie une séparation entre pratique et théorie.  ( exemple enseignement pratique de MANET est en dehors de l’école )
 			- Violet-le-Duc pointe le manque d’originalité des travaux des étudiant au partiel copiant leur professeurs – l’enseignement n’a pas évoluer depuis 1819 – Le système pédagogique ne prend pas acte du milieux dans le quelle il vit.
 			- Développer une individualité artistique et sortir des artistes stérile académique
-		- Séparation entre pratique et théorie: mise à mal de la hiérarchisation verticale de l’enseignement: Rupture avec un modèle aristocratique qui établie cette indépendance hiérarchique entre pratique et théorie par une de verticalisation de la structuration de l’enseignement traditionnel
+		- Séparation entre pratique et théorie: mise à mal de la hiérarchisation verticale de l’enseignement:
+			- Rupture avec un modèle aristocratique qui établie cette indépendance hiérarchique entre pratique et théorie par une de verticalisation de la structuration de l’enseignement traditionnel
 		- Originalité : la [[Modernité]] mène au [[Avant-Gardes "Historique"]] et une certaine originalité en opposition au convention stérile de l’académie – travailler en dehors de l’atelier [[Impressionisme]] développer leur spontanéité
 		- [[Modernité]] : adapter un enseignement par rapport à la culture contemporaine moderne: sortir des sujets et des modèles fondés sur un répertoire religieux historique et mythologique

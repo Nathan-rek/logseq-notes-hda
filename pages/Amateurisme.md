@@ -5,9 +5,10 @@
 	- Sans formation
 - La figure de l'amateur
 	- Avec la démocratisation de la culture en déploient des stratégies de politique culturelles
-- Démocratie culturelles: participation de la culture qui s'ouvre ont rompt avec artiste public, le public crée et participe la culture
+- Démocratie culturelles: participation de la culture qui s'ouvre
+	- Ont rompt avec la distinction artiste public, le public crée et participe la culture
 - Avec internet l'amateur..ices privée de lectorat devient un..e amateur..ice qui peut se montrer
-- Les [[Contre-culture]] ont mis en avant le DIY et le bricolage
+- Les [[Contre-culture]] ont mis en avant le DIY et le [[Bricolage]]
 - L'art comme fait social
 - Howard S. Beckers: *Outsiders*
 	- Sociologies de la déviance

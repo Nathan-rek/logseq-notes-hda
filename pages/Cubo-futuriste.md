@@ -4,7 +4,7 @@
 	- Lioubov POPOVA: Nature morte, 1915 ![Lyubov Popova – Œuvres d'art et biographie de l'artiste russe – Artlex](https://www.artlex.com/wp-content/uploads/2022/08/the-jug-on-the-table.jpg)
 	- Nathalie GONTCHAROVA: Le cycliste, 1913 ![Le Cycliste (Gontcharova) — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cyclist_%28Goncharova%2C_1913%29.jpg/640px-Cyclist_%28Goncharova%2C_1913%29.jpg)
 		- décompose l’objet à la façon cubiste mais intègre le travail du mouvement des futuristes
-- Alexandra EXTER est rentré en contact avec les acteur du cubisme et du futurisme lors de son voyage en Europe de l’ouest
+- Alexandra EXTER est rentré en contact avec les acteurs du [[Cubisme]] et du [[Futurisme]] lors de son voyage en Europe de l’ouest
 	- Alexandra EXTER: Florence, 1915 ![Alexandra Exter Florence, 1915 : Descriptif de l'œuvre | Artchive](https://arthive.net/res/media/img/oy800/work/d27/88858@2x.jpg)
 - [[Kazimir Malevitch]] passera aussi par le cube-futuriste
 	- [[Kazimir Malevitch]] : Le Bûcheron, 1912 ![Le Bûcheron — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/d/d6/Woodcutter.jpg)

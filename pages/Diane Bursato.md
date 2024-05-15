@@ -1,4 +1,4 @@
-- Autoure des pratique d'ordre relationelle
+- Autour des pratiques d'ordre relationnelles
 	- En déambulant dans la rue elle essaye d'avoir le plus grand nombre de contact physique
 	- Geste non-visible
 - Elle va broder dans des vêtements des fleurs dans des endroits imperceptibles, il peut ne jamais être vue

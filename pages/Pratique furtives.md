@@ -1,4 +1,4 @@
-- Patrice Loubler: Pratique Furtives
+- Patrice Loubler: [*Pratique Furtives*](https://reseauartactuel.org/patrice-loubier-pratiques-furtives-fragments-d%C2%92une-enquete-vernissage-le-vendredi-13-janvier-a-17h-a-skol/)
 - Essai théorique où il s'intéresse à ces pratiques [[Art à faible coefficient de visibilité]]
 - Cette œuvre peut être exister si il n'existe pas ?
 - Le public de l'art va être au faite de l'œuvre et le public de destination est celui qui va y être confronté

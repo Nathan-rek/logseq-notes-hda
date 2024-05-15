@@ -1,16 +1,10 @@
 - Quelque chose qui n'est pas réel / terme pittoresque qui se dessine à l'art picturale.
-  
-  ROUSSEAU laisse paraître le romantisme dans les rêveries du promeneur solitaire dans son ouvrage post-mortem.
-  
-  Développement de l'individualisme
-  
-  Le sentiment de sublime : concept romantique
-  
-  Néo-classicisme : résurgence de l'art Classique,  relit les auteurs romains etc... se traduit par un art picturale et architecturale classique et historique.
-  
-  Arrive après un style Baroque et Rococo suit l'arrivée d'une nouvelle république, un mouvement lié au contexte politique de l'époque.
-  
-  la philosophie des lumières à propager un malaise du à sa mécanisation toujours plus poussé : dissolution des liens sociaux.
+- ROUSSEAU laisse paraître le romantisme dans les rêveries du promeneur solitaire dans son ouvrage post-mortem.
+- Développement de l'individualisme
+- Le sentiment de sublime : concept romantique
+- Néo-classicisme : résurgence de l'art Classique,  relit les auteurs romains etc... se traduit par un art picturale et architecturale classique et historique.
+- Arrive après un style Baroque et Rococo suit l'arrivée d'une nouvelle république, un mouvement lié au contexte politique de l'époque.
+- La philosophie des lumières à propager un malaise du à sa mécanisation toujours plus poussé : dissolution des liens sociaux.
 - FÜSSLI: [*Le cauchemar*](https://fr.wikipedia.org/wiki/Le_Cauchemar_\(Füssli,_1781\)) ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/John_Henry_Fuseli_-_The_Nightmare.JPG/1024px-John_Henry_Fuseli_-_The_Nightmare.JPG) peinture surréaliste, représentation visuel de l’intériorité.
 - William BLAKE: [*The house of the death*](https://www.tate.org.uk/art/artworks/blake-the-house-of-death-n05060)![](https://www.tate.org.uk/static/images/placeholder/placeholder-4x3.b312143b17e7.gif){:height 346, :width 450} vision biblique
 - William TURNER : [*The Burning house of the house of Lords and Commons*](https://en.wikipedia.org/wiki/The_Burning_of_the_Houses_of_Lords_and_Commons), 1834 ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Joseph_Mallord_William_Turner%2C_English_-_The_Burning_of_the_Houses_of_Lords_and_Commons%2C_October_16%2C_1834_-_Google_Art_Project.jpg/1024px-Joseph_Mallord_William_Turner%2C_English_-_The_Burning_of_the_Houses_of_Lords_and_Commons%2C_October_16%2C_1834_-_Google_Art_Project.jpg) refuse la présence dessinée du coup de pinceau qui renvoi l’artiste à son statut d’artisan , malgré sa présence accru dans le monde de l’art en temps académiciens. Peintre des embrassements, peinture d’atmosphère ( ce qui compte c’est l’atmosphère on retrouve cette distinction anglaise avec notamment les jardins anglais diffèrent des jardin français )

@@ -2,21 +2,22 @@
 	- La première apparition du terme est pour une exposition de 1963: Vivre avec le pop – Une démonstration pour le réalisme capitaliste
 		- Avec des œuvres comme Sigmar POLKE, [[Gerhard Richter]] , Konrad LUEG.
 			- Les participants à l'exposition se sont concentrés sur les représentations de la culture de consommation croissante et de la société saturée par les médias en Allemagne avec des stratégies, en partie influencées par celles de leurs homologues Pop Art américains
-				- Gerhard Richter, avant de s'enfuir en République fédérale d'Allemagne en 1961. Dans une lettre Richter parlait non seulement d'un réalisme impérialiste, mais aussi d'un réalisme capitaliste
+				- [[Gerhard Richter]] , avant de s'enfuir en République fédérale d'Allemagne en 1961. Dans une lettre [[Gerhard Richter]] parlait non seulement d'un réalisme impérialiste, mais aussi d'un réalisme capitaliste
 				- Qui, suivant la conception anglo-américaine du [[Pop-Art]] , reconnaît et traite les médias de masse modernes comme un véritable phénomène culturel
 - ### Sujets
 - Les images  qu’utilisent les artistes du mouvement contiennent des commentaires incisifs et parodiques sur la société de consommation, la scène politique d'après-guerre en Allemagne et les conventions artistiques classiques. Les artistes tendent un miroir cynique à une société dangereusement endoctrinée par le consumérisme
 - Sur la société de consommation
 	- Les artistes du réalisme socialiste ont des intérêts et des sujet similaires au [[Pop-Art]] américains mais ils sont traités différemment
-	- Les peintures de Richter ont commencé à montrer de l'intérêt pour l'actualité, la société de consommation, les médias et la culture populaire.
-		- Pourtant Gerhard Richter a toujours voulu s’éloigner du contenu des images intrinsèque
+	- Les peintures de [[Gerhard Richter]]
+		- ont commencé à montrer de l'intérêt pour l'actualité, la société de consommation, les médias et la culture populaire.
+		- Pourtant [[Gerhard Richter]] a toujours voulu s’éloigner du contenu des images intrinsèque
 			- Présentant des images parfois extrêmement banale comme
 				- [[Gerhard Richter]] : [*Tisch*](https://gerhard-richter.com/en/art/paintings/photo-paintings/household-icons-39/table-4954), 1962
 					- L’image de la table et banales mais cela n’as pas empêcher par son travail picturale
 		- Les Images médiatiques
 			- [[Gerhard Richter]] September, 2005 ![September, 2005 - Gerhard Richter - WikiArt.org](https://uploads4.wikiart.org/00283/images/gerhard-richter/september-2005.jpg!Blog.jpg)
 			  id:: 65480be3-2ed2-4198-85af-2fa07f901acd
-			- Tout comme les artistes du pop-art ont peut voir une fascination pour les avions et leurs écho dans les médias notamment par leur accidents. Le Erreur : source de la référence non trouvée peut devenir le Figure 343: Gerhard RICHTER: September, 2005. Le Erreur : source de la référence non trouvée ou le Gerhard RICHTER: [*Düsenjäger*](https://gerhard-richter.com/fr/art/paintings/photo-paintings/aeroplanes-19/jet-fighter-5479?categoryid=19&p=1&sp=32&pg=2) ( avion de chasse ), 1963  ![Avion de chasse [13-a] » Œuvres » Gerhard Richter](https://cdn.gerhard-richter.com/images/xxlarge/16399.jpg)
+			- Tout comme les artistes du pop-art ont peut voir une fascination pour les avions et leurs écho dans les médias notamment par leur accidents. Le ((65480be3-2ed2-4198-85af-2fa07f901acd)) ou le [[Gerhard Richter]] : [*Düsenjäger*](https://gerhard-richter.com/fr/art/paintings/photo-paintings/aeroplanes-19/jet-fighter-5479?categoryid=19&p=1&sp=32&pg=2) ( avion de chasse ), 1963  ![Avion de chasse [13-a] » Œuvres » Gerhard Richter](https://cdn.gerhard-richter.com/images/xxlarge/16399.jpg)
 		- Les produits de consommation
 			- Sigmar POLKE: [*Chocolate Painting*](https://www.wikiart.org/fr/sigmar-polke/all-works#!%23filterName:all-paintings-chronologically,resultType:masonry), 1964 ![Sigmar Polke. "Chocolate Painting" - 1964 | German Pop Art D… | Flickr](https://live.staticflickr.com/7439/16375187521_9539c5c603_z.jpg)
 				- Le chocolat est un produit très médiatisé dans les années 1960. Il peut faire écho au ((653ee4bb-b9ee-447b-a0f2-979eabd1108d)) .
@@ -24,18 +25,18 @@
 					- Sigmar POLKE:[*Why don’t you bring me presents ?*](http://www.artnet.fr/artistes/sigmar-polke/why-dont-you-bring-me-presents-a-qgcSSPLbo975KTHypoLu0g2), 2002 ![Why don't you bring me presents](https://walker-col.imgix.net/wac_7654.tif?fm=jpg&w=1440&h=1050&fit=max&dpr=1.5)
 						- Dans le cas présent l’arme et le parapluie sont aux même niveaux. Ils sont tout les deux des images préexistantes issu d’un format papier.
 		- Les personnalités
-			- Gerhard RICHTER: [*Mouth ( Brigitte Bardot’s Lips )*](https://www.wikiart.org/fr/gerhard-richter/mund-mouth-brigitte-bardot-s-lips-1963), 1963 ![Mouth (Brigitte Bardot's Lips), 1963 - Gerhard Richter - WikiArt.org](https://uploads6.wikiart.org/images/gerhard-richter/mund-mouth-brigitte-bardot-s-lips-1963.jpg)
+			- [[Gerhard Richter]] : [*Mouth ( Brigitte Bardot’s Lips )*](https://www.wikiart.org/fr/gerhard-richter/mund-mouth-brigitte-bardot-s-lips-1963), 1963 ![Mouth (Brigitte Bardot's Lips), 1963 - Gerhard Richter - WikiArt.org](https://uploads6.wikiart.org/images/gerhard-richter/mund-mouth-brigitte-bardot-s-lips-1963.jpg)
 				- Représentant les lèvres de l’actrice française Brigitte BARDOT
 - La scène politique d’après -guerre
 	- La plupart des artistes étaient allemands il traite donc de la guerre froide et des changements sociaux que le mur de Berlin notamment a instauré en Allemagne.
 		- Wolf VOSTELL: [*Neue Deutsche Landschaft*](https://www.artnet.com/artists/wolf-vostell/neue-deutsche-landschaft-6ULlWLilXE-Z70JFHJA7Yg2), 1967 ![Neue deutsche Landschaft by Wolf Vostell on artnet](https://www.artnet.com/WebServices/images/ll00177lldNGbJFgGjECfDrCWvaHBOcVPpF/wolf-vostell-neue-deutsche-landschaft.jpg)
 			- A travers un collage et des surimpression décrit un nouveaux paysage allemand ou l’armée contrôle les populations et les villes
-- Tout comme Roy LICHTENSTEIN Sigmar POLKE traite aussi de la représentation féminine des femmes par les médias.
+- Tout comme [[Roy Lichtenstein]] Sigmar POLKE traite aussi de la représentation féminine des femmes par les médias.
 	- Sigmar POLKE a souvent usé des icônes de féminité publicitaire de l’époque
 		- Sigmar POLKE:[*B-Mode*](https://www.boumbang.com/sigmar-polke/), 1987 ![Sigmar Polke | BOUMBANG](https://www.boumbang.com/wp-content/uploads/2012/02/Sigmar-Polke-B-Mode.jpg)
 - ### Style
 - Tout comme les artistes du [[Pop-Art]] américains les artistes du réalisme capitaliste adopte un style qui fait écho au media et leur diffusion
-	- L’artiste Sigmar POLKE utilise la technique d’impression raster-dot / halftone proche des techniques utilisées par Roy Lichtenstein.
+	- L’artiste Sigmar POLKE utilise la technique d’impression raster-dot / halftone proche des techniques utilisées par [[Roy Lichtenstein]] .
 		- Sigmar POLKE: [*Rasterbild mit Palmen*](https://www.sothebys.com/en/buy/auction/2021/the-macklowe-collection/rasterbild-mit-palmen), 1966 ![Rasterbild mit Palmen | The Macklowe Collection | 2021 | Sotheby's](https://sothebys-md.brightspotcdn.com/dims4/default/9aa7c51/2147483647/strip/true/crop/1715x2000+0+0/resize/385x449!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F69%2F27%2F1a9f33bf41bdab7547c938bf82e7%2F157n10819-3x6z6-ds.jpg)
 		- D’autres artistes utilisent le raster dot et l’utilise en outil d’ [[Abstraction]]
 			- Manfred KUTTNER: [Werkshau Survey Inside Image](https://www.wikiart.org/en/manfred-kuttner/werkshau-survey-inside-image) ![Werkshau Survey Inside Image - Manfred Kuttner - WikiArt.org](https://uploads1.wikiart.org/00282/images/manfred-kuttner/werkshau-survey-inside-image.jpg!Large.jpg)

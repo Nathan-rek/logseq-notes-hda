@@ -11,4 +11,4 @@
 	- Comment maintenenit la culture à l'avenir furute ?
 		- Vaincre le capitalisme [[Colonialisme]] avoir une économie de l'échange émotionnelle ( enjeux du [[Capitalocène]] )
 		- Pratiquer la maintenance plus que de la préservation
-		- Propose d'appendre à un modèles d'IA à être responsable envers le paysage et l'environnement
+		- Propose d'appendre à un modèles d' [[AI]] à être responsable envers le paysage et l'environnement

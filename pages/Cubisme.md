@@ -2,8 +2,8 @@
 - Tentative d’inscrire la pratique dans une forme de mutualisation / Incorporent des pratiques artistiques et plastiques  / geste picturales déterminé par un code sur la construction des couches (travail de la couleur: utiliser les couleur les plus neutres) déconstruire la construction prospectiviste
 - Élaboration d’une idéologie socialiste: face a l’émergence des replis identitaire
 	- Communautarisation des échanges techniques et pratique: déconstruction de l’espace et de la perspectives > partage des teintes chromatique (champ colorimétrique le plus objectif répond à des suite mathématique objectif ) > obédience marxiste
-	- Kahn WEILLER: La monté du cubisme > à mettre en perspective avec  la monté du fascisme
-		- En élevant la signature: dé-singulariser l’œuvre > mettre a mal la singularité de l’originalité
+	- Kahn WEILLER: La monté du cubisme à mettre en perspective avec  la monté du fascisme
+		- En élevant la signature: dé-singulariser l’œuvre > mettre a mal la singularité de [[L'Originalité]]
 - [[Proto Cubisme]]
 - [[Cubisme analytique]]
 - [[Cubisme synthétique]]

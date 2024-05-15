@@ -8,5 +8,3 @@
 		- La mémoire se sédimente dans le sol
 - Monument contre le racisme ![JOCHEN GERZ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNrHUVume1Wy2sHHEwKUn9cU3vNCIkK0GUJvKlhQuCGA&s)
 	- Des pavés délogés et y on inscrit un nom de cimetière juif et on réenfoui le pavé
--
--

@@ -50,7 +50,7 @@
 				- Un néon génèrent un hologrammes
 				- François MORELLET: Parallèles de néon 0°, 45° 90° 135 https://lesoeuvres.pinaultcollection.com/media/styles/artw_l/s3/art/11579_visuel_EXP_MORELLET_Neons0-45-90-135_NEB.jpg?itok=4RJRgMLx
 					- avec quatre rythmes interférents
-					- L’incursion d’un néon – outre la lumière – fait vaciller le minimalisme de la structure
+					- L’incursion d’un néon – outre la lumière – fait vaciller le [[Minimalisme]] de la structure
 					- Selon un phénomène de persistance rétinienne les décharges de lumière subites interférent entre elle dans le regard du spectateur..ices ébloui
 					                        «C’est la source lumineuse elle même qui doit être considère comme matériaux plastique et non son reflet»
 						- TAKIS  :Méduse,1980 ![image.png](../assets/image_1698530891072_0.png)

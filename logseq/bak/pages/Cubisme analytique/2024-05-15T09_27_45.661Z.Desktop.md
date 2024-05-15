@@ -1,0 +1,10 @@
+- Destruction / éclatement de la forme homogène
+- conception et non imitations
+	- Pablo PICASSO: [*Le guitariste*](https://www.centrepompidou.fr/fr/ressources/oeuvre/6MkE4Hq) */* George BRAQUE: [*Violon et chandelier*](https://fr.wahooart.com/@@/8LJ2BK-Georges-Braque-Violon-et-chandelier), 1910
+		- La multiplication des points de vues engendre une décomposition de la forme, Vue fragmenté
+		- Vue qu’il compose à travers la perspective mobile, se mouvoir dans l’espace
+		- Le cubisme est une manière de représenter un objet dans l’espace c’est une perspective
+			- Coïncide avec les principes scientifique qui viennent à émergé, la relativité de EINSTEIN permet une autre compréhension de l’espace temps.
+- Pratique itinérante à la métaphysique Kantique
+- Idée de se dire qu’on est toujours en déplacement: Vue de face et vue de dessus
+	- BRAQUE: [*Nature Mortes avec fruits*](https://imgprivate2.artprice.com/get/classifieds/7114/8463/cc3c/13ac/aff6/412e/877c/f0bc/1825/b559/1024/1024/Georges-BRAQUE-Nature-morte-aux-fruits--1651645785.jpg) on géométrise les formes / on éclate le sujet en plusieurs fragment

@@ -51,7 +51,7 @@
 		- Cependant, il convient de
 		  souligner que, face à des oeuvres mettant en réseau des éléments matériels hétérogènes (humains et non-humains, organiques et inorganiques), la véritable expérience esthétique ne se situe pas, comme on croit, au niveau
 		  des interactions sensibles particulières – ce qui obligerait à penser que tout existant puisse jouir d’un sentiment esthétique – mais au niveau de l’image générale de l’ensemble des relations
-- La fascination du monde de l'art pour ces approches philosophique puisse s'expliquer par une affinité concernant la construction particulière qu'est la réalité.
+- La fascination du [[Monde de l'art]] pour ces approches philosophique puisse s'expliquer par une affinité concernant la construction particulière qu'est la réalité.
 - ## La spéculation réaliste est-elle une forme d’idéalisme ?
 - Les néo-matérialismes posent comme principe métaphysique rationnellement accessible la puissance auto-formatrice de la matière permettant aux systèmes singuliers d’évoluer, ou de co-évoluer, selon des règles capables d’engendrer de nouvelles règles : celles-ci sont les conditions rendant la connaissance possible.
 	- Par rapport à la [[Object Oriented Philosophy]] les modalités multiples de

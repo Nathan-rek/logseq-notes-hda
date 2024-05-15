@@ -40,6 +40,7 @@
 - [[Gerhard Richter]]: formé par [[Joseph Beuys]] à Düsseldorf:
 	- Engage la peinture (geste picturale) dans un point d’ancrage historique: Un geste subjectif qui permet de re-subjectiver un élément objectif historique ((65480be3-2ed2-4198-85af-2fa07f901acd))
 		- Applique un geste picturale sur une photo du 11 septembre
+		  id:: 661023c5-a3b4-4cad-8c79-6569f1d79609
 		- Organisation d’un Atlas: planche de même format qui lui permet d’agencer l’arrière plan de la productions de ces peintures: réorganiser un ensemble de matériaux issue de différent type de reproduction agencer de manière libre sans normes
 		- S’articuler à travers un montage d’image > construire certaine représentation de l’histoire par l’image
 		- Partir d’image personnelle > produire une représentation visuel à travers une expérience personnelle

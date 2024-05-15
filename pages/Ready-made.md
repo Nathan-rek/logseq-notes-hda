@@ -1,5 +1,5 @@
 - Prélever un objet de commodité et de l’inscrire dans un dispositif institutionnel:
-- Mise en crise de la question d’originalité
+- Mise en crise de la question de [[L'Originalité]]
 	- singularité du tempérament créateur
 	- crise de la reproductibilité:
 		- [[Walter Benjamin]] perte de l’aura du à la reproductibilité des objets d’arts / que faire face à l’arrivé de l’usage massif des reproductions d’image dans les systèmes de propagande totalitaire

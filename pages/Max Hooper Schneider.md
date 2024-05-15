@@ -19,5 +19,5 @@
 - ## Art is atomic assemblages
 - L'art et la pratique de MHS joue sur diffèrents aspects et les valeurs d'échelles sont très différentes
 	- L’immense et le minuscule semblent coexister dans un même objet, obligeant le..a spectateur..ices à abandonner son regard humain et à changer d’échelle.
-	- *" Max Hooper Schneider compose un long morceau de death metal, à partir des vestiges de la biosphère." Nicolas Bourriaud*
-	- MHS: [*Eocène Epizoon*](https://www.enrevenantdelexpo.com/2022/02/11/max-hooper-schneider-pourrir-dans-un-monde-libre-moco-panacee/), 2021 ![Max Hooper Schneider at High Art – Art Viewer](https://artviewer.org/wp-content/uploads/2021/11/Max-Hooper-Schneider-at-High-Art-8.jpg)
+	- *" Max Hooper Schneider compose un long morceau de death metal, à partir des vestiges de la biosphère." [[Nicolas Bourriaud]] *
+	- MHS: [*Eocène Epizoon*](https://www.enrevenantdelexpo.com/2022/02/11/max-hooper-schneider-pourrir-dans-un-monde-libre-moco-panacee/), 2021 ![Max Hooper Schneider at High Art – Art Viewer](https://artviewer.org/wp-content/uploads/2021/11/Max-Hooper-Schneider-at-High-Art-8.jpg){:height 308, :width 450}

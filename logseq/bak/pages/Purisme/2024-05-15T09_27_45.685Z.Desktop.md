@@ -1,0 +1,4 @@
+- Manifeste Après le cubisme de Charles Édouard Janneret [Le CORBUSIER] et Amédée OZENFAN conçoit le purisme et fait référence au cubiste.
+	- Envie de mettre de l’ordre dans l’ensemble des avants gardes (comme le cubisme) Les avant gardes serait allez trop loin.
+		- Le Corbusier: Nature morte, 1922 ![Nature morte - Centre Pompidou](https://www.centrepompidou.fr/media/picture/0a/63/0a6315a7b966f361f6f798fe1e47b45c/thumb_large.jpg)
+	- Utilisation d’un nombre d’or1  pour penser la création comme l’envie de purifier le cubisme

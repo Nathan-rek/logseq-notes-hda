@@ -1,14 +1,15 @@
 - Production par des personnes qui ne se destinent pas au [[Monde de l'art]]
+  id:: 661023c4-9193-4c01-87c1-712161d76510
 - A commencé par qualifié l'art des "fou"
-	- Personnes intérné..es en hôpital psychiatrique commence à élaborer des pratiques artistique ( dessin... )
-		- Dans un élan romantique ces productions procurent un intérêt qui d'abord est médicale
+	- Personnes intérné..es en hôpital psychiatrique commence à élaborer des pratiques artistique ( dessin, collages... )
+		- Dans un élan romantique ces productions procurent un intérêt qui est d'abord médicale
 			- Cherche des indices pour comprendre la psychée de la personne
 		- Hans Prinzhom ajoute un intérêt esthétique plastique à ces productions
 - Jean Dubuffet s'intéresse à ces productions et les mediums utilisés
-	- Il s'intéresse aux personnes coupé..es du monde de l'art ( notion relatives car nous ne sommes jamais coupée de notion d'art )
+	- Il s'intéresse aux personnes coupé..es du [[Monde de l'art]] ( notion relatives car nous ne sommes jamais coupée de notion d'art )
 	- Il propose le terme d'art Brut
 		- Brut au sens quelque chose qui n'est pas encore apprivoisé
-		- Un art en dehors des singeries et du mimétismes du monde de l'art
+		- Un art en dehors des singeries et du mimétismes du [[Monde de l'art]]
 		- *Nous entendons des ouvrages exécutés par de personnes indemnes de culture artistique / une opération artistique brut*
 			- L'œuvre est produit de son intention pure
 	- Commence à collectionner des œuvres d'art Brut
@@ -20,9 +21,9 @@
 				- L'horror Vacui: la peur du vide
 					- Si il y une page vide il faut recouvrir la page dans son entièreté
 			- Il y a aura plusieurs Cycles
-				- Cycle Autobiographique - Cahier des chant et danse - Cahier des danses macabres - La marche funèbres ...
+				- Cycle Autobiographique - Cahier des chants et danse - Cahier des danses macabres - La marche funèbre...
 - Paul Meunier
-- *Que tout ces créateur dévoilent la nudités des mécanisme de créations / Ces créateur sont aux maitres ce qu'est la poussiers de charbon est au diamant*
+- *Que tout ces créateurs dévoilent la nudités des mécanismes de créations / Ces créateurs sont aux maitres ce qu'est la poussiere de charbon est au diamant*
 - Lieu [[Hétérotopie]] où les œuvres restes
 	- L'abbaye de Fouré - Rothéneuf ![Art Brut - Quand l'abbé Fouré sculpte les rochers de Rothéneuf](https://www.pleinevie.fr/wp-content/uploads/pleinevie/2015/08/Art-Brut-Quand-l-abbe-Foure-sculpte-les-rochers-de-Rotheneuf-scaled.jpg)
 		- Suite à un accident se met en posture de retrait et se met à sculpter le bois la pierre et la roche elle même à front de mer
@@ -37,10 +38,10 @@
 - Robert Garcer: Tour d'Eben-Ezer ![Tour d'Eben-Ezer — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/From_the_south_with_stairs_and_door_Eben-Ezer.jpg/260px-From_the_south_with_stairs_and_door_Eben-Ezer.jpg)
 	- Cherche dans le sol des cailloux qu'il trouve remarquables
 		- Il les extraits et invente une fiction du monde autour de cela
-- Gordon Brinckle
+- Gordon Brinckle ![Gordon Binckle | lenscratch](https://lenscratch.files.wordpress.com/2011/09/01_project_ch1_0151a1.jpg)
 	- Fan du monde du cinéma, particulièrement les lieux de diffusion
 	- Il va y crée un espace à soi: un cinéma miniature
-- Mingering Mike
+- Mingering Mike ![Mingering Mike Superstar: Imagined credulities | Bidoun](https://public.bidoun.org/images/2015/10/mingeringmike_1_feature.jpg)
 	- Dessinée des vinyles cartonnées dessinées au marquer
 		- Avec à l'intérieur des disques en cartons
 -

@@ -2,7 +2,7 @@
 - Comment par un processus d’interaction multiple et l’influence des nouvelles technologies le potentiels de l’imaginaire et l’image visuelle est devenu de plus en plus important
   L’exposition présente des artistes qui travaillent sur les mutations de l’image et de sa circulation et de son flux
 - Pour D.N RODOWICK[^70] la question de l’art moderne était comment libérer l’image aujourd’hui pour les contemporain..es c’est de savoir comment trouver de nouvelle approche pour reconfigurer cette question de manière à l’actualiser à notre environnement médiatique.
-- Dans un continuum ou [[Walter Benjamin]] craint la reproductibilité, Baudrillard exprime l’affirmation du post-modernisme et ne distingue plus l’original de la copie > Pour l’auteur le 11/09 et les guerres du golf on discrédité la pensé de Baudrillard avec l’arrivé des actes de terreurs médiatisés
+- Dans un continuum ou [[Walter Benjamin]] craint la reproductibilité, Baudrillard exprime l’affirmation du [[Post-modernisme]] et ne distingue plus l’original de la copie > Pour l’auteur le 11/09 et les guerres du golf on discrédité la pensé de Baudrillard avec l’arrivé des actes de terreurs médiatisés
 	- Comment aborder les images qui peuvent nous permettre d’aborder le réel. Le réelle est la où la violence est faite au corps, mais l’art y est impuissant
 		- Malgré la violence généralisé
 - Pour parler de Francis Bacon Gilles Deleuze remarque que l’artiste ne commence jamais sur une surface vierge dans ses cours [[Deleuze sur la peinture]]

@@ -3,6 +3,6 @@
 - Une intention minimaliste dans les moyens visuels et graphique la seul indication est que la page était une photographie de la machine Xerox.
 - Chaquse artistes (Carl Andre, Robert Barry, Douglas Huebler, [[Joseph Kosuth]] , Sol LeWitt, Robert Morris, Lawrence Weiner) essaient d'utiliser la machines Xerox et ses imperfections
 - Ce livre est un geste conceptuelle qui s'incarne dans le livre
-	- Seth Seigelaub à la tête du projet veut marquer l'importance de la documentation dans l'art conceptuel
+	- Seth Seigelaub à la tête du projet veut marquer l'importance de la documentation dans l' [[Art Conceptuel]]
 	- Son point de vue est évoqué comme affirmant l'importance de la distribution dans les pratique dites de l'[[Art Conceptuel]]
 - Le Xerox Book est une documentation d' [[Art Conceptuel]]

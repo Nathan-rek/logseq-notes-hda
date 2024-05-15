@@ -17,11 +17,11 @@
 		- Par la parole et par l’action, l’artiste permet une expérience de liberté qui génère un dialogue avec autrui.
 			- Beuys, en aspirant à étendre le champ de l’art à toutes les dimensions de l’existence, entend créer les conditions d’une expérience de liberté par le potentiel de création.
 		- Beuys a contribué à la création du partie les Grüne
-			- Joseph Beuys : 7000 chênes, 1982 - 1986 ![image.png](../assets/image_1698509441517_0.png)
+			- [[Joseph Beuys]] : 7000 chênes, 1982 - 1986 ![image.png](../assets/image_1698509441517_0.png)
 			  id:: 653e63b1-925e-43e6-a815-551ac22c526b
 				- Cette action initiée en 1982 durera plusieurs années, elle se poursuivra après la mort de l’artiste en 1986 et se répandra à travers la planète. À chaque chêne est associée une colonne de basalte. Ces 7000 colonnes forment au début de l’opération un tas, visible dans un parc de Kassel2.
 				- *Mon intention, c’est que la plantation des chênes n’est pas seulement une action de la nécessité de la biosphère, c’est-à-dire dans un contexte purement matériel et écologique, mais que ces plantations nous conduisent à un concept écologique beaucoup plus vaste – et cela sera de plus en plus vrai au cours des années, parce que nous ne voulons jamais arrêter l’action de plantation. La plantation de 7000 chênes est seulement un début symbolique et pour ce début symbolique, j’ai aussi besoin de cette pierre témoin, d’où cette colonne de basalte. Cette action doit donc montrer la transformation de toute la vie, de toute la société, de tout l’espace écologique*
 				  id:: 65d37714-6152-436e-aab1-58a402bcbdb4
-	- Son engagement pédagogique et son intérêt pour la pluridisciplinarité ou pour la conception systémique du savoir trahit une conception de l’apprentissage assez proche de celle d’autres personnalités Fluxus.
+	- Son engagement pédagogique et son intérêt pour la pluridisciplinarité ou pour la conception systémique du savoir trahit une conception de l’apprentissage assez proche de celle d’autres personnalités [[Fluxus]] .
 		- En 1970 il contribue avec [[John Cage]] , Kaprow, Brecht et Patterson à l’ouvrage publié par Filliou, Teaching and Learning as Performing Arts, dans lequel l’artiste de la Création Permanente élargit sa conception de l’art à une vision globale de la société, inspirée de Charles Fourier.
 			- Rejetant les idées d’admiration et de spécialisation qui sont pour lui responsables de l’aliénation de la société capitaliste, Filliou distingue une « économie de la prostitution », reposant sur la quête du pouvoir, d’une « économie poétique » chargée d’instaurer un nouveau système de valeurs plus propice à l’épanouissement de l’homme.

@@ -35,7 +35,7 @@
 			- Il sera le seul à se rapprocher d’une forme de figuration abstraites. Notamment avec la réalisation de peinture comme Nature morte (bol avec pomme) qui propose de figurer une  nature morte et les éléments qui la composes
 			- Une forme de figuration abstraites qu’il laissera à ses débuts de carrière développant par la suite un style néo-plastique comme on l’entend prônant une géométrie abstraites.
 			- Cette relation à l’abstrait partant de la figuration est un exercice courant dans les pratiques abstraites des avant-garde de l’époque.
-				- A travers des schémas de décomposition allant du figurative a l’abstrait comme PICASSO avec son schéma de décomposition du bœuf. Un processus que retravaillera plus tard Roy LICHENSTEIN dans son travail de réémergence des pratiques d’avant-garde européennes [ Figure 476: Roy LICHTENSTEIN: Bull I ]
+				- A travers des schémas de décomposition allant du figurative a l’abstrait comme PICASSO avec son schéma de décomposition du bœuf.
 				- Theo VAN DOESBURG s’y prêtera aussi tout en utilise un bovin avec l’œuvre
 					- Composition VIII (La Vache) ![Composition VIII (La Vache) - Theo van Doesburg - Crotos](https://upload.wikimedia.org/wikipedia/commons/f/ff/Theo_van_doesburg_de_koe.jpg)
 					  id:: 65480be3-6d68-4646-8c25-cd1b5a276772

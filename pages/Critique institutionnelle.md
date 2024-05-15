@@ -10,7 +10,7 @@
 - Le cabinet de curiosite reprend forme dans l'art contemporain notament
 	- Karsten Bott: [*Museum of Life*](https://artfacts.net/exhibition/karsten-bott:-museum-of-life/658191), 2007 ![Journal Frankfurt Nachrichten - Karsten Botts Sammlung hat „von jedem eins“  - Ausstellung](https://www.journal-frankfurt.de/image/news/alle/38941.jpg)
 		- Met en avant via le cabinet de curiosité un regard sur la sur-consommation contemporaine de la société
-	- Michael Asher Intervient dans des salles d'exposition et la divise en deux dans une parti il a laissé l'espace telle qu'elle (Œuvre, cimaise...) et dans l'autre a tout enlever (faux mur...) Nous fait regarder cette coquille qu'est le monde de l'art
+	- Michael Asher Intervient dans des salles d'exposition et la divise en deux dans une parti il a laissé l'espace telle qu'elle (Œuvre, cimaise...) et dans l'autre a tout enlever (faux mur...) Nous fait regarder cette coquille qu'est le [[Monde de l'art]]
 		- Michael Asheur: [*Instalation, Pomona College Museum of art*](https://www.archpaper.com/2013/02/michael-asher-1943-2012/), 1970 ![Michael Asher, 1943-2012](https://www.archpaper.com/wp-content/uploads/2016/04/obit_asher_02.jpg)
 			- Pervertie la galerie en ouvrant totalement vers l'extérieur le lieu d'art en modifiant son architecture
 	- Les questionnement de socle sont les base de cette forme de critique institutionnelle

@@ -35,7 +35,7 @@
 	- Bien que Dewey est fort impacté par la pédagogie du Black Mountain College d’autres personnalité..es ont formé la pédagogie de l’école.
 		- Josef et Anni ALBERS quittant le [[Bauhaus]] en fuit du régime nazi se sont installé au BMC
 			- Les recherches en interaction de la couleur de Josef  ALBERS ont pousse le peintre non pas enseigner des styles esthétiques spécifiques mais apprendre à l’étudiant..es la nature des matériaux pour développer un un usage personnalisé de ceux-ci
-			- D’autres participant..es du Bauhaus virent au BMC notamment Xanti SCHAWINSKY qui développa au BMC une approche du théâtre comme laboratoire
+			- D’autres participant..es du [[Bauhaus]] virent au BMC notamment Xanti SCHAWINSKY qui développa au BMC une approche du théâtre comme laboratoire
 				- Xanti SCHAWINSKY: [*Danse macabre*](https://drouot.com/fr/l/15163447-xanti-alexander-schawinskyxant), 1938 ![Xanti (Alexander) Schawinsky Danse Macabre : une ét… | Drouot.com](https://cdn.drouot.com/d/image/lot?size=fullHD&path=517/115336/0f3ddd522f560d74e01e8086e87b6b4c)
 				  id:: 655b5ec9-589c-44e1-9115-b112be147357
 					- consistait moins en un spectacle visuel qu’en une mise en scène généralisée puisque le public était lui aussi costumé de manteaux et de masques. Grâce à cet enseignement, l’art de la performance devint progressivement le point de convergence d’une collaboration entre les élèves de diverses écoles d’art, mais aussi le lieu de la conjugaison de disciplines et de formes d’expression différentes.

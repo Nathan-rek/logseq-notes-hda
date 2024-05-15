@@ -1,3 +1,3 @@
-- L’extension logique du cubisme pour APPOLINAIRE,
+- L’extension logique du [[Cubisme]] pour APPOLINAIRE,
 	- Robert DELAUNAY: Rythme n°1, 1938  ![Rythme n°1 | Paris Musées](https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_notice/public/atoms/images/MAM/3y08014.jpg?itok=wUn6XIwW)
 - L’orphisme donne à voir les source de lumière, il figure des objets dans leurs source

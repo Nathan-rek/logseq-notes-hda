@@ -1,5 +1,4 @@
 - Le bricolage devient se semi-loisir, des pratiques culturelles se déploiement par le bricolages
-  title: Bricolage
 - Fanzine: objet d'amateur..ices fait pour les amateur..ices
 - La cassette devient aussi cette objet utilisé pas les amateur..ices
 - Légitimation des pratiques culturelles
@@ -9,4 +8,3 @@
 - Le Hacker pratique qui nait de façon [[Amateurisme]] (sans rémunération)
 - Creative Commons
 	- Multiplication des licences pour protéger les créations et leurs diffusion sur internet
-	-
