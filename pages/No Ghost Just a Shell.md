@@ -5,7 +5,7 @@
 	- Pierre HUYGHE: [*Two minutes out of time*](https://archives.mamco.ch/artistes_fichiers/H/huyghe.html), 2000 ![](https://archives.mamco.ch/artistes_fichiers/H/huyghe/annlee.jpg)
 		- Ann Lee est une image prête à l’emploi
 		- Dans cette interprétation de HUYGHE  le personnage reflète son existence en tant que produit visuel chargé de l’imagination d’un individu «je suis hanté par votre imagination» Ann Lee reste une coquille jusqu’à ce que sa propre imagination la rattrape
-	- PARRENO: [*Anywhere Out of the World*](https://www.frac-poitou-charentes.org/pages/collection_artistes-parreno_FRAC.html), 2000 ![Philippe Parreno, coll. FRAC PC](https://www.frac-poitou-charentes.org/images/PARRENO_Anywhere_FRACPC.jpg)
+	- [[Philippe Parreno]] : [*Anywhere Out of the World*](https://www.frac-poitou-charentes.org/pages/collection_artistes-parreno_FRAC.html), 2000 ![Philippe Parreno, coll. FRAC PC](https://www.frac-poitou-charentes.org/images/PARRENO_Anywhere_FRACPC.jpg)
 		- Explore la trame de fond de Ann Lee
 		- Ann Lee évoque son statut de potentiel personnage et parle des autres personnages de son catalogue d’origine et dit « il en avait qui avait le potentiel de devenir des héros »
 - Ann Lee est donc un personnage / Signe qui précède, habite et succède à l’histoire

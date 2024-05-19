@@ -6,7 +6,7 @@
 		- Theo VAN DOESBURG: Rythmes, 1918 ![Fichier:Theo van Doesburg-Rhythmus eines russischen Tanzes.jpg — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Theo_van_Doesburg-Rhythmus_eines_russischen_Tanzes.jpg/269px-Theo_van_Doesburg-Rhythmus_eines_russischen_Tanzes.jpg)
 	- Couleur Pure uniquement: bleu jaune rouge
 	  logseq.order-list-type:: number
-		- Figure 112: Piet MONDRIAN: Composition avec grand plan rouge, jaune, noir, gris et bleu ![Composition avec grand plan rouge, jaune, noir, gris et bleu — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/7/76/Piet_Mondriaan%2C_1921_-_Composition_en_rouge%2C_jaune%2C_bleu_et_noir.jpg)
+		- [[Piet Mondrian]] Composition avec grand plan rouge, jaune, noir, gris et bleu ![Composition avec grand plan rouge, jaune, noir, gris et bleu — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/7/76/Piet_Mondriaan%2C_1921_-_Composition_en_rouge%2C_jaune%2C_bleu_et_noir.jpg)
 		  id:: 653e8cd2-ccaa-401e-a5ec-bc1f16edba2b
 	- L’œuvre ne doit pas représenter une symétrie, cependant elle doit faire part d’un équilibre parfait
 	  logseq.order-list-type:: number
@@ -15,11 +15,11 @@
 - ## Géometrie
 - Usage uniquement de lignes droites et orthogonales;
   id:: 653848e0-76a3-46e1-846b-9990f2da994b
-	- Piet MONDRIAN introduira la ligne noir comme élément de segmentation des carrés et des rectangles
-		- Piet MONDRIAN :Composition II en rouge, blue, jaune, 1929 ![Composition II en rouge, bleu et jaune — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/a/a4/Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg)
+	- [[Piet Mondrian]] introduira la ligne noir comme élément de segmentation des carrés et des rectangles
+		- [[Piet Mondrian]] :Composition II en rouge, blue, jaune, 1929 ![Composition II en rouge, bleu et jaune — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/a/a4/Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg)
 		  id:: 653ec305-4163-4b1a-b45e-ef083e8c8df1
 			- Avec le temps il composera avec la double ligne noir
-			- Piet MONDRIAN :Composition avec noir, blanc, jaune et rouge ![Réplique De Peinture | Composition avec noir, blanc, jaune et rouge de Piet  Mondrian (1872-1944, Netherlands) | WahooArt.com](https://wahooart.com/A55A04/w.nsf/O/BRUE-8LT53G/$File/PIET-MONDRIAN-COMPOSITION-WITH-BLACK-WHITE-YELLOW-AND-RED.JPG)
+			- [[Piet Mondrian]] :Composition avec noir, blanc, jaune et rouge ![Réplique De Peinture | Composition avec noir, blanc, jaune et rouge de Piet  Mondrian (1872-1944, Netherlands) | WahooArt.com](https://wahooart.com/A55A04/w.nsf/O/BRUE-8LT53G/$File/PIET-MONDRIAN-COMPOSITION-WITH-BLACK-WHITE-YELLOW-AND-RED.JPG)
 			  id:: 653ec305-ecb3-4d52-93a9-29b5625299ae
 - Les formes se limitent à des rectangles et des carrés;
 	- Pour Theo VAN DOESBURG il considère qu’il atteint son but en «une composition entièrement plate dans laquelle le point central est en dehors de la peinture»

@@ -7,4 +7,4 @@
 	- Simon Starling: [*Autoxylopyrocycloboros*](https://www.artimage.org.uk/20198/simon-starling/autoxylopyrocycloboros--2006-), 2006 ![Autoxylopyrocycloboros (2006) : Simon Starling : Artimage](https://cdn.artimage.org.uk/production/20/1/20198-842.jpg)
 		- Restaure une épave qui s'alimente par combustion de bois il scie donc le bateau pour l'alimenter pour en faire encore une fois une épave.
 		-
-- Modernité à l'ère de la globalisation: [[Radicant]]
+- [[Modernité]] à l'ère de la globalisation: [[Radicant]]

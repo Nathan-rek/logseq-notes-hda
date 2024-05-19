@@ -6,4 +6,3 @@
 - [[Hétérotopie]]
 - Louis MARIN: étude de la structure du parc Walt Disney – dispositif qui capte le spectateur pour renforcer la culture de masse et non d’émanciper l’individu dans le divertissement. Analyse des limites
 - ## [[Utopie Moderne]]
--

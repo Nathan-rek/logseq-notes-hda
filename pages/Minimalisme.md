@@ -4,7 +4,7 @@
 	- Robert MORRIS: *Note sur la critique* : conteste la légitimité de la lecture des critiques, un texte qui redéfinie un langage de la sculpture.
 	  id:: 661023c8-d69b-4690-852f-8f15194c71a1
 		- Valorise des concepts de verticalité et d’espace; apparaît la notion de gravité: relation entre le constant connu et les conditions spatiales ce qui laisse une compréhension variable du volume.
-	- Brian O’DOHERTY: médecin qui se rapproche de la scène artistique et réalise un White cube (revue) qui conserve plusieurs élément ( texte audio vidéo schéma ) qui montre une scène artistique en ébullition, comment la modernité a produit le [*White Cube*](https://www.lespressesdureel.com/ouvrage.php?id=1423&menu=0)
+	- Brian O’DOHERTY: médecin qui se rapproche de la scène artistique et réalise un White cube (revue) qui conserve plusieurs élément ( texte audio vidéo schéma ) qui montre une scène artistique en ébullition, comment la [[Modernité]] a produit le [*White Cube*](https://www.lespressesdureel.com/ouvrage.php?id=1423&menu=0)
 - ## Peinture
 - Les artistes minimalistes et les peintres désirent limiter toute trace de fracture picturale ou d’intervention de la main du peintre. Dans un  dépassement de la peinture moderniste, les peintres vont venir hybrider le medium de la peinture et le démantelant de sa structure d’objets
 	- Frank STELLA cherchait à se dissocier de l’ [[Expressionnisme Abstrait Américain]] et a cherché à isoler les différents éléments constitutifs de la peinture: châssis, toile, couleur, format

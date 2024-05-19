@@ -17,12 +17,12 @@
 - Mike KELLEY: Façonner une maquette rétrospective des espace dans lesquelles il a été confronté à des systèmes éducatifs ( famille, école, etc… ): [*Educational Complexe*](https://whitney.org/collection/works/10293), 1995 ![](https://whitneymedia.org/assets/artwork/10293/96_50_cropped.jpeg)
 - #### <a name="__refheading___toc34406_3754709155"></a>Réforme de l’académie:
 - Paris en 1863: ré-articulations pratique et théorique ( historiquement Paris n’enseigne que la théorie )- tentative d’adaptation a la modernité.
-	- VIOLLET-LE-DUC veut mettre en place des conditions d’enseignement qui amène l’expression de la sensibilité afin de placer l’originalité au centre / en conflit avec ceux qui pense que l’originalité s’articule a la représentation d’un idéal qui dépasse l’histoire.
+	- VIOLLET-LE-DUC veut mettre en place des conditions d’enseignement qui amène l’expression de la sensibilité afin de placer [[L'Originalité]] au centre / en conflit avec ceux qui pense que l’originalité s’articule a la représentation d’un idéal qui dépasse l’histoire.
 	- Vide technico-ésthetique : refonte de la subjectivité
 		- Contexte social :émancipation du système capitaliste avènement de la bourgeoisie de la division des classes sociales et des hiérarchisations des genres et de la division des mediums.
 			- Cette reforme de l’enseignement a une nécessite historique – ce défaire des acquis de l’académie royale qi établie une séparation entre pratique et théorie.  ( exemple enseignement pratique de MANET est en dehors de l’école )
 			- Violet-le-Duc pointe le manque d’originalité des travaux des étudiant au partiel copiant leur professeurs – l’enseignement n’a pas évoluer depuis 1819 – Le système pédagogique ne prend pas acte du milieux dans le quelle il vit.
-			- Développer une individualité artistique et sortir des artistes stérile académique
+			- Développer une individualité artistique et sortir des artistes stériles académique
 		- Séparation entre pratique et théorie: mise à mal de la hiérarchisation verticale de l’enseignement:
 			- Rupture avec un modèle aristocratique qui établie cette indépendance hiérarchique entre pratique et théorie par une de verticalisation de la structuration de l’enseignement traditionnel
 		- Originalité : la [[Modernité]] mène au [[Avant-Gardes "Historique"]] et une certaine originalité en opposition au convention stérile de l’académie – travailler en dehors de l’atelier [[Impressionisme]] développer leur spontanéité

@@ -2,7 +2,7 @@
 	- Début de sa relation avec Arnold SCHONBERG[^2], met en lien la compostions musical et la peinture
 		- SCHONBERG va priver la musique de la tonalité comme Kandiskybrise les formes. Il brise les références aux quelles l’on est sensé se rattacher.
 	- Vassily Kandisky: [*Sans titre (aquarelle)*](https://fr.wikipedia.org/wiki/Sans_titre_\(Kandinsky\)), 1910 ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Untitled_%28First_Abstract_Watercolor%29_by_Wassily_Kandinsky.jpg/1024px-Untitled_%28First_Abstract_Watercolor%29_by_Wassily_Kandinsky.jpg)
-		- Passage à l’abstraction brise les formes et la couleur
+		- Passage à [[Abstraction]] brise les formes et la couleur
 			- Rompt avec l’art paléolithiques. Qui déjà à l’époque est formes et couleur. Il disloque les couleurs de la forme.
 - Il écrit et publie son livre [*Du spirituel dans l’art*](https://www.art-totale.com/du-spirituel-dans-lart-et-dans-la-peinture-en-particulier-par-kandinsky/)
 	- La peinture n’a pas besoin de se rattacher à la figuration, les formes et les couleurs sont assez puissant pour déclencher la nécessité intérieur.

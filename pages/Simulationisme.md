@@ -1,7 +1,7 @@
 - Un art de l’appropriation / [[L'appropriationnisme]]
 	- Approprie un répertoire formel et de conventions propres à l’art abstrait [[Modernisme]]  mais c’est aussi un art de la coupure
 		- Le répertoire comprend le [[Ready-made]] et une signification et une raison d’être des formes.
-		- Appropriation et coupure sont les opérations principales effectuées par le simulationnisme et se définit principalement en fonction de ce contexte plus que par son lien avec l'[[Abstraction]] .
+		- Appropriation et coupure sont les opérati[]()ons principales effectuées par le simulationnisme et se définit principalement en fonction de ce contexte plus que par son lien avec l'[[Abstraction]] .
 - Tire son nom de la notion de simulacre et de simulation de Baudrillart
 	- Jean Baudrillart : Simulacre et simulation
 		- Analyse critique des méthodes dont les signes se construisent
@@ -12,7 +12,7 @@
 	- C’est un art qui par la multiplication des copies met un place une distance entre l’image produites et l’original
 	- [[Andy Warhol]] : Nine Jackies ![image.png](../assets/image_1698533715100_0.png)
 	  id:: 661023ca-f7eb-43c2-a9e1-99a89b6a5dc9
-	- Le simulationnisme ajoute une étape qui dépasse l’abstraction picturales des formes ou un [[Ready-made]] de la peinture. C’est également une réflexion sur l’image dans son rapport à la culture contemporaine
+	- Le simulationnisme ajoute une étape qui dépasse l’ [[Abstraction]] picturales des formes ou un [[Ready-made]] de la peinture. C’est également une réflexion sur l’image dans son rapport à la culture contemporaine
 		- Le simulationnisme se présente également comme critique :
 			- Peter HALLEY: The Crisis in Geometry ![image.png](../assets/image_1698533704060_0.png)
 				- instituer cette évolution de la peinture abstraite héritée de Surveiller et Punir [[Foucault - La Naissance de la Biopolitique]] de Michel Foucault pratique au contact de la théorie
@@ -21,7 +21,7 @@
 					- La rigueur géométrique serait le témoin de la production de ces systèmes. Ou alors le [[Minimalisme]] qui en développant son effet dans l’expérience contingente, singulière, qui en sera faite par le spectateur..ices, la sérialité et la normativité de ce langage minimal témoigne de la persistance de ces mécanismes
 						- C’est le [[Post-minimalisme]] - 1971 qui va tenter de mettre en crise ce rapport entre formes abstraites et structure sociale coercitive
 				- BAUDRIART précisera que le simulacre ne peut être représenter car sa pensée forme le simulacre comme critique de la représentation ne peut lui-même être représenté.
-- R. M. FISCHER: Simulacre de impossibilité de normativisme des signes – Coupe tout lien avec l’origines des signes – Oscillation entre les registres des signes
+- R. M. FISCHER: [[Simulacre]] de impossibilité de normativisme des signes – Coupe tout lien avec l’origines des signes – Oscillation entre les registres des signes
 -
 	- [[Jeff Koons]] : Vacuum Cleaners ![image.png](../assets/image_1698533686299_0.png)
 	  id:: 653ee431-a669-4d87-99a6-fc6d40151326

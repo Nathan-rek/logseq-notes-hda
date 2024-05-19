@@ -1,5 +1,5 @@
 - Le courant artistique de l'appropriationnisme naît dans les années 80, partant de réflexions, déterminé par le contexte actuel. Les artistes détruisent la notion d'oeuvre d’art. Ce mouvement suit le courant de pensée des années 70 ; la mort de l’auteur, de l’artiste.
-	- Les œuvres mettent souvent à mal les principes manifeste de la modernité comme ceux de [[L'Originalité]] de l'avant-gardes
+	- Les œuvres mettent souvent à mal les principes manifeste de la [[Modernité]] comme ceux de [[L'Originalité]] de l'avant-gardes
 		- L'autorité est détourné
 			- ((65480be3-afaf-4930-9455-f36be8cbbe2c))
 		- La propriéte

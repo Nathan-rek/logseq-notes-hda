@@ -1,7 +1,7 @@
 - Les NFT permette de redonner une valeur auratique au œuvre qui selon [[Walter Benjamin]] se voit en perte d'aura par la capacité a reproduire les œuvres
 	- La ou les institutions et particulièrement le marché étaient détenteurs de la qualification de cette aura c'est aujourd'hui la technologie blockchain
 - La pratique numérique se voit ouvrir deux voies
-	- Le simulacre
+	- Le [[Simulacre]]
 		- Un voie que ouvre le Web 1.0 ou copie set duplicat foisonne sans contrôle.
 			- La culture du simulacre c'est vu renforcer par la cultur web
 	- L'opérationnalisation de l'aura

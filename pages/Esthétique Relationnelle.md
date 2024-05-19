@@ -14,7 +14,7 @@
 	  id:: 65671ad9-e4e3-4bd3-86ba-7989f7a45008
 - [[Philippe Parreno]] : *Snow Dancing*, 1995 ![Philippe Parreno | Snow Dancing (1995) | Artsy](https://d7hftxdivxxvm.cloudfront.net/?height=800&quality=85&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fv1HzRO13ZxYSthiT9pEIVA%2Fmain.jpg&width=800){:height 288, :width 223}
   id:: 65671acb-50e5-42ca-b4e2-c52fec4cc100
-	- Texte dans le quelle il traite de la fête dans le contexte de [[Post-Modernité]] . Des individus qui seul constitue une masse lors d'un temps
+	- Texte dans le quelle il traite de la fête dans le contexte de [[Post-Modernité]]. Des individus qui seul constitue une masse lors d'un temps
 	- Il met en scène son texte en organisant une vrai fête, lors de l'exposition on pouvaient voir les traces de la scène ou la fête a eu lieu
 - [[Felix Gonzalez-Torres]] : [*Untitled ( Portrait of Ross in L.A)*](https://www.artic.edu/artworks/152961/untitled-portrait-of-ross-in-l-a), 1991 ![Untitled” (Portrait of Ross in L.A.), 1991 - Felix Gonzalez-Torres -  WikiArt.org](https://uploads2.wikiart.org/images/felix-gonzalez-torres/untitled-portrait-of-ross-in-l-a-1991.jpg){:height 363, :width 450}
   id:: 65671f12-cfe5-466c-a0ba-d7a337dd083d
@@ -34,7 +34,8 @@
 - [[Nicolas Bourriaud]] déplore un manque d’analyse des pratiques contemporaines de son époque (Années 1990). Il prend comme point de départ des pratiques qui tournent autour des notions d’interactivité de convivialité et de relation.
 - Face au grand voie de la communication comment récréer du contact autrement que par ses voies.
 	- Les relations rentreraient dans le système de consommation mis en place par le capitalisme. Cette affections du monde relationnelle est pour Debord le dernier Stade de mutation vers la sociétés de spectacle. [[L’international situationniste]]
-- [[Nicolas Bourriaud]] approche les pratiques contemporaines comme une autre manière d’être au monde réel. Sans être dans l’utopie moderne de crée avec des œuvres une autre réalité imaginaire mais de constituer des modes d’existence ou des modèles d’action au sein du réel existant.
+- [[Nicolas Bourriaud]] approche les pratiques contemporaines comme une autre manière d’être au monde réel. Sans être dans l’ [[Utopie Moderne]]
+	- de crée avec des œuvres une autre réalité imaginaire mais de constituer des modes d’existence ou des modèles d’action au sein du réel existant.
 	- L’art comme générateur d’interstice sociales. Prenant en compte le rôle de l’urbanisation dans nos rapport au autres. Les artistes contemporain..es face à cela créent et repensent le rapport monde à travers notre rapport à la ville ou aux autre.
 		- Gabriel Orozco: [*Crazy Tourist*](https://www.mariangoodman.com/artists/56-gabriel-orozco/works/39141/), 1991 ![Gabriel Orozco, Crazy Tourist (Turista maluco), 1991 | Marian Goodman](https://artlogic-res.cloudinary.com/w_1680,h_1680,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/mariangoodman/images/view/48e05fa17f7c0a07bebcf778f94cdcf4j.jpg)
 			- Dépose une orange sur les étals d’un marche brésilien désert.

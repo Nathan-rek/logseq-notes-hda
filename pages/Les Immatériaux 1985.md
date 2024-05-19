@@ -2,7 +2,7 @@
   id:: 653842bb-2f8c-4667-a99f-2614e144f70d
   L’exposition se présente en 5 parcours centré sur une idée spéculative celle des immatériaux présente sur des murs gris « couleur de la postmodernité »
 	- Le projet moderne
-		- Les technologies nouvelles remettent en question une certaine idée admise par la modernité: l’insécurité, la perte d’identité, la crise ne s’exprime pas seulement dans l’économie et le sociale mais aussi dans le domaine des sensibilité de la connaissance et des pouvoir de l’homme (fécondation vie, mort) des modes de vies (rapport au travail, à l’habitat, à l’alimentation)
+		- Les technologies nouvelles remettent en question une certaine idée admise par la [[Modernité]] : l’insécurité, la perte d’identité, la crise ne s’exprime pas seulement dans l’économie et le sociale mais aussi dans le domaine des sensibilité de la connaissance et des pouvoir de l’homme (fécondation vie, mort) des modes de vies (rapport au travail, à l’habitat, à l’alimentation)
 		- Le projet moderne d’émancipation de l’humanité par la maîtrise des arts et des métiers est-il encore fédérateur en cette fin de siècle.
 - Les Immatériaux
 	- Dans la recherche le matériel qui constitue ce qu’on appelle des «objets» se rejoint en des complexes spécifiques d’interactions entre des micros-éléments
@@ -96,7 +96,7 @@
 	- Automatisation d’un processus complet de fabrication. De l’idée à l’objet fini, imbrication du logiciel et du «matériel» telle qu’on ne sait pas si la machine pense ou si l’esprit fabrique. La création résulte plutôt d’un état de haute complexité que d’un acte
 - # Matière
 - L’objet sur lequel le message donne l’information; ce que le logicien et le linguiste appellent le référent du message.
-  Schizophrénie dans nos manière de représenter, et l’hégémonie des médias: la couverture de l’événement confondue avec l’événement. Sentiment qu’il n’y a plus de réalité extérieur pas d’autre que les représentation. Messages renvoyant sans fin a des messages. Simulacre, jamais la chose même
+  Schizophrénie dans nos manière de représenter, et l’hégémonie des médias: la couverture de l’événement confondue avec l’événement. Sentiment qu’il n’y a plus de réalité extérieur pas d’autre que les représentation. Messages renvoyant sans fin a des messages. [[Simulacre]] , jamais la chose même
 - L’ombre de l’ombre
 	- Est réel ce qui fait l’objet d’un témoignage ( photographie ) et d’une définition ( le dictionnaire). La réalité devient l’ombre de ce qui la répète en image et ou en mots.
 	- [[Joseph Kosuth]] : One and Three Shadows, 1965 ![One and Three Shadows (Ety. Hist.) | Widewalls](https://d16kd6gzalkogb.cloudfront.net/__sized__/auction_artwork_images/Joseph-Kosuth-One-and-Three-Shadows-Ety.-Hist.-1965-thumbnail_webp-9999x9999.webp)

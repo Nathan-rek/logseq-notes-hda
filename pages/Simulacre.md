@@ -1,13 +1,16 @@
+- Dans *Simulacres et Simulation*, 1981 Baudrillard cherche à analyser les systèmes de diffusion de l’information dans les sociétés contemporaines
+- une modification graduelle de simulacres, allant de l’origine au simulacre en passant par la copie
 - Catégorie de Signe : Un signe qui dépasse l’origine du signe :
 	- Signe Original
 	- Signe copie
-	- Signe simulacre
+	- Signe simulacre: le simulacre contrairement a la copie fait comme si l’original n’existait pas, comme s’il venait à dissimuler le référent
 		- Accélération des simulacres ( du au monde contemporaine )
 		- Réseaux de simulacre qui nous empêche d’être en contacte avec une réalité existante originale
 		- Culture de la virtualité: culture publicitaire, informatique :
-			- Bret Easton Elis, *American Psycho* : Basé sur un contexte entrepreneurial d’une entreprise qui gère des fonds pour faire fructifier de l’argent début de rapport à la virtualité.
-				- Psychose qui née entre les contraintes pulsionnelles et sociétales qui se caractérise dans le comportement du personnage Patrick Bateman
-		- Reagan est président américain: Le gouvernement n’est pas la solution c’est le problème:
+		- Les etat unis sont dans un processus d'autotelisme soutenu par les politique néo liberal de reagan
+			- [[American Psycho, Breat Easton Elis]] personnage symptomatique de cette nouvel construction
+		- Reagan est président américain: Le gouvernement n’est pas la solution c’est le problème
+			- Laisse la place à une régulation individuelle, Patrick Bateman
 			- Politique de l’historie américaine caractérisé par la mise en place d’un doctrine économique ultra libérale
 - Pour Baudrillard il y a quatre façons d’obtenir de la valeur
 	- Valeur fonctionnel : objectifs principal d’un objet
@@ -15,4 +18,3 @@
 	- Valeur Symbolique : valeur attribuer par un sujet part rapport à un autre sujet
 	- Valeur de signe : la valeur d’un objet au sien d’un système d’objet
 - ### [[Simulationisme]]
--

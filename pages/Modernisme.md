@@ -1,4 +1,4 @@
-- Le modernisme est une fraction de la modernité. Le modernisme est une approche critique de l’art moderne sous un angle formelle.
+- Le modernisme est une fraction de la [[Modernité]] . Le modernisme est une approche critique de l’art moderne sous un angle formelle.
 - Clément GREENBERG esprit de ce modernisme qui cherche à comprendre l’évolution de l’art moderne
 - A travers des textes comme *Avant garde et Kitsch* ou  *[[Modernist Painting, Clément Greenberg]]*
 	- L’art moderne comme matière réflexif qui s’oppose au Kitsch qui lui ne propose rien comme discours. La culture populaire est le Kitsch.

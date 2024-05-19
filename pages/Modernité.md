@@ -5,7 +5,6 @@
 			- Ce qui donne lieu au Positivisme, on ne pose plus les pourquoi on se demande les comment, on étudie les fait positifs, toutes puissance de la raison, foi aveugle en la raison, notion de progrès.
 			- Téléologie: perspective qui voit loin devant, une perspective lointaine vers laquelle on tend.
 - ### [[Modernisme]]
-- ### [[Post-Modernité]]
 - ### Bruno Latour: Nous n’avons jamais été modernes
   Critique: analyse interne de ce qui compose quelque chose
 - Critique en crise > nœud Gordien[^45]

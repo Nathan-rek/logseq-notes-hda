@@ -18,7 +18,7 @@
 		- Alfredo Gauro AMBROSI: [*Aeroritratto di Mussolini aviator*](https://fr.wikipedia.org/wiki/Alfredo_Gauro_Ambrosi), 1930 https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Alfredo_Gauro_Ambrosi_%22Aeroritratto_di_Mussolini_aviatore%22.jpg/220px-Alfredo_Gauro_Ambrosi_%22Aeroritratto_di_Mussolini_aviatore%22.jpg
 		  
 		  Esprit Futuriste
-- Idée de vitesse / exaltation de la vitesse > esprit d’accélération symbole de modernité
+- Idée de vitesse / exaltation de la vitesse > esprit d’accélération symbole de [[Modernité]]
 	- Umberto BOCCIONI: [*Forme Unique De Continuité Dans L’espace*](https://fr.wikipedia.org/wiki/L%27Homme_en_mouvement) ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/%27Unique_Forms_of_Continuity_in_Space%27%2C_1913_bronze_by_Umberto_Boccioni.jpg/1024px-%27Unique_Forms_of_Continuity_in_Space%27%2C_1913_bronze_by_Umberto_Boccioni.jpg)
 - Idée de mouvement
 	- [[Marcel Duchamp]] : [*Nu Descendant Un Escalier N°2*](https://fr.wikipedia.org/wiki/Nu_descendant_un_escalier_(N%C2%B02))https://mediation.centrepompidou.fr/education/ressources/ENS-futurisme2008/images/xl/fut_070.jpg
@@ -40,7 +40,7 @@
 	- La musique à évolué vers des sons toujours plus dissonant
 		- Musique Atonal, qui ne respecte pas les tons
 	- Rupture avec les instrument classique
-		- Inventer les instruments de la modernité.
+		- Inventer les instruments de la [[Modernité]] .
 			- Re-exciter l’oreille moderne, le bruit de la machine est le bruit moderne
 			- Luigi RUSSOLO: [*Intonarumori*](https://www.arthistoryproject.com/artists/luigi-russolo/luigi-russolo-ugo-piatti-and-the-intonarumori/), 1913 ![Luigi Russolo, Ugo Piatti and the Intonarumori, zoomed in](https://www.arthistoryproject.com/site/assets/files/14816/luigi-russolo-luigi-russolo-ugo-piatti-and-the-intonarumori-1913-obelisk-art-history.jpg)
 				- Son qui simule un son de moteur
