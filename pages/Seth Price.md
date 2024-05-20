@@ -1,0 +1,2 @@
+- Seth Price [*Hostage Video Still With Time Stamp,*](https://sethpriceimages.com/post/43415521935/hostage-video-still-with-time-stamp-seth-price), 2005 ![“Hostage Video Still With Time Stamp,” Seth Price, 2005. Each element: freeze-frame from Jihadi execution video-file screen-printed on archival polyester librarian’s film with signage ink, steel grommets. At Kunsthalle Zurich in 2006.](https://64.media.tumblr.com/e1270396ac6e945084a7e2ad473c9c41/tumblr_mifipxTCd21s3dviwo1_1280.jpg)
+  id:: 664b8dda-9de0-4675-abfd-81aa5a2aaf33

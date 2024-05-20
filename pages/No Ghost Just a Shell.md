@@ -2,7 +2,7 @@
   Le projet "No Ghost Just a Shell" devait durer plusieurs années. Ils ont offert «Ann Lee» gratuitement à une série d'artistes, «commandés» par les initiateurs, à utiliser pour leurs «propres» histoires. Dans le même temps, les artistes installent à Paris des moyens de production coordonnés par Anna-Léna VANEY, notamment pour disposer d'une animation vidéo élaborée et coûteuse pour le personnage. Chacun des projets réalisés avec 'Ann Lee' est un "chapitre de l'histoire d'un signe", et à une 'vie' dans le contexte des activités individuelles des artistes et au sein du projet commun. Les mesures de "prolongation de vie" prises par le projet "No Ghost Just a Shell" pour un être éphémère, virtuel et commercial soulèvent des questions humanitaires "mélancoliques", mais aussi saper les mécanismes économiques en permettant l'utilisation gratuite d'un produit qui n'est par ailleurs viable que dans un contexte commercial ; les conditions de production autonome des artistes sont un autre facteur.
 - ### Projet
 - L’identité de Ann Lee :
-	- Pierre HUYGHE: [*Two minutes out of time*](https://archives.mamco.ch/artistes_fichiers/H/huyghe.html), 2000 ![](https://archives.mamco.ch/artistes_fichiers/H/huyghe/annlee.jpg)
+	- [[Pierre Huyghe]] : [*Two minutes out of time*](https://archives.mamco.ch/artistes_fichiers/H/huyghe.html), 2000 ![](https://archives.mamco.ch/artistes_fichiers/H/huyghe/annlee.jpg)
 		- Ann Lee est une image prête à l’emploi
 		- Dans cette interprétation de HUYGHE  le personnage reflète son existence en tant que produit visuel chargé de l’imagination d’un individu «je suis hanté par votre imagination» Ann Lee reste une coquille jusqu’à ce que sa propre imagination la rattrape
 	- [[Philippe Parreno]] : [*Anywhere Out of the World*](https://www.frac-poitou-charentes.org/pages/collection_artistes-parreno_FRAC.html), 2000 ![Philippe Parreno, coll. FRAC PC](https://www.frac-poitou-charentes.org/images/PARRENO_Anywhere_FRACPC.jpg)
@@ -14,7 +14,7 @@
 	- HUYGHE lui dévie son statut de fille en «elle» mais en «ça»
 - Ann Lee ne peut se dessiner elle-même en tant que signe elle ne peut parler ou écrire aux artistes pour leur accorder le droit de la représenter dans l’art
 - Le professeur Kathryn DAVIS qui de manière ludique explore la question de savoir qui à crée Ann Lee a travers une lettre destinées à elle
-- Dans [*One Million Kingdom*](https://lesoeuvres.pinaultcollection.com/fr/oeuvre/one-million-kingdoms),2001 de Pierre HUYGHE ![](https://lesoeuvres.pinaultcollection.com/media/styles/ex_v/s3/art/10780_visuel_DET_HUYGHE_OneMillionKingdoms.jpg?itok=E9xvngYL)
+- [[Pierre Huyghe]] [*One Million Kingdom*](https://lesoeuvres.pinaultcollection.com/fr/oeuvre/one-million-kingdoms),2001![](https://lesoeuvres.pinaultcollection.com/media/styles/ex_v/s3/art/10780_visuel_DET_HUYGHE_OneMillionKingdoms.jpg?itok=E9xvngYL)
 	- Ann Lee va incarnée avec une voix transformée le discours de Neil AMSTRONG posant le pied sur la lune et des extraits de [*Voyage au centre*](https://fr.wikipedia.org/wiki/Voyage_au_centre_de_la_Terre) de la Terre de Jules VERNE
 	- Le personnage se déplace dans un environnement ou la topologie est générés graphiquement par les paroles du personnage
 		- Elle apparaît translucide comme vide pourtant elle est autrice de son propre environnement

@@ -26,7 +26,7 @@
 	- Enregistrant en permanence un des enregistrement à enregistré l’attaque du 9/11
 	- Cette œuvre peut être comprise comme un signe avant-coureur de changements majeurs dans la culture de l’image. L'intérêt de STAEHLE pour la documentation de scènes de la vie quotidienne s'est aligné sur l'émergence d'une mentalité de « tout enregistrer » alimentée par les nouveaux outils numériques disponibles
 - Network art : plus large, la technologie n’est pas nécessaire. Il s’agit plutôt de donnés et de leur diffusion par d’autre canaux
-	- Seth PRICE: [*Dispersion*](https://anthology.rhizome.org/dispersion): La distribution, plutôt que la production moyen par lequel les œuvres prennent leur sens ![](https://d1v7jayx2s9clc.cloudfront.net/user/pages/21.dispersion/cri_000000302802.jpg)
+	- [[Seth Price]], [[Dispersion]] ![](https://d1v7jayx2s9clc.cloudfront.net/user/pages/21.dispersion/cri_000000302802.jpg)
 	- [[Cory Arcangel]] :[*Iron Maiden’s « The number of the beasts» compresses over and over as an mp3 666times*](https://coryarcangel.com/things-i-made/2004-004-iron-maidens-number-of-the-beast-compressed-over-and-over)»,2004 ![](https://coryarcangel.com/assets/imgs/666-2004-004-screenshot-1-database-ih.jpg)
 		- à travers le transfert et la diffusion par réseau web le principe de compression prend place et sature le son
 			- Le medium commet un acte esthétique.

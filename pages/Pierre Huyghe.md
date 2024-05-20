@@ -53,7 +53,7 @@
 - ## Pierre Huyghe face au temps
 - Pierre Huyghe : [*Timekeeper (Drill Core), Serpentine*](https://www.estherschipper.com/artists/41-pierre-huyghe/works/19973/), 2019 ![Pierre Huyghe, Timekeeper (Drill Core), Serpentine, 2019](https://artlogic-res.cloudinary.com/w_650,h_650,c_limit,f_auto,fl_lossy,q_auto:best/artlogicstorage/estherschipper/images/view/190b42762364b2e94e240811c9ababaaj.jpg)
 	- Un œuvre in situ qui dans ce cas là a eu lieu à la Serpentine
-	- Pierre Huyghe l’artiste a poncé un pan de mur blanc de 20 cm à hauteur des yeux dans l'espace d'exposition afin de révéler les couches de peinture laissées par les expositions précédentes. À l’aide d’une ponceuse circulaire électrique, les anciennes couches de peinture ont été révélées sous forme d’anneaux concentriques colorés
+	- Pierre Huyghe la poncé un pan de mur blanc de 20 cm à hauteur des yeux dans l'espace d'exposition afin de révéler les couches de peinture laissées par les expositions précédentes. À l’aide d’une ponceuse circulaire électrique, les anciennes couches de peinture ont été révélées sous forme d’anneaux concentriques colorés
 		- Le cercle a ensuite été extrait du mur pour devenir une pièce appart entier
 - Pierre Huyghe : [*18h00*](https://www.estherschipper.com/artists/41-pierre-huyghe/works/3057-pierre-huyghe-6-pm-2000/), 2000 ![Pierre Huyghe, 6 PM, 2000](https://artlogic-res.cloudinary.com/w_650,h_650,c_limit,f_auto,fl_lossy,q_auto:best/artlogicstorage/estherschipper/images/view/955abc47afe0d7197109b36de76b4a7dj.jpg)
   id:: 655b5866-9e8c-4a69-8d10-2efdacf59710
