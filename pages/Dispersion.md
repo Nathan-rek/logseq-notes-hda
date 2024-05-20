@@ -1,4 +1,4 @@
-- Dispersion de [[Seth Price]] est une œuvre d'art sous la forme d'un essai historique de l'art. Conformément à cet accent mis sur la distribution, l'œuvre a été publiée dans divers formats et versions au fil des années, notamment des pages sur le site Web de PRICE, des PDF largement diffusés, des publications imprimées et des objets sculpturaux. Même s'il était profondément engagé sur Internet, Dispersion s'adressait spécifiquement au système de l'art contemporain et posait les bases du passage de PRICE au travail en galerie avec une exposition au Reena Spaulings Fine Art à New York en 2004.
+- Dispersion de [[Seth Price]] est une œuvre d'art sous la forme d'un essai historique de l'art. Conformément à cet accent mis sur la distribution, l'œuvre a été publiée dans divers formats et versions au fil des années, notamment des pages sur le site Web de PRICE, des PDF largement diffusés, des publications imprimées et des objets sculpturaux. Même s'il était profondément engagé sur Internet, Dispersion s'adressait spécifiquement au système de l'art contemporain et posait les bases du passage de [[Seth Price]] au travail en galerie avec une exposition au Reena Spaulings Fine Art à New York en 2004.
 - Pour commencer il cite l’artiste belge [[Marcel Broodthaers]] : «*La définition de l’activité artistique se situe d’abord dans le domaine de la diffusion*»
 - [[Art Conceptuel]] s’est revendiquer de nouveaux territoires.
 	- Cette tendance à fait qu’en 2002 la plupart des œuvres d’arts se positionne dans une certaine mesure comme conceptuelles
@@ -23,7 +23,7 @@
 		- La culture national bourgeoise, dont l’art, est un élément basée sur les médias commerciaux.
 			- Les médias sont les arènes dans laquelle ont conçoit les œuvres en les positionnant par rapport au technologies au matériaux et leur distribution médiatique
 		- Les media distribuées peuvent être définis comme un circuit d’information social en théorie illimité que le marché commun supporte à travers le stock et la distribution
-- Dan GRAHAM: [*Figuratif*](https://renaissancesociety.org/exhibitions/314/dan-graham-selected-works/), 1965
+- Dan GRAHAM: [*Figuratif*](https://renaissancesociety.org/exhibitions/314/dan-graham-selected-works/), 1965 ![](https://renaissancesociety.org/media/files/1981_graham_672-2.jpg)
 	- L’œuvre exprime et figure l’ensemble des coûts nécessaire pour faire une pub dans un magazine.
 		- Les mécanismes de marché de circulation, de distribution et de diffusion devient une parti crucial du travail.
 - Pour [[Seth Price]] l’utilisation des médias de masse comme moyen de communication générique est une utilisation qui dans les avant-gardes est ambigu. Le magazine [*ToiletPaper*](https://www.toiletpapermagazine.org/) de Maurizio CATELLAN est un exemple de ces relations ambiguës.

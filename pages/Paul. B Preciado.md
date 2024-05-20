@@ -1,4 +1,4 @@
-- Cree une subjectivité post humaine à partir du développement [[Transfeminisme]], Ecrit à partir de sa propre experimentation corporelles
+- Creer une subjectivité post humaine à partir du développement [[Transfeminisme]], Ecrit à partir de sa propre expérimentation corporelle
 	- Action performatives
 		- Testo Junkie: le corps comme laboratoire politique et philosophique. Tentative critique performative de la construction du genre. Considéré comme un *Essaie Corporelle*.
 			- Le capitalisme pharmacopornographique.
