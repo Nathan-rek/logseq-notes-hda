@@ -1,4 +1,4 @@
-- Cette exposition aux Centre Pompidou Metz s’attache à montrer comment pour de nombreux..ses artistes du 20ème et du 21ème siècles, la création naît de la répétition, par multiplication, accumulation, redoublement ou recommencement. Elle remet en cause l’idée simpliste que la modernité serait caractérisée uniquement par l’invention et l’exception
+- Cette exposition aux Centre Pompidou Metz s’attache à montrer comment pour de nombreux..ses artistes du 20ème et du 21ème siècles, la création naît de la répétition, par multiplication, accumulation, redoublement ou recommencement. Elle remet en cause l’idée simpliste que la [[Modernité]] serait caractérisée uniquement par l’invention et l’exception
 - Eric de Chassey : Directeur de l’institut national de l’historie de l’art, commissaire d’exposition
 - Le Centre Pompidou Metz, invite à une libre déambulation à travers les multiples phénomènes de la répétition. Elle se compose en 13 sections comme  les phénomènes de la répétitions
 - Essayer :
@@ -9,9 +9,9 @@
 			- L’agrandissement d’une composition ancienne lui confère une plus-value mais le titre suggère que celle-ci est dérisoire
 		- Richard SERRA: [*Main attrapant du plomb*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cAXpry) ![Hand Catching Lead - Centre Pompidou](https://www.centrepompidou.fr/media/picture/3b/0c/3b0c68c51a37390105c439c112b7a834/thumb_large.jpg)
 			-
-			- Premier film de l’artiste américain connu pour ses sculptures minimales en métal au tournant des années 1960-1970 ((65dbc11e-388f-4dc3-8140-d16cdc66f1e0))
+			- Premier film de l’artiste américain connu pour ses sculptures minimales en métal au tournant des années 1960-1970
 			- Ce film constitue une mise en abyme du dispositif cinématographique. La main de l’artiste essaie de capturer des feuilles de plomb qui tombent dans le champ de la caméra
-		- [[Frantisek Kupka]] : [*Femmes cueillant des fleurs*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cx96jx), 1910 ![Femme cueillant des fleurs - Centre Pompidou](https://www.centrepompidou.fr/media/picture/07/3b/073bde6824d1f55e7a6ecf30e6152ff0/thumb_large.jpg)
+		- [[František Kupka]] : [*Femmes cueillant des fleurs*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cx96jx), 1910 ![Femme cueillant des fleurs - Centre Pompidou](https://www.centrepompidou.fr/media/picture/07/3b/073bde6824d1f55e7a6ecf30e6152ff0/thumb_large.jpg)
 		  id:: 6543a5de-9d27-4c93-a154-b13dd2e3e099
 			- Tente de capturer dans une seule image les moments successifs d’une action
 - Insister :
@@ -22,9 +22,10 @@
 		- Maria ABRAMOVIC & ULAY: la durée de leur performance transforme en chorégraphie hypnotique ce qui est montré, qui n’a le plus souvent pas de qualité propre et peut se rencontrer dans les situations les plus quotidiennes
 			- L’idée de processus: ce qui se passe entre deux œuvres importe tout autant que le résultat final
 		- Des gestes qui peuvent être substitut du corps qui deviennent des objets de dégoût ou de tendresses
-			- Victor BRAUNER: [*Force de concentration de Monsieur K.*](https://www.lejournaldesarts.fr/expositions/victor-brauner-un-surrealiste-part-151491) ![Victor Brauner, un surréaliste à part](https://www.lejournaldesarts.fr/sites/lejournaldesarts/files/2020-10/victor-brauner-force-concentration-monsieur-k-1934-copyright-photo-centre-pompidou-mnam-cci-rmn-grand-palais.jpg) considéré comme l’une des grandes figures du [[Surréalisme]] par André BRETON
-				- Présente une figure mythique inspirée d’*Ubu Roi[^75]* en positif/négatif. Le Thème du double est récurant chez l’artiste.
-				- Il voit son tableaux comme d’un cote un fascisme montant et de l’autre une force visionnaire de la répulsion.
+			- Victor BRAUNER: [*Force de concentration de Monsieur K.*](https://www.lejournaldesarts.fr/expositions/victor-brauner-un-surrealiste-part-151491) ![Victor Brauner, un surréaliste à part](https://www.lejournaldesarts.fr/sites/lejournaldesarts/files/2020-10/victor-brauner-force-concentration-monsieur-k-1934-copyright-photo-centre-pompidou-mnam-cci-rmn-grand-palais.jpg)
+				- Considéré comme l’une des grandes figures du [[Surréalisme]] par André BRETON
+					- Présente une figure mythique inspirée d’*Ubu Roi[^75]* en positif/négatif. Le Thème du double est récurant chez l’artiste.
+					- Il voit son tableaux comme d’un coté un fascisme montant et de l’autre une force visionnaire de la répulsion.
 			- Annette MESSAGER: [*Les Pensionnaires*](https://www.centrepompidou.fr/fr/ressources/oeuvre/MkkMEYK) ![Les Pensionnaires - Centre Pompidou](https://www.centrepompidou.fr/media/picture/62/9b/629b3075ff8a0d90e8ea8b5426376604/thumb_large.jpg)
 				- Oiseaux que l’artiste dispose en vitrine après les avoir revêtus de tricots, comme s’il s’agissait également de poupées
 - Multiplier :

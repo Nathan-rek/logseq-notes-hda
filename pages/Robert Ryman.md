@@ -3,7 +3,7 @@
 	- Il refuse l'[[Abstraction]] car il ne pas peint l'abstrait il peint l'acte de peindre. Il ne veut pas crée des illusions mais présenter les matériaux qu'il utilise.
 		- Son geste est assez hérité de l'[[Expressionnisme Abstrait Américain]], mais l'intérêt pour Ryman est dans le support il travaille avec une grande multitude de matériaux
 	- Robert Ryman: [*Orange Painting*](https://www.moma.org/collection/works/79939), 1955 ![Untitled (Orange Painting), 1955 - Robert Ryman - WikiArt.org](https://uploads3.wikiart.org/images/robert-ryman/untitled-orange-painting-1955.jpg)
-		- Dans ses premières peintures le monochrome est déjà présente.
+		- Dans ses premières peintures le monochrome est déjà présent
 			- Robert Ryman: [*Classico*](https://www.guggenheim.org/artwork/3745), 1968 ![Robert Ryman | Classico IV | The Guggenheim Museums and Foundation](https://www.guggenheim.org/wp-content/uploads/2022/04/05/91.3845_ph_web.jpg)
 			- Classico est une série de peintre dont le titre fait référence au type de papier utiliser pour l'œuvre ce qu'il montre l'importance du matériaux chez Ryman
 			- Tout comme les œuvres *Classico* portaient le titre du type de papier utilisé comme support, les œuvres

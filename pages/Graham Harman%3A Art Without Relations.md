@@ -8,7 +8,7 @@
 	- Par objet il entend des réalités unifiés - physique ou autres qui ne peuvent être réduite ni à leurs effets ni à leurs morceaux
 	- Les objets ont des dégres de réalité
 		- Capacité a résister aux changements de ses composants
-- Dans les sciences sociales et les art le danger et dans la réduction vers le haut, qui paraphrase les objets en termes de leurs effets plutôt que de leurs parties
+- Dans les sciences sociales et les arts le danger et dans la réduction vers le haut, qui paraphrase les objets en termes de leurs effets plutôt que de leurs parties
 	- Car les objet ne sont pas que définit par leur contexte.
 		- Dans ce cas il n'y aurait pas de changement si le melon, la ville, moi n'étions rien d'autre que nos relation actuelles avec tout le restes.
 - Soit on explique de quoi est fait quelque chose, soit on décrit ses effets
