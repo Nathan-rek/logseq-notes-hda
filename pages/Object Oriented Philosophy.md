@@ -3,7 +3,7 @@
 	- L'enjeu est dans les conditions d'interactions entre les différents objets en évitant à la fois de faire disparaitre les parties dans le tout
 		- **Dans ces conditions, les objets n’interagissent pas directement, mais au moyen de certaines propriétés sensibles se manifestant dans le cadre d’un rapport particulier**
 			- Autrement dit, les objets sont doués d’une certaine capacité de « sentir », « percevoir », « connaître » les autres dans le cadre d’une relation particulière,
-	- On aboutit en conséquence à une perspective anti-anthropocentrique où l’humain n’est pas l’auteur de l’ordre de la réalité phénoménale, voire le point de vue privilégié, mais un des objets dont la modalité de relation au monde ne diffère pas essentiellement de celle de tout autre.
+	- On aboutit en conséquence à une perspective anti-anthropocentrique où l’humain n’est pas l’auteur de l’ordre de la réalité phénoménale, voire le point de vue privilégié, mais un des objets dont la modalité de relation au monde ne diffère pas essentiellement de celle de tout autres.
 		- L'objectif n'est pas de connaitre les choses en soi mais de dépasser la perspective anthropocentrique pour montrer la réalité de la modalité d'interactions des objet entre eux
 			- il s’agit de montrer que la détermination des objets n’est pas une construction humaine; au contraire, chaque objet se laisse construire par un autre tout en restant irréductible à chaque représentation
 	- Ces propriétés sensibles comme conditions d'interactions concerne une expérience esthétique, ce que Harman appelle philosophie première
