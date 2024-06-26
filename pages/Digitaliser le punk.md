@@ -1,0 +1,31 @@
+## Le défi contestataire du digital hardcore, entre cybernétique et anticipation
+- Continum Hardcore: concept de Steve Goodman qui permet de catégoriser et théoriser les genres de musique électroniques
+	- Se distangue de la dance music de l'époque par : le BPM, le ryhtme, la progression
+- Le rythme aurait une fonction psychoactif chez l'auditeur..ices notamment par la répétions qui plonge dans une aliénation mentale
+- Ces genres contre un capitalisme tardif embrasse la dystopie que se soit dans les réference ou les formes
+	- Ce qui les placent dans un engagement politique contestataire
+- Le digital Hardcore herite de plsueiru samples qu'il soit du punk du breakbeat se propose comme une production msuciale extr^meme et diverse souvent synthétique.
+- Alec empire se situe sous l'infleunce de plsuieur philospes mais notamnrt de la theorise critique d el'ecole de francofrot.
+	- Critique des sociétés industrielles et des dynamiques de domination sur base du model capitaliste. Une critique qui les positionnent contre l'industrie musical de l'époque qui marche sur un model industriel du label
+- ### Post-scriptum sur les sociétés de contrôle
+- Le changement des sociétés disciplinaire aux sociétés de contrôles.
+	- La disciplines ne se fait plus que dans les lieux d'enfermement (panoptique foucault) mais dans le contrôle de façon plus insidiueuses.
+		- Un glissement qui est rendu possible par les technologies computationelle. Cette position de Deleuze touche aux enjeux de la [[Cybernétique]].
+		- Cette enjeux de prédiction des corps est pour Deleuze en liens avec les systèmes de contrôle
+			- La transmission d'informations est le contrôle pour Deleuze
+	- Le but n'est pas de ce placer contre ces nouveaux systèmes mais d'en trouver les armes "*Teenage Riot*"
+- ## Un son galvanisant
+- Le digital Hardcore serait un cri de guerre face à ses sociétés de contrôles
+	- Le morceau *"Atari Teenage Riot"* comporte un extrait du discours de Louis Farrakhan qui porte sur la répression des population noires aux Etats Unis D'Amérique.
+		- Les paroles appelant à la révolte ainsi que l’arrangement musical non-linéaire (succession de samples et de breaks) font tous références à des discours de résistance face au pouvoir et au gouvernement établi.
+		- L'atmosphère sonore chaotique du DH à pour rôle de galvaniser l'auditeur..ices et de motiver à agir
+- Quelle sont les enjeux matériels de l'emploi du son.
+	- Pour Juliette Vocler l'oreilles est le seul orifices constamment ouverts
+		- Il est presque impossible d'échapper au son, et le son détient une qualité matériel forte étant une vibration acoustique le son se répercute dans les objets et dans les corps
+		- On peut donc apercevoir comme une armes dont la stratégie ne serait pas le contact mais l'émission
+			- Cette capacité des armes soniques sur les corps intéressent Deleuze dans le contrôle des corps
+				- Le son devient information et donc devient un moyen de communiquer *des mots d’ordre*.
+- Pour Burroughs la manipulation du son muzak(musique de fond) peut être un outil de détournement fort il étudie le film Decoder ou lorsque le personnage modifie la fréquences du son muzak entraine une suite de réaction violents
+- Le muzak comme mots d'ordre de la société de contrôle doit être piraté il faut se réapproprier l'information (All of us can be rich in informations)
+- # PAGE 40
+-
