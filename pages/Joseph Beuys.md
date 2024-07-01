@@ -8,14 +8,14 @@
 		- Cette volonté de distinction rejoint la singularité de son projet social, dépassant le champ de l’art qu’il faut selon lui renouveler
 		- La Symphonie Sibérique,
 - ## [[Sculpture sociale]]
-- ## ((65480be3-ae39-4240-a604-b56eee2fa153))
 - ## Actions
-- Intègre des activités quotidienne au contexte artistique
+- Intègre des activités quotidiennes au contexte artistique
 - Joseph Beuys : Yes Yes Yes Yes Yes No No No No ![image.png](../assets/image_1698509552221_0.png)
   id:: 653e63b1-7bb1-4d3f-8193-75a786d31e82
 - À l'intérieur d'une pile de 20 plaques de feutre se trouve une bobine de ruban adhésif sur laquelle BEUYS prononce un interminable monologue « Ja Ja Ja Ja Ja, Nee Nee Nee Nee Nee » – un énoncé familier dans le dialecte rhénan s'appliquant à tout et à rien – fonctionne ici, sans mélange, comme un symbole ironique de la dialectique irrévocable de la vie quotidienne.
 - L’action rompt avec le marché de l’art moderne dans laquelle il évolue
-	- Joseph Beuys : I like America and America likes Me, 1986 ![image.png](../assets/image_1698509628845_0.png)
+	- Joseph Beuys : I like America and America likes Me, 1986
+		- ![image.png](../assets/image_1698509628845_0.png)
 		- Il s’isole pendant 3 jour dans une cage en verre dans la galerie de René BLOCK à NY enferme avec:
 			- Un coyote: Symbole de la part sauvage du continent américain
 			- Une grande couverture de feutre: Symbole d’isolement
@@ -40,7 +40,7 @@
 - Comment expliquer les tableaux à un lièvre mort ![image.png](../assets/image_1698509952739_0.png){:height 708, :width 500}
 	- Le lièvre n’est pas que l’animal
 		- Il est l’incarnation d’un principe vitale
-			- Creusé un terrier au sol pour BEUYS ce que l’homme où la femme accomplissent avec leurs pensées: se frotter à la matière
+			- Creusé un terrier au sol pour Beuys ce que l’homme où la femme accomplissent avec leurs pensées: se frotter à la matière
 - Chaise avec graisse, 1963 ![image.png](../assets/image_1698510485044_0.png)
 	- La graisse aussi est une matière qui incarne la transformations des états de sa matière
 	- Sensible à la chaleur vient à fondre et à changer d’états
