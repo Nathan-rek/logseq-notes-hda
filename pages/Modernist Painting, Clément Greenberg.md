@@ -28,7 +28,7 @@
 				- [[Paul Cézanne]] sacrifie la vraisemblance, ou l’exactitude, adapte plus explicitement son dessin et sa conception à la forme rectangulaire de la toile
 - C’est l’accentuation de la planéité inéluctable de la surface qui reste plus fondamental que tout autre chose dans le processus par lesquelles l’art pictural se critique et se définit sous le modernisme.
 	- La planéité était unique au domaine de l’art picturale
-		- La forme du tableau était une condition limité, ou une norme non-partagée
+		- La forme du tableau était une condition limité, ou une norme non partagée
 			- La couleur elle par exemple est une norme partagée avec le théâtre, la sculpture ou autres.
 		- La  planéité était la seule condition que la peinture partageait avec aucun autre art la peinture moderne s’est orienté vers la planéité comme vers rien d’autre.
 - Les Anciens ont senti qu’il était nécessaire de préserver ce qu’on appelle l’intégrité du plan de l’image

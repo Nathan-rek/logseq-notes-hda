@@ -38,6 +38,26 @@
 	- Un rythme qui s'oppose au binaire et au linéaire du rythme capitaliste
 		- L'écoute de ce genre rendrait les auditeur..ices inapte et donc incapable de rentrer dans le moule capitaliste rythmique occidentale
 	- Contrairement a la désincarnation des corps de l'hypothèse [[Cybernétique]] de Tiqqun le son vient rendre physicalité au corps en les tiraillants par le rythme
-- Le surplus d'information du DH serait une technique de brouillage du contorle cybernetique.
+- Le surplus d'information du DH serait une technique de brouillage du contrôle [[Cybernétique]] .
 	- La [[Cybernétique]] se basant sur une rétroaction du contrôle de donnés l'insertion de fausse donnés ou d'activité de brouillages de ses donnés est un acte de résistance face à ce contrôle
 		- La présence du bruit dans la production musicale du digital hardcore, le sauverait également de sa récupération dans le système capitaliste [[Cybernétique]] .
+- ## Chaos VS Sécuritarisme [[Cybernétique]]
+- Le danger pour Sutter est ce qui surgit et ce qui ne doit pas être.
+	- Le danger et le revers de la médaille de la propriété privée bourgeoise
+	- Pour qu'il y est danger il faut qu'il y est un dehors il faut définir le dedans
+		- Dans l'hypothèse de Tiqqun le système [[Cybernétique]] tend vers un hyper-sécuritarisme qui vise la répression et suppression de de ton contestation et  toue marginalité.
+			- Le danger pour le cybernéticien est tout ce qui échappe au système
+				- Pour cela le système crée la crainte pour garder les individu dans le système un contrôle des corps par la peur
+				- Pour Sadie Plant et Nick Land cette crainte de l'autre et cette paranoïa est la base du fonctionnement sociétal [[Cybernétique]] .
+- Sutter parle d'un danger qui se fait premièrement comme expérience esthétique. Il est reçu au travers de sa manifesation sensible
+	- Les outils [[Cybernétique]] pourrait être utilisés au profit de contestations contre culturelles futuriste qui exploiterait une esthétique du danger *cybepositive* par la culture du chaos
+	- La mise ne place d'un état de panique est quelque chose que ferait panique les cybernéticien..nes le [[CCRU]] le défend avec notamment la musique jungle qui amènerait les individus dans un état de panique.
+		- Cette panique est accompagné par le changement de millénaire le *Y2KPANIC*
+			- La panique en tant que résultat du chaos, arriverait à sortir des clous et du contrôle [[Cybernétique]]
+- # La phonofiction : investir dans le futur
+- La phonofiction est lie au concept d'hyperstition du [[CCRU]]
+	- *Élément de la culture effective qui se rend réel par le biais de quantités fictives fonctionnant comme des potentiels de voyage dans le temps. L'hyperstition fonctionne comme un amplificateur de coïncidences, faisant appel aux Anciens*
+- Pour Nick Land ce serai aussi une un élément constituant à l’évolution technocapitaliste au tournant digital de la fin du XXe siècle. La spéculation financière ainsi que la montée des nouveaux dispositifs technologiques et sociaux serait un résultat direct du concept
+	- **L’hyperstition est un moyen de souligner la manière dont le technocapitalisme entraine un effacement de la distinction entre le réel et le fictif.**
+	- Pour Eshun l'hyperstition a une dimension politique notamment dans la mise en place de productions afro-futuristes.
+	- PAGE 81
