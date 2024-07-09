@@ -2,14 +2,14 @@
 - Continum Hardcore: concept de Steve Goodman qui permet de catégoriser et théoriser les genres de musique électroniques
 	- Se distangue de la dance music de l'époque par : le BPM, le ryhtme, la progression
 - Le rythme aurait une fonction psychoactif chez l'auditeur..ices notamment par la répétions qui plonge dans une aliénation mentale
-- Ces genres contre un capitalisme tardif embrasse la dystopie que se soit dans les réference ou les formes
+- Ces genres contre un capitalisme tardif embrasse la dystopie que se soit dans les références ou les formes
 	- Ce qui les placent dans un engagement politique contestataire
-- Le digital Hardcore herite de plsueiru samples qu'il soit du punk du breakbeat se propose comme une production msuciale extr^meme et diverse souvent synthétique.
-- Alec empire se situe sous l'infleunce de plsuieur philospes mais notamnrt de la theorise critique d el'ecole de francofrot.
+- Le digital Hardcore hérite de plusieurs samples qu'il soit du punk du breakbeat se propose comme une production musicale extrême et diverse souvent synthétique.
+- Alec empire se situe sous l'influence de plusieurs philosophes mais notamment de la théorie critique de l'école de francfort.
 	- Critique des sociétés industrielles et des dynamiques de domination sur base du model capitaliste. Une critique qui les positionnent contre l'industrie musical de l'époque qui marche sur un model industriel du label
 - ### Post-scriptum sur les sociétés de contrôle
 - Le changement des sociétés disciplinaire aux sociétés de contrôles.
-	- La disciplines ne se fait plus que dans les lieux d'enfermement (panoptique Foucault) mais dans le contrôle de façon plus insidiueuses.
+	- La disciplines ne se fait plus que dans les lieux d'enfermement (panoptique Foucault) mais dans le contrôle de façon plus insidieuses.
 		- Un glissement qui est rendu possible par les technologies computationelle. Cette position de Deleuze touche aux enjeux de la [[Cybernétique]].
 		- Cette enjeux de prédiction des corps est pour Deleuze en liens avec les systèmes de contrôle
 			- La transmission d'informations est le contrôle pour Deleuze
@@ -27,17 +27,17 @@
 				- Le son devient information et donc devient un moyen de communiquer *des mots d’ordre*.
 - Pour Burroughs la manipulation du son muzak(musique de fond) peut être un outil de détournement fort il étudie le film Decoder ou lorsque le personnage modifie la fréquences du son muzak entraine une suite de réaction violents
 - Le muzak comme mots d'ordre de la société de contrôle doit être piraté il faut se réapproprier l'information (All of us can be rich in informations)
-- La distrosion et la rendu sonore des machine que Eshun nomme *machine-musique* nous permettrait d'attendre des "états d'esprit" cette musique synthétique, loin de nous éloigner de nos émotions comme le pensent les technophobes, serait dans la capacité de nous faire ressentir plus de sensations et d’émotions de par l’intensité sonore synthétique qu’elle met en place
+- La distorsion et la rendu sonore des machine que Eshun nomme *machine-musique* nous permettrait d'attendre des "états d'esprit" cette musique synthétique, loin de nous éloigner de nos émotions comme le pensent les technophobes, serait dans la capacité de nous faire ressentir plus de sensations et d’émotions de par l’intensité sonore synthétique qu’elle met en place
 	- Une position qui suit le manifeste de Ruissolo sur "L'art des bruits", S'accorde avec la guérilla sonore d'Underground Resistance, et le révolte de Public Ennemy
 - Cette utilisation de la machine dans la composition musical détourne des armes d'origine militaire ([[Cybernétique]]) dans un contexte contestataire
 	- Il y aurait pour Eshun une dimension [[Accélérationisme]] dans la prise d'outil numérique dans la production sonore
 		- *Je fais de l’ingénierie, je m’empare de fictions, de concepts, d’hallucinations […]. J’utilise ces différents concepts pour fonder de nouveaux champs d’expérience, pour anticiper et accélérer différentes explorations dans des champs de perceptions nouveaux*
 - ## Contre le [[Cybernétique]] -capitalisme
-- Ce systme qui se caractérise par une linéarité totalitaire pourrait etre déconstruit par des production musical comme la jungles.
+- Ce système qui se caractérise par une linéarité totalitaire pourrait être déconstruit par des production musical comme la jungles.
 	- La [[Cybernétique]] ayant une fonction de prévision du mouvement ennemi pourrait être en crise face à des breaks saccadé
 	- Un rythme qui s'oppose au binaire et au linéaire du rythme capitaliste
 		- L'écoute de ce genre rendrait les auditeur..ices inapte et donc incapable de rentrer dans le moule capitaliste rythmique occidentale
-	- Contrairement a la désincarnation des corps de l'hypothèse [[Cybernétique]] de Tiqqun le son vient rendre physicalité au corps en les tiraillants par le rythme
+	- Contrairement a la désincarnation des corps de l'hypothèse [[Cybernétique]] de Tiqqun le son vient rendre physicalité au corps en les tiraillant par le rythme
 - Le surplus d'information du DH serait une technique de brouillage du contrôle [[Cybernétique]] .
 	- La [[Cybernétique]] se basant sur une rétroaction du contrôle de donnés l'insertion de fausse donnés ou d'activité de brouillages de ses donnés est un acte de résistance face à ce contrôle
 		- La présence du bruit dans la production musicale du digital hardcore, le sauverait également de sa récupération dans le système capitaliste [[Cybernétique]] .
@@ -48,8 +48,8 @@
 		- Dans l'hypothèse de Tiqqun le système [[Cybernétique]] tend vers un hyper-sécuritarisme qui vise la répression et suppression de de ton contestation et  toue marginalité.
 			- Le danger pour le cybernéticien est tout ce qui échappe au système
 				- Pour cela le système crée la crainte pour garder les individu dans le système un contrôle des corps par la peur
-				- Pour Sadie Plant et Nick Land cette crainte de l'autre et cette paranoïa est la base du fonctionnement sociétal [[Cybernétique]] .
-- Sutter parle d'un danger qui se fait premièrement comme expérience esthétique. Il est reçu au travers de sa manifesation sensible
+				- Pour Sadie Plant et Nick Land cette crainte de l'autre et cette paranoïa est la base du fonctionnement sociétal [[Cybernétique]].
+- Sutter parle d'un danger qui se fait premièrement comme expérience esthétique. Il est reçu au travers de sa manifestation sensible
 	- Les outils [[Cybernétique]] pourrait être utilisés au profit de contestations contre culturelles futuriste qui exploiterait une esthétique du danger *cybepositive* par la culture du chaos
 	- La mise ne place d'un état de panique est quelque chose que ferait panique les cybernéticien..nes le [[CCRU]] le défend avec notamment la musique jungle qui amènerait les individus dans un état de panique.
 		- Cette panique est accompagné par le changement de millénaire le *Y2KPANIC*
@@ -60,4 +60,7 @@
 - Pour Nick Land ce serai aussi une un élément constituant à l’évolution technocapitaliste au tournant digital de la fin du XXe siècle. La spéculation financière ainsi que la montée des nouveaux dispositifs technologiques et sociaux serait un résultat direct du concept
 	- **L’hyperstition est un moyen de souligner la manière dont le technocapitalisme entraine un effacement de la distinction entre le réel et le fictif.**
 	- Pour Eshun l'hyperstition a une dimension politique notamment dans la mise en place de productions afro-futuristes.
-	- PAGE 81
+		- Dans Le DHR c'est un future dystopique que le sonore dessine
+			- Avec des sample de film Sci-fi dystopique (Matrix(Addicted to You)) qui joue eux aussi sur la présence d'angoisse les cuivres et violons de la bande de son de matrix cherche aussi ce sentiment d'angoisse pour soutenir l'image du film.
+	- La pensée de l'[[Accélérationisme]] pousse à utiliser ses technologies et non de les appréhender. Il ne faut plus subir les sciences fiction mais crée les nôtres en développent notre lien avec la machine.
+	- PAGE 99
