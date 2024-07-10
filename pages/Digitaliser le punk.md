@@ -63,4 +63,12 @@
 		- Dans Le DHR c'est un future dystopique que le sonore dessine
 			- Avec des sample de film Sci-fi dystopique (Matrix(Addicted to You)) qui joue eux aussi sur la présence d'angoisse les cuivres et violons de la bande de son de matrix cherche aussi ce sentiment d'angoisse pour soutenir l'image du film.
 	- La pensée de l'[[Accélérationisme]] pousse à utiliser ses technologies et non de les appréhender. Il ne faut plus subir les sciences fiction mais crée les nôtres en développent notre lien avec la machine.
-	- PAGE 99
+- Pour Eshun le future sonore sera un son [[Post-Humanisme]] et la musique accompagne le glissement de l'humanité vers le post humain par l'usage des technologies.
+	- Le Breakbeat particulièrement en serait l'exemple car dans sa composition il se rapproche de l’impact physique que réserve le futur post-humain apocalyptique
+		- *La science du breakbeat et sa capacité à saisir cet instant de surhumanisation forment un exemple éloquent: le funk assuré par un batteur en chair et en os (une captation de huit secondes de la force vitale de Gregory Coleman sur « Amen, My Brother », des Winstons) se mue en une forme qui met en acte son propre dépassement.*
+		- Le breakbeat permet de rompre avec la perception humaine
+- La production musicale synthétique permettrait à la fois d’illustrer de manière sonore le changement de paradigme dans notre ère digitale et post-humaine, ainsi que de manipuler et influencer le futur d’une manière hyperstitionnelle
+- Le son synthétique serait le seul à investir le futur et donc à pouvoir l'influencer
+	- *Quiconque qui contrôle le synthétiseur contrôle le son du futur, parce qu’il connote l’alien*
+- Conclusion:
+- L’ [[Accélérationisme]] et le digital hardcore font tous les deux preuve d’une critique sévère des nouvelles technologies et tactiques de contrôle social ; mais également preuve de stratégies de réinvestissement, de détournement et de déterritorialisation de ces même armes de contrôle [[Cybernétique]]
