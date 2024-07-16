@@ -30,7 +30,7 @@
 	- Ou d’autres éléments de fétichisation du fast-food et de l’iconographie qui en découle avec Spoonbridge and cherry (collaboration with Van Bruggen) qui décline l’image publicitaire de la cerise rouge et de la cuillère à smoothie
 	- [[Andy Warhol]]: Brillo Soap Boxes, 1964 ![Brillo Boxes](https://iiif.micr.io/imOEx/full/%5E1200,/0/default.jpg)
 	  id:: 65480be3-7ec8-4db9-9289-62be8b4f1216
-		- Des copies exactes d'emballages commerciaux. Tout en concrétisant l’idée selon laquelle l’art devrait imiter la vie, ils soulèvent également des questions sur la manière dont nous identifions et valorisons quelque chose en tant qu’art. Si Warhol a transformé un produit commercial banal en œuvre d’art, comment cette transformation s’est-elle produite ? Étant donné que Warhol a fabriqué de nombreuses boîtes Brillo et les a vendues à des collectionneurs d'art et à des musées, les siennes peuvent également être considérées comme des biens de consommation produits en série.
+		- Des copies exactes d'emballages commerciaux. Tout en concrétisant l’idée selon laquelle l’art devrait imiter la vie, ils soulèvent également des questions sur la manière dont nous identifions et valorisons quelque chose en tant qu’art. Si [[Andy Warhol]] a transformé un produit commercial banal en œuvre d’art, comment cette transformation s’est-elle produite ? Étant donné que [[Andy Warhol]] a fabriqué de nombreuses boîtes Brillo et les a vendues à des collectionneurs d'art et à des musées, les siennes peuvent également être considérées comme des biens de consommation produits en série.
 		- Danto ecrit Après la fin de l'art, ou il traite de ces boites
 - Culture populaire et des médias
 	- Publicité
