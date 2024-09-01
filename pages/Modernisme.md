@@ -1,9 +1,9 @@
-- Le modernisme est une fraction de la [[Modernité]] . Le modernisme est une approche critique de l’art moderne sous un angle formelle.
+- Le modernisme est une fraction de la [[Modernité]]. Le modernisme est une approche critique de l’art moderne sous un angle formelle.
 - Clément GREENBERG esprit de ce modernisme qui cherche à comprendre l’évolution de l’art moderne
 - A travers des textes comme *Avant garde et Kitsch* ou  *[[Modernist Painting, Clément Greenberg]]*
 	- L’art moderne comme matière réflexif qui s’oppose au Kitsch qui lui ne propose rien comme discours. La culture populaire est le Kitsch.
 		- Clément GREENBERG y voit une culture facilement consommable. Il assimile le kitsch à la propagande. Un conception qui rejoint la conception des philosophe de l’école de Francfort
-			- ADORNO pense la ce que la culture produit par les industries culturelles est. Il pense que la culture de masse nous anesthésie. Penser une art autonome, une art qui vit dans son monde propre.
+			- ADORNO pense ce que la culture produit par les industries culturelles. Il pense que la culture de masse nous anesthésie. Penser une art autonome, une art qui vit dans son monde propre.
 - L’art quelque soit le mediums vas vers l’épuration. En cela il produit un discours sur la peinture un méta-discours. La peinture s’offre une auto-critique.
 	- L’architecture aussi se réduit à son essentiel. On quitte petit à petit l’ornementation car elle n’as pas de fonction. Rationalisme et fonctionnalisme
 		- Oscar NIEYEMER: [*Congrès national du Bresil,*](https://www.archdaily.com/773568/ad-classics-national-congress-oscar-niemeyer) 1958-1960
@@ -17,11 +17,12 @@
 		- Un son issu de la musique concrète. Des personnes vont expérimenter les supports de la musique.
 		- Archipel : projet d’organisation des musiques contemporaines
 			- La musique réfléchit à ce qu’elle est. Elle investi l’espace, le temps, le corps, le silence...
-- Un art auto-reflexif > un art qui parle à lui même. Et un art autotélique > Il s’accomplit par lui même. La peinture évolue peut importe le contexte, elle n’est pas sujet à d’autre loi que la sienne > l’autonomie.
+- Un art auto-reflexif un art qui parle à lui même. Et un art autotélique, il s’accomplit par lui même. La peinture évolue peut importe le contexte, elle n’est pas sujet à d’autre loi que la sienne, l’autonomie.
 	- Le modernisme va de l’avant dans un élan de progrès.
-- Il y a déjà eu des démarches moderniste par exemple le socle pour la sculpture chez RODIN est un élément de réflexion. Le socle isole la sculpture et le détache du monde
+- Il y a déjà eu des démarches modernistes par exemple le socle pour la sculpture chez RODIN est un élément de réflexion. Le socle isole la sculpture et le détache du monde
 	- ((6564d3ba-4f2c-4a1e-a164-cefd34115fbc))
-		- L’artiste joue du statut ou la sculpture est a peine finit où la matière est la et que la sculpture vas advenir, l’artiste va donner formes. Entre deux entre la base et la sculptures
+		- L’artiste joue du statut ou la sculpture est a peine finit où la matière est la et que la sculpture vas advenir, l’artiste va donner formes.
+		- Entre deux entre la base et la sculptures
 	- Son élève Constantin BRANCUSI va suivre ces réflexions sur le socle.
 		- BRANCUSI: [*Adam et Eve*](https://www.guggenheim.org/artwork/663), 1921 ![Constantin Brancusi, Adam and Eve, 1921 (Adam and Eve executed separately ca. 1916). Oak (Eve) and chestnut (Adam) on limestone base, 94 x 18 3/4 x 18 1/4 inches (238.8 x 47.6 x 46.4 cm) overall](https://www.guggenheim.org/wp-content/uploads/1921/01/53.1329_ph_web-1.jpg)
 			- Le socle fait parti intégrante de la sculpture.
@@ -29,11 +30,11 @@
 	- Alberto GIACOMETI: [*Petit buste de Silvio sur un double socle*](https://www.fondation-giacometti.fr/fr/database/163677/petit-buste-de-silvio-sur-double-socle), 1943 ![Fondation Giacometti - [Petit buste de Silvio sur double socle]](https://www.fondation-giacometti.fr/images/168511_01.jpg)
 	- Carl Andre: [*Uncarved Blocks*](https://sammlung.kunstmuseum.de/artwork/uncarved-blocks-vancouver-1975/), 1975 ![](https://sammlung.kunstmuseum.de/cms/wp-content/uploads/2020/05/Andre-UncarvedBlocks-5-Detail-B1920pix-72dpi5-1024x651.jpg)
 		- A la rencontre des Mégalithes du site de Stonehenge développe un langage modulaire qui lui permet de déployer la sculpture dans l’espace comme un mégalithes
-			- Faire de la sculpture un lieu > Un lieu qui nous inclut dans l’espace
+			- Faire de la sculpture un lieu, Un lieu qui nous inclut dans l’espace
 		- Travail sur la sculpture horizontal ((65480be3-eb6e-476e-8e48-200bc5c97e96))
-	- Didier VERMEIREN qui investi le dispositif mobilier dus socle. Il expose les moules du socle. Ce sont de socle inverser.
+	- Didier VERMEIREN qui investi le dispositif mobilier dus socle. Il expose les moules du socle. Ce sont des socles inversés.
 		- Didier VERMEIREN: [*Open Cube #10*](https://www.lalibre.be/culture/arts/2022/09/09/avec-didier-vermeiren-le-socle-devient-sculpture-H5DZNDCH4JG2BN5OYIHNPJUGEI/), 2020 ![Avec Didier Vermeiren, le socle devient sculpture - La Libre](https://cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/M4PPJPY4QJEZJD35ZLZNMMFI2Y.jpg)
-		- Des socles sur des socles > Les socles ne sont pas des socles ils sont sculptures. > Il produit un méta-discours sur le socle
+		- Des socles sur des socles, les socles ne sont pas des socles ils sont sculptures. Ils produisent un méta-discours sur le socle
 - ((65480be3-66f3-4e24-a990-e1bc58df233a))
 	- Fusionne le support et la couleur en crée des papiers de couleur verte. Le support c’est la couleur
 		- Elle se rend aussi compte que la peinture c’est aussi une expérience d’espace

@@ -3,7 +3,7 @@
 	- Conception Trans-historique de l’originalité
 		- Grande originalité: qui dispose d’un existence digne de ce nom
 		- Le talent qui permet à l’artiste de sortir d’un temps donné
-- Position [[Académie - Beaux-Arts]] : Pour les académicien..nes, l’originalité, articulant idéal classique de l’antiquité et sentiment de l’artiste, ne peut se passer d’une codification de la technique, seul moyen permettant de garantir l’expression de cette valeur.
+- Position [[Académie - Beaux-Arts]] : Pour les académicien..nes, l’originalité, articule un idéal classique de l’antiquité et sentiment de l’artiste, ne peut se passer d’une codification de la technique, seul moyen permettant de garantir l’expression de cette valeur.
 - Singularité qui amène l’acte créateur..ice: originalité privée et subjective
 	- Position des [[Avant-Gardes "Historique"]] : Les indépendant..es, privilégiant l’expression d’un contenu individuel, favoriseront la marque individuelle et innovation technique impliquant une forme de dépassement de cette codification.
 - Notion D’originalité chez Auguste Rodin:
@@ -16,11 +16,11 @@
 - Certain gestes des Néo Avant-Gardes américaines:
 	- Repenser l’originalité à travers le [[Cubisme]] ou certains gestes des Néo-Avant Gardes américaines :
 	- ### [[Robert Rauschenberg]] :
-		- [[Robert Rauschenberg]]: Rebus, 1955 ![Robert Rauschenberg. Rebus. 1955 | MoMA](https://www.moma.org/media/W1siZiIsIjM3NTAwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MTQ0MFx1MDAzZSJdXQ.jpg?sha=17d483a7ea7be817)
+		- [[Robert Rauschenberg]]: ![Robert Rauschenberg. Rebus. 1955 | MoMA](https://www.moma.org/media/W1siZiIsIjM3NTAwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MTQ0MFx1MDAzZSJdXQ.jpg?sha=17d483a7ea7be817)
 		  id:: 653ee430-ea46-423d-bc49-678fabe0e42a
 		- Produit à partir d’un matériel reproductible, non-original, a savoir des images reprises de la culture populaire pour la plupart et réagencés de manières aléatoire sur les trois panneaux
 		- Reprend les ((657053ca-41ba-45fe-bbaa-9122a695274c)) du [[Black Mountain College]] et créer une ligne d’horizon composé par des collages de Pantone
-			- Rapport situationnel des éléments picturales:
+			- Rapport situationnel des éléments picturaux:
 			- Usage d’éléments issues du langage artistique et d’autres du langage public
 			- Environnement visuel mis en commun dans la toile
 				- Vient à inquiéter le culte de originalité
@@ -35,7 +35,8 @@
 					- c’est aussi une stratégie d’appropriation de motifs existants
 		- [[Jasper Johns]]: Cans ![Cans Ale, 1964 de Jasper Johns | Reproductions D'art Jasper Johns |  ArtsDot.com](https://artsdot.com/ADC/Art-ImgScreen-4.nsf/O/A-8XYBJG/$FILE/Jasper_johns-ale_cans.Jpg)
 		  id:: 653ee430-b774-4c95-a86c-b76061c0e54d
-		- Une lecture qui s’opère à une période du [[Ready-made]] > Cette mis en crise  de l’originalité doit beaucoup à la lecture critique de l’[[Expressionnisme Abstrait Américain]] qui se centre sur l'originalité subjective de l'auteur..ices
+		- Une lecture qui s’opère à une période du [[Ready-made]]
+			- Cette mis en crise  de l’originalité doit beaucoup à la lecture critique de l’[[Expressionnisme Abstrait Américain]] qui se centre sur l'originalité subjective de l'auteur..ices
 			- La répétition du culte de l’originalité en tant que l’originalité de l’objet et la singularité de l’artiste témoin d’un geste singulier
 		- Se prenant comme témoin de l’originalité de l’œuvre et de la singularité artistique cela conduit à une capitalisation des œuvres extrêmement importantes
 			- [[Jackson Pollock]] : [*Number 5*](https://en.wikipedia.org/wiki/No._5,_1948), 1948 ![No.5 and Jackson Pollock's Groundbreaking Style and Technique](https://www.singulart.com/blog/wp-content/uploads/2019/08/number-5.jpg)

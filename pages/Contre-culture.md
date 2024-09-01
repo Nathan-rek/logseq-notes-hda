@@ -22,7 +22,7 @@
 - Le process de destruction est très présent dans les contre-cultures
 	- La tabula-rasa
 	- Nihilisme active : détruit pour construire quelque choses d'autres
-	- L' ordre sauvage: violence, dépense et sacré dans l'art des années 1950 - 1960 : L'artiste qui se crée une figure para-religieuse
+	- L'ordre sauvage: violence, dépense et sacré dans l'art des années 1950 - 1960 : L'artiste qui se crée une figure para-religieuse
 	- Dernier sursaut d' [[Utopie Moderne]] par la déstruction
 		- La nouvelle ontologie de la musiue de [[John Cage]] a influencer la destruction d'instrument des [[Fluxus]]
 		- Hanatarash: [*performance 1985*](https://www.facebook.com/watch/?v=1530676013997212) ![Bulldozer Incident | Mapping Japanese Noise](https://www.johnaulich.co.uk/japanesenoise/wp-content/uploads/2015/04/bulldozer.jpg)

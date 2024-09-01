@@ -1,10 +1,10 @@
-- L’art minimal se développe dans les années 1960 au état-unis, conteste les théories modernistes de Clément GREENBERG [[Modernist Painting, Clément Greenberg]] et ses applications sur l’[[Expressionnisme Abstrait Américain]]
-- Un des héritages du minimalisme est Ludwig Mies van Der ROHE «less is more» un artiste du [[Bauhaus]] de Dressau s’étant exporte à Chicago, l'amélioration d'une œuvre se faisant selon les minimalistes par soustraction.
+- L’art minimal se développe dans les années 1960 au Etats-Unis, conteste les théories modernistes de Clément GREENBERG [[Modernist Painting, Clément Greenberg]] et ses applications sur l’[[Expressionnisme Abstrait Américain]]
+- Un des héritages du minimalisme est Ludwig Mies van Der ROHE *«less is more»* un artiste du [[Bauhaus]] de Dressau s’étant exporte à Chicago, l'amélioration d'une œuvre se faisant selon les minimalistes par soustraction.
 - Contre cette automatisation de l’œuvre. Naît la nécessité de proposer des gestes artistiques accompagnés par une théorisation du geste. Les artistes eux..lles mêmes produisent des discours dans les formes artistiques. Les courants de pratique féministe vont aussi se développer par la production d’un discours théorique. Il y a la nécessité de produire un récit théorique pour crée un territoire libre et reprendre la main sur la théorie.
 	- Robert MORRIS: *Note sur la critique* : conteste la légitimité de la lecture des critiques, un texte qui redéfinie un langage de la sculpture.
 	  id:: 661023c8-d69b-4690-852f-8f15194c71a1
 		- Valorise des concepts de verticalité et d’espace; apparaît la notion de gravité: relation entre le constant connu et les conditions spatiales ce qui laisse une compréhension variable du volume.
-	- Brian O’DOHERTY: médecin qui se rapproche de la scène artistique et réalise un White cube (revue) qui conserve plusieurs élément ( texte audio vidéo schéma ) qui montre une scène artistique en ébullition, comment la [[Modernité]] a produit le [*White Cube*](https://www.lespressesdureel.com/ouvrage.php?id=1423&menu=0)
+	- Brian O’DOHERTY: médecin qui se rapproche de la scène artistique et réalise un White cube (revue) qui conserve plusieurs éléments (texte audio vidéo schéma) qui montre une scène artistique en ébullition, comment la [[Modernité]] a produit le [*White Cube*](https://www.lespressesdureel.com/ouvrage.php?id=1423&menu=0)
 - ## Peinture
 - Les artistes minimalistes et les peintres désirent limiter toute trace de fracture picturale ou d’intervention de la main du peintre. Dans un  dépassement de la peinture moderniste, les peintres vont venir hybrider le medium de la peinture et le démantelant de sa structure d’objets
 	- Frank STELLA cherchait à se dissocier de l’ [[Expressionnisme Abstrait Américain]] et a cherché à isoler les différents éléments constitutifs de la peinture: châssis, toile, couleur, format
@@ -16,16 +16,16 @@
 	- Pour cela il réduit notamment l’utilisation de forme se contraignant à une géométrie simple de rond, carré, ligne droites
 		- Frank STELLA: [*Bonne Bay*](http://www.artnet.fr/artistes/frank-stella/bonne-bay-a-5xu4JxR2GX6Fx5Hd6oPWjg2), 1971
 			- https://www.artnet.fr/WebServices/images/ll2297695llgnme52CfDrCWvaHBOAD/frank-stella-bonne-bay.jpg
-	- Afin de quitter les condition picturales classiques il explore des formats de toiles nouveaux, irrégulier ou la formes dépeintes est en plein pouvoir
+	- Afin de quitter les conditions picturales classiques il explore des formats de toiles nouveaux, irrégulier ou la formes dépeintes est en plein pouvoir
 		- Frank Stella: [*Moultonboro III*](https://www.artnet.com/artists/frank-stella/moultonboro-iii-from-the-irregular-polygon-series-VBg6eu5YmAS1ACUZTjJ9lw2),1966 ![Moultonboro III from the irregular polygon series by Frank Stella on artnet](https://www.artnet.com/WebServices/images/ll00193lldSy9GFgneECfDrCWvaHBOcUbaE/frank-stella-moultonboro-iii-(from-the-irregular-polygon-series).jpg)
 		  id:: 663c97fd-ea76-4c1b-9e28-bbc82ab79b16
 		- Il souligne l’image comme objet plutôt comme de l’image comme représentation de quelque chose, que ce soit dans le monde physique ou dans le monde émotif de l’artiste
-- D’autre artistes ont entreprit des expérimentation picturale similaire à celle de STELLA dans l'exploration des signes et les procèdes
+- D’autres artistes ont entreprit des expérimentations picturales similaires à celle de Stella dans l'exploration des signes et les procédés
 	- Ellsworth KELLY aussi se limitait à des couleurs en aplat mais d'un façon différentes des peintres du [[Color-Field Painting]]
 		- Ellsworth KELLY: [*Spectrum Colors Arranged by Chance II*](https://www.tate.org.uk/tate-etc/issue-16-summer-2009/sixty-years-full-intensity), 1951 ![Ellsworth Kelly Mediterranee 1952](https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/ellsworth-kelly-mediterrane_0.width-340.jpg)
 			- Il l'a créé en utilisant des bouts de papier numérotés; chacun faisait référence à une couleur, une parmi dix-huit teintes différentes à placer sur une grille de 40 pouces sur 40 pouces. Chacun des huit collages utilisaient un procédé différent
-- La couleur comme élément pictural primordiale a été un principe que les minimalistes ont beaucoup travaillé..es, par les interaction des KELLY les structures de STELLA mais aussi par une interaction du blanc avec le blanc.
-	- L’artiste [[Robert Ryman]] a questionné beaucoup l’interaction du blanc en les confrontants à lui-même.
+- La couleur comme élément pictural primordiale a été un principe que les minimalistes ont beaucoup travaillé..es, par les interaction des Kelly les structures de Stella mais aussi par une interaction du blanc avec le blanc.
+	- L’artiste [[Robert Ryman]] a questionné beaucoup l’interaction du blanc en les confrontant à lui-même.
 		- [[Robert Ryman]] : [*Four Aquatints and One Etching: one print*](https://www.artnet.fr/artistes/robert-ryman/four-aquatints-and-one-etching-one-print-xPw1yzwygPtfgZ0K0UvDOQ2), 1991 https://www.artnet.fr/WebServices/images/ll00074lldFJ3JFgUNECfDrCWvaHBOcXRmG/robert-ryman-four-aquatints-and-one-etching:-one-print.jpg
 			- L’œuvre est une double surface. Dans ce dépassement de la peinture [[Modernisme]] le peintre veut venir hybrider le medium de la peinture et le démantelant de sa structure d’objets
 - ### Sculptures
@@ -38,5 +38,5 @@
 		- Donald JUDD: [*Untitled*](https://bkdh.nl/en/kunstwerken/untitled-object/) (Acier),1982 ![Untitled object - Buitenkunst Den Haag](https://bkdh.nl/app/uploads/2021/06/DH500_06.jpg)
 - Les sculptures minimalistes invitent les spectateur..ices à se mouvoir dans les œuvres minimales
 	- Richard SERRA: [*Promenade*](https://www.paris-art.com/monumenta-2008-promenade/), 2008 ![Monumenta 2008, une promenade avec Richard Serra - archéologie du futur /  archéologie du quotidien](https://idata.over-blog.com/0/41/70/57/Exposition/Promenade--installation-de--Richard-Serra---Monumenta-2.jpg)
-		- Ces promenades étaient «rythmées» par de la musique, et notamment celle de Philip GLASS ( artiste minimaliste )
+		- Ces promenades étaient «rythmées» par de la musique, et notamment celle de Philip Glass( artiste minimaliste )
 - ### [[Art et Objectité]]

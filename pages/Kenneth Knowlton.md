@@ -1,3 +1,4 @@
-- Un des premiers artiste à intégrer une forme de commentaire social dans les œuvres du [[Computer Graphic Art]] de l’époque
-	- Kenneth KNOWLTON: [*Universal Declaration of Human Right*](http://dada.compart-bremen.de/item/artwork/1267), 1970 ![](http://dada.compart-bremen.de/imageUploads/medium/knowl_face.jpg)
+- Un des premier artiste à intégrer une forme de commentaire social dans les œuvres du [[Computer Graphic Art]] de l’époque
+	- Kenneth KNOWLTON: [*Universal Declaration of Human Right*] ![Kenneth-Knowlton—Universal-Declaration-of-Human-Rights | 16 Couleurs](https://16couleurs.wordpress.com/wp-content/uploads/2015/01/kenneth-knowlton-universal-declaration-of-human-rights.jpg?w=624)
 - Une figure artistique et scientifique Kenneth est un membre important dans exposition ICCH/2 qui vient à amener l’art informatique dans le monde de l’art à travers un regard sur la sensibilité
+-

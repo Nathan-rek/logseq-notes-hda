@@ -35,3 +35,5 @@
 			- Un donné peut donc être lacunaire, on perçoit les vagues juste en les entendants au loin
 				- Un évènement qui se passe sans témoin mais qui se donne à un être lors de la présence possible de témoin devient donc une donné lacunaire mais envisageable or l'ancestral a un problème car la donation même de l'événement ne peut être perçues
 	- La science elle conçoit ces espaces temps antérieur à la conscience et la donation elle même
+- *« La contingence […] est quelque chose qui finit par se produire—quelque chose d'autre, quelque chose qui, dans son irréductibilité à toutes les possibilités pré-enregistrées, met un terme à la vanité d'un jeu où tout, même l'improbable, est prévisible. »*
+  id:: 66d34cae-f1f1-4b84-b296-3804e410b377

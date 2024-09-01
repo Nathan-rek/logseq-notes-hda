@@ -1,5 +1,5 @@
 - Philippe DESCOLA: [*Les lances du crépuscule*](https://www.babelio.com/livres/Descola-Les-Lances-du-crepuscule/1418267) récit ethnographique:
-- Pensée occidentales: Dialectique séparation entre Nature et Culture: L’instauration en tant que l’humain..e comme sujet actif et la nature comme passive > Système marquant du progrès technologique > Au fondement du rationalisme occidentale:
+- Pensée occidentales: Dialectique séparation entre Nature et Culture: L’instauration en tant que l’humain..e comme sujet actif et la nature comme passive. Système marquant du progrès technologique > Au fondement du rationalisme occidentale:
 	- Objectivisation de la nature comme ressources
 - L’entité culturelle humaine qui ne se soustrait pas d’une instance naturel > Écosystème
 - Contre cette polarité:
@@ -9,13 +9,14 @@
 	- Vers une inflexion du Land Art: intrusion dans l’espace naturel à des fins artistiques ((65d3770b-3fc2-421c-924c-2827dbeada7c)) > Charrie un système de domination de l’humain..e sur la Nature
 	- A l’inverse de ces modalités d’actions elle tente de mettre en place une conception matricielle: Laisse la marque de son corps à travers des moyens naturelles > Métamorphose entre le geste culturelle humain..es et le geste naturelle
 	- Système symbolique de représentation de l’humain
-- [[Aby Warbug]] : [*Le rituel du serpent*](https://journals.openedition.org/critiquedart/1844) :texte de conférence > Suite à un séjour à l’hôpital psychiatrique > On attend que Aby témoignage de la maîtrise de ses capacités intellectuelles:
+- [[Aby Warbug]] : [*Le rituel du serpent*](https://journals.openedition.org/critiquedart/1844): texte de conférence donnée suite à un séjour à l’hôpital psychiatrique
+	- On attend que Aby témoignage de la maîtrise de ses capacités intellectuelles:
 	- Interroge précisément cette dialectique nature culture: La schizophrénie viendrait de cette dialectique créant des traumas psychiques de nature variable
 	- En ce remémorant un voyage avec une culture ( ) ou tout une série de rituel opèrent des rencontres entre des motifs culturelles et naturels
 	- Le rituel du serpent:
 		- Séquence qui s’accompagne par le prélèvement d’un animal (serpent) vis à vis du quelle des actions de soins vont être opérées
 			- Lavement / prière… L’évènement au centre du rituel est une danse en ronde ou les hommes de la communauté sont vêtus d’éléments sonores et picturales. Lors des rondes ils vont venir à ingérer le serpent dans leurs gorges pour ensuite le ressortir
-			- Le rituel prend pas lors de sécheresse > invocation des pluies
+			- Le rituel prend pas lors de sécheresse, invocation des pluies
 				- Le serpent animal dispose d’une puissance de médiation entre le monde aérien et sous terrain
 	- Déceler des rituels où s’opère non pas une opposition mais une relation entre nature/culture
 	- Le Denkraum: espace de pensée propre au sociétés primitives: qui situe et met en relation des instances agissantes dans des écosystèmes > Crée un espace de pensée ou les éléments sont liés tout en gardant leur distance et dispose de leurs propre intégrité mais constitue un système constellaire un espace de pensé > un Denkraum

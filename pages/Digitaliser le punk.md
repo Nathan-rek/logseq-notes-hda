@@ -11,7 +11,7 @@
 - Le changement des sociétés disciplinaire aux sociétés de contrôles.
 	- La disciplines ne se fait plus que dans les lieux d'enfermement (panoptique Foucault) mais dans le contrôle de façon plus insidieuses.
 		- Un glissement qui est rendu possible par les technologies computationelle. Cette position de Deleuze touche aux enjeux de la [[Cybernétique]].
-		- Cette enjeux de prédiction des corps est pour Deleuze en liens avec les systèmes de contrôle
+		- Cette enjeux de prédiction des corps est pour Deleuze en liens avec les systèmes de contrôles
 			- La transmission d'informations est le contrôle pour Deleuze
 	- Le but n'est pas de ce placer contre ces nouveaux systèmes mais d'en trouver les armes "*Teenage Riot*"
 - ## Un son galvanisant
@@ -45,13 +45,13 @@
 - Le danger pour Sutter est ce qui surgit et ce qui ne doit pas être.
 	- Le danger et le revers de la médaille de la propriété privée bourgeoise
 	- Pour qu'il y est danger il faut qu'il y est un dehors il faut définir le dedans
-		- Dans l'hypothèse de Tiqqun le système [[Cybernétique]] tend vers un hyper-sécuritarisme qui vise la répression et suppression de de ton contestation et  toue marginalité.
+		- Dans l'hypothèse de Tiqqun le système [[Cybernétique]] tend vers un hyper-sécuritarisme qui vise la répression et suppression de de ton contestation et toute marginalité.
 			- Le danger pour le cybernéticien est tout ce qui échappe au système
-				- Pour cela le système crée la crainte pour garder les individu dans le système un contrôle des corps par la peur
+				- Pour cela le système crée la crainte de la marginalité pour garder les individus dans le système un contrôle des corps par la peur
 				- Pour Sadie Plant et Nick Land cette crainte de l'autre et cette paranoïa est la base du fonctionnement sociétal [[Cybernétique]].
 - Sutter parle d'un danger qui se fait premièrement comme expérience esthétique. Il est reçu au travers de sa manifestation sensible
 	- Les outils [[Cybernétique]] pourrait être utilisés au profit de contestations contre culturelles futuriste qui exploiterait une esthétique du danger *cybepositive* par la culture du chaos
-	- La mise ne place d'un état de panique est quelque chose que ferait panique les cybernéticien..nes le [[CCRU]] le défend avec notamment la musique jungle qui amènerait les individus dans un état de panique.
+	- La mise en place d'un état de panique est quelque chose que ferait panique les cybernéticien..nes le [[CCRU]] le défend avec notamment la musique jungle qui amènerait les individus dans un état de panique.
 		- Cette panique est accompagné par le changement de millénaire le *Y2KPANIC*
 			- La panique en tant que résultat du chaos, arriverait à sortir des clous et du contrôle [[Cybernétique]]
 - # La phonofiction : investir dans le futur

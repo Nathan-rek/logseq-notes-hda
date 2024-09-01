@@ -16,6 +16,7 @@
 		- Aloïse Corbaz ![Collection de l'Art Brut - Corbaz, Aloïse](https://www.artbrut.ch/thumbnails/s3/w750/historic/artworks/f0a26215d239962c366af3ed2cff60db.png)
 			- N'est pas une artiste apriori, elle est internée et commence à dessiner avec ce qu'elle à sous la main -> [[Bricolage]] pratique [[Amateurisme]]
 		- Adolf Wölfli ![Collection de l'Art Brut - Wölfli, Adolf](https://www.artbrut.ch/thumbnails/s3/w750/historic/artworks/d76ded66684d733a7e6b8c7aede445ef.png)
+		  collapsed:: true
 			- Wöfli travaillait comme bucheron puis va être emprisonné et interné
 				- Se met à dessiner en N&B de façon compulsives tout en suivant une architecture qui lui est propre
 				- L'horror Vacui: la peur du vide
@@ -25,23 +26,23 @@
 - Paul Meunier
 - *Que tout ces créateurs dévoilent la nudités des mécanismes de créations / Ces créateurs sont aux maitres ce qu'est la poussiere de charbon est au diamant*
 - Lieu [[Hétérotopie]] où les œuvres restes
-	- L'abbaye de Fouré - Rothéneuf ![Art Brut - Quand l'abbé Fouré sculpte les rochers de Rothéneuf](https://www.pleinevie.fr/wp-content/uploads/pleinevie/2015/08/Art-Brut-Quand-l-abbe-Foure-sculpte-les-rochers-de-Rotheneuf-scaled.jpg)
+	- L'abbaye de Fouré - [*Rothéneuf*](https://rochersrotheneufartbrut.com/abbe-foure/) ![Art Brut - Quand l'abbé Fouré sculpte les rochers de Rothéneuf](https://www.pleinevie.fr/wp-content/uploads/pleinevie/2015/08/Art-Brut-Quand-l-abbe-Foure-sculpte-les-rochers-de-Rotheneuf-scaled.jpg)
 		- Suite à un accident se met en posture de retrait et se met à sculpter le bois la pierre et la roche elle même à front de mer
 	- Le palais idéal du Facteur Cheval ![Drôme : que voir autour du palais idéal du facteur Cheval](https://lecaillouauxhiboux.fr/uploads/articles/hauterive/palais-ideal-du-facteur-cheval.jpg)
 		- Suite à un trébuchement sur un pierre qu'il considère de pierre d'abouchement
 			- Pré-art: dans la capacité à reconnaitre une silhouette dans la nature
 		- Le temple prend une forme éclectique intrigante
 		- Fabrication d'un tombeau, une [[Hétérotopie]] éternelle
-	- Huang Yung-Fu: *Rainbow Village*, Taiwan ![Village Arc en Ciel de Huang Yung Fu - NetKulture](https://www.netkulture.fr/data/images/2022/02/rainbow_village2.jpg)
+	- Huang Yung-Fu: [*Rainbow Village*](https://en.wikipedia.org/wiki/Rainbow_Village)*, Taiwan ![Village Arc en Ciel de Huang Yung Fu - NetKulture](https://www.netkulture.fr/data/images/2022/02/rainbow_village2.jpg)
 		- Ancien village militaire qu'un quadragénaire qui y vivait encore se met à peindre
 - Les artistes vont au delà du paradigme de l'éxposabilité
-- Robert Garcer: Tour d'Eben-Ezer ![Tour d'Eben-Ezer — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/From_the_south_with_stairs_and_door_Eben-Ezer.jpg/260px-From_the_south_with_stairs_and_door_Eben-Ezer.jpg)
+- Robert Garcer: [*Tour d'Eben-Ezer*](https://fr.wikipedia.org/wiki/Tour_d%27Eben-Ezer) ![Tour d'Eben-Ezer — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/From_the_south_with_stairs_and_door_Eben-Ezer.jpg/260px-From_the_south_with_stairs_and_door_Eben-Ezer.jpg)
 	- Cherche dans le sol des cailloux qu'il trouve remarquables
 		- Il les extraits et invente une fiction du monde autour de cela
 - Gordon Brinckle ![Gordon Binckle | lenscratch](https://lenscratch.files.wordpress.com/2011/09/01_project_ch1_0151a1.jpg)
 	- Fan du monde du cinéma, particulièrement les lieux de diffusion
 	- Il va y crée un espace à soi: un cinéma miniature
-- Mingering Mike ![Mingering Mike Superstar: Imagined credulities | Bidoun](https://public.bidoun.org/images/2015/10/mingeringmike_1_feature.jpg)
+- [Mingering Mike](https://www.mingeringmike.com/) ![Mingering Mike Superstar: Imagined credulities | Bidoun](https://public.bidoun.org/images/2015/10/mingeringmike_1_feature.jpg)
 	- Dessinée des vinyles cartonnées dessinées au marquer
 		- Avec à l'intérieur des disques en cartons
 -
