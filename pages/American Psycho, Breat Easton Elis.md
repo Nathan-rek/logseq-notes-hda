@@ -1,21 +1,19 @@
 - Bret Easton Elis, *American Psycho* : Basé sur un contexte entrepreneurial d’une entreprise qui gère des fonds pour faire fructifier de l’argent début de rapport à la virtualité.
-  title:: American Psycho, Breat Easton Elis
 	- Psychose qui née entre les contraintes pulsionnelles et sociétales qui se caractérise dans le comportement du personnage Patrick Bateman
-		- Bateman incarne l'autotélisme et l''hyper-individalite.
-			- Il particpe a sa propre constrcution narrative en dehors de tout réele consideration a aleutre a en voir les conversation lunaire avec les autre entrepreneur.
-			- Dans cette exercice de construction il Ets en total écoute de ses pulsion, le poussant a l'immoral.
+		- Bateman incarne l'autotélisme et l''hyper-individualité.
+			- Il participe à sa propre construction narrative en dehors de tout réelle considération à l'autre à en voir les conversations lunaires avec les autres entrepreneurs.
+			- Dans cette exercice de construction il est en total écoute de ses pulsions, le poussant à l'immoral.
 - ## “Surface, surface, surface was all that anyone found meaning in”: American Psycho and the Pictures Generation by Todd Giles
-- L'hystérie post-moderne du genre masculin  que propose le personnage de P.Bateman est accompagné d'œuvre de la [[Pictures Generations]].
+- L'hystérie post-moderne du genre masculin que propose le personnage de P.Bateman est accompagné d'œuvre de la [[Pictures Generations]].
 	- La consommation comme lien à sa société il est un serial consumer de bien et de personnes
-	- L'etude du genre sous le spectre cinématographique a permis d'élaboré une thèse qui suggere dans les film des années 2000
-		- *representations of a certain kind of ‘masculinity lost’ in this cinema collided with the fallout of
-		  a contemporary elegiac gender politic that suggested that insome way life for the modern male was (almost) irreparably damaged by accelerated forces of consumer culture and image- and commodity-fetishism”*
-- L'un des points de la [[Pictures Generations]] est le *serial art* la production en série d'on font preuves les artiste est un lien qu'il entretienne avec la critique de la manipulation de l'image produite par les mass-media. Influencer par le [[Pop-Art]] la production en série à cette période est un geste théorique une envie de fondre l'images.
-	- L'un des point commun entre la [[Pictures Generations]] et Bateman c'est la perte d'identité. La crise identitaire post-modern est un sujet que les artictes de la [[Pictures Generations]] embaresse. Le cas de [[Cindy Sherman]] est parlant elle explore les pluri identités que le cinéma propose a travers des séries de photos *Untitled Film Stills*
+	- L'étude du genre sous le spectre cinématographique a permis d'élaboré une thèse qui suggère dans les film des années 2000
+		- *representations of a certain kind of ‘masculinity lost’ in this cinema collided with the fallout of a contemporary elegiac gender politic that suggested that insome way life for the modern male was (almost) irreparably damaged by accelerated forces of consumer culture and image- and commodity-fetishism*
+- L'un des points de la [[Pictures Generations]] est le *serial art* la production en série d'on font preuves les artiste est un lien qu'il entretienne avec la critique de la manipulation de l'image produite par les mass-média. Influencer par le [[Pop-Art]] la production en série à cette période est un geste théorique une envie de fondre l'images.
+	- L'un des point commun entre la [[Pictures Generations]] et Bateman c'est la perte d'identité. La crise identitaire post-moderne est un sujet que les articles de la [[Pictures Generations]] embarrasse. Le cas de [[Cindy Sherman]] est parlant elle explore les pluri identités que le cinéma propose a travers des séries de photos *Untitled Film Stills*
 		- [[Cindy Sherman]] [*Untitled Film Still #56*](https://www.artic.edu/artworks/72442/untitled-film-still-56), 1980 ![Untitled Film Still #56 | The Art Institute of Chicago](https://www.artic.edu/iiif/2/7a4b9f82-ff54-4cac-e1e6-36aa87c636b3/full/843,/0/default.jpg)
 		- Poster présent de Bateman. Dans le travail de [[Cindy Sherman]] il a une envie de se retrouver dans les représentation crée par le film comme Bateman a une envie de de retrouver dans les formats que la société crée. Il le dit dans le taxi au téléphone avec sa femme *I just want to fit in*.
 		- Dans cette œuvre précise de Sherman, le miroir, un élément très présent chez Bateman, est également mis en avant. Le film comporte plusieurs scènes intenses de regards dans le miroir.
-- Dans l'appartement de Bateman on retrouve des exemplaire du travail en serie de ((661023c7-1c8e-433a-9a6f-9e76d85c7a99))
+- Dans l'appartement de Bateman on retrouve des exemplaire du travail en série de ((661023c7-1c8e-433a-9a6f-9e76d85c7a99))
 - La possession de ces œuvres fait de Bateman un collectionneur assidu et riche d'art contemporain. Les monochromes sont une marque forte d'acquisition pour les amateurs d'art contemporain, en plein acte moderne. Cela constitue un acte souvent controversé en raison des prix exorbitants des œuvres et des critiques esthétiques générales défavorables.
 	- Son intérêt pour l'art contemporain est celui du marché pas des œuvres, il ment sur le prix des œuvres qu'il achète
 	- La manque de contenu figuratif est parlant de Bateman il cherche à se fondre à ressembler au cadre d'à coté et ainsi de suite.
@@ -24,7 +22,7 @@
 - Ses toiles de Robert Longo présent dans l'appartement de Bateman sont une forme de memento mori discret. Avec se modèles en costume qui se contorsionne comme lors d'une chute avant la mort.
 	- Les modèles n'ont aucun rattachement dans l'espace il tombe dans le vide pur
 - Pour les yuppies d'American Psycho, l'art n'est qu'un enjeu de classe ; ils n'apprécient pas vraiment les œuvres qu'ils convoitent. Bateman préfère porter son intérêt sur la musique pop de son époque, comme Whitney Houston.
-	- La seul toile qu'il apprecie est Sunrise with Broken Plates de David Onica
+	- La seul toile qu'il apprécie est Sunrise with Broken Plates de David Onica
 	  id:: 66bf19bd-8cb3-47e4-bf61-475d6ac83315
 		- David Onica: *Sunrise with Broken Plates*
 		- ![SUNRISE WITH BROKEN PLATES (2004 version) Art Print](https://ctl.s6img.com/society6/img/TUfdUMWarhG-_ba0hKam8tRHrjs/w_700/prints/~artwork/s6-0003/asset_13/334504_mdT2XOFE9O/~~/david-onicas-sunrise-with-broken-plates-2004-version-prints.jpg)

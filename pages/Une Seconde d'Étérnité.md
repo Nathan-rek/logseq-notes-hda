@@ -1,4 +1,4 @@
-- Exposition réalise à la bourse de commerce Pinault Collection inspiré par la question de l'expérience du temps.
+- Exposition réalisée à la Bourse de Commerce Pinault Collection inspiré par la question de l'expérience du temps.
 - Le titre de l'exposition s'emprunte à l'œuvre de [[Marcel Broodthaers]]
 	- ((65d3770e-0a1c-428c-a1c8-b0c81f20b2d0))
 - L'exposition traverse la relation entre Roni Horn et [[Felix Gonzalez-Torres]]

@@ -1,16 +1,18 @@
 - Ecrit en 2002 par [[Nicolas Bourriaud]]
-- les artistes sont les techniciens qualifiés de la postproduction
+- Les artistes sont les techniciens qualifiés de la postproduction
 - La culture comme scénario comment l'art reprogramme le monde contemporain
 - Le ré-emploie de forme ((65398c42-8c9d-442a-b162-6f249a183c3a)) ]) dans un régime de postproduction met à la mal production et consommation.
 	- Le matériaux brut n'est plus la base ce sont des matériaux déjà informées
 - Postproduction prend le contre-pied de [[Esthétique Relationnelle]] il reprend le point de départ de l'arrivé du réseaux numérique comme bouleversement paradigmatique mais contrairement à l' [[Esthétique Relationnelle]] il ne prend pas ce bouleversement comme engrais à de nouvelles pratiques relationnelles mais comment déchiffrer ce nouveaux paysage
 - ### Reprogrammer des oeuvres
-	- Mike Kelley, Paul McCarthy: *Fresh Acconci*, 1995 ![Mike Kelley, Paul McCarthy | Fresh Acconci | Whitney Museum of American Art](https://whitneymedia.org/assets/artwork/34267/2012_11_still.jpeg) font rejouer la performance de Vito Acconci par des mannequins
-	- [[Pierre Huyghe]] : [*Conical Intersect*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cEzLKe), 1997 ![Light Conical Intersect, Event, Paris - Centre Pompidou](https://www.centrepompidou.fr/media/picture/ca/b2/cab2ab8ba47d653b7b569b983bd83bc4/thumb_large.jpg) : projette un film de Gordon Matta-clark sur les lieux de tournage de se film
+	- Mike Kelley, Paul McCarthy: *Fresh Acconci*, 1995 ![Mike Kelley, Paul McCarthy | Fresh Acconci | Whitney Museum of American Art](https://whitneymedia.org/assets/artwork/34267/2012_11_still.jpeg)
+		- Réactive des œuvres passées, ils font rejouer la performance de Vito Acconci par des mannequins
+	- [[Pierre Huyghe]] : [*Conical Intersect*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cEzLKe), 1997 ![Light Conical Intersect, Event, Paris - Centre Pompidou](https://www.centrepompidou.fr/media/picture/ca/b2/cab2ab8ba47d653b7b569b983bd83bc4/thumb_large.jpg)
+	- [[Pierre Huyghe]]  projette un film de Gordon Matta-clark sur les lieux de tournage de se film
 - ### Habiter des styles
 	- [[Felix Gonzalez-Torres]] utilise le vocabulaire de l'art [[Minimalisme]] en les recodants par ses propres intérêts politiques ((65d3770e-1a25-4ab3-8402-a7762f5b422d))
 	- Maurizio Catellan: [*Sans Titre*](https://www.artnet.com/artists/maurizio-cattelan/sans-titre-zorro-1997-vIIcZACXAzy5OlsWNQ73jg2), 1997 ![SANS TITRE ZORRO, 1997 by Maurizio Cattelan on artnet](https://www.artnet.com/WebServices/images/ll00073lldZkVJFgp2qCfDrCWvaHBOcE2UF/maurizio-cattelan-sans-titre-(zorro),-1997.jpg)
-		- repeint le Z de Zoro mais dans le style de Lucio Fontana
+		- Repeint le Z de Zoro mais dans le style de Lucio Fontana
 - ### Usage de l'image
 	- Angela Bulloch redouble le film Solaris de Tarkovsky
 	- Douglas Gordon: [*24 hours Psycho*](https://en.wikipedia.org/wiki/24_Hour_Psycho), 1997 ![Douglas Gordon | Gagosian Quarterly](https://gagosian.com/media/images/quarterly/douglas-gordon/PpFOU8husBGl_585x1170.jpg)
@@ -83,3 +85,10 @@
 		- La galerie est un lieu comme un autres imbriquer dans un mécanisme globale
 - Le travail de [[Philippe Parreno]] part du principe que la réalité est structuré comme un langage et que l'art permet d'articuler ce language
 	- Il expose l'inconscient de la production humaine et l'élève au statut d'un matériau de construction
+- ## L'esthétique après mp3
+- Dans les années soixante le couple production industrielle et consomation de masse sont a leur apogés.
+	- Que ce soit avec le [[Pop-Art]] et ses technique de reproduciton, serigraphie, ben day...
+	- Ou le [[Minimalisme]] et ces productions en acier, aluminium, tôle...
+	- Et [[Art Conceptuel]] marque une esthétique contractuelle qui fond avec l'arrive brutale du service tertiaire.
+		- [[Art & Language]]: [*Index 01*](https://fr.wikipedia.org/wiki/Index_01), 1972 ![Index 01 — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/9/91/Art_%26_language_documenta_5_index_01.jpg)
+		- Des œuvres qui commence a approcher les notions de data de stockage, des opérations qui seront la base de la culture computationnelle qui apparait petit à petit dans ses années.

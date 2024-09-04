@@ -1,0 +1,2 @@
+- On the Concept of Moe [Natalie Terezi Rei Watts](https://www.urbanomic.com/contributor/watts-natalie-terezi-rei/)
+- Le Moe est le fait d'être extrêmement attiré par un personnage de fiction anime

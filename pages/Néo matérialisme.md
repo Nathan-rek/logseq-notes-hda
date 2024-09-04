@@ -1,10 +1,10 @@
 - Le néo matérialisme cherche à actualiser le matérialisme classique, lié au mécanisme par rapport aux avancées de la science
 	- Basée sur des philosophies comme Deleuze, Simondon, Nietzsche...
-		- Ces systèmes philosophique explique le devenir comme l'expression d'une puissance naturelle immanente, laissant émerger les êtres déterminés comme des différences ne cessant de se modifier réciproquement.
+		- Ces systèmes philosophiques expliquent le devenir comme l'expression d'une puissance naturelle immanente, laissant émerger les êtres déterminés comme des différences ne cessant de se modifier réciproquement.
 - La matière est alors réalité ultime dont tout être particulier dépend et, à la fois, comme ce qui n’existe pas hors de ses productions particulières.
 	- La matière n'est pas ce qui doit être mise en forme mais au contraire une puissance qui se détermine
 	- les niveaux de réalité (ou de matérialité) émergeants sont doués des règles d’organisation qui ne sont pas réductibles à celles des niveaux inférieurs, ce qui témoigne de la liberté créatrice, au moins partielle, du devenir
-- L'esprit n'est pas une substance autre que la matière mais une émergence qui trouve ses conditions d’existence dans la libre dynamique du
+- L'esprit n'est pas une substance autre que la matière mais une émergence qui trouve ses conditions d’existences dans la libre dynamique du
   devenir naturel.
 - Par conséquent, il n’y aurait pas à faire de distinction nette entre l’humain et le non-humain
 	- L'humain: système physique capable d’auto-organisation, dont les conditions d’existence et de conservation dépendent, comme pour tout système, de règles d’organisation et du tissu des interactions environnementales.
@@ -14,10 +14,10 @@
 	- La capacité d'un être, d'une personne ou d'une entité, à agir dans un environnement donné
 		- Un comportement inconscient ou involontaires
 		- Une activité dirigée vers un objectif
-	- Gilles Deleuze influence la nouvelle compréhension de l'angect non-humaine.
+	- Gilles Deleuze influence la nouvelle compréhension de l'agent non humain.
 	- Le dualisme classique de la philosophie est celui de Platon et Aristote
 		- Séparent l'esprit et le corps: la conscience et la pensée de tout ce qui est physique.
-			- Dualisme à l'origine de la dichotomie distinctes et oppositionnelles: [[Nature - Culture]], objet sujet, femme homme
+			- Dualisme à l'origine de la dichotomie distinctes et oppositionnelles: [[Nature - Culture]], [[Sujet-Objet]]
 	- Deleuze va donc interroger les distinctions d'une vrai et d'une fausse agency. afin de multiplier la possibilité de manifestation d'agency
 		- Propose une nouvelle définition d’agency:
 			- La volonté humaine avant l'action humaine n'implique pas la conscience humaine, mais la conscience émerge de potentiel «virtuels» dont le corps humain est indissociable.
@@ -29,7 +29,8 @@
 		  toutes les formes de vie organiques situées en dehors de la catégorie humaine.
 			- Mais de nombreux chercheur..euse se détournent de ce cadre et se tournent vers plus qu’humain en raison de la dichotomie problématique au cœur du non-humain.
 			- Décrire quelqu'un comme non-humain, c'est un peu comme décrire une femme comme non-homme, ou un noir comme non-blanc, ou la nature comme une non-culture.
-		- Nous créons un système binaire qui reproduit précisément le type de dichotomie [[Nature - Culture]] , corps/esprit, etc.,
+		- Nous créons un système binaire qui reproduit précisément le type de dichotomie [[Nature - Culture]] , corps/esprit, etc.. Cette dichotomie fait de l'autre une altérite et empeche de la comprendre dans ca valeur intrinsèque.
+			- Pour les néo-matérialistes, il est important de dépasser ces dichotomies pour mieux comprendre les réseaux complexes et imbriqués d'agences et de relations qui composent le monde.
 	- Plus qu'humain
 		- Rompt avec la dichotomie [[Nature - Culture]], le paysage se dessine et évolue, le principe plus qu'humain englobe plus de chose
 - Les néo-matérialismes posent comme principe métaphysique rationnellement accessible la puissance auto-formatrice de la matière permettant aux systèmes singuliers d’évoluer, ou de co-évoluer, selon des règles capables d’engendrer de nouvelles règles : celles-ci sont les conditions rendant la connaissance possible.

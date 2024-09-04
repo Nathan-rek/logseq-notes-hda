@@ -1,5 +1,5 @@
 - Dans la théorie des idées, moment dans l’historie des idées entre le siècle des lumières jusqu’en 1960, s’en suit la [[Post-Modernité]]
-- Perception d’ordre philosophique qui consiste a observer qu’a partir des siècles des lumières, les humain..es commencent à avoir une fois aveugle en la raison
+- Perception d’ordre philosophique qui consiste à observer qu’à partir des siècles des lumières, les humain..es commencent à avoir une foi aveugle en la raison
 	- Concentration sur tout ce qui est observable et que notre raison peut comprendre
 		- Penser initié par Descartes sous la nature n’est plus divin mais est un ensemble de loi qu’on complexe que si l’on comprend nous donne pouvoir.
 			- Ce qui donne lieu au Positivisme, on ne pose plus les pourquoi on se demande les comment, on étudie les fait positifs, toutes puissance de la raison, foi aveugle en la raison, notion de progrès.

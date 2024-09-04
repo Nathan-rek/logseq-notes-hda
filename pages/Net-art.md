@@ -1,4 +1,5 @@
-- Net art = lié au medium> les technologies du «net» sont nécessairement impliquées dans la création, le contenu et la diffusion:
+- Net art = lié au medium> les technologies du «net» sont nécessairement impliquées dans la création, le contenu et la diffusion
+- En 1996 Vuk Ćosić envoi un mail a Alexei Shulgin, mais une erreur d'encodage produit une suite de glyphes indechifrable “[...]J8~g# |/;Net.Art –s1[...]” et le seul moment lisible était Net.art, ce qui donné le nom au mouvement.
 - Tilman BAUMGARTEL:
   
   *«Le net art s’adresse à son propre médium, il traite les conditions spécifique qu’offre internet»*
