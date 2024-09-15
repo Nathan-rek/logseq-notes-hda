@@ -1,10 +1,13 @@
 - Dans *Simulacres et Simulation*, 1981 Baudrillard cherche à analyser les systèmes de diffusion de l’information dans les sociétés contemporaines
-- une modification graduelle de simulacres, allant de l’origine au simulacre en passant par la copie
+- Une modification graduelle de simulacres, allant de l’origine au simulacre en passant par la copie
 - Catégorie de Signe : Un signe qui dépasse l’origine du signe :
 	- Signe Original
+		- Le signe original est une **représentation directe** du réel. Il renvoie à une **réalité concrète** ou à un **référent réel**.
 	- Signe copie
-	- Signe simulacre: le simulacre contrairement a la copie fait comme si l’original n’existait pas, comme s’il venait à dissimuler le référent
-		- Accélération des simulacres ( du au monde contemporaine )
+		- Il s'agit d'une **reproduction** qui reste dépendante de l'original, même si la copie n'est pas parfaitement identique.
+			- **Exemple** : Une photographie d’une œuvre d’art est une copie, une reproduction qui permet de voir l'œuvre, mais qui n'est pas elle-même l'original.
+	- Signe simulacre: le simulacre contrairement à la copie fait comme si l’original n’existait pas, comme s’il venait à dissimuler le référent
+		- Accélération des simulacres ( du au monde contemporain )
 		- Réseaux de simulacre qui nous empêche d’être en contacte avec une réalité existante originale
 		- Culture de la virtualité: culture publicitaire, informatique :
 		- Les etat unis sont dans un processus d'autotelisme soutenu par les politique néo liberal de reagan
@@ -14,7 +17,12 @@
 			- Politique de l’historie américaine caractérisé par la mise en place d’un doctrine économique ultra libérale
 - Pour Baudrillard il y a quatre façons d’obtenir de la valeur
 	- Valeur fonctionnel : objectifs principal d’un objet
-	- Valeur d’échange : Valeur économique d’un objets
+	- Valeur d’échange : Valeur économique d’un objets, elle correspond au prix que l'on est prêt à payer pour acquérir un objet ou à la somme que l’on pourrait recevoir en le vendant.
 	- Valeur Symbolique : valeur attribuer par un sujet part rapport à un autre sujet
-	- Valeur de signe : la valeur d’un objet au sien d’un système d’objet
+	- Valeur de signe : la valeur d’un objet lié e à la **signification subjective et interpersonnelle** que cet objet prend pour un individu ou un groupe, en dehors de sa valeur fonctionnelle ou économique.
+- Ordre de Simulacres
+	- **Premier ordre** : Ce sont les simulacres qui fonctionnent comme **copies d'une réalité originale**. Ils correspondent à une époque où les signes étaient des reflets de la réalité. Par exemple, une peinture ou une carte représente un paysage réel ou un territoire. Le lien entre la représentation et ce qu'elle représente est encore visible, même s'il peut y avoir des distorsions ou des embellissements.
+	- **Deuxième ordre** : Ce sont les simulacres qui ne sont plus de simples copies, mais des **productions mécanisées** de la réalité, des reproductions en série qui imitent et dupliquent la réalité, souvent en l'altérant. Ils correspondent à l'ère industrielle et à la société de consommation. Dans cet ordre, la distinction entre l'original et la copie devient floue. Par exemple, les photographies, les films, et les objets produits en masse ne sont plus de simples reflets de la réalité, mais des versions industrialisées et standardisées. L'exemple classique serait celui de la production de masse où chaque objet est identique et où l'authenticité de l'original perd de son importance.
+		- ((661023ca-f7eb-43c2-a9e1-99a89b6a5dc9))
+	- **Troisième ordre** : Ce sont les simulacres qui n’ont plus aucun lien avec une réalité originelle ; ce sont des **simulations** pures, des créations qui ne renvoient à aucune réalité sous-jacente. Baudrillard parle ici de la [[Post-Modernité]] , où les signes (ou simulacres) ne sont plus des copies, mais des réalités autonomes, des simulacres sans original. L'exemple typique est celui des mondes virtuels ou des médias, où les images et les représentations créent leur propre réalité (ce qu'il appelle parfois « hyperréalité »).
 - ### [[Simulationisme]]

@@ -57,7 +57,11 @@
 		- L' [[Espace du jeu]] , et par extension l’art, se comprend donc dans sa relation dynamique avec l’environnement, mais aussi un échange relationnel fondamental au sein de cette aire intermédiaire d’expérience
 	- Or cette potentialité de communion à travers le jeu est possible si il y a consensus commun or cet espace potentiel est largement variable, d’un individu à l’autre, alors que les deux autres localisations (la réalité personnelle ou psychique et le monde existant) sont relativement constantes
 - [[Fred Forest]]
--
+- ## Relation et relativité
+- Jacques Lennep pose la question de *"L’art ne fait-il que compliquer la perception de la réalité ?"*.
+	- Dans une période de bouleversement épistémologique dans les sciences (théorie de la relativité, physique quantique...). Il adopte une méfiance similaire dans les arts face au notions de déterminisme d'universalisme et de vérité. Conception très propre à la [[Post-Modernité]]
+		- La [[Post-Modernité]] critique la façon dont le images structurent les perceptions des individus dans la société.
+		- Ne pouvant plus prétendre à la représentation de la réalité objective, l’œuvre s’en remet au relativisme, encourageant une manière de concevoir les choses dans leurs relations et dans leurs rapports nécessaires.
 - ## Footnotes
 	- [^14]:Revendiquant une approche expérimentale du théâtre, Richard
 	  Schechner questionne l’art théâtral et de performance. Ses

@@ -9,7 +9,7 @@
 	- Critique des sociétés industrielles et des dynamiques de domination sur base du model capitaliste. Une critique qui les positionnent contre l'industrie musical de l'époque qui marche sur un model industriel du label
 - ### Post-scriptum sur les sociétés de contrôle
 - Le changement des sociétés disciplinaire aux sociétés de contrôles.
-	- La disciplines ne se fait plus que dans les lieux d'enfermement (panoptique Foucault) mais dans le contrôle de façon plus insidieuses.
+	- La discipline ne se fait plus que dans les lieux d'enfermement (panoptique Foucault) mais dans le contrôle de façon plus insidieuses.
 		- Un glissement qui est rendu possible par les technologies computationelle. Cette position de Deleuze touche aux enjeux de la [[Cybernétique]].
 		- Cette enjeux de prédiction des corps est pour Deleuze en liens avec les systèmes de contrôles
 			- La transmission d'informations est le contrôle pour Deleuze
@@ -33,11 +33,11 @@
 	- Il y aurait pour Eshun une dimension [[Accélérationisme]] dans la prise d'outil numérique dans la production sonore
 		- *Je fais de l’ingénierie, je m’empare de fictions, de concepts, d’hallucinations […]. J’utilise ces différents concepts pour fonder de nouveaux champs d’expérience, pour anticiper et accélérer différentes explorations dans des champs de perceptions nouveaux*
 - ## Contre le [[Cybernétique]] -capitalisme
-- Ce système qui se caractérise par une linéarité totalitaire pourrait être déconstruit par des production musical comme la jungles.
+- Ce système qui se caractérise par une linéarité totalitaire pourrait être déconstruit par des productions musicals comme la jungles.
 	- La [[Cybernétique]] ayant une fonction de prévision du mouvement ennemi pourrait être en crise face à des breaks saccadé
 	- Un rythme qui s'oppose au binaire et au linéaire du rythme capitaliste
-		- L'écoute de ce genre rendrait les auditeur..ices inapte et donc incapable de rentrer dans le moule capitaliste rythmique occidentale
-	- Contrairement a la désincarnation des corps de l'hypothèse [[Cybernétique]] de Tiqqun le son vient rendre physicalité au corps en les tiraillant par le rythme
+		- L'écoute de ce genre rendrait les auditeur..ices inaptes et donc incapable de rentrer dans le moule capitaliste rythmique occidentale
+	- Contrairement à la désincarnation des corps de l'hypothèse [[Cybernétique]] de Tiqqun le son vient rendre physicalité au corps en les tiraillant par le rythme
 - Le surplus d'information du DH serait une technique de brouillage du contrôle [[Cybernétique]] .
 	- La [[Cybernétique]] se basant sur une rétroaction du contrôle de donnés l'insertion de fausse donnés ou d'activité de brouillages de ses donnés est un acte de résistance face à ce contrôle
 		- La présence du bruit dans la production musicale du digital hardcore, le sauverait également de sa récupération dans le système capitaliste [[Cybernétique]] .

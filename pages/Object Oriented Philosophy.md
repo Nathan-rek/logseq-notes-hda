@@ -11,4 +11,4 @@
 			- Une véritable expérience esthétique devrait pointer vers l’objet réel inaccessible derrière son apparence sensible
 			- C'est cette séparation entre l'identité inaccessible de l'objet et ses qualité sensibles qui forme pousse les objets à fusionner dans un troisième
 - Contrairement au [[Néo matérialisme]] ici ne se concentre pas sur le devenir d'un réseau de relation mais que contraire d'un "*paradigme non relationelle*" [[Graham Harman: Art Without Relations]]
-	- l’impossibilité d’épuiser les objets par l’énumération des relations sensibles dans lesquelles ils peuvent entrer
+	- L’impossibilité d’épuiser les objets par l’énumération des relations sensibles dans lesquelles ils peuvent entrer

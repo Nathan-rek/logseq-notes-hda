@@ -21,7 +21,7 @@
 					- présente une forme triangulaire mais sans envole
 		- Dans les deux cas la référence conjointe, à la plastique grecque ancienne, aux science de la mesure, et à l’extase idéelle fait de la contemplation du tableau un événement fondamental, un acte d’interprétation qui répond à l’acte de création d’autant plus poétique qu’il est aussi moral
 - Il semble que la majorité de ce point de ses œuvres ne sont pas narratives mais descriptives
-- TWOMBLY peut être vue comme rhéteur et sophiste.
+- Cy Twombly peut être vue comme rhéteur et sophiste.
 	- Il s’intéresse au rapport des formes, aussi picturale et graphique, avec la parole et à l’efficacité pragmatique de son geste sur l’espace du tableau sur le regard du spectateur..ices et ses affectes et idées.
 		- Mythographie au lieu de idées.
 			- Mythographie pour les linguistes DUCROT-TODOROV une activité psychique consciente, intentionnelle et d’un mode d’expression plus irrationnel, inconscient qui la soumet. Une mythographie dans le sens étymologique de muthos: l’inscription de parole qui ont un sens
