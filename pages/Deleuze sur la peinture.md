@@ -2,21 +2,20 @@
 	- Qu'est ce que la peinture à en lien avec la notion de catastrophe ?
 		- Pour Claudel la composition en peinture est un ensemble, mais qui est en train de se déséquilibrer
 		- Deleuze garde ce point de chute
-			- Les pots de [[Paul Cézanne]] sont direct à ce déséquilibre
+			- Les pots de [[Paul Cézanne]] sont sujets à ce déséquilibre
 				- ((65e0bbb8-57c5-4940-be73-71cb9a3d5b12))
 		- La catastrophe non pas que dans le tableau mais dans l'acte de peindre
-	- Une catastrophe plus profonde qu'une avalanche, qu'un tremblement,
 	- La catastrophe serait dans l'acte de peindre
-	- L'exemple premier et fondamentale c'est dans la première période de William Turner qui dans une première période peins la catastrophe
-		- Puis la catastrophe est dans l'acte de peindre
-			- Ce qui est peint c'est l'acte de peindre, il s'identifient sous forme de jet de vapeur, boule de feu ou plus rien ne garde son intégrité
-				- William Turner: [*Lumière et Couleur*](https://fr.wikipedia.org/wiki/Lumi%C3%A8re_et_Couleur), 1843 https://upload.wikimedia.org/wikipedia/commons/d/d8/William_Turner%2C_Light_and_Colour_%28Goethe%27s_Theory%29.JPG
-				- Turner dans son avant-gardisme n'as pas toujours été montrée, ces toiles de fin était gardées dans des caisses et d'autres ont été brulées par Ruskin qui les jugeait de pornographiques
-					- Acte dont Ruskin est fier dans une forme de sublimation du sentiment catastrophique de Turner
-			- Turner sert d'un cas où on passe d’une peinture qui représente des catastrophes, à une catastrophe infiniment plus profonde, catastrophe qui concerne l’acte de peindre
-		- Naissance de la couleur
-			- Est ce que la couleur nait de la catastrophe de l'acte de peindre
-				- La couleur comme création picturale
+		- L'exemple premier et fondamentale c'est dans la première période de William Turner qui dans une première période peins la catastrophe
+			- Puis la catastrophe est dans l'acte de peindre
+				- Ce qui est peint c'est l'acte de peindre, il s'identifient sous forme de jet de vapeur, boule de feu ou plus rien ne garde son intégrité
+					- William Turner: [*Lumière et Couleur*](https://fr.wikipedia.org/wiki/Lumi%C3%A8re_et_Couleur), 1843 https://upload.wikimedia.org/wikipedia/commons/d/d8/William_Turner%2C_Light_and_Colour_%28Goethe%27s_Theory%29.JPG
+					- Turner dans son avant-gardisme n'as pas toujours été montrée, ces toiles de fin était gardées dans des caisses et d'autres ont été brulées par Ruskin qui les jugeait de pornographiques
+						- Acte dont Ruskin est fier dans une forme de sublimation du sentiment catastrophique de Turner
+				- Turner sert d'un cas où on passe d’une peinture qui représente des catastrophes, à une catastrophe infiniment plus profonde, catastrophe qui concerne l’acte de peindre
+			- Naissance de la couleur
+				- Est ce que la couleur nait de la catastrophe de l'acte de peindre
+					- La couleur comme création picturale
 	- La catastrophe fait sortir quelque chose
 		- Pour [[Paul Cézanne]] la couleur monte
 		- Pour Paul Klee la nécessité de chaos pour qu'en sorte l'œuf, la cosmogénèse
@@ -27,13 +26,13 @@
 				- Ce qui sort du chaos puis de la catastrophe c'est la couleur
 		- Le texte de [[Paul Cézanne]] évoque une histoire du monde
 			- La catastrophe est déjà la avant même de peindre
-				- La catastrophe est pré-pictural : il image par exemple les squelettes pierreux avant de peindre, "les pierre rouge elle sorte de l'abime" l'abime c'est le chaos
+				- La catastrophe est pré-pictural : il image par exemple les squelettes pierreux avant de peindre, "les pierres rougse elle sorte de l'abime" l'abime c'est le chaos
 					- Avant le tableau l'œil n'est pas il est chaos, il ne voit rient
 					- Ensuite quelque chose sort du chaos: l'armature, la géologie
 					- Deuxième temps: la catastrophe emporte les assises et les plans on repart à zéro
 						- Peur que la catastrophe remporte tout une seconde fois et que jamais la couleur ne monte
 		- Et si le chaos ne prend pas et qu'il n'y a juste du chaos
-			- Si les couleur ne monte pas il y a marécage, il y a gris, grisaille, gâchis
+			- Si les couleurs ne montent pas il y a marécage, il y a gris, grisaille, gâchis
 				- Delacroix *"Le gris c'est l'ennemi de la couleur"*
 					- Il y a deux gris:
 						- Le gris du noir et du blanc
@@ -42,7 +41,7 @@
 	- Ces considérations tente vers une considération du tableau non pas avec l'espace mais avec le temps
 		- *" Si le tableau opérait déjà une synthèse du temps"*
 	- L'acte de peindre doit rencontrer sa condition pré-picturale pour que quelque chose en sorte
-		- c'est un cas de synthèse du temps qui devient pictural sur le tableaux
+		- C'est un cas de synthèse du temps qui devient pictural sur le tableaux
 	- Paul Klee et le point gris
 		- *" Le chaos comme antithèse de l’ordre n’est pas proprement le chaos, ce n’est pas le chaos véritable. C’est une notion localisée, relative à la notion d’ordre cosmique. Le chaos véritable ne saurait se mettre sur le plateau d’une balance, mais demeure à jamais impondérable et incommensurable. Il correspondrait plutôt au centre de la balance "*  Paul Klee
 			- Mais le chaos ne se donne pas il est relatif à rien et prend tout
@@ -51,7 +50,7 @@
 					- Point mathématiques sans taille
 						- Le point gris est ce chaos véritable qui n'est ni vivant ni mort autant blanc que noir
 				- Si le point gris se font c'est la que le chaos emporte tout
-	- Le point gris est chaos, il est absolu, il est le "pré-picturale"
+	- Le point gris est chaos, il est absolu, il est le "pré picturale"
 	- L'acte de peindre c'est fixer ce point gris chaos
 		- Ce qui engendre l'ordre, la dimension, l'œuf
 	- Francis Bacon
@@ -60,76 +59,77 @@
 				- Le peintre doit se débarrasser de ces 'fantômes'
 				- Une toile n'est jamais vierge
 		- Ce qui les précèdes c'est les clichés
-			- Le clichés comme des bêtes qui se précipite avant que tu peignes
+			- Le cliché comme des bêtes qui se précipitent avant que tu peignes
 			- Il faut alors tuer et empêcher tout ça il faut noyer tout ces clichés avant même de peindre
 				- *"il faut que le peintre se jette dans cette espèce de tempête, qui va quoi ? Qui va précisément annuler, faire fuir les clichés. La lutte contre le cliché."* Deleuze
 	- Le diagramme devient une zone d'effacement de ces clichées préalables pour ouvrir de nouvelles possibilités
 		- Le diagramme est ce qui permet aux peintres de crée des formes, il s'apparente au style et est propre à chacun..e.
 		- *Un diagramme c’est une possibilité de fait*
 			- C’est pas du tout une idée générale le diagramme. C’est quelque chose d’opératoire dans chaque tableau. C’est une instance opératrice
-- ## Cours 1981-03-31
-	- Encre une chronologie de la peinture avec le pré-picturale [texte de [[Paul Cézanne]] ] le chaos germe, diagramme et ce qui sort du diagramme
-		- la lutte contre le fantôme ou contre les donnés, l’instauration du diagramme ou du chaos catastrophe et, ce qui en sort, à savoir : le fait pictural.
+- ## Cours 1981-04-07
+	- Encré une chronologie de la peinture avec le pré picturale [texte de [[Paul Cézanne]] ] le chaos germe, diagramme et ce qui sort du diagramme
+		- La lutte contre le fantôme ou contre les donnés, l’instauration du diagramme ou du chaos catastrophe et, ce qui en sort, à savoir : le fait pictural.
 	- Parallèle entre le *datum *et le *factum* de Kant le *donnés* et le *fait*
 		- Le donné serait le temps pré-pictural: se pose la  question: **Qu’est-ce qui est donné sur la toile avant que la peinture ne commence ?**
 	- Retour sur la page blanche qui n'est jamais vide car déjà pleine, pleine de clichés
 		- Dans un monde de [[Simulacre]] le cliché est grandissant et rapide
 			- Oscar Wilde *« c’est la nature qui se met à ressembler à tel peintre »*.
-				- met en avant la vitesse avec laquelle un acte de peinture devient un cliché
-			- Il y a aussi les clichés interne, sur les qualités de l'idée en quoi sont elle des idées personnelle ou unique la notion d'idée comme remède au clichées est en fait un remède très biaisée
+				- Met en avant la vitesse avec laquelle un acte de peinture devient un cliché
+			- Il y a aussi les clichés internes, sur les qualités de l'idée en quoi sont elles des idées personnelles ou unique la notion d'idée comme remède aux clichées est en fait un remède très biaisé
 	- ## La donnés le cliché
 		- Fromanger: [*Le boulevard des italiens*](https://www.artnet.fr/artistes/g%C3%A9rard-fromanger/boulevard-des-italiens-hCsTHKYBdPii6ij6tnNvTA2): ![Boulevard des Italiens par Gérard Fromanger sur artnet](https://www.artnet.fr/WebServices/images/ll00247lldD1kFFgjJECfDrCWvaHBOcVFG/g%C3%A9rard-fromanger-boulevard-des-italiens.jpg)
-		- Accompagné d'un photographe se presse il se balade dans la rue et demande au photographe de scène de rue en noir et blanc. Dans une scène il demandais une douzaine de photo puis ensuite Fromanger en choisit une parmi les douze.
-			- Commence déjà l'acte de peindre: car son choix se base sur une idée qu'il a en tête. Les scènes évoque en lui une couleur et donc dans le choix de la photo il y a déjà acte de peindre
+		- Accompagné d'un photographe de presse il se balade dans la rue et demande au photographe de scène de rue en noir et blanc. Dans une scène il demandais une douzaine de photo puis ensuite Fromanger en choisit une parmi les douzes.
+			- Commence déjà l'acte de peindre: Car son choix se base sur une idée qu'il a en tête. Les scènes évoquent en lui une couleur et donc dans le choix de la photo il y a déjà acte de peindre
 				- La projection rend la toile déjà rempli d'une vérité
-				- Fromanger fait surgir les clichés pour les mettre sur sa toile afin de les détruire et d’en faire sortir un fait pictural, c’est une manière déjà de les conjurer
-		- On retrouve les trois temps : le moment pré-pictural, cliché, cliché, rien que des clichés. La nécessité d’un diagramme qui va brouiller, qui va nettoyer le cliché, pour qu’en sorte quelque chose
-			- Le diagramme n’étant qu’une possibilité de fait, le cliché, c’est le donné, c’est ce qui donné, donné dans la tête, donné dans la rue, donné dans la perception, donné, donné partout.
-				- Le diagramme intervient comme ce qui va brouiller le cliché pour que la peinture en sorte. Bien. Je retrouve mes trois temps là.
+				- Fromanger fait surgir les clichés pour les mettres sur sa toile afin de les détruire et d’en faire sortir un fait pictural, c’est une manière déjà de les conjurer
+		- On retrouve les trois temps : le moment pré pictural, cliché, rien que des clichés. La nécessité d’un diagramme qui va brouiller, qui va nettoyer le cliché, pour qu’en sorte quelque chose
+			- Le diagramme n’étant qu’une possibilité de fait, le cliché, c’est le donné, c’est ce qui donné, donné dans la tête, donné dans la rue, donné dans la perception, donné partout.
+				- Le diagramme intervient comme ce qui va brouiller le cliché pour que la peinture en sorte.
 	- Cette *lutte contre le cliché* est assez importante chez [[Paul Cézanne]]
-		- Le texte de Lawrence évoque aussi la capacités de l'artiste à crée ses propres clichés
+		- Le texte de Lawrence évoque aussi la capacité de l'artiste à crée ses propres clichés
 		- Cette lutte du clichés de [[Paul Cézanne]] l'a amené à comprendre le fait.
-			- ((65fdfc6e-ac4c-49a4-8a7a-7045ea351a65))
+			- ((661023c8-0569-49e4-8b7e-be36b75d18ea))
 			  id:: 65f819b1-0463-45b1-a3b9-d4eb35a16034
 			- Il a compris le *« fait de la pomme »* ce que Lawrence appelle *« le caractère pommesque de la pomme. »*
-				- Cette compréhension du fait n'est pas universelle elle est assez intrinsèque a la formes Lawrence dit que Cézanne peint des femmes avec un caractères pommesque
-					- ((65fdfc9c-1914-4506-81b2-7fd24622d3e0))
+				- Cette compréhension du fait n'est pas universelle elle est assez intrinsèque à la formes Lawrence dit que Cézanne peint des femmes avec un caractères pommesque
+					- ((661023c8-0b83-4ff5-bcad-daf32efa8251))
 			- Cézanne malgré cette lutte crée lui aussi un discipline chez ses disciples, un cliché qui frôle avec cette fragilité du diagramme a raté ((65f9deff-aa7d-4ad3-bc3e-a73c5cb8820a))
-				- Dépasse le cliché fait par le maitre n'est pas une mince affaires: il prend l'exemple [[Robert Rauschenberg]] qui efface un dessin de [[Willem DeKooning]]
+				- Dépasse le cliché fait par le maitre n'est pas une mince affaires
+					- [[Robert Rauschenberg]] qui efface un dessin de [[Willem DeKooning]]
 					- ((65d3770e-fc61-44fa-b307-388857629b7d))
-						- il y a une volontéf de passer par le diagramme
+						- Il y a une volonté de passer par le diagramme
 			- Michel-Ange lui a compris les larges dos d'hommes
 				- Michel-Ange: [*Le jugement dernier*](https://fr.wikipedia.org/wiki/Le_Jugement_dernier_%28Michel-Ange%29) ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Last_Judgement_by_Michelangelo.jpg/800px-Last_Judgement_by_Michelangelo.jpg)
 		- La tâche du peintre, de tout temps, ça a été faire naître le fait pictural, ça a été lutter contre les données
 	- Illustrations et narrations
 		- Deux grands dangers que Baudelaire définit et que Bacon craint aussi. La figuration est le concept qui regroupe ces deux concepts
 	- Les tableaux n'ont rien à figurer il ne sont pas narratifs, d'autres domaines le font très bien. Mais la narration et l'illustration font partis de ces donnés présentes avant de peindre
-		- Ce tendance narrative est parfois trop dominante et presque impossible à dépasser
+		- Cette tendance narrative est parfois trop dominante et presque impossible à dépasser
 			- Jean-Baptiste Greuze: [*Le Fils puni*](https://fr.wikipedia.org/wiki/Jean-Baptiste_Greuze#/media/Fichier:Greuze.jpg), 1778 https://upload.wikimedia.org/wikipedia/commons/6/66/Greuze.jpg
-			- Un tableau inséparable de ça narration
-				- Ce lien est pour Deleuze plus délicat chez nos contemporains
+			- Un tableau inséparable de sa narration
+				- Ce lien est pour Deleuze plus délicat chez nos contemporain..es
 				  id:: 65f830aa-4d1b-41bf-bec5-fbb34988ac2e
 					- Balthus: [*Le peintre et son modèle*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cazjBkd), 1980 ![Le peintre et son modèle - Centre Pompidou](https://www.centrepompidou.fr/media/picture/33/60/3360c7935566a20787b0f421d1ad9c45/thumb_large.jpg)
 						- l’image est prise, prélevée sur quelque chose qui se passe, il y a que de l'histoire
 	- Supprimer la narration et l'illustration c'est le rôle du diagramme et du chaos catastrophe, on surprime des données figuratives car les figurations et les narrations, elles sont données
 		- il faut donc, faire passer les données figuratives et narratives par le chaos catastrophe, par la catastrophe germe, pour qu’en sorte quelque chose de tout à fait autre, à savoir le fait.
 - ## Le fait pictural
-	- Qu’est-ce que c’est qu’on pourrait appeler le fait pictural par opposition aux données pré-picturales
-		- ## Le cas de Michel-Ange
-		- Dans le cas de Michel-Ange qu'il se caractérise comme celui qui à montre au grand jour le fait picturale par son indifférence face au sujet
+	- Qu’est-ce que c’est qu’on pourrait appeler le fait pictural par opposition aux données pré picturales
+		- ### Le cas de Michel-Ange
+		- Dans le cas de Michel-Ange qui se caractérise comme celui qui à montré au grand jour le fait picturale par son indifférence face au sujet
 			- Il est un peintre qui par la négociation avec Jules II et le pape obtient un commande carte blanche.
 			- Michel Ange: [*La Sainte Famille*](https://fr.wikipedia.org/wiki/Tondo_Doni), 1506 ![La Sainte Famille avec saint Jean-Baptiste enfant par - œuvre d'art  analysée en images | Panorama de l'art](https://panoramadelart.com/sites/default/files/filesPanorama/FA201-a-tondo-doni_0.jpg)
 				- Les hommes du fond sont la pour être la et les corps du devant se fondent sans raconter d'histoire
-					- Le position des corps joue exactement le rôle du diagramme. Qui brise avec les données figuratives et narratives pour faire surgir le « fait pictural ». Le « fait pictural », c’est trois corps en une figure.
+					- La position des corps joue exactement le rôle du diagramme. Qui brise avec les données figuratives et narratives pour faire surgir le « fait pictural ». Le « fait pictural », c’est trois corps en une figure.
 			- Michel-Ange: [*Batailles de Cascina*](https://www.italian-renaissance-art.com/Battle-of-Cascina.html) : ![The Battle of Cascina Michelangelo's unfinished masterpiece.](https://www.italian-renaissance-art.com/images/Battle-of-Cascina.jpg)
 			  id:: 65f81de5-a79e-4480-83a1-c28c0b768572
-				- Tableau étant une commande pour célébrer une bataille mais ou la place des soldat est minime il s'empare de la commande pour représenter des corps qui sortent de l'eau
+				- Le tableau est une commande pour célébrer une bataille mais la place des soldat est minime Michel Ange s'empare de la commande pour représenter des corps qui sortent de l'eau.
 				- Michel-Ange révèle la capacité des peintres athé..es à arracher des faits pictural au christianisme
-					- ils arrachent le christianisme à toute figuration et narration pour en tirer un « fait pictural ».
-			- Michel-Ange est rallié à l'école des Maniéristes, un mouvement où les corps sont assez artificielles, contournés
-				- Que Deleuze définit comme: le rapport du corps visible avec la force invisible
+					- Ils arrachent le christianisme à toute figuration et narration pour en tirer un « fait pictural ».
+			- Michel-Ange est rallié à l'école des Maniéristes, un mouvement où les corps sont assez artificielles
+				- Deleuze définit comme: le rapport du corps visible avec la force invisible
 					- *Si bien que je crois que le maniérisme est en fait une dimension fondamentale, une dimension consubstantielle de la peinture.*
-		- Le fait pour Bacon par exemple c'est quand il y a plusieurs ou plusieurs niveaux de Figures
+		- Le fait pour Bacon par exemple c'est quand il y a une ou plusieurs niveaux de Figures
 			- Il l'illustra en prenant le tableau de [[Paul Cézanne]]
 				- ((65fdfcd6-20c3-4d82-b094-8313edd0f20c))
 				  id:: 65f835c1-b5ba-48aa-a36a-015d598c14c7
@@ -140,22 +140,22 @@
 			- Il faut une nécessité pictural: une nécessité qui ne peux venir que de la lumière et de la couleur
 	- Pour Bacon aussi il y a une forme de maniérisme hérité de Michel-Ange
 		- Francis Bacon: [*Three Studies of a Male Back (tryptique)*](https://www.galerie-lelong.com/fr/estampe/920/three-studies-of-the-male-back-triptych/), 1987  https://www.galerie-lelong.com/files/estampes/EST73731244939549AIDR/BACON.studyofthemalebackREUNIS.jpg
-			- Deleuze y voir l'héritage du dos de Michel-Ange chez Bacon
+			- Deleuze y voit l'héritage du dos de Michel-Ange chez Bacon
 		- Pour peindre un dos et le rendre visible il faut peindre les forces invisible qui crée le dos, il ne faut pas peindre des formes mais des forces
 			- *L’acte de la peinture, le « fait pictural », c’est lorsque la forme est mise en rapport avec une force*
-				- Qui répond à la phrase de Paul Klee: *Il ne s’agit pas de rendre le visible, il s’agit de rendre visible *, sous-entendu, rendre visible l’invisible. Rendre visible quelque chose d’invisible
+				- Qui répond à la phrase de Paul Klee: *Il ne s’agit pas de rendre le visible, il s’agit de rendre visible *, sous-entendu, rendre visible l’invisible.
 					- Rendre visible c'est de la figuration c'est le donné pictural c'est ce qui doit être détruit par la catastrophe ce lieu des forces
 	- Le fait pictural c'est la forme déformes par la force
 		- La déformation est un concept de [[Paul Cézanne]]
 			- La déformation comme concept pictural c’est que la déformation de la forme, c’est la forme en tant que s’exerce sur elle une force
-				- Cette déformation est un processus qui faut parfois l'objet que d'effet décomposition recomposition de la couleur, du mouvement, de la profondeur
+				- Cette déformation est un processus qui fait parfois l'objet d'effet de décomposition recomposition de la couleur, du mouvement, de la profondeur
 		- Le rôle du diagramme, ça va être d’établir un lieu des forces telle que la forme en sortira comme « fait pictural »
 			- C’est dès lors la déformation de la forme picturale qui fait voir la force non-visible.
 	- Bacon peindrait non pas un homme qui dort mais la force d'aplatissement dans le sommeil
 		- Francis Bacon: [*Sleeping figure*](https://www.francis-bacon.com/artworks/paintings/sleeping-figure-0), 1974 ![FRANCIS BACON Sleeping Figure, 1974 Medium Oil on canvas Dimensions 78 x 58  inches jpg (800×1060) | Francis bacon, Bacon art, Painting](https://i.pinimg.com/736x/a9/ea/b8/a9eab82166f82fd05cac8f882652623d.jpg){:height 604, :width 450}
 			- La forme en rapport avec une force de déformation à savoir la force qui l’aplatit
-				- Cette forces dépasse la figuration du sommeil et de la force du sommeil
-	- Le quartier de viande par exemple est un sujet traiter figurativement de différentes manières par différents peintres
+				- Cette force dépasse la figuration du sommeil et de la force du sommeil
+	- Le quartier de viande par exemple est un sujet traité figurativement de différentes manières par différents peintres
 		- Rembrandt: [*Le Bœuf écorché*](https://fr.wikipedia.org/wiki/Le_B%C5%93uf_%C3%A9corch%C3%A9_%28Rembrandt%29), 1655 ![Le Bœuf écorché (Rembrandt) — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/e/e8/Rembrandt%2C_bue_squartato%2C_1655%2C_02.JPG)
 	- Chaim Soutine: [*Bœuf écorché*](https://fr.wikipedia.org/wiki/Le_B%C5%93uf_%C3%A9corch%C3%A9_(Soutine)#:~:text=Le%20B%C5%93uf%20%C3%A9corch%C3%A9%20est%20une,dont%20elle%20reprend%20le%20nom.), 1925 https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cha%C3%AFm_Soutine_-_Le_B%C5%93uf_%C3%A9corch%C3%A9.jpg/800px-Cha%C3%AFm_Soutine_-_Le_B%C5%93uf_%C3%A9corch%C3%A9.jpg
 	  id:: 65f9d2d4-cdf9-4da0-ac9f-dcbef08b60b7
@@ -165,7 +165,7 @@
 			- Il y a une force de pesanteur propre à la viande - c’est ça qui intéresse Bacon dans la viande - force par laquelle la chair descend des os
 				- L’opération par laquelle la chair descend des os, c’est ça la crucifixion ou la manière dont Bacon vit la crucifixion.
 				- Tout comme pour le dormeur c'est la chair qui descend des os
-					- la forme est la rencontre de ces deux forces celle de l'aplatissement et celle de la chair qui descend des os
+					- La forme est la rencontre de ces deux forces celle de l'aplatissement et celle de la chair qui descend des os
 						- Il a rendu visible dans ce tableau deux forces invisibles
 - Les données figuratives et narratives sont toujours la elle sont pré picturale elle sont déjà-la
 	- Que ce soit un carré de [[Piet Mondrian]] ((653ec305-ecb3-4d52-93a9-29b5625299ae)) ou une ligne chez [[Jackson Pollock]] ((653ee430-1eca-4a79-9a49-45525fd705c0)) les idées, les clichés sont toujours la même chez les plus abstrait
@@ -181,7 +181,7 @@
 			- Rapport os/viande, la viande descend des os, il y a des petits bras de la viande qui sont comme des os d’où la viande tombe, descend
 			- Il est complètement dispersé au point qu’il n’existe plus du tout figurativement
 - Le diagramme n'est pas un code
-	- Le diagramme est toujours proche de rater, un tableau est d'autant plus admirable quand il frôle le gaspillage
+	- Le diagramme est toujours proche de raté, un tableau est d'autant plus admirable quand il frôle le gaspillage
 	  id:: 65f9deff-aa7d-4ad3-bc3e-a73c5cb8820a
 	- **En quoi, en quoi le diagramme est tout à fait autre chose qu’un code de la peinture** ?
 - ## Cours 1981-04-28
