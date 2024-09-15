@@ -16,7 +16,7 @@
 - Comment mettre en place des rapports entre les individus: organise des séminaires en expérimentant l’éducation et la pédagogie. Faisant de son enseignement une forme de « [[Sculpture sociale]] », comme lieu d’apprentissage non plus uniquement de techniques, de compétences, mais de mise en place possible de structure de coopération et de collaboration entre individus.
 - Mike KELLEY: Façonner une maquette rétrospective des espace dans lesquelles il a été confronté à des systèmes éducatifs ( famille, école, etc… ): [*Educational Complexe*](https://whitney.org/collection/works/10293), 1995 ![](https://whitneymedia.org/assets/artwork/10293/96_50_cropped.jpeg)
 - #### <a name="__refheading___toc34406_3754709155"></a>Réforme de l’académie:
-- Paris en 1863: ré-articulations pratique et théorique ( historiquement Paris n’enseigne que la théorie )- tentative d’adaptation a la modernité.
+- Paris en 1863: ré-articulations pratique et théorique ( historiquement Paris n’enseigne que la théorie )- tentative d’adaptation a la [[Modernité]] .
 	- VIOLLET-LE-DUC veut mettre en place des conditions d’enseignement qui amène l’expression de la sensibilité afin de placer [[L'Originalité]] au centre / en conflit avec ceux qui pense que l’originalité s’articule a la représentation d’un idéal qui dépasse l’histoire.
 	- Vide technico-ésthetique : refonte de la subjectivité
 		- Contexte social :émancipation du système capitaliste avènement de la bourgeoisie de la division des classes sociales et des hiérarchisations des genres et de la division des mediums.
