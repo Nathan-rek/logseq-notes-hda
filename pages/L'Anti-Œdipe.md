@@ -1,0 +1,27 @@
+- L'Anti-Œdipe est une critique de la psychanalyse Freudienne notamment la place des grilles de lecture de la familles. ([[L'interprétation des énoncés, Deleuze, Guattari, Parnet]] )
+	- Le travail de la psychologie va consister à explorer l'inconscient pour voir comment il se construit
+	- Freud va jeter les base de la lecture de l'inconscient avec la deuxième topique freudienne
+		- ![La psychanalyse pour étudiants en psychologie ou curieux](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBVnaolbO79P5P-E7IFDJYyXiMYrNa5l_Bog&s)
+		-
+		- En haut le conscient/préconscient à disposition (mémoire souvenir).
+		- L'inconscient nourrit par les pulsion du ça
+			- ça: fond animal et sexuel qui cherhce la survie et la reproduction
+		- Le moi se négocie entre le ça et le préconscient face au normes sociétale et moral
+	- Bien que la psychanalyse a évolué ce schéma reste présent et ce n'est pas ce schéma  que D&G reproche à Freud mais c'est la neutralisation psychanalytique de l'inconscient que Freud a fait en le découvrant en collant sur lui une lecture familiariste et structuraliste.
+		- Pour D&G c'est un problème car nos désir sont ce qui nous pousse à agir dans la société.
+		- En collant sur l'inconscient une lecture familiariste on empêche la puissance révolutionnaire de l'inconscient car on le structuralise et donc on ne peut le modifier, tout comme la société se présente comme un ensemble structurelle
+	- Pour D&G l'inconscient est bien plus baroque et c'est pour cela qu'il crée la schizo-analyse
+		- Schizophrénie comme trouble mental qui se traduit par une distorsion de la réalité, hallucinations et problème de rapport à l'autre et sa propre identité
+		- La schizo-analyse présente un inconscient qui est structuré comme le délire du schizophrène, le psychisme serait une usine a crée du désire ( qui ne serait pas qu'œdipien ).
+			- Schizo car non unifié ( contrairement à l'Œdipe familiale )
+	- Une conception Schizo-analytique réouvre le champ d'interprétation de l'inconscient
+		- Nos désir ne serait donc pas que structuré par le manque
+			- Ce manque est pour Freud le manque de la relation Œdipienne originelle
+		- Pour D&G le désir comme production, le désir n'est plus une malédiction originelle
+			- C'est une producion joyeuse et revolutionnaire
+	- Le desir n'est pas un desir d'objet mais un desir complexe
+		- Un désir complexe est un désir d'agencement: On en veut pas l'objet cigarette mais on veut un souhaite un agencement complexe dont la cigarette fait partie
+			- Ce que les publicitaires ont bien compris, ils vendent un agencement de desir
+- La critique de D&G reproche à s'arrêter au refoulés et de ne pas mettre en perspectives les enjeux de société avec les désir refoulés.
+	- Aller à la source même du ça et de sa production
+-

@@ -1,0 +1,7 @@
+- Leila Pazzoki: [*Moment of glory*](https://nadour.org/collection/moments-of-glory/), 2010
+	- https://emergeast.com/wp-content/uploads/2021/03/Moments-Of-Glory-by-Leila-Pazooki-1.jpg
+	- Listings de comparaison d'artistes sur le calque occidental
+		- *Korean Mark Rothko* / *Dali of Bali* / *Middle Eastern Louise Bourgeois*
+	- Evoque le rapprochement trop facile de l'évaluation des artiste sur des modèles occidental
+	- Symptôme de la visibilité problématisé de l'[[Art Global]]
+	-

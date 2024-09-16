@@ -1,0 +1,13 @@
+- Contourner l'hypothèse de simultanéité spatio-temporelle et les dangers de concevoir "l'art global" comme un phénomène universel et anhistorique où les inégalité coloniale et les hiérarchies de pouvoir ont été résolues
+- La visibilité n'est pas démocratisé car il y a un phénomène de monoculture
+- Penser plutôt une co-présence et l'interrelation dans un même espace géopolitique.
+- Enjeux de repossession des œuvres d'art africains
+	- Nouvelle éthique et nouveau respect entre les musées et les "communautés sources"
+- Pour mettre en avant les productions locales beaucoup d'artistes et d'institutions se mettent à faire des Biennales comme manifestation d'art contemporain culturellement global dans une forme de [[Multiculturalisme]] de l'art
+	- Certaine biennale veulent se démarquer du courant dominant
+		- Biennale du Mercosur, Porto Allegre Bresil
+			- Volonté de présenté des artistes marginalisé
+		- Biennale de Lubumbashi, RD Congo 2017
+			- Mettre en avant et l'art congolais et l'art contemporain
+				- Région appauvri par l'économie globale pour ses réserves de minerait rares, organise une manifestation culturelles qui dépasserait le statu de zone d'exploitation minière
+				-

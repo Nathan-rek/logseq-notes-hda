@@ -1,13 +1,13 @@
 ### I Hate Visual Culture
 Dans l’essor des Visual studies différent théoricien..nes sont amené..es à traiter de façon épistémologique l’étude visuelle ou des cultures visuelles.
-- La théoricienne Rosalind E. KRAUSS déclare « I hate visual Culture »
-	- Le fait que les le projet des Visual Studies cherche à se débarrasser des autres disciplines
+- La théoricienne Rosalind E. Krauss déclare « I hate visual Culture »
+	- Le fait que les projets des Visual Studies cherche à se débarrasser des autres disciplines
 	- Critique de cette tendance de mode à brouiller les frontières du champ disciplinaires selon un certain progressisme sociales
 		- Critique d’une forme de populisme dans les études culturels
 			- Pour Thomas CROW il y aurait comme un abandon d’une responsabilité fondamental
 				- Il y voit une attaque dirigée contre une autorité savante institué
 - Débat sur le cadre du domaine d’étude de l’histoire de l’art
-- Le débat peut se jouer entre la gauche progressiste et la droite conservatrice ou entre différents partis de la gauche
+- Le débat peut se jouer entre la gauche progressiste et la droite conservatrice ou entre différents parties de la gauche
 - Une des critiques tient dans le principe d’études qui ne passeraient que par le visuel ce qui dénote du paysage conceptuel qui se construit lors des années 1960.
 - Le terme de déqualifications est souvent employé dans la critique des visual studies.
   
@@ -15,7 +15,7 @@ Dans l’essor des Visual studies différent théoricien..nes sont amené..es à
   
   *Thomas Crow*
 - Pour Krauss c’est la notion de discipline forge par le cadre universitaire qui est à la source de la querelle
-	- Le terme de déqualification est pour KRAUSS emprunté à l’histoire de l'[[Art Conceptuel]] et l’analyse de BURN dans l’idée de dépasse les mediums habituelles ou l’art conceptuelle aurait déqualifié les autres mediums de l’art.
+	- Le terme de déqualification est pour Krauss emprunté à l’histoire de l'[[Art Conceptuel]] et l’analyse de BURN dans l’idée de dépasse les mediums habituelles ou l’art conceptuelle aurait déqualifié les autres mediums de l’art.
 	- Un terme qui a aussi une résonance dans le champ des sciences sociales notamment dans la déqualification des sections ouvrière par l’arrivée de nouvelles technologies et une spécialisation qui entraîne la disparition de compétences propres
 		- Une thèse qui est une réactualisation des théories marxistes sur l’aliénation du travail ouvrier
 		- Dans cette déqualification pas la séparation homme main, l’art conceptuelle rebat les cartes de ce régime d’utilisation. BURN voit dans l’intellectualisation du champ artistique de la fin des années 1960 d’un point de vue socio-économique, son propos constitue un exemple précoce et remarquable d’analyse marxiste postfordiste[^51], théorisant l’idée comme marchandise et le savoir comme source de plus-value

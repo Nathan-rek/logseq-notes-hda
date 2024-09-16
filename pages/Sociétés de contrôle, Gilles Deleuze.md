@@ -1,0 +1,22 @@
+- La communication c'est la transmission d'une information
+	- Une information c'est un ensemble de mot d'ordre
+		- Informer c'est faire circuler un mots d'ordre.
+			- Le déclaration de police sont des communiqués
+			- On nous dit ce que nous somme tenu de croire ou de faire comme si on croyait.
+- L'information c'est le système du contrôle, ce qui crée une société de contrôle
+	- Pour Foucault il y avait les société de souveraineté et les societe disciplinaires
+		- Les sociétés disciplinaires se définisse par la constitutions de milieux d'enfermement
+			- Ces sociétés ne sont pas éternels même si il y aura des restes
+- Deleuze prend le terme développé par Burroughs le contrôle
+	- On n'as plus besoin de milieux d'enfermement, le travail se mut en travail domicile, éducation va se muter en école et profession
+- Un contrôle n'est pas une discipline
+	- Une autoroute n'enferme pas mais multiplie les moyens de contrôles
+- L'information c'est le système contrôle des mots d'ordres
+	- La contre-information comme dans des pays de dictature, mais la contre-information n'as jamais réussi a quoi que ce soit sauf dans quand la contre-information devient un acte de resistance.
+		- La resistance n'ets ni information ni contre informations
+- L'œuvre d'art n'est pas un instrument de communication, il ne contien aucune information
+	- Il y a pourtant une affinité fondamental entre l'œuvre d'art et l'acte de résistance
+		- Malraux dit que l'art est la seul chose qui résiste à la mort
+			- Tout acte de résistance n'est pas une œuvre d'art et inversement
+	- L'acte de résistance dans la musique est un cri face à la dialectique du profane et du sacré
+	- L'acte de résistance est humain et c'est aussi l'acte de l'art, il est le seul a résister à la mort

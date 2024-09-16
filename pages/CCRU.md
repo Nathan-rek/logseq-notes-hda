@@ -3,14 +3,14 @@
 	- Définit leurs centres d’intérêts :
 	  *«cinéma complexité monnaies , dance music, e cash, cryptage féminisme , fiction, images, vie inorganique , marchés , matrices, micro-biotique multimédia réseaux , chiffres, perception, reproduction, sexe , simulation, télécommunications , textes , commerce, vidéo virtualité »*
 - ## History CCRU
-- Le concept d'historie du CCRU est antagoniste avec leur vision d'être, il favorise le glitch la coïncidences, l'imprevu
+- Le concept d'histoire du CCRU est antagoniste avec leur vision d'être, il favorise le glitch la coïncidences, l'imprévu
 - La causalité du passé sur le futur, devient pour eux une rétro contamination le passé infecte le futur; Le CCRU peut avoir infecter Lovecraft dans ces écrits sur le paléo passé, et qu'elle entités futur possède le CCRU
 - Dans la linéarité Chronos le CCRU à commencé en K0 + 95 (1995)
 	- **"Ccru does not, has not and will never exist."**
 - ## Y2k
-- Le Y2K(bug) est vu comme un accident qui n'est pas simplement mechanics mais comme un événement illustrant tout un complexe de thèmes entremêlés, notamment : le crash de la science-fiction (et l'émergence du cyberpunk), la mort de la postmodernité et la reprise du conflit chrono politique.
+- Le Y2K(bug) est vu comme un accident qui n'est pas simplement mechanics mais comme un événement illustrant tout un complexe de thèmes entremêlés, notamment : le crash de la science-fiction (et l'émergence du cyberpunk), la mort de la [[Post-Modernité]] et la reprise du conflit chrono politique.
 	- La peur et la Hype du Y2K ne sont pas antérieur à l'évènement il sont l'évènement
-	- Le Mbug contamine tous, pas que les ordinateurs, toutes le puces en silicone, ce qui est mauvais signe car notre ère cherche à s'entrelacer avec
+	- Le Mbug contamine tous, pas que les ordinateurs, toutes les puces en silicone, ce qui est mauvais signe car notre ère cherche à s'entrelacer avec
 - Le Y2k est un évènement sémiotique mais il n'appartient pas au régime des signes de la [[Post-Modernité]]
 - ## SF & Cyberpunk
 - La SF peut être définie comme la mise en œuvre du projet de technologie progressive - une vision d'une croissance technologique débridée s'étendant dans un avenir lointain qui a été planifiée de manière spéculative.
@@ -18,27 +18,40 @@
 	- Mais le Cyber-punk se cache dans un avenir proche, se construisant à partir des conséquences imprévues du développement technique.
 - le long terme de la SF s'est soudainement effondré dans le futur proche du cyberpunk.
 - ## Capitalisme réalisme
-- Dans la réalité du monde capitaliste un monde de simulation and d'anticipation [[Cybernétique]] tous a fondu le matériel est devenu un virtuel abstrait
-	- Ce n'est pas un désenchantement de la [[Post-Modernité]] mais une maniere de souligner la façons dont les agents virtuels tels que le potentiel ont l'effet le plus matériel imaginable.
+- Dans la réalité du monde capitaliste un monde de simulation et d'anticipation [[Cybernétique]] tous a fondu le matériel est devenu un virtuel abstrait
+	- Ce n'est pas un désenchantement de la [[Post-Modernité]] mais une maniere de souligner la façon dont les agents virtuels tels que le potentiel ont l'effet le plus matériel imaginable.
 - ## Hyperstition
 - Le principe d'hyperstition est central dans le CCRU, il s'y réfère par rapport au travaux du Cthulhu Club
-	- Un groupe de theoricien..nes non-standard étudiant des écrits. Particulièrement ceux de W.S Burrough, L'hypersttion qui peut être brièvement résumé comme *fictions that make themselves real* est une maniere d'écrire qui n'est pas juste de l'ordre de la représentation mais donc de l'ordre de la transformation.
+	- Un groupe de theoricien..nes non-standard étudiant des écrits. Particulièrement ceux de W.S Burrough, L'hypersttion qui peut être brièvement résumé comme *fictions that make themselves real* est une manière d'écrire qui n'est pas juste de l'ordre de la représentation mais donc de l'ordre de la transformation.
 - Ce qui donne un fort pouvoir à l'écriture qui peut être une arme de reprogrammation du discours générale au contrôle
 	- *Every act of writing is a sorcerous operation, a partisan action in a war where multitudes of factual events are guided by the powers of illusion*
-	- Le réalisme devient aussi une arme, le réalisme représentatif sans le savoir participe a la guerre en collaborant avec le system de contrôle dominant en approuvant implicitement sa prétention d'être la seule réalité possible.
+	- Le réalisme devient aussi une arme, le réalisme représentatif sans le savoir participe à la guerre en collaborant avec le système de contrôle dominant en approuvant implicitement sa prétention d'être la seule réalité possible.
 - ### The One God Universe
 - Le programmes dominant pour Burroughs est le One God Universe, Burroughs est en guerre contre la fiction de OGU
-	- La fiction OGU opère au plus haut degrés de réalité, en utilisant la biologies pour régler les problèmes de l'immortalités dans OGU les religions sont des armes
+	- La fiction OGU opère au plus haut degrés de réalité, en utilisant la biologie pour régler les problèmes de l'immortalités dans OGU les religions sont des armes
 		- Tous d'abord OGU renie l'existence d'une guerre magique, il n'y a qu'un réalité la sienne elle est l'unité primaire. L'OGU se déploie dans un cadre métaphysique qui rejette la fonction magique des mots et des signes considérés comme illusoire ( et nie sa propre magie). Ce qui implique un contrôle du langage par L'OGU.
-		- Pour quitter l'OGU il faut une forme de relativisme sur ce que c'est de croire Burroughts va plus vers un nothing is true que vers un nothing is real qui serait un relativisme post-modernism rien n’est vrai car il n’existe pas de version unique et autorisée de la réalité – il y a plutôt une surabondance, un excès de réalités. le plan de OGU est de faire croire qu'il n'y en a pas.
-- Le cut Up et ses autre technique de Burrough serait lier a une révélation que Burroughs aurait eu suite à une trance en consultant une édition de *The Ghost lemurs of Madagscar*. Avec ces techniques Burroughs pouvait mettre en place des time-war tactics envers le temps de OGU.
+		- Pour quitter l'OGU il faut une forme de relativisme sur ce que c'est de croire Burroughts va plus vers un nothing is true que vers un nothing is real qui serait un relativisme post-moderne rien n’est vrai car il n’existe pas de version unique et autorisée de la réalité – il y a plutôt une surabondance, un excès de réalités. le plan de OGU est de faire croire qu'il n'y en a pas et qui n'y en a qu'un.
+- Le Cut-Up et les autres techniques de Burroughs serait lié à une révélation que Burroughs aurait eu suite à une trance en consultant une édition de *The Ghost lemurs of Madagscar*. Avec ces techniques Burroughs pouvait mettre en place des time-war tactics envers le temps de OGU.
 - ### MU
-- L'OGU est apparu suis au renversement du Magical Universe. Le MU est peuple de Dieux tous en désaccord constant, il n'y a pas de possibilité de vrai, est c'est en quand le One commenca a monter une guerre contre le Many que le OGU apparu
+- L'OGU est apparu suis au renversement du Magical Universe. Le MU est peuplé de Dieux tous en désaccord constant, il n'y a pas de possibilité de vrai, est c'est en quand le OGU commença à monter une guerre contre le Many que le OGU apparu
 	- *“Consider the One God Universe: OGU. The spirit recoils in horror from such a deadly impasse. He is all-powerful and all-knowing. Because He can do everything, He can do nothing, since the act of doing demands opposition. He knows everything, so there is nothing for him to learn. He can’t go anywhere, since He is already fucking everywhere, like cowshit in Calcutta. … The OGU is a prerecorded universe in which He is the recorder”*
 - ## Miskatonic Virtual University
 - La MVU est une école semi-fictive : elle existe autant qu'elle n'existe pas. N'ayant pas de campus, elle se manifeste à travers diverses autres institutions, souvent considérée comme l'ombre du MIT. Cette école s'intéresse particulièrement aux aspects hyperfictionnels de l'œuvre de H.P. Lovecraft. Son histoire est étroitement liée au travail d'Echidna Stillwell, une anthropologue dont les recherches ont été discréditées en raison de sa croyance en des pratiques folkloriques. Cependant, ces travaux ont été valorisés par le capitaine Peter Vysparov.
 - ### The Cthulhu Club
-- Vysparvo dans une lettre a Stillwell avoue avoir utiliser les écrit de Stillwell à des fins mauvaises de manipulation de populaition. Il raconte comment ces pratiques ont évolué en une véritable guerre sorcière contre les forces japonaises.
+- Vysparov dans une lettre à Stillwell avoue avoir utiliser les écrits de Stillwell à des fins mauvaises de manipulation de populaition. Il raconte comment ces pratiques ont évolué en une véritable guerre sorcière contre les forces japonaises.
+- ## AOE
+- AOE (l'Ordre Architectonique de l'Eschaton) revendique deux choses :
+- **Précéder toute tradition actuelle de sagesse humaine** : L'AOE prétend exister depuis avant toutes les autres traditions de sagesse ou de connaissance humaine. Cela sous-entend qu'elle possède un savoir ancien, remontant à une époque antérieure à toutes les autres civilisations ou courants de pensée connus.
+- **Nourrir en son sein la graine de la Gnose terrestre ultime** : L'AOE affirme qu'elle détient ou cultive un savoir mystique ultime, souvent appelé "gnose", qui représente une compréhension profonde de l'univers et de la vérité. Ici, cette "gnose terrestre" est liée à la **Noosphère techno-chardinienne**.
+	- **Noosphère** : Concept développé par le philosophe Pierre Teilhard de Chardin, qui fait référence à une couche de pensée ou de conscience collective englobant la Terre. C'est une sorte d'intelligence planétaire ou d'évolution spirituelle mondiale.
+	- **Techno-chardinienne** : Ce terme semble faire référence à une interprétation technologique ou scientifique du concept de Teilhard de Chardin, suggérant que cette évolution spirituelle est liée à des avancées technologiques ou à une intégration entre la conscience humaine et la technologie.
+- L'AOE se bat contre la polyculture lémurienne et toutes ses variantes de sorcellerie temporelle
+	- l'AOE met en avant le calendrier œcuménique comme signe de sa grande œuvre abolition des temps lémuriens
+	- L'AOE participerait à plusieurs événements contemporains comme
+		- Le **théconservatisme** comme une recrudescence des valeurs religieuses, afin d'augmenter la croyance du calendrier grégoriens face au Y2K
+		- La consolidation de l'UE-métaterritoriale comme la consolidation d'un bloc uniforme plus simple a contrôle.
+			- Cette consolidation de l'UE-métaterritoriale s'est accompagné de plusieurs crises financières avant d'affaiblir et de renforcer certaines puissance
+		-
 - Développe un label de jungle:
   *«Jungle fonctionne comme un accélérateur de particules , des fréquences sismiques de basse génèrent un drone cellulaire qui immerge le corps... rembobine et recharge le temps conventionnel en blips de vitesse en silicium .... Ce n'est pas seulement de la musique . Jungle est le diagramme abstrait du futur inhumain planétaire»*
 - [[I was a Ccru Meat Puppet]]

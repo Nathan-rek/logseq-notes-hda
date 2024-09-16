@@ -11,7 +11,7 @@
 - Le changement des sociétés disciplinaire aux sociétés de contrôles.
 	- La discipline ne se fait plus que dans les lieux d'enfermement (panoptique Foucault) mais dans le contrôle de façon plus insidieuses.
 		- Un glissement qui est rendu possible par les technologies computationelle. Cette position de Deleuze touche aux enjeux de la [[Cybernétique]].
-		- Cette enjeux de prédiction des corps est pour Deleuze en liens avec les systèmes de contrôles
+		- Cette enjeux de prédiction des corps est pour Deleuze en liens avec les systèmes de contrôles [[Sociétés de contrôle, Gilles Deleuze]]
 			- La transmission d'informations est le contrôle pour Deleuze
 	- Le but n'est pas de ce placer contre ces nouveaux systèmes mais d'en trouver les armes "*Teenage Riot*"
 - ## Un son galvanisant
