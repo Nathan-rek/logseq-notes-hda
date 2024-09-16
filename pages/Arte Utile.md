@@ -1,3 +1,3 @@
-- Plateforme propose par une artiste qui documente un art dit utile
+- Plateforme proposer par une artiste qui documente un art dit utile
 	- " Les gens développe de méthodes pour traiter de problèmes qui était ceux de l'état"
 -

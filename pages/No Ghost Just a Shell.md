@@ -4,14 +4,14 @@
 - L’identité de Ann Lee :
 	- [[Pierre Huyghe]] : [*Two minutes out of time*](https://archives.mamco.ch/artistes_fichiers/H/huyghe.html), 2000 ![](https://archives.mamco.ch/artistes_fichiers/H/huyghe/annlee.jpg)
 		- Ann Lee est une image prête à l’emploi
-		- Dans cette interprétation de HUYGHE  le personnage reflète son existence en tant que produit visuel chargé de l’imagination d’un individu «je suis hanté par votre imagination» Ann Lee reste une coquille jusqu’à ce que sa propre imagination la rattrape
-	- [[Philippe Parreno]] : [*Anywhere Out of the World*](https://www.frac-poitou-charentes.org/pages/collection_artistes-parreno_FRAC.html), 2000 ![Philippe Parreno, coll. FRAC PC](https://www.frac-poitou-charentes.org/images/PARRENO_Anywhere_FRACPC.jpg)
+		- Dans cette interprétation de [[Pierre Huyghe]] le personnage reflète son existence en tant que produit visuel chargé de l’imagination d’un individu «je suis hanté par votre imagination» Ann Lee reste une coquille jusqu’à ce que sa propre imagination la rattrape
+	- [[Philippe Parreno]] : [*Anywhere Out of the World*](https://www.frac-poitou-charentes.org/pages/collection_artistes-parreno_FRAC.html), 2000 ![Philippe PARRENO - Anywhere out of the world | Portail des collections des  23 Frac](https://images.navigart.fr/1000/3A/40/3A40510.JPG)
 		- Explore la trame de fond de Ann Lee
 		- Ann Lee évoque son statut de potentiel personnage et parle des autres personnages de son catalogue d’origine et dit « il en avait qui avait le potentiel de devenir des héros »
 - Ann Lee est donc un personnage / Signe qui précède, habite et succède à l’histoire
-	- Elle précède l’histoire en ce sens qu’elle existe en tant qu’images de manga avant d’être acheté > Elle habite que ceux qui l’ont acheté crée après son achat > et succédé l’historie car dispose des ses propres droits d’auteurs
+	- Elle précède l’histoire en ce sens qu’elle existe en tant qu’images de manga avant d’être acheté > Elle habite que ceux qui l’ont acheté crée après son achat > et succédé l’histoire car dispose des ses propres droits d’auteurs
 - Dans une interview PARRENO dit que le regard mélancolique de Ann Lee donne l’impression que le personnage est conscient de des faiblesses et de ses faibles chances d’être un personnage principale
-	- HUYGHE lui dévie son statut de fille en «elle» mais en «ça»
+	- [[Pierre Huyghe]] lui dévie son statut de fille en «elle» mais en «ça»
 - Ann Lee ne peut se dessiner elle-même en tant que signe elle ne peut parler ou écrire aux artistes pour leur accorder le droit de la représenter dans l’art
 - Le professeur Kathryn DAVIS qui de manière ludique explore la question de savoir qui à crée Ann Lee a travers une lettre destinées à elle
 - [[Pierre Huyghe]] [*One Million Kingdom*](https://lesoeuvres.pinaultcollection.com/fr/oeuvre/one-million-kingdoms),2001![](https://lesoeuvres.pinaultcollection.com/media/styles/ex_v/s3/art/10780_visuel_DET_HUYGHE_OneMillionKingdoms.jpg?itok=E9xvngYL)
@@ -30,7 +30,8 @@
 		- Ann Lee fait références à cette évènement dans la vidéo, à une identité construite et à des espace semi-publics et semi-privés
 - Alors que le projet critique la subjectivité humaine contemporaine en tant qu’individualité médiatisée et centralise les questions sur le pouvoir social, l’individualité féminine et l’identité [[Post-Humanisme]]
 - Le projet invite à une «lecture» comme lire un récit
-	- Il contient un contexte narratif > Le référent originel du manga
+	- Il contient un contexte narratif
+		- Le référent originel du manga
 	- Le projet lui-même est fortement Narrativisé
 		- Il présente un possible fin
 			- En 2002 Ann Lee ne peut plus être utilisée en tant que modèles numérique car les droits reviennent au personnage d’Ann Lee, Ann Lee obtient un contrat qui lui transfère les droits d'auteur et d'exploitation. Elle a été libéré en l’affranchissant de son copyright
@@ -46,5 +47,5 @@
 	- [*A Worm in an Apple, 2002*](https://www.nitesha.com/?pid=52746420) Lili FLEURY![](https://img20.shop-pro.jp/PA01188/451/product/52746420.jpg?20121210182736)
 		- Un livre qui présente une collection d’œuvres de l’artiste après son diplôme à École nationale supérieur des Art décoratifs de Paris on y retrouve des illustrations et des dessins d’Ann Lee
 - ### Ann Lee et ses droits
-  La fin de Ann Lee est arriver lorsqu'elle a repris possession de ses droits. En créant un contrat qui donne au personnage de Ann Lee sa pleine possession de ses droits de représentation.
+- La fin de Ann Lee est arriver lorsqu'elle a repris possession de ses droits. En créant un contrat qui donne au personnage de Ann Lee sa pleine possession de ses droits de représentation.
 - Ann Lee passe donc d’un signe visuel qui peut être utiliser dans un contexte narratif

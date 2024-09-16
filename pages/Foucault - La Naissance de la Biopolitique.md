@@ -1,5 +1,5 @@
-- Cours donnés au collège de France,
-- La biopolitique c'est considèrer la population comme une ressource qu'on peut diriger comme une économie
+- Cours donnés au collège de France
+- La biopolitique c'est considérer la population comme une ressource qu'on peut diriger comme une économie
 	- La biopolitique répond à une lacune du libéralisme
 		- La liberté individuelle n'est pas vraiment respecté par le libéralisme
 - Système de contrôle et de surveillance soit à la fois le moins couteux et le plus autonome
@@ -14,7 +14,7 @@
 	- En quoi une norme irait servi une économie
 		- Le Capitalisme à besoin du mythe du genre binaire
 - Individu
-	- La création d'invidu est un produit de la [[Modernité]]
+	- La création d'individu est un produit de la [[Modernité]]
 		- [[Paul. B Preciado]] propose de repenser se rapport à l'identité
 		- Propose le mutant relationnelle : ne pas se figer autour d'une identité supporté par une idéologie
 - Propose un grand processus de néologisme pour apporter des nuances très précises en sursaturant des nuances
