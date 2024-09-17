@@ -1,5 +1,5 @@
 - Ecrit de [[Nicolas Bourriaud]]: *Radicant: Pour une esthétique de la globalisation*
-	- Logique de Déterritorialisation
+	- Logique de [[Déterritorialisation]]
 - Tout les formes de l'art peuvent nous aider à mieux circuler dans un monde de circulations, de globalisations
 	- *Les artistes, sous n'importe quelle latitude, ont aujourd'hui pour tâche d'envisager ce que serait la première* *culture véritablement mondiale,*
 - Le terme Radicant vient d'un terme de biologies

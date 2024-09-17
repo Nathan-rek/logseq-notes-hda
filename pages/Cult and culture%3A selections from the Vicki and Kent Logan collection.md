@@ -1,27 +1,27 @@
-- Expostion qui à travers la collection de Kent Logan retrace les relations entre [[Jeff Koons]]/ [[Andy Warhol]]/ [[Damien Hirst]]
-- [[Jeff Koons]] se figure dans l'image de l'artiste super star que [[Andy Warhol]] a conçu et pensé lors de sa carrière
-- L'art de la [[Post-Modernité]] ne se range plus à travers des mouvement mais des artistes phares comme le sont ces trois artistes
+- Exposition qui à travers la collection de Kent Logan retrace les relations entre [[Jeff Koons]]/ [[Andy Warhol]]/ [[Damien Hirst]]
+- [[Jeff Koons]] se figure dans l'image de l'artiste superstar que [[Andy Warhol]] a conçu et pensé lors de sa carrière
+- L'art de la [[Post-Modernité]] ne se range plus à travers des mouvements mais des artistes phares comme le sont ces trois artistes
 - L'esprit de la factory à fort influencé [[Jeff Koons]] célèbre pour ne pas toucher ses œuvres et travailler avec un grand nombres d'assistant..es
 - Les trois artistes qui emploient des formes issu de style d'avant gardes
 - ## Style herité des [[Avant-Gardes "Historique"]]
 	- [[Damien Hirst]]: [*Dequalinium Chloride*](https://www.artsy.net/artwork/damien-hirst-dequalinium-chloride-19), 2016 https://cdn.sanity.io/images/dqllnil6/production/537b6eca8c43b46982da4c2af786fb1124592d0a-1200x995.jpg?w=1920&q=60&auto=format
-		- Renvoi au [[Color-Field Painting]] et au technique picturale d'exploration de la couleur mais avec une certain ironie car le procès est très loin de la spontanéité que peuvent représenter les peintres de l' [[Expressionnisme Abstrait Américain]]
+		- Renvoi au [[Color-Field Painting]] et au technique picturale d'exploration de la couleur mais avec une certaine ironie car le procès est très loin de la spontanéité que peuvent représenter les peintres de l' [[Expressionnisme Abstrait Américain]]
 	- [[Jeff Koons]]: [*Equilibrium*](https://www.guggenheim-bilbao.eus/fr/exposition/equilibrio): https://cms.guggenheim-bilbao.eus/uploads/2021/03/Jeff-Koons-1985-One-Ball-Total-Equilibrium-Tank-Spalding-DrJK-241-Series.jpg
 	  id:: 661023c4-ab5c-4283-9dab-a37f2850b1f6
 		- Renvoi au display [[Minimalisme]] de Larry Bell ((653ef669-a4fe-470d-b136-86dab4530f08))
 	- [[Andy Warhol]]: [*Shadow*](https://www.artbasel.com/catalog/artwork/23026/Andy-Warhol-Shadow?lang=fr), 1978 ![Andy Warhol | Shadow, 1978 | Art Basel](https://d2u3kfwd92fzu7.cloudfront.net/gallery/photo/1436260153334/WAR_268_12.jpeg)
 		- Réemploi l'esthétisme abstrait de [[Expressionnisme Abstrait Américain]] mais encore une fois avec un procédé qui lui n'est pas celui de la spontanéité qui est à la base de l'esthétique abstraite de ce mouvement. Ces réappropriations rentre en ligne de mire de ces producteurs d'images de masses capables de remployer des formes issu du champ de l'art
 - ## Miroir d'une société
-- Il se présente comme miroir de la société renvoyé directement aux questions de consommation que ce soit à travers les objets de consommation ((65480be3-7ec8-4db9-9289-62be8b4f1216))
+- Ils se présentent comme miroir de la société en renvoyant directement aux questions de consommation que ce soit à travers les objets de consommation ((65480be3-7ec8-4db9-9289-62be8b4f1216))
 - Les pubs qui créent le désire [[Jeff Koons]]: [*Hennessy, The Civilized Way to Lay Down the Law*](https://jeffkoons.com/artwork/luxury-degradation/hennessy-the-civilized-way-lay-down-the-law), 1986 https://jeffkoons.com/sites/default/files/artwork-images/lux4_sm.jpg
-- Ou alors la dérive pharmacologique de nos modes de consommation avec les cabinet de [[Damien Hirst]]: *The Days, the Hours, the Minutes, the Seconds*, 2008 https://pointcontemporain.com/wp-content/uploads/2021/06/HIRST-2008.0493-Detail-A_2-756x1024.jpg
+- Ou alors la dérive pharmacologique de nos modes de consommation avec les cabinet de [[Damien Hirst]]: *The Days, the Hours, the Minutes, the Seconds*, 2008 ![Damien Hirst — Zoé Schreiber – Zigzags](https://images.squarespace-cdn.com/content/v1/580f2a72be6594a6e29cc729/1633357061551-RP5TO8JJXPLZO5YZEU23/Damian+Hirst%2C+The+Days%2C+the+hours%2C+the+minutes%2C+the+seconds%2C+2008+%28detail%29.jpg)
   id:: 663ca1cc-3aa6-4c6b-8706-aac4dae2d47e
-- Cette usage des signes culturelles qui fait des artsite des "*Manipulator of cultural Signs*" est en clin avec la [[Post-Modernité]] ((663ca491-e79b-4e04-b9c5-efd65f616240))
+- Cette usage des signes culturelles qui fait des artsite des "*Manipulator of cultural Signs*" est fort présent avec la [[Post-Modernité]] ((663ca491-e79b-4e04-b9c5-efd65f616240))
 - ## Life / Death
-- Les trois artistes traverse aussi les questionnements premier de la condition humain en proposant des réflexions la mortalité et sur la puissance de vie.
+- Les trois artistes traversent aussi les questionnements premiers de la condition humaine en proposant des réflexions sur la mortalité et sur la puissance de vie.
 - ((663cb156-322f-40d2-8048-1fd1c0ec40ba))
 - Warhol et ses ((661023ca-f7eb-43c2-a9e1-99a89b6a5dc9))
-	- Chez [[Jeff Koons]] c'est une sort de puissance de vie qui est mis à profit. Il s'oriente vers le ballon remplie de souffle
+	- Chez [[Jeff Koons]] c'est une sorte de puissance de vie qui est mis à profit. Il s'oriente vers le ballon remplie de souffle
 		- ((661023c7-0346-433f-94d1-cfaefca79fe4))
 		- ou vers des matériaux vivant comme les fleurs
 		- ((663ca7a5-f2ca-4a56-acf6-850dbb4e31ab))
@@ -31,13 +31,13 @@
 	- ((663ca691-87b7-41c4-a025-a787a3766d3f)) ((661023c4-ab5c-4283-9dab-a37f2850b1f6))
 - ## Self-portrait
 - Les trois artistes pensent aussi leur propre figure en tant qu'artiste, célébrité.
-	- Que ce soit les polaroids de [[Andy Warhol]] ou l'artiste se prête a son jeux de portrait de célébrités.
+	- Que ce soit les polaroids de [[Andy Warhol]] oà l'artiste se prête à son propre jeux de portrait de célébrités.
 		- ((663cbaad-818b-43f4-b083-1490e4b88e73))
-	- [[Jeff Koons]] dans sa série *Made In Heaven* qui met en scène sont mariage avec la Ciccolina conscient des leur statuts de célébrités et du statut qu'ils ont
+	- [[Jeff Koons]] dans sa série *Made In Heaven* met en scène sont mariage avec la Ciccolina conscient des leurs statuts de célébrités.
 		- ![MADE IN HEAVEN [FABRIQUÉ AU PARADIS] | Musée Guggenheim Bilbao](https://cms.guggenheim-bilbao.eus/uploads/2021/03/Jeff-Koons-1989-Made-in-Heaven-300x135.jpg)
 	- Plus Jeune [[Damien Hirst]] s'est mis en scène jeune avec ce qui sera un des ses principals sujets
-		- ((663cb83c-9501-44e4-9ead-e6707f55f2af))7
-- Si ces artistes investissent leur propres célébrités ce n'est pas que pour leur rôles dans le [[Monde de l'art]] mais c'est aussi leur implications dans les medias pop.
+		- ((663cb83c-9501-44e4-9ead-e6707f55f2af))
+- Si ces artistes investissent leur propres célébrités ce n'est pas que pour leur rôles dans le [[Monde de l'art]] mais c'est aussi leur implications dans les médias pop.
 - ## Pop-star
 - [[Andy Warhol]] était une figure indéniablement proche de la culture pop. En plus d'être son sujet [[Andy Warhol]] s'intègre dans la culture pop avec des apparitions dans des séries télé
 - [[Jeff Koons]] travail avec des Pop-stars comme Lady Gaga en réalisant la pochette de son album *Artpop*

@@ -2,7 +2,7 @@
 	- Revendication des minorités qui remettent en question les régimes de représentation de la vie humaine et de la subjectivité
 - Cherche à briser les idées dualistes sur lesquelles l'humain est construis
 - Redéfinit les frontières entre la compréhension philosophique moderne du concept "humain"
-- Rejette les dualisme et anthropocentrique qui place l'expérience humaine universelle centré sur l'homme blanc occidental comme condition universelle.
+- Rejette les dualismes et anthropocentrique qui place l'expérience humaine universelle centré sur l'homme blanc occidental comme condition universelle.
 - ## Quelle est la subjectivité humaine ?
 - Protagoras propose anthropos qui signifie humain mais n'inclut pas tout les humain
 	- Etre anthropos c'est ne peut pas etre un etre divin
@@ -14,8 +14,6 @@
 	- Le paradigme euro centrique implique la dialectique du soit et de l'autre et la logique binaire de l'identité et de l'altérite
 - Selon le post-humanisme il faut abandonner la rhétorique universaliste de l'humanisme et de déconstruire le conte de la subjectivité humaine
 	- La différence n'est pas péjoratif
-- ## Déconstruire l'identité
-- [[Transfeminisme]]
 - ## Technologies
 - Réflexion critique sur la coévolution entre le technologie et l'humain
 	- Ne cherche pas à la supprimer ni en à en faire un espoir divin

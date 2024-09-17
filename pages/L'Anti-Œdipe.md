@@ -6,8 +6,8 @@
 		- En haut le *conscient/préconscient* à disposition (mémoire souvenir).
 		- L'inconscient nourrit par les pulsions du *ça*
 			- *ça* : fond animal et sexuel qui cherche la survie et la reproduction
-		- Le moi se négocie entre le ça et le préconscient face aux normes sociétales et morales
-	- Bien que la psychanalyse a évolué ce schéma reste présent et ce n'est pas ce schéma  que D&G reproche à Freud mais c'est la neutralisation psychanalytique de l'inconscient que Freud a fait en le découvrant et en collant sur lui une lecture familiariste et structuraliste.
+		- Le moi se négocie entre le *ça* et le *préconscient* face aux normes sociétales et morales
+	- Bien que la psychanalyse a évolué ce schéma reste présent et ce n'est pas ce schéma que D&G reproche à Freud mais c'est la neutralisation psychanalytique de l'inconscient que Freud a fait en le découvrant et en collant sur lui une lecture familiariste et structuraliste.
 		- Didier Eribon dit de ce livre que c'est "*une critique de la normativité psychanalytique*"
 		- Pour D&G c'est un problème car nos désirs sont ce qui nous pousse à agir dans la société.
 		- En collant sur l'inconscient une lecture familiariste on empêche la puissance révolutionnaire de l'inconscient car on le structuralise et donc on ne peut le modifier, tout comme la société se présente comme un ensemble structurelle
@@ -15,13 +15,17 @@
 		- Schizophrénie comme trouble mental qui se traduit par une distorsion de la réalité, hallucinations et problème de rapport à l'autre et sa propre identité
 		- La schizo-analyse présente un inconscient qui est structuré comme le délire du schizophrène, le psychisme serait une usine a crée du désire ( qui ne serait pas qu'œdipien ).
 			- Schizo car non unifié ( contrairement à l'Œdipe familiale )
+			- La **schizophrénie** est une métaphore et un modèle positif dans sa capacité à **déterritorialiser** les structures fixes. La schizo-analyse valorise cette capacité à briser les cadres imposés
 	- Une conception Schizo-analytique réouvre le champ d'interprétation de l'inconscient
 		- Nos désirs ne serait donc pas que structuré par le manque
 			- Ce manque est pour Freud le manque de la relation Œdipienne originelle
 		- Pour D&G le désir comme production, le désir n'est plus une malédiction originelle
 			- C'est une production joyeuse et révolutionnaire
+			- Il parle de désir productif le désir n'est pas refoulé car l'individu est une machine désirante ouverte à des flux et des forces qui s'inscrivent dans un large réseaux sociaux
 	- Le désir n'est pas un désir d'objet mais un désir complexe
 		- Un désir complexe est un désir d'agencement: On en veut pas l'objet cigarette mais on souhaite un agencement complexe dont la cigarette fait partie
 			- Ce que les publicitaires ont bien compris, ils vendent un agencement de désir
-- La critique de D&G reproche à Freud de s'arrêter au refoulés et de ne pas mettre en perspectives les enjeux de société avec les désir refoulés.
-	- Aller à la source même du ça et de sa production
+- La critique de D&G reproche à Freud de s'arrêter au *refoulés* et de ne pas mettre en perspectives les enjeux de société avec les désir refoulés.
+	- Aller à la source même du ça et de sa production**
+- La schizo-analyse est aussi une critique du **capitalisme**, qu’ils perçoivent comme un système qui exploite les forces désirantes et les reterritorialise dans un cadre de production et de consommation. Le capitalisme, tout comme la psychanalyse, capture et canalise les désirs pour les intégrer dans ses circuits économiques et sociaux.
+- **Désir et capitalisme** : Le capitalisme, pour Deleuze et Guattari, libère certains flux de désir (comme dans la consommation ou l'innovation) tout en les contrôlant et en les exploitant à son avantage. Le capitalisme opère ainsi une sorte de schizophrénie contrôlée, où il encourage l'individualisme et l'innovation tout en maintenant des formes de domination.

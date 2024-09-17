@@ -18,7 +18,7 @@
 									- **Métaphysiques dogmatiques** : Ce sont les systèmes philosophiques qui prétendent détenir une connaissance certaine et absolue de la réalité. Ces métaphysiques reposent souvent sur des principes immuables ou des nécessités rationnelles qui prétendent expliquer l'essence du monde de manière définitive.
 - Corrélation : idée qu'on a accès qu'as la corrélation entre être et pensée et jamais a un de ces termes de façon isolées
 	- [[Corrélationisme]]: tous courant de penser qui soutient le caractère corrélative de ces rapports.
-		- Consiste à disqualifier toutes toute prétention a considérer lés sphères de la subjectivité et de l'objectivité indépendamment l'une de l'autres
+		- Consiste à disqualifier toutes prétention à considérer les sphères de la subjectivité et de l'objectivité indépendamment l'une de l'autres
 			- Cercle corrélation comme cette phénomène d'autocontradiction que lorsque qu'on pense un objet en soi on le pense déjà plus en soi
 				- Ensuite il était question de ce demander quelle mode de corrélation est originaire: [[Sujet-Objet]] / Langage -référence
 	- **Objet-monde**: La conscience et le langage sont des objet unique car il font monde
@@ -28,10 +28,10 @@
 - Comment penser le monde avant l'H ? Comment penser le monde avant la conscience
 	- **Ancestral**: Toute réalité antérieur à l'H
 	- **Archi-fossile**: matériaux indiquant l'existence d'une réalité ancestrales
-		- Matériel à l'origine des expérimentations donnant lieux a l'estimation de phénomènes ancestrales
+		- Matériel à l'origine des expérimentations donnant lieux à l'estimation de phénomènes ancestrales
 	- Quelle interprétation le [[Corrélationisme]] donnerait face aux énoncés ancestraux ?
 		- Le [[Corrélationisme]] ne peut entrevoir les matières Archi fossile car elle ne réponde pas au corrélat.
-			- On décrit des événement qui ne nous était pas sensible.
+			- On décrit des événements qui ne nous était pas sensible.
 				- Cette absence de témoin pose aussi soucis au lointain sachant que la lumière qui nous parviens est issu de temps antérieur
 	- On se voit jamais un cube en entier
 		- Il y a toujours un non saisie dans la perception

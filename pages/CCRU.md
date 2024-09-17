@@ -38,7 +38,7 @@
 - ## Miskatonic Virtual University
 - La MVU est une école semi-fictive : elle existe autant qu'elle n'existe pas. N'ayant pas de campus, elle se manifeste à travers diverses autres institutions, souvent considérée comme l'ombre du MIT. Cette école s'intéresse particulièrement aux aspects hyperfictionnels de l'œuvre de H.P. Lovecraft. Son histoire est étroitement liée au travail d'Echidna Stillwell, une anthropologue dont les recherches ont été discréditées en raison de sa croyance en des pratiques folkloriques. Cependant, ces travaux ont été valorisés par le capitaine Peter Vysparov.
 - ### The Cthulhu Club
-- Vysparov dans une lettre à Stillwell avoue avoir utiliser les écrits de Stillwell à des fins mauvaises de manipulation de populaition. Il raconte comment ces pratiques ont évolué en une véritable guerre sorcière contre les forces japonaises.
+- Vysparov dans une lettre à Stillwell avoue avoir utiliser les écrits de Stillwell à des fins mauvaises de manipulation de population. Il raconte comment ces pratiques ont évolué en une véritable guerre sorcière contre les forces japonaises.
 - ## AOE
 - AOE (l'Ordre Architectonique de l'Eschaton) revendique deux choses :
 - **Précéder toute tradition actuelle de sagesse humaine** : L'AOE prétend exister depuis avant toutes les autres traditions de sagesse ou de connaissance humaine. Cela sous-entend qu'elle possède un savoir ancien, remontant à une époque antérieure à toutes les autres civilisations ou courants de pensée connus.
@@ -51,7 +51,6 @@
 		- Le **théconservatisme** comme une recrudescence des valeurs religieuses, afin d'augmenter la croyance du calendrier grégoriens face au Y2K
 		- La consolidation de l'UE-métaterritoriale comme la consolidation d'un bloc uniforme plus simple a contrôle.
 			- Cette consolidation de l'UE-métaterritoriale s'est accompagné de plusieurs crises financières avant d'affaiblir et de renforcer certaines puissance
-		-
 - Développe un label de jungle:
   *«Jungle fonctionne comme un accélérateur de particules , des fréquences sismiques de basse génèrent un drone cellulaire qui immerge le corps... rembobine et recharge le temps conventionnel en blips de vitesse en silicium .... Ce n'est pas seulement de la musique . Jungle est le diagramme abstrait du futur inhumain planétaire»*
 - [[I was a Ccru Meat Puppet]]

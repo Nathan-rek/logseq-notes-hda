@@ -71,4 +71,4 @@
 - Le son synthétique serait le seul à investir le futur et donc à pouvoir l'influencer
 	- *Quiconque qui contrôle le synthétiseur contrôle le son du futur, parce qu’il connote l’alien*
 - Conclusion:
-- L’ [[Accélérationisme]] et le digital hardcore font tous les deux preuve d’une critique sévère des nouvelles technologies et tactiques de contrôle social ; mais également preuve de stratégies de réinvestissement, de détournement et de déterritorialisation de ces même armes de contrôle [[Cybernétique]]
+- L’ [[Accélérationisme]] et le digital hardcore font tous les deux preuve d’une critique sévère des nouvelles technologies et tactiques de contrôle social; mais également preuve de stratégies de réinvestissement, de détournement et de [[Déterritorialisation]] de ces mêmes armes de contrôle [[Cybernétique]]
