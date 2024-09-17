@@ -1,5 +1,5 @@
 - En 1960 l’art allemand privilégie l’ [[Abstraction]]
-	- on pourrait lire cette direction comme une abstraction pour mieux gommer son passé en évitant toute figuration de ce que l’Allemagne peut incarner. Georg Baselitz s’y oppose radicalement en développant un art figuratif fondé sur la laideur et l’ironie
+	- On pourrait lire cette direction comme une abstraction pour mieux gommer son passé en évitant toute figuration de ce que l’Allemagne peut incarner. Georg Baselitz s’y oppose radicalement en développant un art figuratif fondé sur la laideur et l’ironie
 - En 1963 Georg Baselitz marque fortement ces intentions de défier la convention et provoquer la morale bourgeoise d’une société allemande
 	- [*La Grande Nuit dans le Seau*](https://www.paperblog.fr/7347395/grande-retrospective-georg-baselitz-a-la-haus-der-kunst-de-munich/) ![](https://media.paperblog.fr/i/734/7347395/grande-retrospective-georg-baselitz-haus-der--R-BDG3bB.jpeg)
 		- Un adolescent, le sexe dressé vers le spectateur, en train de se masturber.
@@ -15,18 +15,20 @@
 	- L’esthétique totalitaire: rejetant les couleurs pastels et l’expression du kitsch que caractérise les créations artistiques aux service de l’idéologie nazis.
 		- Selon Siegfried GOHR:
 - *«les organisations fascistes, doctrinaires, répressives qui profite de l’apparence, ne peuvent utiliser la laideur ; celle-ci ne peut être un idéal car elle refuse à l’esthétisation et garde les blessure ouvertes»*
-	- Les débordements de peinture des empâtement brossées de coup de peinture violentes
+	- Les débordements de peinture des empâtements brossées de coup de peinture violentes
 	- La laideur et l’ironie : ses tableaux aux tonalités grises et terreuse conjugue une tacticité brutale
 		- L’artiste déclare que l’Allemagne est le pays des tableaux laid.
 			- L’ironie se trouve aussi dans les titres de ces tableaux avec sa série [*Les Héros*](https://www.guggenheim-bilbao.eus/fr/expositions/georg-baselitz-les-heros) ![blocked painter 1965](https://cms.guggenheim-bilbao.eus/uploads/2021/02/blocked-painter-1965.jpg) & [*Types Nouveaux*](https://www.artsy.net/artwork/georg-baselitz-the-new-type)![Georg Baselitz | The New Type (1966) | Artsy](https://d7hftxdivxxvm.cloudfront.net/?height=800&quality=85&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FXBNWA-fc06QvzrGxtjmaQA%2Fnormalized.jpg&width=634)  en dérision à l’idéologie de crée un homme nouveaux et héroïque
 				- Les titres glorieux sont démentis par les personnages qui errent sans but précis dans les paysages de désolation > des anti-héros aux attitudes pathétiques.
 - L’artiste entame un long processus de dé-construction systématique de la figuration traditionnelle avec comme cible l’être humain
-	- Parfois un arbre peut substituer l’homme mais pour Andreas FRANZKE l’arbre présente les mêmes blessures que l’homme, mêmes mutilations, mêmes plaies sanguinolentes
+	- Parfois un arbre peut substituer l’homme mais pour Andreas Franzke l’arbre présente les mêmes blessures que l’homme, mêmes mutilations, mêmes plaies sanguinolentes
 - L’artiste décompose les tableaux de plusieurs manières
-	- Il commence par diviser ses tableaux d’abord en deux puis en bandes. Les figures y sont fracturées, leurs différentes parties décalées les unes par rapport aux autres > [*Le Peintre vêtu de son manteau*] ![Baselitz - La rétrospective](https://www.spectacles-selection.com/archives/expositions/fiche_expo_B/baselitz-la-retrospective-V/05-peintre-en-manteau-a.jpg)
+	- Il commence par diviser ses tableaux d’abord en deux puis en bandes. Les figures y sont fracturées, leurs différentes parties décalées les unes par rapport aux autres
+		- [*Le Peintre vêtu de son manteau*] ![Baselitz - La rétrospective](https://www.spectacles-selection.com/archives/expositions/fiche_expo_B/baselitz-la-retrospective-V/05-peintre-en-manteau-a.jpg)
 	- C’est le corps qui ensuite se décomposera avec [*B pour Larry*](https://culturieuse.blog/2018/03/03/georg-baselitz-1938-§-art-et-allemagne/)où la chair et le corps du sujet partent en éclat ![](https://culturieuse.files.wordpress.com/2018/03/2aedc52d08cab79e0013fb2e876b32e8.jpg?w=768&h=1021)
 - A partir de 1969 il représentera ses personnages la tête en bas: le renversement, pour l’artiste, oblige le spectateur..ices à établir une distance avec le contenu de la représentation, à se méfier d’une ressemblance trop évidente [ [*Portrait of Elke I*](https://www.metmuseum.org/art/collection/search/844405)] https://www.connaissancedesarts.com/wp-content/uploads/2021/02/portrait-of-elke-i-1969.jpg
 - Baselitz s’intéresse à la sculpture sur bois
 	- Il y développe une approche qui s’inscrit dans la lignée de l’expressionnisme allemand.
 	- Il ne dévie pas de son esthétique avec des sculptures en bois il scie martèles des tronc pour y sculpter ses corps loin du lisse et du poli.
-		- Il y ajoute aussi de la couleur souvent sous forme de taches massive > [*Frau Paganismus*](https://www.christies.com/about-us/press-archive/details?PressReleaseID=10786) ![Georg Baselitz | Frau Paganismus (Mrs Paganism) (1994) | MutualArt](https://media.mutualart.com/Images//2023_02/16/10/102641949/georg-baselitz-frau-paganismus--mrs-paga-6UXNE.Jpeg)
+		- Il y ajoute aussi de la couleur souvent sous forme de taches massive
+		- [*Frau Paganismus*](https://www.christies.com/about-us/press-archive/details?PressReleaseID=10786) ![Georg Baselitz | Frau Paganismus (Mrs Paganism) (1994) | MutualArt](https://media.mutualart.com/Images//2023_02/16/10/102641949/georg-baselitz-frau-paganismus--mrs-paga-6UXNE.Jpeg)

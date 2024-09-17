@@ -40,3 +40,4 @@
 	- Richard SERRA: [*Promenade*](https://www.paris-art.com/monumenta-2008-promenade/), 2008 ![Monumenta 2008, une promenade avec Richard Serra - archéologie du futur /  archéologie du quotidien](https://idata.over-blog.com/0/41/70/57/Exposition/Promenade--installation-de--Richard-Serra---Monumenta-2.jpg)
 		- Ces promenades étaient «rythmées» par de la musique, et notamment celle de Philip Glass( artiste minimaliste )
 - ### [[Art et Objectité]]
+-

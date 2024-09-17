@@ -16,7 +16,7 @@
 - Greil Marcus: *Lipstick Traces*
 	- Retrace la culture du 20ème en 3 moment clés
 		- Janvier 1968 dernier concert des Sex Pistol
-			- Entend l'esprit de contestation de l'époque mélanger à l'esprit nihiliste des [[Dada]]. ensuite au [[L’international situationniste]] contre la société spectaculaire marchandes
+			- Entend l'esprit de contestation de l'époque mélanger à l'esprit nihiliste des [[Dada]] ensuite au [[L’international situationniste]] contre la société spectaculaire marchandes
 			- S'intéresse donc au [[Dada]] -> [[L’international situationniste]] -> Sex Pistol
 				- Voit le 20ème siècle comme parsemer d'esprit de contre culture
 - Le process de destruction est très présent dans les contre-cultures

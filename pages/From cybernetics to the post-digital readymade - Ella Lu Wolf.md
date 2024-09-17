@@ -13,7 +13,6 @@
 			- Jeremy Wood: *My Ghost*, 2000 ![My Ghost 2000 - 2012 by Jeremy Wood | Buy Art Online | Rise Art](https://d1ee3oaj5b5ueh.cloudfront.net/thumbs/700xAUTO_2017_09_59b6b2150d017.jpeg)
 	- De plus la figure hacker est une figure anonyme une figure qui a grandement investi l'idée du digital.
 - [[Seth Price]] remarque que du au nouveaux système de distribution internet, la sphère de l'art, la pop culture, le meme... se mélange en une même entité car utilise les mêmes circuits de distribution. Comme quand l'art est devenu un bien de consommation similaire au bien de consommation capitaliste car étant mis au même plan de distribution
-	- Les artistes [[Post-Internet]] ont une relation avec internet qui est celle de [[Marcel Duchamp]] dans le sens ou i..els transfigurent comme avec le [[Ready-made]] des objets et des images issus d'internet. I..elles utilisent Internet comme une ressource.
-- [[Seth Price]] parle dans [[Dispersion]] de l'acte artistique non plus comme la création d'objet mais de l'activité de :
-- Seth Price *packaging, producing, reframing, and distributing; a mode of production analogous […] to the production of social contexts, using existing material. Anything on the internet is a fragment,  provisional, pointing elsewhere. Nothing is ﬁnished*
+	- Les artistes [[Post-Internet]] ont une relation avec internet qui est celle de [[Marcel Duchamp]] dans le sens où i..els transfigurent comme avec le [[Ready-made]] des objets et des images issus d'internet. I..elles utilisent Internet comme une ressource.
+- [[Seth Price]] parle dans [[Dispersion]] de l'acte artistique non plus comme la création d'objet mais de l'activité de : *packaging, producing, reframing, and distributing; a mode of production analogous […] to the production of social contexts, using existing material. Anything on the internet is a fragment,  provisional, pointing elsewhere. Nothing is ﬁnished*
 -

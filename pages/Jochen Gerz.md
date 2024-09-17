@@ -1,6 +1,6 @@
-- L'art disparais, même le monument. Le monument est lie a la mémoire, on y donc habiter a des monument tangibles qui reste dans l'espace
-- Monument contre le fascisme dans l'espace public où n'importe que peut écrire dessus: Un anti-monument
-	- Monument contre le facisme
+- L'art disparais, même le monument. Le monument est lié a la mémoire, on y donc habituer à des monuments tangibles qui reste dans l'espace
+- Monument contre le fascisme dans l'espace public où n'importe que peut écrire dessus: Un anti monument
+	- Monument contre le fascisme
 	- ![Jochen Gerz “Le nom est souvent le dernier bout du chemin de la mémoire”](https://journals.openedition.org/temoigner/docannexe/image/3232/img-2.png)
 	- Mais à chaque fois que une face est couvert le monument s'enfonce dans le sol
 		- ![B. Présentation de l'artiste: A . Présentation généraliste de l'œuvre: HDA  arts pl](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAgkqub5iEHTfldwD5_s8_UHw8oq1Zfeu3IWjlzMhAVhqHamsQwxSFOna48XZBXoyHOzU&usqp=CAU)

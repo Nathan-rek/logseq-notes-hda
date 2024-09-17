@@ -6,10 +6,10 @@
 - Les pratiques littéralistes critiquent la peinture pour plusieurs éléments.
 	- Le caractère relationnelle des œuvres picturales
 	- La quasi inévitable illusion picturale
-- Pour Donald JUDD l’un des problèmes de la peinture est l’idée de relier des parties entre elles ce qui fait préexister une hypothèse qu’il existe un vague tout.
+- Pour Donald Judd l’un des problèmes de la peinture est l’idée de relier des parties entre elles ce qui fait préexister une hypothèse qu’il existe un vague tout.
 	- Mais la peinture est un rectangle bien définies, qui lui même contient des partis.
-		- Donald JUDD émet une critique de surface plane de la peinture avec des peintures qui rentre directement en résonance avec le caractère bidimensionnelle de la toile, en traversant les peintures de lignes sur la hauteur et la longueur marquant leur limites spatial.
-		- Donald JUDD: [*Sans titre*](https://icamiami.org/calendar/donald-judd-paintings-opening-night/), 1960 ![image.png](../assets/image_1698707941172_0.png) 
+		- Donald Judd émet une critique de surface plane de la peinture avec des peintures qui rentre directement en résonance avec le caractère bidimensionnelle de la toile, en traversant les peintures de lignes sur la hauteur et la longueur marquant leur limites spatial.
+		- Donald Judd: [*Sans titre*](https://icamiami.org/calendar/donald-judd-paintings-opening-night/), 1960 ![image.png](../assets/image_1698707941172_0.png) 
 		  
 		  *L'espace réel peut être intrinsèquement plus puissant et spécifique que la peinture sur une surface plane*
 		  
@@ -22,20 +22,20 @@
 		- ((663c97fd-ea76-4c1b-9e28-bbc82ab79b16))
 - La peinture [[Modernisme]] s’est donné à invalider ou suspendre sa propre objectité en adhérant a la surface rectangulaire 2D
 - ### L’art littéraliste et la sculpture
-- Donald JUDD considère la sculpture comme des objets spécifiques.
+- Donald Judd considère la sculpture comme des objets spécifiques.
 - Robert MORRIS inscrit ses sculptures dans la ligné de la pensé constructiviste.
 	- Malgré leurs point de vu différent ils s’opposent à l’idée de la sculpture comme un ensemble de parties distinctes qui s'organise ensemble dans une sculpture.
-		- Pour JUDD cette attitude de composition relève de l’anthropomorphisme
+		- Pour Judd cette attitude de composition relève de l’anthropomorphisme
 			- Il préfère utilise la répétition d’objet unique pour y relever une certaine complétude, d’une sculpture qui se composerai de partie.
-				- Donald JUDD: [*Untitled*](https://sis.modernamuseet.se/objects/1296/untitled), 1965 ![Untitled](https://sis.modernamuseet.se/internal/media/dispatcher/29056/preview){:height 474, :width 450}
+				- Donald Judd : [*Untitled*](https://sis.modernamuseet.se/objects/1296/untitled), 1965 ![Untitled](https://sis.modernamuseet.se/internal/media/dispatcher/29056/preview){:height 474, :width 450}
 				  
-				  *«Le grand problème est là: dès lors que quelque chose n'est pas absolument simple, il tend à avoir des parties. La question est donc de pouvoir travailler et de faire des choses différentes sans pour autant briser la complétude de l’œuvre. Pour moi, si une pièce est faite de cuivre et de cinq verticales, elle a d'abord cette forme-là.»*
+				  *«Le grand problème est là: dès lors que quelque chose n'est pas absolument simple, il tend à avoir des parties. La question est donc de pouvoir travailler et de faire des choses différentes sans pour autant briser la complétude de l’œuvre. Pour moi, si une pièce est faite de cuivre et de cinq verticales, elle a d'abord cette forme là.»*
 				  
 				  *Donald Judd*
-- Pour JUDD comme pour MORRIS, la forme constitue l'élément critique
+- Pour Judd comme pour MORRIS, la forme constitue l'élément critique
 	- La forme est l'objet ou du moins, c'est l'unicité de la forme qui garantit l'intégrité de l'objet.
 		- [Robert MORRIS: [*Untitled (Corner Piece)*](https://www.guggenheim.org/artwork/3063), 1964] ![Robert Morris, Untitled (Corner Piece), 1964 (refabricated 2013–14). Painted plywood, 78 x 108 x 76 inches (198.1 x 274.3 x 193.1 cm)](https://www.guggenheim.org/wp-content/uploads/1964/01/91.3791_ph_web-1.jpg)
-	- Pour FRIED l’importance accordée à la forme crée un vide qui émane des sculptures de JUDD et de MORRIS.
+	- Pour FRIED l’importance accordée à la forme crée un vide qui émane des sculptures de Judd et de MORRIS.
 - ### L’art littéraliste et la formes
 - A l’inverse de la peinture moderniste qui essai d’invalider sa propre objectité l’art minimaliste lui l’affirme comme essence
 - La **présence** de la sculpture minimalistes.
@@ -54,16 +54,16 @@
 	- L’art littéraliste s’éprouve comme objet placé dans une situation dans laquelle les spectateur..ices sont inclut.
 		- L’œuvre nous inscrit dans un espace et devient élément réflexif de notre présence à l’œuvre dans l’espace. Le..a spectateur..ices est plus conscient..e des rapport qu’il..les entretiennent  avec l’œuvre.
 			- Pour MORRIS la force de la forme comme forme constante joue un rôle dans cette conscientisation de l’espace
-- C’est la mise en distance d’une œuvre et son caractère non-relationnel, unitaire qui tient les spectateur..ices à distance des œuvres.
+- C’est la mise en distance d’une œuvre et son caractère non relationnel, unitaire qui tient les spectateur..ices à distance des œuvres.
 	- Cette distance fait de l’œuvre un objet et du..la spectateur..ices un sujet.
-- C'est l'objet, et non le..a spectateur..ices, qui doit être au centre de la situation et en constituer le point de mire. Dans l'[[Expressionnisme Abstrait Américain]] le sujetest la peinture et non celui qui regarde la peinture.
+- C'est l'objet, et non le..a spectateur..ices, qui doit être au centre de la situation et en constituer le point de mire. Dans l'[[Expressionnisme Abstrait Américain]] le sujet est la peinture et non celui qui regarde la peinture.
 	- Mais la situation elle-même appartient au spectateur..ices - c'est sa propre situation.
 	- Comme le note MORRIS :
 	  
 	  *Ce sont les objets qui sont avec nous dans l'espace [ ... ] et non nous-mêmes qui sommes environnés d'objets dans l'espace. *
 	-
 - C’est une situation constante que d’être environnées d’objet mais les œuvres minimales devraient accentuer ce fait par leur présence.
-- Pour FRIED  ce qui ne marche pas c’est que les œuvres minimales ne permettent pas ces reconsidérations pour la situation dans son ensemble
+- Pour FRIED ce qui ne marche pas c’est que les œuvres minimales ne permettent pas ces reconsidérations pour la situation dans son ensemble
 	- Il n’y a rien que les spectateur..ices remarquent lorsqu'un objet est présent car c’est un objet et il ne peut être perçu que comme élément de la situation.
 		- De plus la présence que note GREENBERG relève de ce caractère théâtral. C’est en quelque sorte un présence scénique.
 			- Le caractère scénique des œuvres résulte non seulement de la pression qu'exerce l'œuvre littéraliste, mais aussi de la complicité particulière que celle-ci impose aux spectateur..ices
@@ -72,7 +72,8 @@
 		- L’auteur compare cette mise à distance avec l’expérience de la rencontre inopinée d’une personne inconnue dans une salle.
 - ### L’échec des œuvres minimales et leurs mise à distance
 - Les œuvres minimalistes par leurs taille prennent un statut ambivalent.
-	- Par exemple Tony SMITH :[*Die*](https://www.nga.gov/collection/art-object-page.127623.html), 1962 est un cube de taille humaine (1,83 m) qui pour l’auteur n’est enfaîte qu’un substitut de personne. Sa taille, pas assez  grande pour être monument, transforme l’œuvre en une  sculpture dont le socle est enfaîte la pièce.
+	- Par exemple Tony SMITH :[*Die*](https://www.nga.gov/collection/art-object-page.127623.html), 1962 ![Die](https://media.nga.gov/iiif/05faffef-a9bb-4d0d-afe7-ca0780ee04b1/full/!600,600/0/default.jpg)
+		- Un cube de taille humaine (1,83 m) qui pour l’auteur n’est enfaîte qu’un substitut de personne. Sa taille, pas assez  grande pour être monument, transforme l’œuvre en une  sculpture dont le socle est enfaîte la pièce.
 		- Il s'agit de fait d'un piédestal rudimentaire qui renforce l'allure de statue de la pièce.
 - De-plus les œuvres d’art littéralistes ont un caractère anthropomorphique par leurs présence ce qui accentue le coté théâtrale et scénique
 	- Leur esthétique simple, brut et leur échelle anthropomorphique peut aussi laisser croire à une vie et antérieur à l’œuvre.
@@ -93,5 +94,5 @@
 - ## Résumé - Une Fiction Moderniste, Michel Gautier
 - Cet article, l’un des plus célèbres de la littérature critique de la seconde moitié du XXe siècle, fut écrit pour défendre les valeurs du haut- [[Modernisme]] que menaçait le [[Minimalisme]] , appelé également littéralisme, car aspirant à produire des pièces qui ne soient rien d’autre que ce qu’elles sont. Si l’art moderniste « s’est donné pour impératif d’invalider ou de suspendre sa propre objectité » (le tableau doit être perçu comme le support d’une forme picturale et non comme un objet dans un espace donné), l’art littéraliste cherche, au contraire, à exalter cette objectité. Mais « l’adhésion du courant littéraliste à l’objectité n’est en fait qu’un plaidoyer en faveur d’un nouveau genre de théâtre », parce qu’il « s’attache aux circonstances réelles de la rencontre entre l’œuvre […] et le spectateur », parce que le [[Minimalisme]] joue avec l’espace d’exposition, les conditions d’éclairage ou le champ de vision du spectateur. « L’art littéraliste s’éprouve comme un objet placé dans une *situation* qui, par définition presque, *inclut* le spectateur ». A l’inverse de l’œuvre moderniste qui nourrit l’ambition de pouvoir se dispenser d’une mise en scène, le fonctionnement de l’art minimaliste serait d’ordre scénique. On pourrait le comparer à l’acteur qui joue en fonction du décor qui l’entoure, de ses partenaires et du public.
 - Après avoir dénoncé comme théâtral le parti pris du littéralisme de situer l’œuvre d’art dans l’espace réel de sa perception, l’essayiste en vient à la question du temps. Il cite Robert Morris : « L’expérience d’une œuvre se situe nécessairement dans le temps ». Par cet aspect aussi, l’esthétique littéraliste est théâtrale, car « ce à quoi en appelle le théâtre, au fond, [est] le sentiment de la temporalité ». Là encore, le littéralisme s'oppose diamétralement avec le [[Modernisme]] , car, avec les peintures et les sculptures qui se réclament de ce dernier, « tout se passe comme si notre expérience […] n’avait aucune durée » (ce que Fried appelle la « présenteté »).
-- N’occultant ni l’espace qui entoure l’œuvre, ni le temps qu’implique sa perception, autrement dit théâtral, le [[Minimalisme]] doit être combattu. Or, comme chacun le sait, « le théâtre est aujourd’hui la négation de l’art ». Une telle affirmation ne manque pas d’étonner : pour la sensibilité contemporaine, le théâtre serait presque devenu le parangon de l’art —la scène s’entendant comme le lieu, relativement autonome, d’un illusionnisme sans complexe. Mais pour Fried, le théâtre n’est pas vraiment le théâtre. La preuve en est qu’il ne s’en prend nullement aux gestes artistiques de l’époque qui, davantage que les « objets spécifiques » de Donald Judd, semblent se tenir dans le voisinage du théâtre : la performance, le happening. Dans la doctrine friedienne, le théâtre n’est que le synonyme d’un art conscient d’avoir un spectateur et d’être dans le même espace et le même temps que lui. L’art ne saurait accepter pareille promiscuité avec le théâtre du monde.
+- N’occultant ni l’espace qui entoure l’œuvre, ni le temps qu’implique sa perception, autrement dit théâtral, le [[Minimalisme]] doit être combattu. Or, comme chacun le sait, « le théâtre est aujourd’hui la négation de l’art ». Une telle affirmation ne manque pas d’étonner : pour la sensibilité contemporaine, le théâtre serait presque devenu le parangon de l’art —la scène s’entendant comme le lieu, relativement autonome, d’un illusionnisme sans complexe. Mais pour Fried, le théâtre n’est pas vraiment le théâtre. La preuve en est qu’il ne s’en prend nullement aux gestes artistiques de l’époque qui, davantage que les « objets spécifiques » de Donald Judd, semblent se tenir dans le voisinage du théâtre : la performance, le happening. Dans la doctrine Friedienne, le théâtre n’est que le synonyme d’un art conscient d’avoir un spectateur et d’être dans le même espace et le même temps que lui. L’art ne saurait accepter pareille promiscuité avec le théâtre du monde.
 - Dans les dernières lignes de l’essai, Fried précise une ultime fois ses motivations, puis se laisse aller à un aveu : « Et il est bien sûr que ce texte m’a été inspiré par le désir de distinguer entre ce qui m’apparaît comme l’art authentique de notre temps et les autres œuvres qui […] me semblent présenter certaines qualités associées aux concepts de littéralisme et de théâtre. Je voudrais toutefois […] souligner que cette sensibilité ou manière d’être que je qualifie ici de corrompue ou de pervertie par le théâtre est chose fort courante —virtuellement universelle. Littéralistes, nous le sommes tous, à chaque instant ou presque de notre vie ». Aussi, seule une illusion, Fried l’admet, peut-elle permettre à des peintures ou des sculptures de sembler exister en dehors du temps et de l’espace qui est celui du spectateur.
