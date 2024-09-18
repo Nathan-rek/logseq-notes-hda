@@ -54,4 +54,3 @@
 - Développe un label de jungle:
   *«Jungle fonctionne comme un accélérateur de particules , des fréquences sismiques de basse génèrent un drone cellulaire qui immerge le corps... rembobine et recharge le temps conventionnel en blips de vitesse en silicium .... Ce n'est pas seulement de la musique . Jungle est le diagramme abstrait du futur inhumain planétaire»*
 - [[I was a Ccru Meat Puppet]]
--

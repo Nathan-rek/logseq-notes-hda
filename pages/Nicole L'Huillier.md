@@ -1,4 +1,4 @@
-- Artiste transdisciplinaire originaire du Chili elle travail son doctorat au MIT Medi Lab
+- Artiste transdisciplinaire originaire du Chili elle travail son doctorat au MIT Media Lab
 - Travaille l'intersection de [[Art & Science]] avec des sons, des vibrations, des résonance,
 - Nicole L'Huillier: [*El Poema de la Fabrica Cosmica*](https://elephant.art/nicole-lhuillier-interview-robots-sound-space-28062020/el-poema-de-la-fabrica-cosmica_01_-credit-nicole-lhuillier/), 2019 ![El Poema de la Fabrica Cosmica_01_ Credit Nicole L'Huillier - ELEPHANT](https://elephant.art/wp-content/uploads/2020/08/El-Poema-de-la-Fabrica-Cosmica_01_-Credit-Nicole-LHuillier-scaled.jpg)
 	- Un rituel sonore qui consiste en séance d'écoute de la performance du lieu guidée par le PARACANTORA

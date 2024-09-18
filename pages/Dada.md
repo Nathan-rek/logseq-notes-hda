@@ -1,17 +1,17 @@
 - Première trace en 1915 avec le tract de Hugo Ball
 	- Rejet de la raison, approche nihilisme de la culture
 	- Hugo Ball se dit négativiste il se dit être à l’encontre des choses 
-	        «Nous ne somme pas assez naïf pour croire au progrès»
-	- En allant à Zurich en 1916 avec Aimie HENINGS il..elle ouvre un lieu, le cabaret Voltaire, lieu de performance libre où les artistes peuvent venir y performer.
+	        *«Nous ne somme pas assez naïf pour croire au progrès»*
+	- Tzara en allant à Zurich en 1916 avec Aimie HENINGS i..elle ouvre un lieu, le cabaret Voltaire, lieu de performance libre où les artistes peuvent venir y performer.
 		- Improvisation de lecture de poésie…
 		- Sophie TAEUBER-ARP
 			- Abstraction géométrique et participe au performance du dadaïsme zurichois en réalisant de costume ou des marionnettes
 			- Sophie TAEUBER-ARP Tête dada,1920 ![Tête dada - Centre Pompidou](https://www.centrepompidou.fr/media/picture/f6/82/f68252ba60dd50a53cd062d9168366fd/thumb_large.jpg)
 - Esprit nouveaux, qui rentre dans l’absurde le non-sens
-	- Tristan TZARA les rejoints dans cette démarche et veut en faire quelque chose de plus artistique.
-		- Mais TZARA crée une galerie et publie une revue malgré le rejet de faire système de BALL
+	- Tristan Tzara les rejoints dans cette démarche et veut en faire quelque chose de plus artistique.
+		- Mais Tzara crée une galerie et publie une revue malgré le rejet de faire système de BALL
 - Le Dada se développe aussi à Berlin avec des performances qui choquent la bourgeoisie
-- Des artistes de New York PICABIA et [[Marcel Duchamp]] se retrouve dans ces démarches, TZARA bouge à Paris, l’esprit Dada se multiplie
+- Des artistes de New York Picabia et [[Marcel Duchamp]] se retrouve dans ces démarches, Tzara bouge à Paris, l’esprit Dada se multiplie
 	- Cherche à jouer avec les conventions du monde de l’art
 	- [[Marcel Duchamp]]: 1000 papers ![His Twine: Marcel Duchamp and the Limits of Exhibition History - ICA  Philadelphia](https://icaphila.org/wp-content/uploads/2018/03/FIRST-PAPERS-small.jpg)
 	  id:: 653fa23b-071c-4394-90a3-969e41755b3f

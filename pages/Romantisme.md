@@ -41,15 +41,15 @@
 - Nature:
 	- John CONSTABLE: [*Charrette De Foin*](https://fr.wikipedia.org/wiki/La_Charrette_de_foin), 1821 ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/John_Constable_The_Hay_Wain.jpg/1024px-John_Constable_The_Hay_Wain.jpg)
 		- le caractère mouvant de la nature le ciel les changement atmosphérique
-	- Joseph Mallord William TURNER: [*The Fighting Téméraire Tugged To Her Last Berth To Be Broken*](https://en.wikipedia.org/wiki/The_Fighting_Temeraire), 1839 ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg/1024px-The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg)
+	- Joseph Mallord William Turner : [*The Fighting Téméraire Tugged To Her Last Berth To Be Broken*](https://en.wikipedia.org/wiki/The_Fighting_Temeraire), 1839 ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg/1024px-The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg)
 		- Rencontre le téméraire bateau de l’amiral Horatio NELSON qui a repoussé NAPOLÉON de l’Angleterre
 - BAUDELAIRE: [*Le Peintre De  La vie Moderne, 1863*](https://fr.wikipedia.org/wiki/Le_Peintre_de_la_vie_moderne)
 	- Critique d’art sur le styliste de mode Constantin GUY
 	- Arrivé de l’aquarelle: esquisse rapide
 - ### Romantisme français:
-  Présence des grand trait du romantisme mais en France est une évolution du néoclassicisme  vers le romantisme.
+  Présence des grands trait du romantisme mais en France est une évolution du néoclassicisme vers le romantisme.
 - Eugène Delacroix: [*La Mort de Sardanapale*](https://fr.wikipedia.org/wiki/La_Mort_de_Sardanapale), 1827 ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eug%C3%A8ne_Delacroix_-_The_Death_of_Sardanapalus_-_WGA6173.jpg/1024px-Eug%C3%A8ne_Delacroix_-_The_Death_of_Sardanapalus_-_WGA6173.jpg){:height 363, :width 450}
-	- peinture historique ( Roi qui incendie sa ville et organise un meurtre générale )  en grand format: Le premier à procéder par divisionnisme de la couleur , la couleur triomphe
+	- Peinture historique ( Roi qui incendie sa ville et organise un meurtre générale )  en grand format: Le premier à procéder par divisionnisme de la couleur , la couleur triomphe
 - ### Gothique
 - Termes crée par VASARI traitant de l’architecture qui renverrait a l’architecture barbare des wisigoth
 	- Thomas GRAY: [*Élégi Dans un cimetière de campagne*](https://fr.wikipedia.org/wiki/Élégie_écrite_dans_un_cimetière_de_campagne#:~:text=Élégie%20écrite%20dans%20un%20cimetière%20de%20campagne%20est%20un%20poème,de%20l'écrivain%20Richard%20Bentley.) > œuvre romantique
