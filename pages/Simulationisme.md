@@ -8,7 +8,7 @@
 			- La structure du Signes approche [[Structuraliste]]
 		- Distinction entre les concepts et les usages issue de sa pensée
 			- Avènement d’une Hyperrealité
-	- Historique déjà développée par Gilles Deleuze, lequel établit une distinction similaire à celle de Jean Baudrillard afin de distinguer le simulacre et la copie.
+	- Historique déjà développée par Gilles Deleuze, lequel établit une distinction similaire à celle de Jean Baudrillard afin de distinguer le [[Simulacre]] et la copie.
 	- C’est un art qui par la multiplication des copies met un place une distance entre l’image produites et l’original
 	- [[Andy Warhol]] : Nine Jackies ![image.png](../assets/image_1698533715100_0.png)
 	  id:: 661023ca-f7eb-43c2-a9e1-99a89b6a5dc9

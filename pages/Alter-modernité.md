@@ -5,4 +5,3 @@
 - L' [[Heterochronia]] a permis de produit des choses qui touchent plus à une vison de l'histoire humaine en affirmant et utilisant de multiple temporalité.
 	- C'est de cette variation de temporalité que l'alter-modernité prend formes.
 -
--

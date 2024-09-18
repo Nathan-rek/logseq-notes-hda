@@ -234,6 +234,5 @@
 		- La ligne gothique elle n'est pas abstraite mais elle est inorganique.
 			- Elle dépasse la ligne symétrie, via la répétitions, elle déchainent la symétrie. Toutes les figures sont possibles.
 				- Ou bien elle se perd à l’infini dans une convulsion désordonnée, dit Worringer,
-				- Ou bien elle revient sur soi et elle expire comme ça là, en convulsion,
+				- Ou bien elle revient sur soi et elle expire
 				- Ou bien elle ne cesse pas de s’opposer à elle même à un obstacle et reçoit force et libération de cet obstacle, c’est-à-dire elle s’oppose à un obstacle qu’elle ne franchit qu’en changeant de direction et elle change constamment de direction
--

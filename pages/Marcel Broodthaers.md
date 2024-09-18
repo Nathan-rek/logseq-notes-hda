@@ -1,6 +1,6 @@
 - Artiste belges qui crée un [[Art Conceptuel]] qui à une charge critiques face aux institutions [[Critique institutionnelle]]
 	- En 1968 lors d'un blockus dans un musée il va contester l'élitisme de l'art que le musée forge
-		- Le jeu du barricades pour l'artiste n'est pas nécessaire il faut développer au sein des dispositif artistique des limites
+		- Le jeu des barricades pour l'artiste n'est pas nécessaire il faut développer au sein des dispositifs artistiques des limites
 		- Marcel Broodthaers: [*Le Musée d'Art Moderne*](https://journals.openedition.org/marges/1048), 1968 ![Marcel Broodthaers. Musée d'Art Moderne, Département des Aigles, Section  Publicité. 1972 | MoMA](https://www.moma.org/d/assets/W1siZiIsIjIwMTcvMDYvMjIvODRjdzJkazdqel8xNDU0NzA1NDAyXzY2MC5qcGciXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgOTAgLXJlc2l6ZSAyMDAweDIwMDBcdTAwM2UiXV0/1454705402_660.jpg?sha=7363b1a7aa7b0157){:height 399, :width 372}
 		  id:: 6579946d-11b4-4e17-89c8-d1d8c8814e39
 			- Musée conceptuel qui se matérialise par des boites symbolisant le déplacement des œuvres

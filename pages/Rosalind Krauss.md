@@ -1,8 +1,8 @@
-- Issu d'un école formaliste proche de Greenberg et Fried elle suivra sa propre voir par la suite vers une sociologie de l'art
+- Issu d'un école formaliste proche de Greenberg et Fried elle suivra sa propre voie vers une sociologie de l'art
 - # Grilles, Rosalind Krauss
 - La grille comme structure formelle apparait en Europe dans les arts visuels. Symptôme visuel de la [[Modernité]]
 	- La grille contre l'illusion de la parole
-	- Cette sur investigation de la grille se voue aujourd'hui à l'échec pour Krauss face au pratique de l'art contemporain.
+	- Cette investigation de la grille se voue aujourd'hui à l'échec pour Krauss face aux pratiques de l'art contemporain.
 - La grille résiste à l'expansion, l'extension, la transmutation.
 	- Pour Krauss [[Piet Mondrian]] à émis une œuvre ((65d37714-b729-417a-8824-f7b8e7265c57)) et la répète pendant 15 ans et le [[Modernisme]] continue d'engendrer des exemples de grille.
 - la grille fonction de deux manières
@@ -16,14 +16,14 @@
 	- La grille ne représentant pas le réel pour être un manifeste matérialiste mais ni [[Kazimir Malevitch]] ni [[Piet Mondrian]] ne traite de la toile il traite de l'être
 		- Dans un monde de plus en plus désacraliser l'art moderne et sa grille rejoue de cette héritage issue de la croix. L'art devient le refuge de l'émotion religieuse.
 - Le paradoxe de la grille et dans son pouvoir à nous faire croire qu'on touche à des notions logiques et à travers un matérialisme logique et scientifique alors que l'on ouvre en même temps un chemin vers la croyance et l'illusion
-- Les traités d'optique physiologique qui se concentre sur couleur non pas entant que telle mais de la couleur dans l'interaction retienne de l'œil avec la lumière
+- Les traités d'optique physiologique qui se concentre sur la couleur non pas entant que telle mais de la couleur dans l'interaction retienne de l'œil avec la lumière
 	- Ces traités utilisent la grille pour illustrer les interactions de particules spécifiques à l'intérieur d'un champ continu
-	- La grille devient l'emblème de l'infrastructure de la vision, marqué par la peinture Néo- [[Impressionisme]] qui mette à l'exemple les traités d'optique physionomique.
+	- La grille devient l'emblème de l'infrastructure de la vision, marqué par la peinture Néo-[[Impressionisme]] qui mette à l'exemple les traités d'optique physionomique
 		- Cela pousse aussi vers une [[Abstraction]] certaine, la science commençait à produire son contraire: Le [[Symbolisme]]
 - Les symbolistes s'opposaient au proposition entre [[Art & Science]] et la représentation d'un réel.
-	- Le [[Symbolisme]] cherche à comprendre la métaphysique, non terrestre des objets. Le symbolisme vas plus sur une interprétions du réel que son imitation optique.
+	- Le [[Symbolisme]] cherche à comprendre la métaphysique, non terrestre des objets. Le symbolisme vas plus sur une interprétation du réel que son imitation optique.
 		- Malgré ce dépassement optique la grille existe chez les symbolistes à travers l'usage de la fenêtres.
-		- Dans les mains des symbolistes la fenêtre devient moderniste car il en font une expérience du réel
+		- Dans les mains des symbolistes la fenêtre devient moderniste car ils en font une expérience du réel
 			- La fenêtre éclaire et reflète elle est la naissance via l'éclaircissement mais le reflet devient le gel celui qui fige
 				- Pour Mallarmé c'est *la cristallisations de la réalité dans l'art*
-					- Odille Redon: Jour, 1891 ![Odilon Redon | Day (Le Jour), from the series, Dreams (Songes), plate VI |  The Metropolitan Museum of Art] ![Odilon Redon | Le jour VI (1891) | MutualArt](https://media.mutualart.com/Images//2021_09/08/18/185414033/c7dca692-2650-4fb9-b3b4-7746ef361836.Jpeg)
+					- Odille Redon: Jour, 1891  ![Odilon Redon | Le jour VI (1891) | MutualArt](https://media.mutualart.com/Images//2021_09/08/18/185414033/c7dca692-2650-4fb9-b3b4-7746ef361836.Jpeg)

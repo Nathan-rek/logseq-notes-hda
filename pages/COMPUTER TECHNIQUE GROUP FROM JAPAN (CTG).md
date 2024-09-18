@@ -1,4 +1,4 @@
-- Ce groupe d’ingénieur et d’artiste japonais fondez par IBM ont cherchés à entreprendre des démarches sur la production d’image via les ordinateurs.
+- Ce groupe d’ingénieur et d’artistes japonais fondez par IBM. Ce artistes ont cherchés à entreprendre des démarches sur la production d’image via les ordinateurs.
 - Leur graphiques se repartissent en différentes catégories.
 	- Déformations
 		- CTG Japan: [*Déformation of Sharaku*](http://dada.compart-bremen.de/item/artwork/228)

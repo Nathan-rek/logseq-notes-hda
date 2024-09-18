@@ -4,7 +4,7 @@
 	- Peter Brughel l'Ancien: [Le combat de carnaval et de Carême](https://fr.wikipedia.org/wiki/Le_Combat_de_Carnaval_et_Car%C3%AAme), 1559 ![Le Combat de Carnaval et Carême — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Le_combat_de_Carnaval_et_de_Car%C3%AAme_Pieter_Brueghel_l%27Ancien.jpg/640px-Le_combat_de_Carnaval_et_de_Car%C3%AAme_Pieter_Brueghel_l%27Ancien.jpg)
 		- Une rencontre entre deux groupe qui caractérise la vision du carnaval et du carême
 		- Pour Pierre Atali Brughel donne à voir la rencontre entre le bruit et le silence.
-			- Le Dionysiaque et l'apollinien
+			- Le Dionysiaque et l'apollinien [[Nietzsche, La Naissance de la tragédie]]
 		- Le carnaval est une participation collective ou tout le monde fait du fruit pour chasser l'hiver, un désordre sociale qui régule la société
 - Lors de la [[Post-Modernité]] de plus en plus de pratique bruitistes apparaissent
 	- Une nouvelle ontologie de la musique
