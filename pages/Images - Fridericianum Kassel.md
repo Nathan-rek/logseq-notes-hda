@@ -1,5 +1,4 @@
 - [Images](https://archiv3.fridericianum.org/exhibitions/images)est une exposition au Fridericianum Kassel cura-té par Susanne PFEFFER[^69]
-  title:: Images - Fridericianum Kassel
 - Comment par un processus d’interaction multiple et l’influence des nouvelles technologies le potentiels de l’imaginaire et l’image visuelle est devenu de plus en plus important
   L’exposition présente des artistes qui travaillent sur les mutations de l’image et de sa circulation et de son flux
 - ## Some Assembly Required D.N. Rodowick

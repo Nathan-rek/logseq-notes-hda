@@ -1,4 +1,4 @@
-- Le courant artistique de l'appropriationnisme naît dans les années 80, partant de réflexions, déterminé par le contexte actuel. Les artistes détruisent la notion d'oeuvre d’art. Ce mouvement suit le courant de pensée des années 70 ; la mort de l’auteur, de l’artiste.
+- Le courant artistique de l'appropriationnisme naît dans les années 80, partant de réflexions, déterminé par le contexte actuel. Les artistes détruisent la notion d'œuvre d’art. Ce mouvement suit le courant de pensée des années 70 ; la mort de l’auteur, de l’artiste.
 	- Les œuvres mettent souvent à mal les principes manifeste de la [[Modernité]] comme ceux de [[L'Originalité]] de l'avant-gardes
 		- L'autorité est détourné
 			- ((65480be3-afaf-4930-9455-f36be8cbbe2c))
@@ -9,6 +9,6 @@
 			- ((655a7e71-ca8c-49fb-b21c-de12ed36eaca))
 	- ((65f9e2a5-cf92-4907-bf51-b1de14a55908))
 	  id:: 65d3770e-fc61-44fa-b307-388857629b7d
-- Se courant prend une forme de concrétisation avec l'expsotion de 1977 au MET de la [[Pictures Generations]]
+- Se courant prend une forme de concrétisation avec l'exposition de 1977 au MET de la [[Pictures Generations]]
 - [[Christian Marclay]]
 -

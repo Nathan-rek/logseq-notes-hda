@@ -1,0 +1,12 @@
+- Quelle place au temps dans la quête identitaire adolescente
+	- L'adolescence c'est déjà une assimilation du temps institutionnelles
+	- Ce rapport au temps est un rapport qui peut être inégale et est une construction social
+- ## Temps présent
+- La culture jeune trouve refuge dans l'instant, horizon d'un temps court
+	- Les jeunes en sont conscient et mettent en avant un hédonisme individuel
+	- Ce temps immédiat et parfois un refuge face au problématique rencontrer qui elle peuvent s'étaler sur le temps long
+- Les médias amplifie le culte de l'instant
+- La famille comme vaste entreprise de socialisation au temps
+- Le temps institutionnelle notamment de l'école influence énormement la construction au temps des jeunes en dehors de l'école.
+	- Ceu..elles qui se retrouve dans le temps scolaire et qui se projette dans les études ont une capacité a se projeter dans d'autre temps long. Il peuvent affirmer vouloir garder une activité sportive sur le long termes
+	- L’horizon temporel dans lequel se situe le jeune demeure fortement tributaire de son expérience de vie, tout particulièrement de ses rapports à son milieu familial et scolaire.

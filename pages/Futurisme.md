@@ -1,15 +1,16 @@
 ## Manifeste
 - [*Fondation et Manifeste Futuriste*](https://pierre-lamble2.eu/resources/Exposés_BTS/Manifeste%20du%20Futurisme.pdf)Filippo Tommaso MARINETTI, 1909: Constitution du mythe futuriste et établissement des principes du manifeste:
 - Texte construit avec un principe colonial
-- Se positionne en tant qu’avant Garde
+- Se positionne en tant qu’ [[Avant-Gardes "Historique"]]
 	- Culte de l’isolement des [[Avant-Gardes "Historique"]]
 	- Intégrer des pratiques picturales issues d’autres mouvements:
 		- intègre le [[Cubisme]] : approche formel et pictural proche
 			- Gino Severini: [*autoportrait*](https://www.centrepompidou.fr/fr/recherche/oeuvres?artiste=Gino%20Severini) ![Autoportrait - Centre Pompidou](https://www.centrepompidou.fr/media/picture/71/64/7164cf3728b34eb55501e35f8801a95d/thumb_large.jpg)
-		- Technique comme le divisionnisme 44
+		- Technique comme le divisionnisme
 			- Carlo CARRA: [*Night at Piazza Beccaria in Milan*](https://www.wikiart.org/en/carlo-carra/night-at-piazza-beccaria-in-milan), 1910 https://uploads7.wikiart.org/images/carlo-carra/night-at-piazza-beccaria-in-milan.jpg!Large.jpg
 - Racisme
-- Critique littéral face au théorie féministe: glorification du mépris de la femme / Combat contre le féministe
+- Critique littéral face au théorie féministe
+	- Glorification du mépris de la femme / Combat contre le féminisme
 - Culte du progrès: pense la capacité à produire de l’irrationalité
 	- Culte de [[L'Originalité]]
 - Instant pulsionnelle: dans l’association homme-machine il n’y voit pas un développement traditionnelle mais un moteur vers l’instinct

@@ -1,4 +1,4 @@
-- L’exposition les immatériaux à eu lieu 1985 au Centre Pompidou, initiée par le Centre de création Industrielle. Placé sous la direction de Jean-François LYOTARD en tant que commissaire générales.
+- L’exposition les immatériaux à eu lieu 1985 au Centre Pompidou, initiée par le Centre de création Industrielle. Placé sous la direction de Jean-François Lyotard en tant que commissaire générales.
   id:: 653842bb-2f8c-4667-a99f-2614e144f70d
   L’exposition se présente en 5 parcours centré sur une idée spéculative celle des immatériaux présente sur des murs gris « couleur de la postmodernité »
 	- Le projet moderne
@@ -11,10 +11,11 @@
 	- La technoscience s’avère elle-même une sorte de prothèse intelligente offerte à la réalité pour se connaître
 - # Matériau
 - Le matériau est le support du message
-	- Matériaux: ce sur quoi s’inscrit un message: son support. Il résiste. Il faut savoir le prendre le vaincre. C’était le métier, faire une table avec un arbre
+	- Matériaux: ce sur quoi s’inscrit un message: son support.Il faut savoir le prendre le vaincre
+		- C’était le métier, faire une table avec un arbre
 - Peau
 	- Nu vain
-		- Le corps dépouillé. La nudité comme limite du sens comme présence absurde . La chaire remplacée par le matériaux neutre mesurable, démutlitipliable, immatriculable
+		- Le corps dépouillé. La nudité comme limite du sens comme présence absurde. La chaire remplacée par le matériaux neutre mesurable, démutlitipliable, immatriculable
 		- Douze mannequins asexués, en fond une projection d’une séquence du film Monsieur Klein de Joseph LOSEY
 	- Deuxième peau : La peau naturelle considérée comme premier vêtement, enveloppe protégeant le corps de l’extérieure, elle instaure l’opposition dedans/dehors
 	  id:: 653d8315-7792-4599-9dcf-ce1ea85e4741

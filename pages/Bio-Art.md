@@ -16,6 +16,25 @@
 		- Le blop présente un battement permanent qui lui permet de comprendre son environnement
 - Eduardo Kac: [*GFP Bunny*](https://www.ekac.org/gfpbunny.html), 2000 ![GFP Bunny](https://www.ekac.org/albagreen-cutout.png)
 	- Développe des pratiques qui nécessitent un usage des méthodes scientifiques comme les modifications génétiques
+- # Bioart et [[Néo matérialisme]]
+- Le Bio-art , en tant qu’art rematérialisé, s’allie à une perspective que nous pouvons définir comme néomaterialiste , affirmant la primauté des modèles empiriques concrets sur les formulations linguistiques des lois
+- ## Dématérialisation
+- Concept développé par Lucy Lippard en 1968 dans son article "the dematerialization of Art" qui parle du tournant conceptuelle de l'art
+- [[Art Conceptuel]] a changer le traitement de l'oeuvre De cette manière, les qualités esthétiques et sensibles propres aux produits éventuels n’ont pas de valeur en soi, mais seulement en tant que données empiriques dont le sens devient clair une fois élucidée la règle qui préside à leur organisation
+- Ce processus peu être compare au méthode scientifiques
+	- Les propositions scientifiques, formulées mathématiquement, doivent d’abord être admissibles en termes logiques et, après, elles réquirent une vérification empirique
+	- De ce point de vue les expériences scientifiques ne servent qu’à confirmer que la fonction mathématique
+- L' [[Art Conceptuel]] tout comme la recherche scientifique fonctionne dans cette ordre aussi. Dans les deux cas, l’objet matériel, œuvre d’art ou expérience scientifique, n’est que la réalisation empirique d’une formulation dérivable d’une axiomatique spécifique, celle de la logique ou celle des idées sur l’art
+	- L’objet empirique produit, qu’il s’agisse de l’expérience ou de l’œuvre, n’est fonctionnel qu’à renvoyer à son a priori rationnel
+		- Le but consiste alors à produire des œuvres d’art démontrant la validité des idées sur l’art et à élaborer des expériences démontrant la validité de l’axiomatique rationnelle
+- La difficulté des arts est dans sa difficulté a exprimer son idée/sa formule aux spectateur..ices.
+	- Dans les mathématiques ou dans les sciences, plus une explication ou une formule est simple, plus elle est satisfaisante
+- Le cas de [[Joseph Kosuth]] est emblématique pour mettre en évidence le lien entre art conceptuel et philosophie analytique : dans les deux cas on retrouve la tendance à considérer les objets matériels, œuvres ou faits empiriques, comme rationnellement déterminables à l’avance
+	- Pour [[Joseph Kosuth]] les sciences et les arts auraient la fonction d’élargir la connaissance de leurs objets respectifs : les sciences naturelles doivent découvrir de nouvelles propositions vraies concernant la nature, tandis que l’art doit trouver de nouvelles définitions de l’art
+		- Il y a une différence paradigmatique qui est une différence proche de celle entre science et géometrie
+			- La **géométrie** (comme les mathématiques en général) fonctionne à partir de propositions **analytiques**. Une proposition analytique est vraie en elle-même, par la seule vertu de sa forme logique, et ne nécessite pas de vérification empirique. Par exemple, le théorème de Pythagore ("dans un triangle rectangle, le carré de l’hypoténuse est égal à la somme des carrés des deux autres côtés") peut être accepté comme vrai uniquement par la logique, sans avoir besoin de faire des expériences pour le prouver à chaque fois. C’est une vérité évidente dans le cadre des axiomes géométriques.
+			- Les sciences naturelles produisent des connaissances qui doivent être testées dans le monde réel, tandis que l’art, comme la géométrie, repose sur des principes logiques et des définitions internes. Dans ce sens, les idées artistiques sont des **vérités internes à la définition de l’art**, tout comme les théorèmes géométriques sont des vérités internes aux axiomes géométriques.
+	- L' [[Art Conceptuel]] et la philosophie analytique partage une position antimatérialiste.
 - *[^30]: L'ensemble des techniques faisant appel aux principes et aux méthodes de l'ingénierie, de la culture cellulaire, des sciences de la vie, des sciences des matériaux pour comprendre les relations entre les structures et les fonctions des tissus normaux et pathologiques des mammifères, afin de développer des substituts biologiques pouvant restaurer, maintenir ou améliorer les fonctions des tissus*
 - *[^31]: Mise au point en 2012 par deux chercheuses les CRISPR-CAS9 sont une technique biotechnologique de modification génétique qui permet de copier de l’information génétique dans L’ADN. Il sont des ciseaux moléculaires permettant de manipuler les branches d'ADN.*
 - *[^32]: Artiste portugaise considérée comma la première femme bio-artiste, Elle a travaillé sur les rapports entre art et biologie sous diverses formes, bio-tech mais également par le biais de supports traditionnels, dessins et peintures.*

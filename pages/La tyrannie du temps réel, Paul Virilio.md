@@ -1,0 +1,78 @@
+# Communisme des affects
+- Communautés d'émotions, la puissance de condition de l'émotion va bousculer la politique
+	- Emancipation du présent, le présent s'émancipe du présent et de l'avenir
+		- La création de communautés d'affects
+			- Les communautés partage des intérêts c'est ce qui a mis en place l'historie de la politique jusqu'à la révolution russe communiste.
+				- Une communauté d'émotion instantanés (mondialisation des affect en temps réel)
+					- Pour Virilio le fait de partager en même temps une même émotions serait un dénie de la démocratie
+						- Par la puissance de conditionnement d'émotions peut bouleverser la classe politique
+			- Cette mondialisation des affects est similaire à une religion, une religion sans dieux qui va vers l'inconnue
+- ## La catastrophe du progrès
+- Pour Virilio la rapidité réduit le monde a rien
+	- La terre est trop petite pour le progrès, pour le profit instantané
+	- L'infiniment petit réduit le monde
+		- C'est une régression de penser à plus petit, au nanotechnologies aux ondes.
+			- L'accélérateur de particules cherche à retrouver le bigbang, l'origine, c'est une régression vers plus que l'enfance mais vers l'origine de tout.
+				- Il suppose que c'est ce qui ferrait aimer l'origine du monde de Courbet comme un retour a l'origine au sexe d'origine
+					- Courbet: [*L'origine du monde*](https://fr.wikipedia.org/wiki/L%27Origine_du_monde), 1866 ![L'Origine du monde" : un nu manifeste - Histoire analysée en images et  œuvres d'art | https://histoire-image.org/](https://histoire-image.org/sites/default/files/2023-01/courbet-gustave-origine-monde.jpg)
+				- La catastrophe du progrès c'est rentre dans le ventre de sa mère
+	- L'astrophysique était à l'époque une idée de la dilatation or aujourd'hui on cherche l'origine le plus petit de plus petit le plus inerte des inerte.
+- ## L'individualisme de masse
+- Du Golgotha au centaine de personne devant Hamlet au final de coupe du monde il y a plus qu'un rapport d'échelle grandissant
+	- Malgré cette agrandissement il y a une réduction
+	- La catastrophe du collectivisme a donné des discours opposés
+		- Malgré la croissance démographique il y un paradoxale individualisme de masse
+		- Les pouvoirs traite tête par tête les individus
+			- Une période de condition de la pensée inédite
+- Dans le cadre de la mondialisation des affects il y a un risque de fascisme
+	- Le fascisme du début du siècle dernier c'est fait sur la communauté des peurs
+	- Dans le communisme des affects, il y a la communion (dimension religieuse).
+	- Le stade antique est une maquette de la ville à venir
+		- La scène et le théâtre comme sont des lieux de co-présence de communions des pratiquant..es et des athlètes
+			- Cette co-présence a disparu avec le videodrome. Il n'y a plus que l'éblouissement de la performance.
+				- Ce qui débouche sur une solitude
+- ## Le retour du tragique
+- La puissance de communion est présente dans l'individualisme de masse.
+	- Seul sans supporter l'individu se dévoue a une grande communauté, une dévotion qui va vers l'idolâtrie
+- La communauté d'émotions joue sur la peur et sur l'adoration.
+	- La tragédie grecque avait déjà introduit ses extrêmes, le communisme des affects c'est le retour du tragique.
+	- La dimension tragique comme absence de réconciliation des contraires
+- ## L'accident des connaissances
+- Les accidents accompagne le progrès, l'accident c'est ce qui advient à la substance. Les substances innovés sont directement lie à l'accident.
+	- L'accident n'est plus que dans la substance, ni dans le délai, c'est un accident des connaissance
+		- La science expérimentale touche a sa limite, on touche a l'accident sublime celui qui touche à la fin du monde.
+			- Ce qui fonde les sciences vient fermer les sciences
+	- L'accident est présent a échelle conséquentes. Le monde est trop petit pour l'experience.
+		- Les risques liés au Grand collisionneur de hadrons sont symptômes de cette tragédie des connaissances. Des théoriciens du chaos pose la question des risque du collisionneur, le risque du micro trou noir. Des micros trou noir sont présent mais les scientifique rassure en disant qu'il disparaitrons immédiatement mais l'accident est dans le risque de crée un trou noir sur terre, risque expérimental d'une grandeur équivalente aux recherches proposé au CERN
+	- Il pense un retour de l'université dans son origine. L'université est la pour éviter la barbaries pour éviter la catastrophe sauf qu'aujourd'hui la catastrophe c'est le progrès
+		- Le progrès pose un risque sur le savoir même et engendre une panique du savoir.
+- ## L'art de la chair
+- L'histoire est une histoire de vitesses ce sont les sportifs les rapides qui gouvernent qui ensuit se battent et enfin domine
+	- Le sport est une sphère d'accélération, or aujour'dui on n'est plus un art de la chair mais un art de la prothèses
+		- La prothèse fait quitter la chair, car ce n'est pas l'humain qui peut dépasser la prothèse, mais une autre prothèse, meilleure. La nanotechnologie est une promesse qui engendre une suite de prothèses encore plus rapides.
+		- La performance technique s'impose à la performance humaine
+	- Perte de l'humain perte de la chair, le sport est l'idéalisation de la carnation de la chair, qui se perte dans la technique et dans le moteur
+	- La cité est un stade et le combat doit être celui de la chair
+- ## De la limite
+- La disparition de la chair a un horizon [[Post-Humanisme]].
+- On passe de l'ère des révolutions, a l'ère des révélations, nous sommes des révélationnaire
+	- Ce révèle à nous que le monde est trop petits, que les connaissances sont dangereuses
+- Peut-il y avoir des nano-performances ?
+- Les excès de vitesse (motorisé) paralyse le mouvement or l'H est animale animé il est pas végétales et minéral il est doté de mouvement.
+	- La premier liberté humaine c'est la liberté de mouvement
+- Le premier langage est celui du corps
+- ## La cité est un stade
+- La base de la cités est l'H qui se depalce et qui peut rejoindre les autres
+	- La Ville est le lieu du mouvement construit, un mouvement sur place, in situ, la cité crée l'inertie
+		- L'écran a remplacé la cité, le corps est transférer à l'image
+- On perçoit le corps et l'espace à travers une corporalité
+- La vitesse n'est pas un phénomène c'est la relation entre les phénomènes
+- ## Disparitions
+- La réduction de l'espace temps va vers une fin de la géographie, la contraction du monde
+	- Le rapport a l'autres est la découverte, l'étranger est celui qu'on recherche, le complément
+		- La compétition dans le duel ou dans l'embrassade a été le caractère du monde, mais la compression des distances nous faire perdre l'originalité de l'étranger, il n'y a plus de partenaire il n'y a que des voisins
+			- La coprésence gêne, la contamination est un risque.
+			- La télé-présence nous faire perde l'étranger et l'autre
+- La propagande du progrès est nihiliste.
+	- La nihilisme est dans sa propagation pas tant dans le progrès lui même
+-

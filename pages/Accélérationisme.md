@@ -25,3 +25,4 @@
 - ## [[CCRU]]
 - Juliette BONNEVIOT: [*Mitchell #2*](http://dismagazine.com/blog/73613/xpo-gallery-presents-les-oracles/), 2010 ![Juliette Bonneviot / Mitchell #2 / Oil on Canvas / 16 x 24 cm / 2010](http://dismagazine.com/uploads/2015/02/1-Juliette-Bonneviot-Mitchell-2-Oil-on-Canvas-16-x-24-cm-2014.jpg)
 	- Des peintures rappelant les pochettes des albums de drum’n’bass à la base générés en 3D présentant des longs paysages et des formes géométriques volantes.
+-
