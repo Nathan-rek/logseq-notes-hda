@@ -25,15 +25,15 @@
 		- On peut donc apercevoir comme une armes dont la stratégie ne serait pas le contact mais l'émission
 			- Cette capacité des armes soniques sur les corps intéressent Deleuze dans le contrôle des corps
 				- Le son devient information et donc devient un moyen de communiquer *des mots d’ordre*.
-- Pour Burroughs la manipulation du son muzak(musique de fond) peut être un outil de détournement fort il étudie le film Decoder ou lorsque le personnage modifie la fréquences du son muzak entraine une suite de réaction violents
-- Le muzak comme mots d'ordre de la société de contrôle doit être piraté il faut se réapproprier l'information (All of us can be rich in informations)
+- Pour Burroughs la manipulation du son muzak (musique de fond) peut être un outil de détournement fort il étudie le film Decoder ou lorsque le personnage modifie la fréquences du son muzak entraine une suite de réaction violents
+- Le muzak comme mots d'ordre des [[Sociétés de contrôle, Gilles Deleuze]] doit être piraté il faut se réapproprier l'information (All of us can be rich in informations)
 - La distorsion et la rendu sonore des machine que Eshun nomme *machine-musique* nous permettrait d'attendre des "états d'esprit" cette musique synthétique, loin de nous éloigner de nos émotions comme le pensent les technophobes, serait dans la capacité de nous faire ressentir plus de sensations et d’émotions de par l’intensité sonore synthétique qu’elle met en place
 	- Une position qui suit le manifeste de Ruissolo sur "L'art des bruits", S'accorde avec la guérilla sonore d'Underground Resistance, et le révolte de Public Ennemy
 - Cette utilisation de la machine dans la composition musical détourne des armes d'origine militaire ([[Cybernétique]]) dans un contexte contestataire
-	- Il y aurait pour Eshun une dimension [[Accélérationisme]] dans la prise d'outil numérique dans la production sonore
+	- Il y aurait pour Eshun une dimension [[Accélérationisme]] dans la prise d'outils numériques dans la production sonore
 		- *Je fais de l’ingénierie, je m’empare de fictions, de concepts, d’hallucinations […]. J’utilise ces différents concepts pour fonder de nouveaux champs d’expérience, pour anticiper et accélérer différentes explorations dans des champs de perceptions nouveaux*
 - ## Contre le [[Cybernétique]] -capitalisme
-- Ce système qui se caractérise par une linéarité totalitaire pourrait être déconstruit par des productions musicals comme la jungles.
+- Ce système qui se caractérise par une linéarité totalitaire pourrait être déconstruit par des productions musical comme la jungles.
 	- La [[Cybernétique]] ayant une fonction de prévision du mouvement ennemi pourrait être en crise face à des breaks saccadé
 	- Un rythme qui s'oppose au binaire et au linéaire du rythme capitaliste
 		- L'écoute de ce genre rendrait les auditeur..ices inaptes et donc incapable de rentrer dans le moule capitaliste rythmique occidentale
