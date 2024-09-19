@@ -5,7 +5,7 @@
 		- Recherche d'une intensité post-humaine
 		- La technologie va vers une hyper-carnation futuriste
 			- Le Breakbeat pousse le corps vers une incarnation post humaine
-- La production vocaloid devient un symbole trans-humaniste, mais son aspect modulable peut poser des problèmes éthique et morale
+- La production vocaloid devient un symbole trans-humaniste, mais son aspect modulable peut poser des problèmes éthiques et morales
 	- [[No Ghost Just a Shell]] Ann lee se présente comme entités modulable, glissement immatériel de la pensé humaine dans l'incarnation digitale
 	- Ses projets rejouent les enjeux de domination sexiste et raciale
 		- Position d'extrêmes soumission des personnages face aux hommes derrière la production

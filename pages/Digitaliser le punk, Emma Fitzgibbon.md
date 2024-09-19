@@ -1,6 +1,6 @@
 ## Le défi contestataire du digital hardcore, entre [[Cybernétique]] et anticipation
 - Continum Hardcore: concept de Steve Goodman qui permet de catégoriser et théoriser les genres de musique électroniques
-	- Se distangue de la dance music de l'époque par : le BPM, le ryhtme, la progression
+	- Se distingue de la dance music de l'époque par : le BPM, le rythme, la progression
 - Le rythme aurait une fonction psychoactif chez l'auditeur..ices notamment par la répétions qui plonge dans une aliénation mentale
 - Ces genres contre un capitalisme tardif embrasse la dystopie que se soit dans les références ou les formes
 	- Ce qui les placent dans un engagement politique contestataire

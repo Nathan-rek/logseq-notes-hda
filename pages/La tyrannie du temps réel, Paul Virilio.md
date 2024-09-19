@@ -7,6 +7,23 @@
 					- Pour Virilio le fait de partager en même temps une même émotions serait un dénie de la démocratie
 						- Par la puissance de conditionnement d'émotions peut bouleverser la classe politique
 			- Cette mondialisation des affects est similaire à une religion, une religion sans dieux qui va vers l'inconnue
+- ## Videodrome
+- Le sport est la propagande du progrès
+	- La performance va se développer par des mutations du corps
+		- Le cavalier, est face a un double corporelle avec le cheval, ce double va se développer de plus en plus en quête de vitesse, de l'homodrome, à l'hippodrome, à l'aérodrome
+		- Ce dédoublement va aboutir au videodrome, un dédoublement de la personnalité, 'l'individu n'est que son image pour la performance de l'émotion des foules.
+		- On assiste à la prise de pouvoir de la vitesse.
+	- La vitesse est à l'origine de la démocratie et donc des classes de vitesse
+- Lors de la guerre du golf des H se rendent à des drones(machines), c'est soumission robotique de l'individu
+	- Cela remet en cause le politique, car l'individu est prêt a se soumettre à la télé objectivité
+- ## Dromologie
+- La dromologie de Virilio est une discipline, elle est l'étude des mouvement de vitesse
+	- L'accélération mène à l'accumulation -> capitalisme
+- Le champion est le héros de la hiérarchie de vitesse
+	- Vitesse d'acquérir un pouvoir
+		- Cela pousse a une performance qui dépasse la chair elle devient machinique et donc économique
+	- Le sportif est l'image idéaliser du domocrates
+- Virilio croit à la musicologie, il croit au tempo
 - ## La catastrophe du progrès
 - Pour Virilio la rapidité réduit le monde a rien
 	- La terre est trop petite pour le progrès, pour le profit instantané
@@ -42,13 +59,13 @@
 	- L'accident n'est plus que dans la substance, ni dans le délai, c'est un accident des connaissance
 		- La science expérimentale touche a sa limite, on touche a l'accident sublime celui qui touche à la fin du monde.
 			- Ce qui fonde les sciences vient fermer les sciences
-	- L'accident est présent a échelle conséquentes. Le monde est trop petit pour l'experience.
+	- L'accident est présent a échelle conséquentes. Le monde est trop petit pour l'expérience.
 		- Les risques liés au Grand collisionneur de hadrons sont symptômes de cette tragédie des connaissances. Des théoriciens du chaos pose la question des risque du collisionneur, le risque du micro trou noir. Des micros trou noir sont présent mais les scientifique rassure en disant qu'il disparaitrons immédiatement mais l'accident est dans le risque de crée un trou noir sur terre, risque expérimental d'une grandeur équivalente aux recherches proposé au CERN
 	- Il pense un retour de l'université dans son origine. L'université est la pour éviter la barbaries pour éviter la catastrophe sauf qu'aujourd'hui la catastrophe c'est le progrès
 		- Le progrès pose un risque sur le savoir même et engendre une panique du savoir.
 - ## L'art de la chair
 - L'histoire est une histoire de vitesses ce sont les sportifs les rapides qui gouvernent qui ensuit se battent et enfin domine
-	- Le sport est une sphère d'accélération, or aujour'dui on n'est plus un art de la chair mais un art de la prothèses
+	- Le sport est une sphère d'accélération, or aujourd'hui on n'est plus un art de la chair mais un art de la prothèses
 		- La prothèse fait quitter la chair, car ce n'est pas l'humain qui peut dépasser la prothèse, mais une autre prothèse, meilleure. La nanotechnologie est une promesse qui engendre une suite de prothèses encore plus rapides.
 		- La performance technique s'impose à la performance humaine
 	- Perte de l'humain perte de la chair, le sport est l'idéalisation de la carnation de la chair, qui se perte dans la technique et dans le moteur
@@ -62,7 +79,7 @@
 	- La premier liberté humaine c'est la liberté de mouvement
 - Le premier langage est celui du corps
 - ## La cité est un stade
-- La base de la cités est l'H qui se depalce et qui peut rejoindre les autres
+- La base de la cités est l'H qui se déplace et qui peut rejoindre les autres
 	- La Ville est le lieu du mouvement construit, un mouvement sur place, in situ, la cité crée l'inertie
 		- L'écran a remplacé la cité, le corps est transférer à l'image
 - On perçoit le corps et l'espace à travers une corporalité
