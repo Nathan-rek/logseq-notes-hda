@@ -1,0 +1,8 @@
+- La prise en charge matérielle des enfants est un enjeu social fort, c'est au femmes que se temps s'incombe traditionnellement, or la généralisation de l'activité féminine redéfinit ce temps.
+- Suite à  L’enquête « Emploi du temps » réalisée par l’Institut national de la statistique et des études économiques (Insee) en 1998-1999
+	- Cette enquete montre une repartition inegale du temps passer les femmes a ces taches par rapport au hommes
+		- 30min pour les Hommes et 1h10 pour les femmes
+		- Les types d'activités differment les H s'attarde au loisir exterieur et au devoirs
+		- et les femmes s'y attardent aussi mais elle participe à plusieurs autres taches plus courtes
+		- Les femmes participe à des taches plus régulière en semaine la ou les hommes sont plus actif le weekend
+	- Cette écart est aussi chez les enfant le temps accordé au garçon au de 56min et de 48min pour les filles
