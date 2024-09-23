@@ -10,6 +10,4 @@
 			- Dans l'espace public le corp stigmatisé femme se veut plus discret face au concept de *manspreding*
 			- Le corps est sous l'emprise d'ahbitus
 				- habitus: **les structures structurées prédisposées à fonctionner comme des structures structurantes**
-- Le stigmate féminin, comme les autres stigmates, reste un moyen de dominer la personne stigmatisée
-  tant que sa non-conformité avec la culture et la représentation hégémonique est perçue comme une
-  anormalité ou une différence
+- Le stigmate féminin, comme les autres stigmates, reste un moyen de dominer la personne stigmatisée tant que sa non-conformité avec la culture et la représentation hégémonique est perçue comme une anormalité ou une différence

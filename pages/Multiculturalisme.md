@@ -1,9 +1,12 @@
+- Coexistence d'une pluralité de cultures au sein d'un même espace géopolitique.
+	- Indicateur de la crise du projet de la [[Modernité]]
+	- Pose un défi de civilisation aux sociétés contemporaines
 - Exposition marquante sur l'arrivé des arts non-européens dans l'art
 	- *Primitivism in Twentieth Century Art*, Musée d'Art Moderne de NY 1984
 	- *Magiciens de la terre*, Centre Pompidou 1989
 - Le Multiculturalisme promet une planète unifiée par une culture universelle (village global)
 	- Cela peut entrainer une perte d'identité
-		- Tout le monde doit s'américaniser, mode d'alimentation, code vestimentaires
+		- Tout le monde doit s'américaniser, mode d'alimentation, code vestimentaire
 	- Exacerbation des particularismes
 		- Les résistances face cette universalisation, développe une accroche forte à une particularité propre à leurs identités
 -

@@ -4,7 +4,7 @@ Dans l’essor des Visual studies différent théoricien..nes sont amené..es à
 	- Le fait que les projets des Visual Studies cherche à se débarrasser des autres disciplines
 	- Critique de cette tendance de mode à brouiller les frontières du champ disciplinaires selon un certain progressisme sociales
 		- Critique d’une forme de populisme dans les études culturels
-			- Pour Thomas CROW il y aurait comme un abandon d’une responsabilité fondamental
+			- Pour Thomas Crow il y aurait comme un abandon d’une responsabilité fondamental
 				- Il y voit une attaque dirigée contre une autorité savante institué
 - Débat sur le cadre du domaine d’étude de l’histoire de l’art
 - Le débat peut se jouer entre la gauche progressiste et la droite conservatrice ou entre différents parties de la gauche

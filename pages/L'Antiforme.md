@@ -1,7 +1,7 @@
-- L'un des acteurs de cette nouvelle forme est Robert Morris qui suite a ses œuvres ralliées au  [[Minimalisme]] s'oppose ce mouvement est fait le choix d'orienter son travail en proposant une sculpture littéralement souple, parfois à la limite du périssable
+- L'un des acteurs de cette nouvelle forme est Robert Morris qui suite à ses œuvres ralliées au  [[Minimalisme]] s'oppose ce mouvement est fait le choix d'orienter son travail en proposant une sculpture littéralement souple, parfois à la limite du périssable
 	- Sa première interrogation sont sur le rôle de la matière dans la détermination de la forme final de la sculpture
 		- Il critique l'approche occidental à soumettre la matière à un ordre qui lui est extérieur.
-	- De ce constats Morris veut valoriser la matière mettant en avant ces caractéristiques autodestructives. Dans un ambition paradoxale de **pérenniser l’éphémère**, En inspiration avec les sculpture molles de Claes Oldenburg ((65fbfa78-86ff-4bba-83e6-6b04914669bc))
+	- De ce constat Morris veut valoriser la matière mettant en avant ces caractéristiques autodestructives. Dans un ambition paradoxale de **pérenniser l’éphémère**. En inspiration avec les sculptures molles de Claes Oldenburg ((65fbfa78-86ff-4bba-83e6-6b04914669bc))
 	- Robert Morris: [*Wall Hanging*](https://www.centrepompidou.fr/fr/ressources/oeuvre/c5eBbqa), 1969 https://mediation.centrepompidou.fr/education/ressources/ENS-antiforme/images/xl/3I00017.jpg
 		- Elle est constituée de plaques de feutre industriel, lacérées, puis suspendues au mur pour que les formes naissent du **poids de la matière**
 			- L'artiste s'efface derrière la matière, Morris voit cet acte notamment avec [[Jackson Pollock]] qui laisse la matière à elle même car tout dans son travail privilégie le dégoulinement de la peinture

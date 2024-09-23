@@ -1,6 +1,6 @@
 - [[Hal Foster]]
-- Dans un mouvement de décolonisation comment les avant-gardes apparaissent
-	- essaie d’intérioriser cette face de décolonisation, cette pratique ne se situe pas à coté mais se définit:
+- Dans un mouvement de décolonisation [[Post-Coloniale]] comment les avant-gardes apparaissent
+	- Essaie d’intérioriser cette face de décolonisation, cette pratique ne se situe pas à coté mais se définit:
 	- La Manière de se situer à coté de cette altérité peut prendre deux formes:
 		- Identification: je ne suis pas mais je m’identifie à
 		- Identité: s’assimiler à une communauté car appartenant à une autre

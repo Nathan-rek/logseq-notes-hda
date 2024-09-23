@@ -1,7 +1,8 @@
 - Volume – espace - exposition
-- Cabinet de curiosité: conséquence du musées, dispositif d’exposition nouveaux. Nature et culture se mêle ensemble, jeux d’association qui laisse place à la sensibilité de l’image
-- Musée opère des spoliations d’œuvres d’autre pays, autorisation de représente la culture de l’humanité. Le muséum français regorge d’œuvre pilier dans des églises des gîtes d’autre pays. C’est technique de spoliations vont s’encrer dans la culture et vont engendrer pendant la colonisations.
-- La sculpture moderne essaie de mettre à mal l’esthétique de la sculpture classique , le socle incarne cette autonomisation perspective du volume dans l’espace.
+- Cabinet de curiosité: conséquence du musées, dispositif d’exposition nouveaux. [[Nature - Culture]] se mêle ensemble, jeux d’association qui laisse place à la sensibilité de l’image
+- Musée opère des spoliations d’œuvres d’autre pays, autorisation de représenter la culture de l’humanité.
+	- Le muséum français regorge d’œuvre pilier dans des églises des gîtes d’autre pays. Ces techniques de spoliations vont s’encrer dans la culture et vont augmenter pendant la colonisations.
+- La sculpture moderne essaie de mettre à mal l’esthétique de la sculpture classique, le socle incarne cette autonomisation perspective du volume dans l’espace.
 - Les sculpteurs modernes mettent à mal cette automatisation:
 - ### Sculpture et exposition
 - Rodin, [*Le Balzhac*](https://www.musee-rodin.fr/ressources/focus-sur-oeuvre/balzac) https://www.musee-rodin.fr/sites/default/files/styles/carrousel/public/2021-01/2017_05_12_jardin_jm005.jpg?itok=V2Nf_yNl
@@ -15,7 +16,7 @@
 	- La photo permet de mettre en valeur
 - Le [[Surréalisme]] est séparé entre André Breton avec les notions de l’écriture automatique le rapport à l’inconscient etc... Et d’autre par la frange George Bataille qui s’axe autour de Revue Document notions de bas dialectique des écarts une tension entre un registre verticale rationnel et un registre pulsionnelle horizontal vers le bas. La Revue Document active les principes dialectiques des écarts entre raison et pulsion. C’est cette tension verticale qui élimine le socle et vient offrir une vision horizontal de la forme dans l’espace.
 - Les dispositions des éléments de sculpture remettent en question le medium de la sculpture.
-- Un processus d’ébauche de la sculpture un processus qui se rapproche de l’écriture automatique pratique par les surréaliste. La ou la sculpture est habiter a un travail proche d’une anamnèse avec un retour sur image permanent
+- Un processus d’ébauche de la sculpture un processus qui se rapproche de l’écriture automatique pratique par les surréaliste. Là où la sculpture est habité à un travail proche d’une anamnèse avec un retour sur image permanent
 - MERZBAU est un principe d’exposition qui est en évolution constante
 - [[Marcel Duchamp]] : exposition qui ne mette pas en place les conditions pour exposer, permet de faire l’exposition un espace, en voyant moins on crée un désir de voir,
 	- Pour l’exposition ((653fa23b-071c-4394-90a3-969e41755b3f)) , il vient à étendre des cordes qui empêche de rentre en contact de manière direct avec l’œuvre. Ou encore demande a des enfant de faire du bruit. Il s’agit de mettre en tension le rapport de visibilité et le désir.

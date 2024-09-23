@@ -2,11 +2,11 @@
 - L’artiste programme la « Festum Flexorum » dans son école à Académie des beaux-art de Düsseldorf en février 1963 et reprenant à son compte certains aspects du groupe, comme dans l’exposition de près de 250 œuvres qu’il organise à Kranenburg qu’il qualifie de « Josef Beuys Fluxus »
 	- Joseph Beuys : *La Symphonie Sibérique*, 1963 ![image.png](../assets/image_1698509010090_0.png)
 	  id:: 653d3a15-b31d-4773-b62c-3e8e7c6e140f
-		- Première action [[Fluxus]] à Académie des beaux-art de Düsseldorf, débutait par un solo de piano. Alors qu’était diffusée une pièce de Satie, Beuys suspendait un lièvre mort à un tableau noir. Sur le piano étaient placés de petits tas d’argile sur lesquels étaient plantées des branches. Un fil de fer servant de conducteur reliait le piano au lièvre, dont le cœur était enlevé par l’artiste. 
-		            « Je veux exprimer une relation signifiante pleine de contenus concernant la naissance et la mort ; la conversion en matière, du lièvre qui apparaît ici, réellement, pour la première fois, dans ce concert. Cela n’a rien à voir avec ces actions [[Néo Dada-Organizers]] pour effrayer le bourgeois »
+		- Première action [[Fluxus]] à Académie des beaux-art de Düsseldorf, débutait par un solo de piano. Alors qu’était diffusée une pièce de Satie, Beuys suspendait un lièvre mort à un tableau noir. Sur le piano étaient placés de petits tas d’argile sur lesquels étaient plantées des branches. Un fil de fer servant de conducteur reliait le piano au lièvre, dont le cœur était enlevé par l’artiste.
+			- *« Je veux exprimer une relation signifiante pleine de contenus concernant la naissance et la mort ; la conversion en matière, du lièvre qui apparaît ici, réellement, pour la première fois, dans ce concert. Cela n’a rien à voir avec ces actions [[Néo Dada-Organizers]] pour effrayer le bourgeois »*
 		- La distance qui s’est rapidement installée entre Beuys et [[Fluxus]] s’explique peut-être par le fait que le rapport au public, pour les artistes du regroupement, passait en partie par la scène et la représentation (malgré une évidente mise à mal des aspects spectatoriaux), tandis que les « actions1 » de Beuys visaient une dimension symbolique totale et thérapeutique, en vue d’une régénération du monde
 		- Cette volonté de distinction rejoint la singularité de son projet social, dépassant le champ de l’art qu’il faut selon lui renouveler
-		- La Symphonie Sibérique,
+		- La Symphonie Sibérique
 - ## [[Sculpture sociale]]
 - ## Actions
 - Intègre des activités quotidiennes au contexte artistique
@@ -16,16 +16,18 @@
 - L’action rompt avec le marché de l’art moderne dans laquelle il évolue
 	- Joseph Beuys : I like America and America likes Me, 1986
 		- ![image.png](../assets/image_1698509628845_0.png)
-		- Il s’isole pendant 3 jour dans une cage en verre dans la galerie de René BLOCK à NY enferme avec:
+		- Il s’isole pendant 3 jour dans une cage en verre dans la galerie de René Bloc à NY enferme avec:
 			- Un coyote: Symbole de la part sauvage du continent américain
 			- Une grande couverture de feutre: Symbole d’isolement
-			- Dispose sur le sol des unes du Wall Street Journal > Représente la puissance économique américain
+			- Dispose sur le sol des unes du Wall Street Journal
+				- Représente la puissance économique américain
 			- Réconcilier symboliquement la société occidentale avec cet animal, sacré pour certaines populations amérindiennes, et incarner la rencontre entre l’homme moderne et une spiritualité perdue
-- Lors de la Documenta de 1972 Beuys avait installé un bureau d’information d’Organisation pour la démocratie directe par référendum. Lors de débat fort animés son élève Abraham Christian Moebus l’invita à un combat de boxe pour la démocratie directe. Le match aura lieu le dernier jour de l’exposition > Boxkampf für die direkte Demokratie, 1972 ![image.png](../assets/image_1698509690383_0.png){:height 32, :width 500}
+- Lors de la Documenta de 1972 Beuys avait installé un bureau d’information d’Organisation pour la démocratie directe par référendum. Lors de débat fort animés son élève Abraham Christian Moebus l’invita à un combat de boxe pour la démocratie directe. Le match aura lieu le dernier jour de l’exposition
+	- Boxkampf für die direkte Demokratie, 1972 ![image.png](../assets/image_1698509690383_0.png){:height 32, :width 500}
 	- Un autre élève Anatol Herzfeld était arbitre et proclama Beuys vainqueur au point pour la démocratie direct grâce à ses directs.
 - Beuys a souvent intégré la boxe comme principe esthétique. Pour l’artiste l’art est une activité politico-sociale global, un échange permanent d’énergie et de coups entre des personnes appartenant..es à une même société qui se sentent unies.
 - ### Energie
-- L’énergie apparait pour l’artiste comme un potentiel une possibilité de création
+- L’énergie apparait pour l’artiste comme un potentiel, une possibilité de création
 	- Travaille souvent avec la chaleur humaine - l’amour:
 		- Mène du chaos à la forme, De la pensé à la volonté
 		  id:: 653d3428-9031-4cb0-b302-a70fd19a5aec

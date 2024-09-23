@@ -8,20 +8,20 @@
 		- Alighiero Boetti: [*Senza Titolo (Tra l'incudine e il martello)*](https://www.galleriesnow.net/artwork/senza-titolo-tra-lincudine-e-il-martello) ![Senza titolo (Tra l'incudine e il martello…..) – Artwork | GalleriesNow](https://www.galleriesnow.net/wp-content/uploads/2021/10/Alighiero-Boetti-Senza-titolo-Tra-lincudine-e-il-martello.....-1989-broderie-sur-tissu-111-x-99-cm-800x889.jpg)
 - Cette édition se caractérisait aussi par un retour aux sources avec un dialogue assez fort avec l'historie de l'art, en donnant à voir des œuvres oubliés ou passées.
 	- [[Joseph Beuys]] et ses ((653e63b1-925e-43e6-a815-551ac22c526b)) se sont vu réactiver par [[Pierre Huyghe]] dans [[Untilled - dOCUMENTA (13)]]
-	- Le documenta Halle fesait l'objet d'un présentation du travail des années 1950 de [[Gustav Metzger]]
+	- Le documenta Halle fessait l'objet d'un présentation du travail des années 1950 de [[Gustav Metzger]]
 - L'une des pièces central de cette édition était *The brain* https://www.artforum.com/wp-content/uploads/2012/09/article_large-9.jpg
 	- Rassemblant au centre du Fridericianum un ensemble d’éléments sans lien apparent entre eux, si ce n’est l’idée qu’ils renverraient tous aux choix curatoriaux. Il y avait là une cinquantaine d’objets : des photographies de Lee Miller se baignant dans la salle de bains d’Hitler, des bouteilles utilisées comme modèles par Giorgio Morandi, la maquette d’un des premiers ordinateurs, des poteries paraguayennes, des sculptures fondues lors d’un bombardement à Beyrouth, différentes versions de l’*Objet à détruire* de Man Ray https://www.centrepompidou.fr/media/picture/14/11/14119eeda35fda4c1adbd7d3883882b4/thumb_large.jpg une peinture de [[Gustav Metzger]]  accidentellement détruite… et des «  princesses bactriennes  », sculptures de 4 000 ans en provenance d’Afghanistan
 - ## Critique de Paul Ardenne: *[dOCUMENTA (13): Générosité ambiguë et pulvérisation de la culture](https://paulardenne.files.wordpress.com/2012/08/documenta-13-texte-paul-ardenne.pdf)*
-	- Paul Ardenne commence par questionne le complexe de la Documenta qui selon lui devient un DisneyLand: *pour grandes personnes sérieuses, cultivées et qui ne cessent de voir du paysage*.
+	- Paul Ardenne commence par questionner le complexe de la Documenta qui selon lui devient un DisneyLand: *pour grandes personnes sérieuses, cultivées et qui ne cessent de voir du paysage*.
 		- La figure de l'occidental au contacte de l'altérité est remis en jeu dans cette exposition.
 		- Cette contemplation de soi-même se traduit comme le besoin *de lui faire ressentir la densité de sa vie à lui, vie d’excellence et de raffinement, rien d’autre*
-		- Des instalations comme celle ou Enrique Vila-Matas, Aaron Peck ou encore Adania Shibli occupés à écrire se voit pour Paul Ardenne être observées par les visiteur..ices comme des singes en zoo.
-		- Le cours d'Anton Zeilinger sur la physique quantique qui nous donne à voir une science complexe joue aussi a cette envie donner l'impression de ce raffinement et de cette excellence.
+		- Des instalations comme celle ou Enrique Vila-Matas, Aaron Peck ou encore Adania Shibli occupées à écrire se voit pour Paul Ardenne être observées par les visiteur..ices comme des singes en zoo.
+		- Le cours d'Anton Zeilinger sur la physique quantique qui nous donne à voir une science complexe ce qui joue aussi à donner l'impression de ce raffinement et de cette excellence.
 	- L'auteur critique une sélection œcuménique marqueté ou il ne faut pas omettre d'inviter des acteurs non occidentale ou de ne pas prendre le risque d’être taxée de féminisme ou de machisme en invitant plus de femmes que d’hommes ou plus d’hommes que de femmes.
 		- Un [[Multiculturalisme]] forcée
 	- Pour Paul Ardenne la curation se fait sous obligation : *d'avaliser les options dominantes de l’establishment artistique, ménager la chèvre et le chou, ne jamais se montrer propagandiste de manière unilatérale*
-		- En rendant hommage artistes qui souffrent de la dictature
-			- Ai Weiwei assigné à résidence dans son payse ou les Pussy Riots emprisoné en Russie
-	- Pour Paul Ardenne la sélection a comme résultat de rendre compte de la force de l'art
+		- En rendant hommage aux artistes qui souffrent de la dictature
+			- Ai Weiwei assigné à résidence dans son payse ou les Pussy Riots emprisonée en Russie
+	- Pour Paul Ardenne la sélection à comme résultat de rendre compte de la force de l'art
 		- Un art qui parle de tout et représente tout
 	- Mais cette engagement est dissout et restituer dans les œuvres elle même, l'auteur y voit un non-engagement où la responsabilité politique est pris par l'artiste.

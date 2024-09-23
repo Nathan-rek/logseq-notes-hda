@@ -1,0 +1,15 @@
+- HDA est une histoire de cadre
+	- Un cadre qui definit ce qui est art et tout ce qui sort des limites n'est pas de l'art
+- La tradition de l'HDA a exclu l'art non-occidentale hors des domaines thématiques de la discipline.
+	- Les notions d'art sauvages, d'art Océanique sont des notions d'art non-européens
+		- On remonte l'HDA avec les grottes de Lascaux or il y a des représentations rupestre antérieur à celle trouvée en europe
+- HDA a abandonné l'art de l'autre à l'anthropologie.
+	- Particuliere celle dont les culutre n'ont pas introduit la [[Modernité]] occidentale
+- La notions de Beaux-Arts est une notion européennes
+	- L'ouverture des frontières fait disjoncter cette étude de l'art
+		- De nombreux termes apparaissent pour faire l'état de ce tournant artistique
+			- S'accorde à la proliferation des nouveaux terrains disciplinaires.
+- ### Postethnique
+- Quand ceux qui était incapables de se représenter eux-mêmes acquièrent une certaine liberté d'action dans la construction de leur propre identité
+- L'arrivé de l'artiste du tier-mondes à l'horizon de l'art contemporain
+-

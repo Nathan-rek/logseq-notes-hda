@@ -1,0 +1,28 @@
+- La théorie Post-coloniale un intègre qui est porté par toutes les cultures touchées par l'impérialisme européens et le [[Colonialisme]]
+	- Questionne les pratique artistique d'origine non occidentale, en vue de développer de nouvelles analyse esthétique a travers un prisme qui n'est ni celui de l'HDA occidentale, ni celui de l'ethnographie
+- L'Orientalisme, Edward Said
+	- Professeur de littérature compare palestiniens qui a étudie une série de ressources de la littérature pur comprendre la notion d'orient
+		- L'orient comme fabrication d'une altérité
+- Dans le termes Postcolonialisme il y a une survivance d'une relation de dépendance à la fin formelle du colonialisme occidentale
+	- La France et l'Algérie dans un projet de peuplement garde un lien avec l'Algérie après sa déclaration d'indépendance
+- # La tradition décoloniale
+- Réseau intellectuelle d'Amérique latine des années 1990
+	- Critique l'épistémologie eurocentrés de la philosophie
+	- Refuse l'idée d'une réelle fin du colonialisme
+	- Les relations de pouvoir ne sont pas que des dominations économique, politique, et administrative du centre. Mais un rôle sur la dimension épistémique et culturelle
+	- Questionne la place des [[Industries Culturelles]]
+- Colonialité du pouvoir du savoir, rapport de force inégale issue du [[Colonialisme]]
+	- négation ontologique des sujets racialisés
+		- La race n'existe pas du point de vue scientifique
+			- Les identité raciales sont des fictions
+	- racisé quelqu'un c'est mettre un stigma physique, altériser l'autre
+		- L'autre est l'autre car il n'est pas moi
+- Pluriversalisme transmoderne: Vision pluriel de la [[Modernité]]
+- Blanchité: identité raciale
+	- Intérêt matériels des personnes blanches
+- L'hégémonie blanche est une propriété structurelles des pratique sociale violentes qui déterminent le fonction des institutions et des représentations culturelles en plaçant certains groupes sociaux dans une situation de privilège et d'autres en situation de subordination
+	- Implique une perception racialisée de la réalité qui définit l'identité individuelle des personnes
+	- L'identité du groupe blanc dominant blanc est ainsi construite comme l'unique représentation de l'humanité
+	- Etre blanc signifie ne pas appartenir à un groupe racial, puisque seules les minorités raciales sont racisées
+	- La blanchité raciale apparait comme une identité raciale socialement invisible et paradoxalement aussi extrêmement visible
+-
