@@ -1,12 +1,14 @@
-- 19ème siècle 
-  id:: 65704d07-5ce6-4baf-b67d-376b83ab875b
-	- Grand siècle d’utopie sociale moderne: entre traditions et [[Modernité]] > Industrialisation: Modèle utopique > [[Modernité]] marque une série d’utopie
-- Apparition d’une nouvelle science: sociologie > formaliser la société dans une forme d’état
-	- Compte Henri de ROUVROIS: foi en l’industrie:
-		- Les Hommes et femmes sont investi..e dans une société de génie ( Artiste et savent..e ): Ou les artistes sont en Avant-Gardes de la société
-			- Modèle Technocratique: société ou le pouvoir est tenu par ceux..celles qui détiennent la technique
-	- Charles Fourrier: Proposer une vision ou le monde est régit par le matérielles > développer des formes d’habitats sous l’angle de l’harmonie universelle
-		- Création du Phalanstère: œuvrer dans un projet commun
-	- M. CABET Icarie: lieux imaginaire > terres promise ou Icare à vécu > imagine et propose un modèle de structure sociale qui met à mal le principes de propriété > fiction qui mes en avant la communauté
-- La fin du 19ème siècle marque un certain malaise de fin de siècle > art Décadent
-	- Positivisme va entraîner une décadence > échapper au scientisme au rationalisme > toucher un univers du Symbole > [[Symbolisme]]
+- **19ème siècle**
+- Grand siècle d’utopie sociale moderne : entre traditions et [[Modernité]].
+- Industrialisation : modèle utopique > la [[Modernité]] marque une série d’[[Utopies]].
+- Apparition d’une nouvelle science : la sociologie, visant à formaliser la société sous une forme d’État.
+- Compte Henri de Rouvroy : foi en l’industrie.
+	- Les hommes et les femmes sont investi..es dans une société de génie (artistes et savant..es), où les artistes sont en avant-garde de la société.
+		- Modèle technocratique : société où le pouvoir est détenu par ceux et celles qui maîtrisent la technique.
+- Charles Fourier : propose une vision où le monde est régi par le matériel, développant des formes d’habitats sous l’angle de l’harmonie universelle.
+	- Création du phalanstère : œuvrer dans un projet commun.
+- Étienne Cabet : Icarie, lieu imaginaire > terre promise où Icare a vécu ; il imagine et propose un modèle de structure sociale qui remet en question le principe de propriété, mettant en avant la communauté à travers la fiction.
+- La fin du 19ème siècle marque un certain malaise de fin de siècle :
+- Art décadent.
+	- Le positivisme entraîne une décadence qui cherche à échapper au scientisme et au rationalisme.
+		- Toucher à un univers symbolique avec le [[Symbolisme]].

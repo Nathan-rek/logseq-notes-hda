@@ -1,5 +1,5 @@
 - Le terme a été utilisé en Allemagne, pour décrire l’art marchand du [[Pop-Art]] des années 1980 et 1990.il a été utilisé pour décrire l’aspect idéologique et esthétique du capitalisme d’entreprise contemporain en Occident. Il se position aussi en parallèle au Réalisme socialiste développe par L’Union Soviétique
-	- La première apparition du terme est pour une exposition de 1963: Vivre avec le pop – Une démonstration pour le réalisme capitaliste
+	- La première apparition du terme est pour une exposition de 1963: *Vivre avec le pop – Une démonstration pour le réalisme capitaliste*
 		- Avec des œuvres comme Sigmar Polke, [[Gerhard Richter]] , Konrad Lueg.
 			- Les participants à l'exposition se sont concentrés sur les représentations de la culture de consommation croissante et de la société saturée par les médias en Allemagne avec des stratégies, en partie influencées par celles de leurs homologues Pop Art américains
 				- [[Gerhard Richter]] , avant de s'enfuir en République fédérale d'Allemagne en 1961. Dans une lettre [[Gerhard Richter]] parlait non seulement d'un réalisme impérialiste, mais aussi d'un réalisme capitaliste
@@ -41,10 +41,9 @@
 		- D’autres artistes utilisent le raster dot et l’utilise en outil d’ [[Abstraction]]
 			- Manfred Kuttner: [Werkshau Survey Inside Image](https://www.wikiart.org/en/manfred-kuttner/werkshau-survey-inside-image) ![Werkshau Survey Inside Image - Manfred Kuttner - WikiArt.org](https://uploads1.wikiart.org/00282/images/manfred-kuttner/werkshau-survey-inside-image.jpg!Large.jpg)
 	- Polke utilise une toile réalisée en tissu d'ameublement, l'élevant ainsi au rang de motif visuel
-		- Sigmar Polke : [*Propellerfrau*](https://twitter.com/propellerfrau1/status/1016976709936189445), 1969
+		- Sigmar Polke : [*Propellerfrau*](https://twitter.com/propellerfrau1/status/1016976709936189445), 1969. ![Propellerfrau - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/b/b4/Sigmar_Polke_-_Propellerfrau_%28Gem%C3%A4lde%29.jpg){:height 485, :width 450}
 - Le collage et l’usage d’image issu de journaux et notamment de publicité de biens de consommation ou incitant à la consommation
-	- Sigmar Polke : [*Spargeld*](http://www.artnet.fr/artistes/sigmar-polke/spargeld-a-XdgI8CHIcum-NZLDWOBOvA2), 2002
-		- https://www.artnet.fr/WebServices/images/ll2277931llgnoOM3CfDrCWvaHBOAD/sigmar-polke-spargeld.jpg
+	- Sigmar Polke : [*Spargeld*](http://www.artnet.fr/artistes/sigmar-polke/spargeld-a-XdgI8CHIcum-NZLDWOBOvA2), 2002 , 2002
 - Ont peut aussi faire un parallèle entre les œuvres symétriques d'[[Andy Warhol]]: [*Rorschach*] ![Rorschach - Andy Warhol | The Broad](https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/warhol_rorschach.jpg.webp?itok=AXgJt4EE)
   id:: 653fcc09-e8bc-4c3b-b1fd-e71fea161705
 	- les [*Compositions*](http://www.artnet.fr/artistes/sigmar-polke/composition-a-Hqg7jyx0l3ZNxwW65uPkjw2), 1992 de Sigmar Polke.  ![Sigmar Polke: Oeuvres, Biographie, Expositions & Collection exclusive –  Composition Gallery](https://media.composition.gallery/artworkpic/sigmar-polke-untitled-columbus-in-search-of-a-new-tomorrow-silkscreen-available-for-sale-on-composition-gallery1663683445-97523_349x500.jpeg)

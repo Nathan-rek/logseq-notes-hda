@@ -1,33 +1,32 @@
 ## Nietzsche
-- Philosophe allemand née en 1844 mort en 1900, professeur de philosophie à Balle, spécialiste de la grec antique. Hédéniste grec qui pense que le summum de l'Humanité a été atteint lors de la Grèce antique. A 26ans il publie *La Naissance de la tragédie*, texte qui affirme beaucoup de choses de façon très vigoureuse. Suite a se texte il est renvoyé de l'université et commence a écrire en sachant être née trop tôt pour cette époque. Lors de sa mort sa sœur Elizabeth reprend son texte et le reformule sous l'idéologie nazi avec laquelle elle était familière
-	- De plus les nazis ont bien aimé son travail et certaines idées
-	- Pourtant Nietzche déteste tout les groupes sociaux, juif, anglais, philosophe, chrétiens...
-- Penseur pour qui la philosophie est aussi de la poésie
-- Nietzsche déteste la mentalité de troupeaux
-	- Les cultures qui pour lui mettent en avant la médiocrité
-	- Il reproche à la chrétienté de couper les puissances individuelles de l'H
+- Philosophe allemand né en 1844 et mort en 1900, professeur de philosophie à Bâle, spécialiste de la Grèce antique. Hédoniste, il pense que le summum de l'humanité a été atteint durant la Grèce antique. À 26 ans, il publie *La Naissance de la tragédie*, un texte qui affirme beaucoup de choses de manière très vigoureuse. Suite à ce texte, il est renvoyé de l'université et commence à écrire en sachant qu'il est né trop tôt pour son époque. Lors de sa mort, sa sœur Elisabeth reprend ses textes et les reformule sous l'idéologie nazie avec laquelle elle était familière.
+	- De plus, les nazis ont bien aimé son travail et certaines de ses idées.
+	- Pourtant, Nietzsche déteste tous les groupes sociaux, qu'ils soient juifs, anglais, philosophes, chrétiens, etc.
+- Penseur pour qui la philosophie est aussi de la poésie.
+- Nietzsche déteste la mentalité de troupeau :
+	- Les cultures qui, selon lui, mettent en avant la médiocrité.
+	- Il reproche à la chrétienté de couper les puissances individuelles de l'homme.
 - # La Naissance de la tragédie
-- Nietzsche met en avant l'esthétique dans sa philosophie comme réinvention de la subjectivité, de l’éthique, de la culture et du questionnement intime de l’existence; l’art, l’esthétique, est l’axiome philosophique à partir duquel des questions existentielles peuvent être exprimées.
-- Pour Nietzsche l'esthétique avance non pas que grâce à la raison (Aristote, Descartes) mais par la dualité Dionysos et Apollon, par intuition.
-	- Rompt la logique occidental, qui se base sur un principe de causalité et d'étude la causalité
-- Dans la mythologies Grecques il y a deux dieu pour l'art Apollon et Dionysos, Apollon dieu de la création d'images et Dionysos l'art non imagé
-	- Ces deux formes d'art s'oppose et sont en perpétuelle duel afin de se pousser à créer, un combat perpétuelle qui lorsque qu'il se réconcilie il aborde le terme d'*art*, d'œuvre d'art
-		- C'est pour Nietzsche la tragédie attique (tragédie grec)
-- Apollon et la création d'image à un rapport de représentations du monde pour l'homme, l'image est parfois une interprétation d'un rêve, le poète pour Nietzsche est celui qui dit des rêves qui sont vrais. Mais ce monde onirique ne donne que le sentiment d'apparence.
-	- Pour Schopenhauer cette capacité de penser un monde extérieur serait la condition de philosophie.
-		- Or l'homme doué de sensibilité artistique adopte à l'égard de la réalité du rêve la même attitude que
-		  le philosophe à l'égard de la réalité de l'existence, Il se plaisent à l'observer
-			- Observer sous tout ses angles non pas que les plus beau ils observe et donne à voir la divine comédie
-	- Apollon met en avant un *principium individuationis*
-		- Dans la pensée de Schopenhauer, le **principium individuationis** est lié à l'idée que l'individualité et la distinction des êtres reposent sur les conditions de l'espace et du temps. C'est dans le monde phénoménal (le monde des apparences) que ce principe opère, permettant la séparation entre les choses et les êtres, par opposition au "monde en soi", où cette distinction n'existe pas.
-			- Appolon incarne cette individualisation, ce calme de l'individu qui s'est qu'il est
-	- La où Dionysos lui tend non pas vers le rêve et l'apparence mais vers l'ivresse, une ivresse qui rompt avec le *Mâyâ*
-		- Le voile de Mâyâ est cette couche d'illusion qui empêche les êtres humains de percevoir la **réalité ultime**, les maintiennent dans un état d'ignorance et les attachants aux désirs et aux expériences matérielles du monde phénoménal.
-		- Dans l'ivresse l'H rompt avec le quotidien il marche danse vers un supérieur, ses gestes traduisent son ensorcèlement. Il ne marche plus n'avance plus car il se sent comme un dieu, dieu qu'il a vu dans ses rêves.
-		- Le Dionysiaque révèle l’artifice de l’individuation apollonienne et montre que celle-ci est chimérique.
-	- Pour Nietzsche le théâtre vient de la danse et non pas de la poésie comme on croyait à l'époque
-		- Dionysos est le héros tragique originale. Les héros sont ceux qui sont capable d'affirmer le caractère tragique de la vie
-			- Œdipe se rend compte qu'il a tué son père et eu 4 enfants avec sa mère, suite à cela Œdipe se crève les yeux pour mieux voir à l'intérieur de lui, il ne nie pas le réelle. La culture grecque
-- L'H n'est plus artiste il est devenu œuvre d'art
-- Pour Nietzsche la [[Modernité]] arrive avec Socrate qui tue la tragédie en utilisant la logique engendrant une approche rationaliste de la vie.
-	- Ce qui entrainer une perte d'intérêt dans les concepts mystiques et esthétiques
+- Nietzsche met en avant l'esthétique dans sa philosophie comme réinvention de la subjectivité, de l’éthique, de la culture et du questionnement intime de l’existence. L’art et l’esthétique constituent l’axiome philosophique à partir duquel des questions existentielles peuvent être exprimées.
+- Pour Nietzsche, l'esthétique avance non pas seulement grâce à la raison (comme chez Aristote ou Descartes), mais par la dualité de Dionysos et Apollon, par l'intuition.
+	- Cela rompt avec la logique occidentale, qui se base sur un principe de causalité et d'étude de la causalité.
+- Dans la mythologie grecque, il y a deux dieux pour l'art : Apollon et Dionysos. Apollon est le dieu de la création d'images, tandis que Dionysos représente l'art non imagé.
+	- Ces deux formes d'art s'opposent et sont en perpétuel duel afin de se pousser à créer. Ce combat incessant, lorsqu'il se réconcilie, aboutit à la notion d'*art*, d'œuvre d'art.
+		- Pour Nietzsche, cela correspond à la tragédie attique (tragédie grecque).
+- Apollon et la création d'images ont un rapport avec les représentations du monde pour l'homme. L'image est parfois une interprétation d'un rêve. Le poète, pour Nietzsche, est celui qui exprime des rêves qui sont vrais. Cependant, ce monde onirique ne donne qu'un sentiment d'apparence.
+	- Pour Schopenhauer, cette capacité à penser un monde extérieur serait la condition même de la philosophie.
+		- Or, l'homme doué de sensibilité artistique adopte, à l'égard de la réalité du rêve, la même attitude que le philosophe face à la réalité de l'existence. Il se plaît à l'observer :
+			- Observer sous tous ses angles, non pas seulement les plus beaux, mais donner à voir la divine comédie.
+- Apollon met en avant un *principium individuationis* :
+	- Dans la pensée de Schopenhauer, le **principium individuationis** est lié à l'idée que l'individualité et la distinction des êtres reposent sur les conditions de l'espace et du temps. C'est dans le monde phénoménal (le monde des apparences) que ce principe opère, permettant la séparation entre les choses et les êtres, par opposition au "monde en soi", où cette distinction n'existe pas.
+		- Apollon incarne cette individualisation, ce calme de l'individu qui sait ce qu'il est.
+- En revanche, Dionysos ne tend pas vers le rêve et l'apparence, mais vers l'ivresse, une ivresse qui rompt avec le *Mâyâ* :
+	- Le voile de Mâyâ est cette couche d'illusion qui empêche les êtres humains de percevoir la **réalité ultime**, les maintenant dans un état d'ignorance et les attachant aux désirs et aux expériences matérielles du monde phénoménal.
+	- Dans l'ivresse, l'homme rompt avec le quotidien. Il marche et danse vers un état supérieur ; ses gestes traduisent son ensorcèlement. Il ne marche plus, n'avance plus, car il se sent comme un dieu, un dieu qu'il a vu dans ses rêves.
+	- Le dionysiaque révèle l’artifice de l’individuation apollonienne et montre que celle-ci est chimérique.
+- Pour Nietzsche, le théâtre vient de la danse et non pas de la poésie, comme on le croyait à l'époque :
+	- Dionysos est le héros tragique originel. Les héros sont ceux qui sont capables d'affirmer le caractère tragique de la vie.
+		- Œdipe se rend compte qu'il a tué son père et eu quatre enfants avec sa mère. Suite à cela, Œdipe se crève les yeux pour mieux voir à l'intérieur de lui. Il ne nie pas le réel, illustrant ainsi la culture grecque.
+- L'homme n'est plus artiste, il est devenu œuvre d'art.
+- Pour Nietzsche, la [[modernité]] arrive avec Socrate, qui tue la tragédie en utilisant la logique, engendrant ainsi une approche rationaliste de la vie.
+	- Cela entraîne une perte d'intérêt pour les concepts mystiques et esthétiques.

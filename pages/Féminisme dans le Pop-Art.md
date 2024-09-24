@@ -1,13 +1,15 @@
-- De nombreux..ses artistes du [[Pop-Art]] porte un message politique et parmi ces messages le militantisme féministe.
-- Le pop art comme forme d'expression du féminisme politique se heurte avec le fait que beaucoup d'images utilisées par le courant artistique font à l'origine partie de la pornographie, sont des images à caractère misogyne ou encore sont des iconographies qui servent à la culture patriarcale.
+- De nombreux..ses artistes du [[Pop-Art]] porte un message politique et parmi ces messages il y a le militantisme féministe.
+- Le pop art comme forme d'expression du féminisme politique se heurte avec le fait que beaucoup d'images(pop) de femmes utilisées par le courant artistique font à l'origine partie de la pornographie, sont des images à caractère misogyne ou encore sont des iconographies qui servent à la culture patriarcale.
 	- Les œuvres de [[Roy Lichtenstein]] sont assez démonstratives de cette vision de la femme et de l’image que la culture populaire crée avec des œuvres où les femmes sont objectivées par l’homme. Dans un dimensions patriarcale la femme n’est que représenté par et pour l’homme.
 		- L’œuvre de [[Roy Lichtenstein]] use de ce principes sans vraiment le critique mais l’illustre à travers ses dialogues notamment où même les titres d’œuvres
-			- Un des œuvres les plus discutée à ce propos est [*Drowning Girl*](https://fr.wikipedia.org/wiki/Drowning_Girl). ![Drowning Girl - Wikipedia](https://upload.wikimedia.org/wikipedia/en/d/df/Roy_Lichtenstein_Drowning_Girl.jpg)
+			- Un des œuvres les plus discutée à ce propos est
+				- [[Roy Lichtenstein]], [*Drowning Girl*](https://fr.wikipedia.org/wiki/Drowning_Girl), 1963  ![Drowning Girl - Wikipedia](https://upload.wikimedia.org/wikipedia/en/d/df/Roy_Lichtenstein_Drowning_Girl.jpg)
 			- Son titre met d'ailleurs l'accent sur la fragilité de son sujet en utilisant le terme girl (fille) et non woman. Après [*Drowning Girl*](https://fr.wikipedia.org/wiki/Drowning_Girl) , [[Roy Lichtenstein]]continue à représenter des «filles d'à côté» dans un état émotionnel précaire.
-			- Kristen CONGDON souligne dans que cette femme qui se noie n'a rien d'une héroïne et qu'elle ne fait que flatter l'égo masculin. Diane WALDMAN partage cette analyse. Pour elle, en isolant les personnages féminins de leur contexte original, [[Roy Lichtenstein]] les positionnent comme des objets décoratifs, pour le regard de l'homme
-			- Pour Sam PARKER notamment, l'artiste cherche à tourner en ridicule les stéréotype de genres de l'époque. Son travail sur ces stéréotypes serait d'ailleurs accentué par ses partis pris graphiques. [*Drowning Girl*](https://fr.wikipedia.org/wiki/Drowning_Girl) est cité dans un article sur les proto-féministes du [[Pop-Art]] pour son héroïne qui préfère se noyer que d'appeler Brad à l'aide.
-	- C'est pour cela que la position initiale de la pensée féministe face au pop art ne pouvait pas être autre que l'abstinence ou la critique.
-	- Evelyn AXELL et Pauline BOTY utilisent le vocabulaire de la culture populaire, comme les grandes actrices du cinéma, les pin-ups ou encore des objets de consommation, pour parler des différents thèmes qui mobilisaient dans les années 1960 le mouvement radical pour le droit des femmes
+			- L'approche de [[Roy Lichtenstein]] ne critique pas ouvertement ces stéréotypes; au contraire, elle les illustre. Cela a conduit certains critiques à affirmer que son œuvre peut flattée l'ego masculin, renforçant ainsi la culture patriarcale. Kristen Congdon et Diane Waldman soulignent cette problématique en expliquant comment les personnages féminins sont isolés de leur contexte, devenant ainsi des éléments décoratifs pour le regard masculin.
+			- Pour Sam Parker l'artiste cherche à tourner en ridicule les stéréotype de genres de l'époque. Son travail sur ces stéréotypes serait d'ailleurs accentué par ses partis pris graphiques.
+				- [*Drowning Girl*](https://fr.wikipedia.org/wiki/Drowning_Girl) est cité dans un article sur les proto-féministes du [[Pop-Art]] pour son héroïne qui préfère se noyer que d'appeler Brad à l'aide. -> [*Pop art's proto-feminists*](https://www.salon.com/2012/03/23/pop_art_feminists_imprint/)
+	- C'est pour cela que la position initiale de la pensée féministe face au [[Pop-Art]] ne pouvait pas être autre que l'abstinence ou la critique.
+	- Evelyn Axell et Pauline Boty utilisent le vocabulaire de la culture populaire, comme les grandes actrices du cinéma, les pin-ups ou encore des objets de consommation, pour parler des différents thèmes qui mobilisaient dans les années 1960 le mouvement radical pour le droit des femmes
 		- Pauline BOTY: [*It’s a man World II*](https://www.wikiart.org/fr/pauline-boty/it-s-a-man-s-world-ii-1965), 1965 ![5 Female Pop Art Artists You Never Heard About](https://artscapy.s3.amazonaws.com/bx_posts_photos/a/ay/ayw/aywfazkenupnyuirwr33uby6ez2m4dy5.png)
 			- Critique le sexisme de la culture visuel tout en dénonçant le regard objectivant de l’homme sur la femme et sa sexualité
 		- Pauline BOTY: [*Scandal*](https://flashbak.com/the-artist-pauline-boty-and-the-anti-uglies-63672/scandal-63-1963-by-pauline-boty-copy/), 1963 ![](https://flashbak.com/wp-content/uploads/2016/07/Scandal-63-1963-by-Pauline-Boty-copy.jpg)
@@ -16,5 +18,6 @@
 			- Démystifie la figure du père et dénonce le système patriarcal, les privilèges des hommes blancs, par exemple le salaire plus élevé, la position sociale supérieure, les droits légaux qui les avantageaient.
 		- Elle représente le corps de la femme à leur façon
 	- L’italienne Giosetta FIORINI peint dans sa série [*Argenti*](https://www.exibart.com/evento-arte/giosetta-fioroni-argenti-anni-60/) des corps féminins de mannequin ou elle soustrait le désir masculin
-- Poster des Guérilla Girl
-	- A travers les statistiques mettent avant la sous-représentation des femmes dans le monde de l’art
+- Poster des Guérilla Girl https://www.centrepompidou.fr/fileadmin/user_upload/csm_guerrillagirls_affiche_6ce0e88647.jpg
+	- Des mouvements comme les **Guerrilla Girls** ont également émergé pour dénoncer la sous-représentation des femmes dans le [[Monde de l'art]] . À travers des affiches provocantes et des statistiques, elles mettent en lumière les inégalités persistantes
+-
