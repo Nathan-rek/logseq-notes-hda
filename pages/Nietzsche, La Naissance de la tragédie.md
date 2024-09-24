@@ -4,6 +4,7 @@
 	- Pourtant Nietzche déteste tout les groupes sociaux, juif, anglais, philosophe, chrétiens...
 - Penseur pour qui la philosophie est aussi de la poésie
 - Nietzsche déteste la mentalité de troupeaux
+	- Les cultures qui pour lui mettent en avant la médiocrité
 	- Il reproche à la chrétienté de couper les puissances individuelles de l'H
 - # La Naissance de la tragédie
 - Nietzsche met en avant l'esthétique dans sa philosophie comme réinvention de la subjectivité, de l’éthique, de la culture et du questionnement intime de l’existence; l’art, l’esthétique, est l’axiome philosophique à partir duquel des questions existentielles peuvent être exprimées.
@@ -24,6 +25,9 @@
 		- Le voile de Mâyâ est cette couche d'illusion qui empêche les êtres humains de percevoir la **réalité ultime**, les maintiennent dans un état d'ignorance et les attachants aux désirs et aux expériences matérielles du monde phénoménal.
 		- Dans l'ivresse l'H rompt avec le quotidien il marche danse vers un supérieur, ses gestes traduisent son ensorcèlement. Il ne marche plus n'avance plus car il se sent comme un dieu, dieu qu'il a vu dans ses rêves.
 		- Le Dionysiaque révèle l’artifice de l’individuation apollonienne et montre que celle-ci est chimérique.
+	- Pour Nietzsche le théâtre vient de la danse et non pas de la poésie comme on croyait à l'époque
+		- Dionysos est le héros tragique originale. Les héros sont ceux qui sont capable d'affirmer le caractère tragique de la vie
+			- Œdipe se rend compte qu'il a tué son père et eu 4 enfants avec sa mère, suite à cela Œdipe se crève les yeux pour mieux voir à l'intérieur de lui, il ne nie pas le réelle. La culture grecque
 - L'H n'est plus artiste il est devenu œuvre d'art
 - Pour Nietzsche la [[Modernité]] arrive avec Socrate qui tue la tragédie en utilisant la logique engendrant une approche rationaliste de la vie.
 	- Ce qui entrainer une perte d'intérêt dans les concepts mystiques et esthétiques
