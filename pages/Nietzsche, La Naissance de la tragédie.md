@@ -1,7 +1,17 @@
+## Nietzsche
+- Philosophe allemand née en 1844 mort en 1900, professeur de philosophie à Balle, spécialiste de la grec antique. Hédéniste grec qui pense que le summum de l'Humanité a été atteint lors de la Grèce antique. A 26ans il publie *La Naissance de la tragédie*, texte qui affirme beaucoup de choses de façon très vigoureuse. Suite a se texte il est renvoyé de l'université et commence a écrire en sachant être née trop tôt pour cette époque. Lors de sa mort sa sœur Elizabeth reprend son texte et le reformule sous l'idéologie nazi avec laquelle elle était familière
+	- De plus les nazis ont bien aimé son travail et certaines idées
+	- Pourtant Nietzche déteste tout les groupes sociaux, juif, anglais, philosophe, chrétiens...
+- Penseur pour qui la philosophie est aussi de la poésie
+- Nietzsche déteste la mentalité de troupeaux
+	- Il reproche à la chrétienté de couper les puissances individuelles de l'H
+- # La Naissance de la tragédie
 - Nietzsche met en avant l'esthétique dans sa philosophie comme réinvention de la subjectivité, de l’éthique, de la culture et du questionnement intime de l’existence; l’art, l’esthétique, est l’axiome philosophique à partir duquel des questions existentielles peuvent être exprimées.
+- Pour Nietzsche l'esthétique avance non pas que grâce à la raison (Aristote, Descartes) mais par la dualité Dionysos et Apollon, par intuition.
+	- Rompt la logique occidental, qui se base sur un principe de causalité et d'étude la causalité
 - Dans la mythologies Grecques il y a deux dieu pour l'art Apollon et Dionysos, Apollon dieu de la création d'images et Dionysos l'art non imagé
 	- Ces deux formes d'art s'oppose et sont en perpétuelle duel afin de se pousser à créer, un combat perpétuelle qui lorsque qu'il se réconcilie il aborde le terme d'*art*, d'œuvre d'art
-		- C'est pour Nietzsche la tragédie attique
+		- C'est pour Nietzsche la tragédie attique (tragédie grec)
 - Apollon et la création d'image à un rapport de représentations du monde pour l'homme, l'image est parfois une interprétation d'un rêve, le poète pour Nietzsche est celui qui dit des rêves qui sont vrais. Mais ce monde onirique ne donne que le sentiment d'apparence.
 	- Pour Schopenhauer cette capacité de penser un monde extérieur serait la condition de philosophie.
 		- Or l'homme doué de sensibilité artistique adopte à l'égard de la réalité du rêve la même attitude que
@@ -9,8 +19,9 @@
 			- Observer sous tout ses angles non pas que les plus beau ils observe et donne à voir la divine comédie
 	- Apollon met en avant un *principium individuationis*
 		- Dans la pensée de Schopenhauer, le **principium individuationis** est lié à l'idée que l'individualité et la distinction des êtres reposent sur les conditions de l'espace et du temps. C'est dans le monde phénoménal (le monde des apparences) que ce principe opère, permettant la séparation entre les choses et les êtres, par opposition au "monde en soi", où cette distinction n'existe pas.
+			- Appolon incarne cette individualisation, ce calme de l'individu qui s'est qu'il est
 	- La où Dionysos lui tend non pas vers le rêve et l'apparence mais vers l'ivresse, une ivresse qui rompt avec le *Mâyâ*
-		- Le voile de Mâyâ est donc cette couche d'illusion qui empêche les êtres humains de percevoir la **réalité ultime**, les maintenant dans un état d'ignorance et les attachant aux désirs et aux expériences matérielles du monde phénoménal.
+		- Le voile de Mâyâ est cette couche d'illusion qui empêche les êtres humains de percevoir la **réalité ultime**, les maintiennent dans un état d'ignorance et les attachants aux désirs et aux expériences matérielles du monde phénoménal.
 		- Dans l'ivresse l'H rompt avec le quotidien il marche danse vers un supérieur, ses gestes traduisent son ensorcèlement. Il ne marche plus n'avance plus car il se sent comme un dieu, dieu qu'il a vu dans ses rêves.
 		- Le Dionysiaque révèle l’artifice de l’individuation apollonienne et montre que celle-ci est chimérique.
 - L'H n'est plus artiste il est devenu œuvre d'art
