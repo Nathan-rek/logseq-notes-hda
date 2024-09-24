@@ -1,10 +1,10 @@
-- Harman ne cherche pas à répliquer la pensé d'[[Esthétique Relationnelle]] qui pense une pensé comme des humain qui interagissent ensemble;
+- Harman ne cherche pas à répliquer la pensé d'[[Esthétique Relationnelle]] qui pense une pensé comme des humain..es qui interagissent ensemble
 - Harman s'oppose à une relationalité plus large.
-	- L’enjeu est l’indépendance des œuvres d’art non seulement par rapport à leur environnement social et politique, à leur environnement physique ou à leur valeur d’échange commerciale, mais aussi par rapport à tout autre objet quel qu’il soit.
+	- L’enjeu est l’indépendance des œuvres d’art non seulement par rapport à leur environnement social et politique, à leur environnement physique ou à leur valeurs d’échanges commerciale, mais aussi par rapport à tout autre objet quel qu’il soit.
 - Dans une pensé qui penche vers la relationalité plutôt que vers les choses statiques avec les penseur..eus contemporain..es.
 	- L'[[Object Oriented Philosophy]] et la primauté des relations sur les choses n'est plus une idée libératrice (puisqu’elle réduit les choses à leur impact pragmatique sur les humains et les unes sur les autres).
 		- Harman qualifie de sympathies généralisé autour des substances mornes marque l'ambiance intellectuelle général de notre époque
-- Pour illustrer son propos il prend choix de prend de nommer objet l'ensemble des sujets ( les plus universelles )
+- Pour illustrer son propos il prend choix de nommer objet l'ensemble des sujets ( les plus universelles )
 	- Par objet il entend des réalités unifiés - physique ou autres qui ne peuvent être réduite ni à leurs effets ni à leurs morceaux
 	- Les objets ont des dégres de réalité
 		- Capacité a résister aux changements de ses composants
@@ -14,8 +14,9 @@
 - Soit on explique de quoi est fait quelque chose, soit on décrit ses effets
 	- Ces deux réductions proposent de détruire l'objets
 		- Ce sont là les deux types fondamentaux de *connaissance* de ce qu’est quelque chose : soit nous expliquons de quoi quelque chose est fait, soit nous décrivons ses effets.
-	- Or la philosphie n'est pas une forme de connaissance
+	- Or la philosophie n'est pas une forme de connaissance
 		- Il privilégie l'amour de la sagesse que la sagesse
 	- De même pour l'art
 		- L’objet d’art, pris au sens large et non limité aux entités mobiles et durables, est tout aussi résistant à la connaissance que les objets au sens philosophique.
--
+- Heidegger et Husserl on fait une première percées dans la theories des objets, dans une strategie de philosophie empiristes il a fallu nier les objets en les remplacant par des *groupe de qualités*
+	- Il n'y a pas de lunes mais des qualités blanches, lumineuses, rondes... le mot lunes est un surnom qui rassemble ces qualités

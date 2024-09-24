@@ -1,12 +1,12 @@
 - ACTIVIST NEUROAESTHETICS : était un festival d'événements comprenant un symposium[^82], une exposition en trois parties, une conférence, des projections et des publications, développé par l'institution principale Verein zur Förderung von Kunst und Kultur [*am Rosa-Luxemburg-Platz eV*](https://www.rosa-luxemburg-platz.net/)
 - Événement crée par Warren Niedich. Il y trouve trois catégories de Neuroesthétique
 - #### <a name="__refheading___toc31253_904435087"></a>Introduction à la théorie neuroesthétique
-- Positiviste:
+- ## Positiviste
 	- La neuroesthétique positiviste utilise des méthodes scientifiques et la neuro-imagerie pour expliquer et situer les origines de la production artistique et culturelle dans les modules cérébraux du cerveau matériel confinés par la carapace osseuse du crâne.
 		- Les produits esthétiques comme la sculpture et la peinture sont considérés comme des objets ayant un intérêt considérable dans l’étude et la méthode scientifique. Cette méthode est méthodologique mais elle est réductrice et déterministe car ne prend pas en compte l’historie de l’œuvre dans son devenir social politique économique ou culturel.
 		- La neuroesthétique positiviste cherche à situer les origines de l'expression artistique et culturelle dans les limites déterminées de modules dits cérébraux
 	- La neuroesthétique positiviste est liée aux enquêtes scientifiques positivistes et aux épistémologies philosophiques analytiques
-- Idéaliste
+- ## Idéaliste
 	- Adaptant les idées de la philosophie continentale, en particulier celles de , comprend que créer de nouveaux circuits dans l'art signifie les créer simultanément dans le cerveau matériel.
 		- Comme le dit Andy CLARK, des « interactions en boucle » entre nos cerveaux, nos corps et « des environnements culturels et technologiques complexes ».
 	- Contrairement à la méthode scientifique elle analyse pas un régime de faits mêmes catégories d'expériences sensibles et situées.
@@ -23,7 +23,7 @@
 		- Défini par des axes et des vecteurs, des gradients et des seuils, par des tendances dynamiques impliquant des transformations énergétiques et des mouvements cinématiques impliquant des déplacements de groupe, par des migrations
 		- Nous avons besoin d'un cerveau sans organes comme forme de résistance à la plus-value cognitive à l'ère du capitalisme neuronal et des interactions neuronales optimisées. Regardons cela plus profondément.
 		- Nous aurons besoin d'un nouveau concept pour faire face à la corporatisation à venir de nos cerveaux et de nos esprit
-- Activiste
+- ## Activiste
 	- La neuroesthétique militante est liée à la catégorie idéaliste mais va encore plus loin en l'incluant comme un outil important de transformation sociale et politique.
 	  Les changements de structure dans les définitions sociaux-culturelles sont inscrit dans des changements analogues de l’architecture matérielle du cerveau, en raison de la modulation neuronales
 	- Le cerveau incarné et entendu ne se limita pas a l’intérieur du crâne mais s’étend pour inclure le monde des objets des choses et de leur relations
@@ -62,7 +62,6 @@
 	- Dans [*Torqued Ellipses*](https://www.guggenheim.org/artwork/17143) l’artiste travaille avec des plaques d’acier massives mais leur physique n’est pas le but. Les [*Torqued Ellipses*](https://www.guggenheim.org/artwork/17143) produisent une expérience de l’espace émergent.
 	  id:: 65dbc11e-388f-4dc3-8140-d16cdc66f1e0
 		- Ce n’est pas l’acier mais le fait que l’espace est ici devenu matériaux
-		  
 		  *« Je n'étais pas intéressé par l'esthétique de ces pièces, mais par le fait qu'une forme générique, une ellipse, puisse être tordue sur elle-même pour produire une forme inédite… Je partais du vide, c'est-à-dire de l'espace, en partant de l'intérieur vers l'extérieur, pas de l'extérieur vers l'intérieur, pour trouver la peau. »*
 - [*Torqued Ellipses*](https://www.guggenheim.org/artwork/17143) est un objet transitionnelles de la physicalité palpable (coupée de l'armature tendue de l'ère industrielle) à la poétique et aux épistémologies venant en sens inverse d'une époque où la révélation réside dans le non-physique.
 - ##### <a name="__refheading___toc31257_904435087 copie 1"></a>Une Synesthésie:
@@ -85,6 +84,3 @@
 - En 1877 Sir Francis GALTON [^83]. Crée une procédure de réalisation de photo composites. Fabriquées par un processus d’enregistrement et d’exposition successif de portrait sur une seul plaque les composites de GALTON étaient censées constituer des moyennes statistiques représentant des types d’humain..es (Criminel..les, juif..ve, anglais..e, et autres)
 	- Pour GALTON «les visages idéaux obtenus par la méthode du portrait composite semblent avoir beaucoup en commun avec… les idées dites abstraites»
 		- Il été convaincu qu’il donnait une forme matérielle tangible aux idées abstraites
-- ## Cerveau et art
-- Rupture avec le binaire [[Nature - Culture]], qui est
--

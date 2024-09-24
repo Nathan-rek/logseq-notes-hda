@@ -13,7 +13,7 @@
 - Le Dada se développe aussi à Berlin avec des performances qui choquent la bourgeoisie
 - Des artistes de New York Picabia et [[Marcel Duchamp]] se retrouve dans ces démarches, Tzara bouge à Paris, l’esprit Dada se multiplie
 	- Cherche à jouer avec les conventions du monde de l’art
-	- [[Marcel Duchamp]]: 1000 papers ![His Twine: Marcel Duchamp and the Limits of Exhibition History - ICA  Philadelphia](https://icaphila.org/wp-content/uploads/2018/03/FIRST-PAPERS-small.jpg)
+	- [[Marcel Duchamp]]: 1000 papers ![His Twine: Marcel Duchamp and the Limits of Exhibition History - ICA  Philadelphia](https://icaphila.org/wp-content/uploads/2018/03/FIRST-PAPERS-small.jpg){:height 340, :width 450}
 	  id:: 653fa23b-071c-4394-90a3-969e41755b3f
 	- [[Marcel Duchamp]]: LHOOQ, 1919 ![LHOOQ (1919): Marcel Duchamp's Uncompromising Piece](https://www.singulart.com/blog/wp-content/uploads/2020/05/lhooq.jpg)
 	  id:: 65480be3-afaf-4930-9455-f36be8cbbe2c

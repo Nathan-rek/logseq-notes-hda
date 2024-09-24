@@ -1,3 +1,4 @@
+-
 - Volume – espace - exposition
 - Cabinet de curiosité: conséquence du musées, dispositif d’exposition nouveaux. [[Nature - Culture]] se mêle ensemble, jeux d’association qui laisse place à la sensibilité de l’image
 - Musée opère des spoliations d’œuvres d’autre pays, autorisation de représenter la culture de l’humanité.
@@ -7,8 +8,9 @@
 - ### Sculpture et exposition
 - Rodin, [*Le Balzhac*](https://www.musee-rodin.fr/ressources/focus-sur-oeuvre/balzac) https://www.musee-rodin.fr/sites/default/files/styles/carrousel/public/2021-01/2017_05_12_jardin_jm005.jpg?itok=V2Nf_yNl
 	- Le pied de la sculpture sort du socle, il interfère avec l’espace.
-	- Début d’une relation entre photographie et sculpture avec Rodin– début compliqué mais qui petit a petit prendre vie notamment avec l’exposition des photographies de Eugène Druet lors de l’exposition de Rodin. Il vient a dégager une affinité technico-esthetique.
-- Brancusi: [*l’oiseau dans l’espace*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cbLy4oX), 1941 ![L'Oiseau dans l'espace - Centre Pompidou](https://www.centrepompidou.fr/media/picture/f1/94/f19492dd834eacbfef4171db5df82fb5/thumb_large.jpg)
+	- Début d’une relation entre photographie et sculpture avec Rodin
+		- Début compliqué mais qui petit à petit prend vie notamment avec l’exposition des photographies de Eugène Druet lors de l’exposition de Rodin. Il vient à dégager une affinité technico esthétique.
+- Brancusi: [*l’oiseau dans l’espace*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cbLy4oX), 1941 ![L'Oiseau dans l'espace - Centre Pompidou](https://www.centrepompidou.fr/media/picture/f1/94/f19492dd834eacbfef4171db5df82fb5/thumb_large.jpg){:height 32, :width 450}
 	- irradie l’espace de lumière, ouvre l’interaction entre l’espace et le volume, intégrer l’espace négatif comme une matrice positif.
 	- Une manière d’agir qu’il expérimentera avec la photo allant à utiliser tout les aspects de la photo (sur-impression-sur-exposition etc…) Démarche expérimental qui porte notamment sur la conception et la relation positif négatif dans la photo et dans la sculpture
 - Giacometti: sculpteur surréaliste, il présente son œuvre à travers un texte illustré d’une photo de Man Ray, dans son atelier , il élimine le socle.

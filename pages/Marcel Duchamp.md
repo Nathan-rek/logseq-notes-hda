@@ -1,1 +1,2 @@
--
+- Marcel Duchamp: 1200 Coal Bags
+	- 1200 sac de charbon pendu au plafond avec sous eux une ampoule, les combustibles et leur engins de combustion

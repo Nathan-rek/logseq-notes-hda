@@ -1,4 +1,5 @@
 - Laakkuluk Willamson Bathory, Greenlandic Mask Painting, 2021
 	- D'origine kaalaleq ou inuk groenlandaise basée a Iqaluit Nunavut
 		- Connue pour sa danse de masque *uaajeerneq* "une forme d'art idiosyncratique" qui ne se réfère qu'à sa propre mythologie
+	- La danse sur uaajeerneq a été rejetée lors des missions colonialistes, c'est une réappropriation qui s'inscrit dans un discours [[Post-Coloniale]]
 -
