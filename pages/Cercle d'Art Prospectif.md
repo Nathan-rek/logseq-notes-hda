@@ -2,7 +2,7 @@
 	- Dans ce groupe l'aspect relationnelle n'est pas que entre humain,
 		- L'aspect rationnelle ne peut être autre que dans le lien social
 			- Se relater à quelque chose
-				- Tout œuvre d'art est une relation à quelque chose ( ensemble de relation entre les éléments) approche [[Structuraliste]]
+				- Toutes œuvres d'art est une relation à quelque chose ( ensemble de relation entre les éléments) approche [[Structuraliste]]
 	- Questionne l'information comme lien
 		- Comment on lie une œuvre d'art dans un dispositif, une installation
 			- Travail la relation au sens structuraliste
@@ -10,5 +10,4 @@
 	- Lacques Lennep: [*Le musée de l'homme*](https://www.lennep.be/Lennep/Musee_de_lhomme.html), 1974 ![l'homme zèbre - Hilde Van Gelder](https://archive-magazine.jeudepaume.org/blogs/hildevangelder/files/2011/07/f1.jpg)
 		- Initiatives qui démarre en 1974 qui décide plutôt d'exposer des personne dites 'ordinaire' en dehors du [[Monde de l'art]] ,
 			- N'exposant pas des artistes mais des personnes dont le mode de vie s'apparente à de l'art
-				- Lecture et relation, 1977
-	- Approche plus relationnelle, expose l'homme telle qu'il est *"On est tous artistes"* chacun peut déploier une dispositif artistique
+	- Approche plus relationnelle, expose l'homme telle qu'il est *"On est tous artistes"* chacun peut déploier un dispositif artistique

@@ -18,3 +18,5 @@
 		- [[Paul. B Preciado]] propose de repenser se rapport à l'identité
 		- Propose le mutant relationnelle: ne pas se figer autour d'une identité supporté par une idéologie
 - Propose un grand processus de néologisme pour apporter des nuances très précises en sursaturant des nuances
+- Philosophie en contact
+	- C'est au contact de son militantisme dans les prisons qu'il nourrit sa pensée

@@ -5,7 +5,7 @@
 	- La neuroesthétique positiviste utilise des méthodes scientifiques et la neuro-imagerie pour expliquer et situer les origines de la production artistique et culturelle dans les modules cérébraux du cerveau matériel confinés par la carapace osseuse du crâne.
 		- Les produits esthétiques comme la sculpture et la peinture sont considérés comme des objets ayant un intérêt considérable dans l’étude et la méthode scientifique. Cette méthode est méthodologique mais elle est réductrice et déterministe car ne prend pas en compte l’historie de l’œuvre dans son devenir social politique économique ou culturel.
 		- La neuroesthétique positiviste cherche à situer les origines de l'expression artistique et culturelle dans les limites déterminées de modules dits cérébraux
-	- La neuroesthétique positiviste est liée aux enquêtes scientifiques positivistes et aux épistémologies philosophiques analytiques
+	- La neuroesthétique positiviste est liée aux enquêtes scientifiques positivistes et aux épistémologies [[Philosophie Analytique]]
 - ## Idéaliste
 	- Adaptant les idées de la philosophie continentale, en particulier celles de , comprend que créer de nouveaux circuits dans l'art signifie les créer simultanément dans le cerveau matériel.
 		- Comme le dit Andy CLARK, des « interactions en boucle » entre nos cerveaux, nos corps et « des environnements culturels et technologiques complexes ».

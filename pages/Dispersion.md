@@ -3,7 +3,7 @@
 - [[Art Conceptuel]] s’est revendiquer de nouveaux territoires.
 	- Cette tendance à fait qu’en 2002 la plupart des œuvres d’arts se positionnent dans une certaine mesure comme conceptuelles
 		- Le termes peut contenir une charge évidente pour les artistes. Les préoccupations de ce que l’on peut appeler le moment conceptuelle classique.
-			- Moment qui comprenait la linguistique, la philosophie analytique et une poursuite de la dématérialisation formelle.
+			- Moment qui comprenait la linguistique, la [[Philosophie Analytique]] et une poursuite de la dématérialisation formelle.
 	- Ce qui semble vrai pour le conceptualisme normatif c’est que le projet reste «incomplet»
 		- Il ne s’oppose pas nécessairement aux objet de l’art, ni au langage en tant qu’art ; Il n’as pas besoin de s’opposer à l’art rétiniens, il ne représente rien de certain, privilégiant plutôt le contexte, et renégocie sa relation avec son public
 		- Martha ROSLER[^66] évoque une approche « comme-ci », le travail conceptuel se dissimule dans d’autre disciplines, la philosophie notamment.

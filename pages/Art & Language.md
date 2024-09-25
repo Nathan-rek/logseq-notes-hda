@@ -1,6 +1,7 @@
 - Produire de l'art comme idées.
-- L'art et la théorie fusionne entièrement avec des artiste comme [[Joseph Kosuth]]
+- L'art et la théorie fusionne entièrement avec des artistes comme [[Joseph Kosuth]]
 - [[Marcel Broodthaers]] : [*Tractatus Logico-Catalogicus*](https://www.macba.cat/en/art-artists/artists/broodthaers-marcel/tractatus-logico-catalogicus), 1972 ![Tractatus logico-catalogicus, 1972 - Broodthaers, Marcel (1573) | MACBA  Museum of Contemporary Art of Barcelona](https://img.macba.cat/public/styles/obra_ficha/public/imagenes/obras/1573_001_l.jpg?itok=zA7dSKwb)
-	- Travaille le langage des images - Œuvre tautologie
+	- Travaille le langage des images - Œuvre tautologie - reprend le titre de l'œuvre de [[Wittgenstein]]
 		- [[Marcel Broodthaers]] expose dans une galerie et en fait un catalogue l'année d'après il présente une image du catalogue on donne à voir l'image du catalogue. C'est un texte image
--
+- Proche de la [[Philosophie Analytique]]
+	- La [[Philosophie Analytique]] met l'accent sur le langage comme moyen d'explorer les concepts et les problèmes philosophiques. De la même manière, **Art & Language** utilise le langage non seulement comme support ou matériau de l'œuvre d'art, mais aussi comme sujet d’investigation en soi. Les membres de ce collectif considéraient que le langage pouvait être un outil pour interroger les pratiques artistiques traditionnelles.

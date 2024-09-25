@@ -12,9 +12,8 @@
 			- L'artiste peut-il..les vraiment parler de l'autres ?
 	- Carol Talon-Hugon *L'artiste en habits de chercheur*
 		- Depuis peu ont peut faire un doctorat en École d'art
-			- Ces artistes effectuent des recherches mais laisse le champ ouvert et évite le parti pris trop situé
+			- Ces artistes effectuent des recherches mais laisse le champ ouvert et évite le parti pris trop situé [[Savoir Situé, D.Harraway et Sarah Harding]]
 				- Donnent à voir des recherches mais qui n'aboutissent à rien d'autres que de montrer la recherche
-				-
 	- Raphaelle de Groot
 		- Artiste canadienne qui se spécialise dans les pratiques relationnelles (dispositif qui crée de la relation avec d'autres personnes)
 			- Travail en tant qu'ethnographe en anthropologie et rend clair la limite de ça recherche

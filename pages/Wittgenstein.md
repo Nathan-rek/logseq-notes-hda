@@ -1,0 +1,7 @@
+- Ludwig Wittgenstein (1889-1951) est l'un des philosophes les plus influents du XXe siècle, connu principalement pour ses travaux sur la philosophie du langage, de l'esprit et de la logique. Ses idées ont marqué la [[Philosophie Analytique]] , et il est souvent considéré comme l'un des penseurs les plus originaux et complexes de cette tradition.
+- ### **Tractatus Logico-Philosophicus**  (1921)
+	- C’est son œuvre la plus célèbre de la première période. Dans cet ouvrage, Wittgenstein tente de résoudre les problèmes de la philosophie en développant une théorie du langage, de la logique et de la réalité. Il soutient que le langage est un reflet logique du monde : les énoncés expriment des faits, et la structure du langage reflète la structure de la réalité. Voici quelques idées clés du *Tractatus* :
+- **Le monde est constitué de faits** : la réalité est composée de faits, non d’objets.
+- **Le langage représente le monde** : les propositions logiques du langage sont des images des faits dans le monde.
+- **Ce dont on ne peut parler, il faut le taire** : Wittgenstein conclut que les limites du langage sont aussi les limites de notre monde, et que certaines choses (éthique, esthétique, métaphysique) sont au-delà de ce que le langage peut exprimer de manière significative.
+- Le *Tractatus* est une tentative de résoudre tous les problèmes philosophiques en clarifiant la manière dont le langage et la réalité sont liés. Wittgenstein pensait avoir résolu les problèmes philosophiques et s’est retiré de la philosophie après sa publication.

@@ -1,3 +1,5 @@
+## Allégorie de la caverne
+id:: 66f3bf78-2e80-4509-88cf-d182bac25b9f
 - L'allégorie de la caverne est une petite histoire fictive mais qui fait naitre son allégorie
 	- On ne voit pas dans la réalité le réel mais on voit une version inférieur d'un réalité idéal
 - Platon déteste l'art (particulièrement la narration)
