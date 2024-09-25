@@ -1,7 +1,5 @@
 - Théorie formulée en 1998 par le théoricien [[Nicolas Bourriaud]] dans l’ouvrage [*Esthétique relationnelle*](https://www.lespressesdureel.com/ouvrage.php?id=44). L’auteur formule ces pratiques comme:
-  
   *«Des pratiques qui prennent pour point de départ ,théorique et ou pratique, la sphère des rapport humains […] et  les interactions humaines dans leur contexte social plutôt qu’un espace symbolique autonome et privé»*	
-  
   En considérant les relations interhumaines les artistes créent et organisent leurs émergences. Mettant en place des situations « moment de convivialité construit » qui permettent la création de ces manières d’être au monde. Dans un optique de modélisation de relations sociales
 - Rirkrit Tiravanija: [*Rehearsal Studio*](https://web.mit.edu/allanmc/www/rirkritmca.pdf), 1996 ![Rirkrit Tiravanija - Faites de la musique! - Centre Pompidou](https://www.centrepompidou.fr/media/picture/9e/af/9eaf7c149b75988fe199682007dcaa06/thumb_large.jpg)
 	- Des dispositifs qui mettent en relation des spectateur..ices entre eux..lles, propose des halles

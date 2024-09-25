@@ -8,11 +8,11 @@
 		- Les cartes comme dispositif culture qui colonise l’espace par les mathématiques en intègre des plumes qui replace les population autochtones
 		- Champ de brocoli: Présenté comme une foret
 	- Phase Réaliste:
-		- Vivre avec les communautés (Baumgarten va vivre dans le bassin amazonien avec des communautés autochtones: namogamie) L’autre n’est plus un objet de fantasme mais est reconnu comme identité: Artiste devient photographe et ethnographe qui documente les moments de vie
+		- Vivre avec les communautés (Baumgarten va vivre dans le bassin amazonien avec des communautés autochtones: namogamie) L’autre n’est plus un objet de fantasme mais est reconnu comme identité: Artiste devient photographe et [[Ethnographe]] qui documente les moments de vie
 			- Il Quitte le statut fantasmagorique passe à un statut réaliste, va à renoncer à ce processus d’objectivisation.
 		- Lothar Baumgarten: [*America Invention*](https://www.guggenheim.org/exhibition/lothar-baumgarten-america-invention), 1993: ![Guggenheim Museum rotunda with Native American tribe names along the ramps and the words "borrowed land for sale" on the rotunda floor](https://www.guggenheim.org/wp-content/uploads/2008/01/installation-srgm-lothar-baumgarten-america-invention-ph001.jpg)
 			- Lettrage chiroquie est le résultat d’une intériorisation occidentale
 	- [[Post-Coloniale]] : interroger une lecture critique de soi
-		- En quittant le bassin amazonien le but est de faire retour sur les processus de colonisation de l’occident. Dénoncer les opérations de colonisation par le langage:
+		- En quittant le bassin amazonien le but est de faire retour sur les processus de colonisation de l’occident. Dénoncer les opérations du [[Colonialisme]] par le langage:
 		- Todorov : analyse les systèmes de nomination des territoires par les capitaines de Christophe Colomb: Mise en perspective: découper l’espace ne pas le penser comme un territoire infini:
 			- Nommer le territoire latin à travers une frenesis de nomination: mécanisme de dépossession

@@ -18,4 +18,3 @@
 	- Négritudes: 1950-1960: produit par une culture africaine qui vient en contact d’une culture blanche: Revue [*Présence africaine*](https://www.cairn.info/vign_rev/PRESA/PRESA_202.jpg): Aller à l’encontre d’une certaine lecture stéréotypée / Idéologique
 - Narcissisme idéologique: l’altérité est tout le temps rabattu sous la formes d’un objet qu’on viendra à représenter: L’homme blanc se rapporte à l’altérité pour se corriger soi même.
 	- Théorie de la différence (Jacques DERRIDA: Grammatologie > interroger ce mouvement de soi vers l’altérité / Déconstruction pour évité une hiérarchisation entité objet): Éviter une théorie culturelle ou les identités relationnent de façon objective l’altérité n’est qu’un objet d’étude et n’est pas représentée comme identité:
-- [[Lothar Baumgarten]]

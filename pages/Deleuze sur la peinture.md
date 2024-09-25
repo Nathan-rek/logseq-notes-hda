@@ -77,11 +77,11 @@
 				- Met en avant la vitesse avec laquelle un acte de peinture devient un cliché
 			- Il y a aussi les clichés internes, sur les qualités de l'idée en quoi sont elles des idées personnelles ou unique la notion d'idée comme remède aux clichées est en fait un remède très biaisé
 	- ## La donnés le cliché
-		- Fromanger: [*Le boulevard des italiens*](https://www.artnet.fr/artistes/g%C3%A9rard-fromanger/boulevard-des-italiens-hCsTHKYBdPii6ij6tnNvTA2): ![Boulevard des Italiens par Gérard Fromanger sur artnet](https://www.artnet.fr/WebServices/images/ll00247lldD1kFFgjJECfDrCWvaHBOcVFG/g%C3%A9rard-fromanger-boulevard-des-italiens.jpg)
-		- Accompagné d'un photographe de presse il se balade dans la rue et demande au photographe de scène de rue en noir et blanc. Dans une scène il demandais une douzaine de photo puis ensuite Fromanger en choisit une parmi les douzes.
+		- Fromanger: [*Le boulevard des italiens*](https://www.artnet.fr/artistes/g%C3%A9rard-fromanger/boulevard-des-italiens-hCsTHKYBdPii6ij6tnNvTA2) https://artlogic-res.cloudinary.com/w_1200,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/samuellepaireclients/images/view/406bfc42a440f8b1df10325ee2732bfbj/samuellepairefineart-g-rard-fromanger-paramount-cin-ma-s-rie-boulevard-des-italiens-1971.jpg
+		- Accompagné d'un photographe de presse il se balade dans la rue et demande au photographe de scène de rue en noir et blanc. Dans une scène il demandais une douzaine de photo puis ensuite Fromanger en choisit une parmi les douze.
 			- Commence déjà l'acte de peindre: Car son choix se base sur une idée qu'il a en tête. Les scènes évoquent en lui une couleur et donc dans le choix de la photo il y a déjà acte de peindre
 				- La projection rend la toile déjà rempli d'une vérité
-				- Fromanger fait surgir les clichés pour les mettres sur sa toile afin de les détruire et d’en faire sortir un fait pictural, c’est une manière déjà de les conjurer
+				- Fromanger fait surgir les clichés pour les mettre sur sa toile afin de les détruire et d’en faire sortir un fait pictural, c’est une manière déjà de les conjurer
 		- On retrouve les trois temps : le moment pré pictural, cliché, rien que des clichés. La nécessité d’un diagramme qui va brouiller, qui va nettoyer le cliché, pour qu’en sorte quelque chose
 			- Le diagramme n’étant qu’une possibilité de fait, le cliché, c’est le donné, c’est ce qui donné, donné dans la tête, donné dans la rue, donné dans la perception, donné partout.
 				- Le diagramme intervient comme ce qui va brouiller le cliché pour que la peinture en sorte.

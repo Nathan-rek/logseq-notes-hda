@@ -1,9 +1,7 @@
 - L’art qui à été créé à l’aide d’un système autonome. Dans ce contexte, un système autonome est généralement un système non-humain..e qui peut déterminer de manière indépendante les caractéristiques d’une œuvre d’art qui autrement exigerait des décisions prises directement par l’artiste
 - László MOHOLY-NAGY: [*EM 2*](https://www.repro-tableaux.com/a/laszlo-moholy-nagy/telephonbildem2.html), 1923 ![Telephonbild Em 2 à László Moholy-Nagy](https://www.repro-tableaux.com/kunst/laszlo_moholy_nagy/Telephonbild-Em-2.jpg)
   id:: 661023c4-7b1c-41d6-bc94-fba51cd71d4c
-- œuvres que l’artiste crée en appelant au téléphone un artisan au [[Bauhaus]] 
-  
-  *«Être un utilisateur de machines, c’est être de l’esprit de ce siècle»*
+	- œuvres que l’artiste crée en appelant au téléphone un artisan au [[Bauhaus]]  *«Être un utilisateur de machines, c’est être de l’esprit de ce siècle»*
 - André MASSON : [*Dessins Automatiques*](https://www.centrepompidou.fr/fr/ressources/oeuvre/czAzGRr), 1924-1925 ![Dessin automatique - Centre Pompidou](https://www.centrepompidou.fr/media/picture/4d/a2/4da2ec0c5771f6bcaef9e7d43376f3a0/thumb_large.jpg)
 - Musique générative: Brian ENO: La musique générative est imprévisible, elle n’est pas reproductible, elle est inachevée, c’est-à-dire que lorsque vous utilisez la musique générative, vous ne savez pas implicitement quelle en sera la fin
 - ### Mathématisation de l’art ou de la beauté:

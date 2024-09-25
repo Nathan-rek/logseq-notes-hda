@@ -15,12 +15,12 @@ Dans l’essor des Visual studies différent théoricien..nes sont amené..es à
   
   *Thomas Crow*
 - Pour Krauss c’est la notion de discipline forge par le cadre universitaire qui est à la source de la querelle
-	- Le terme de déqualification est pour Krauss emprunté à l’histoire de l'[[Art Conceptuel]] et l’analyse de BURN dans l’idée de dépasse les mediums habituelles ou l’art conceptuelle aurait déqualifié les autres mediums de l’art.
+	- Le terme de déqualification est pour Krauss emprunté à l’histoire de l'[[Art Conceptuel]] et l’analyse de Burn dans l’idée de dépasse les mediums habituelles ou l’art conceptuelle aurait déqualifié les autres mediums de l’art.
 	- Un terme qui a aussi une résonance dans le champ des sciences sociales notamment dans la déqualification des sections ouvrière par l’arrivée de nouvelles technologies et une spécialisation qui entraîne la disparition de compétences propres
 		- Une thèse qui est une réactualisation des théories marxistes sur l’aliénation du travail ouvrier
-		- Dans cette déqualification pas la séparation homme main, l’art conceptuelle rebat les cartes de ce régime d’utilisation. BURN voit dans l’intellectualisation du champ artistique de la fin des années 1960 d’un point de vue socio-économique, son propos constitue un exemple précoce et remarquable d’analyse marxiste postfordiste[^51], théorisant l’idée comme marchandise et le savoir comme source de plus-value
+		- Dans cette déqualification pas la séparation homme main, l’ [[Art Conceptuel]] rebat les cartes de ce régime d’utilisation. BURN voit dans l’intellectualisation du champ artistique de la fin des années 1960 d’un point de vue socio-économique, son propos constitue un exemple précoce et remarquable d’analyse marxiste postfordiste[^51], théorisant l’idée comme marchandise et le savoir comme source de plus-value
 	- BURN propose un inventaire nostalgique des savoir-faire déqualifiés par l’ [[Art Conceptuel]] , dont les figures de proue ont revendiqué, dans la plus pure tradition avant-gardiste, leur émancipation vis-à-vis des entraves de l’art du passé ou l’invention d’un mode esthétique inédit, fût-il aussi extrême que la production d’un « art invisible »
 - Culture visuel vu comme l’objet d’étude et Études visuelle comme champ de savoir, distinction précaire
 	- Pour Nicolas Mirzoeff il faut écarter purement et simplement la notion d’« études visuelles » en raison de son ancrage académique
 		- Une posture encore renforcée par la mise en avant d’un « activisme visuel » dans ses derniers écrits. La culture visuelle, selon lui, a « évolué sous la forme d’une pratique que l’on pourrait qualifier de pensée visuelle (visual thinking).
-	- Pour Jonathan CRARY la compréhension d’une certaine culture visuelle nécessite moins de s’intéresser à la technologie et à l’imagerie matérielle que d’étudier
+	- Pour Jonathan Crary la compréhension d’une certaine culture visuelle nécessite moins de s’intéresser à la technologie et à l’imagerie matérielle que d’étudier

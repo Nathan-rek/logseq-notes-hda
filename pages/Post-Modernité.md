@@ -7,16 +7,16 @@
 		- Omnivorie culturelle, pluri identité, l'individu est lui même fragmenter
 - La figure post moderne peut introduire au néo tribalisme
 	- Necesite de vouloir appartenir à une culture
-		- La culture techno un des signes de ce néo tribalisme
-			- Malgré l'indivudualime exacerber il faut quand meme se ratacher à quelque chose
-- Gilles Lipovestky: *L'ère du vide*
+		- La culture techno un des signes de ce néo-tribalisme
+			- Malgré l'indivudualime exacerber il faut quand même se rattacher à quelque chose
+- ### Gilles Lipovestky: *L'ère du vide*
 	- Ne considère plus la postmodernité mais l'hypermodernité
 		- Tout est vérité, tout est superlatif, tout est hyper, exacerbation du tout
 			- On remplace l'envie du bien-être par la peut de la maladie
 		- Plutôt comme une deuxième phase de la [[Modernité]] des [[Modernité]] avancées
-- Frederic Jameson: *Le post-modernisme ou la logique culturelle du capitalisme tardif*
+- ### Frederic Jameson: *Le post-modernisme ou la logique culturelle du capitalisme tardif*
 	- Le [[Post-modernisme]] se veut est une époque pénètre pas la culture capitaliste notamment dans le champ de la culture
-- Brian Wallis: *Art in America*, 1992
+- ### Brian Wallis: *Art in America*, 1992
   id:: 663ca491-e79b-4e04-b9c5-efd65f616240
 	- *The post modern artist is no longer seen as a contemplative source of original and enlightened but is regarded mor as a consumer or manipulator of cultural signs. The artwork that he or she makes is seen less as an autonomous, sacrosanct objet and more as a "text" endlessy replicable and interpenetrated by innumerable potential meanings.*
 -
