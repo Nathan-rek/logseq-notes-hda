@@ -231,8 +231,21 @@
 - L'opposition Figuration et [[Abstraction]] ne fait plus sens car les peintres abstraits figurent de forme en utilisant des lignes et des contours.
 	- Pour Worringer il y aurait plutôt une différence entre organique et inorganique.
 		- La ligne organique c'est ce qui fait écho au sujet, elle rappelle l'harmonie qui le compose: symétrie, régularité, clôture, la ligne organique c'est celle qui fait contour.
-		- La ligne gothique elle n'est pas abstraite mais elle est inorganique.
+		- La ligne gothique elle n'est pas qu'abstraite mais elle est inorganique.
 			- Elle dépasse la ligne symétrie, via la répétitions, elle déchainent la symétrie. Toutes les figures sont possibles.
 				- Ou bien elle se perd à l’infini dans une convulsion désordonnée, dit Worringer,
 				- Ou bien elle revient sur soi et elle expire
 				- Ou bien elle ne cesse pas de s’opposer à elle même à un obstacle et reçoit force et libération de cet obstacle, c’est-à-dire elle s’oppose à un obstacle qu’elle ne franchit qu’en changeant de direction et elle change constamment de direction
+		- Le coté inorganique de la ligne  gothique est une abstraction vitale qui par son inoganicité écrase la géométrie
+			- C’est une abstraction très particulière
+				- c’est la vie qui s’abstrait des organismes et non pas l’essence qui s’abstrait des apparences, comme dans la géométrie
+				- En cela est-elle Expressioniste ?
+					- La ligne sans contour est fondamentalement expressive puisqu’elle est le vecteur d’une vie non organique.
+						- L'expressivité d'un tableau de [[Jackson Pollock]] a un lien fort avec la ligne gothique
+							- [[Jackson Pollock]]: Gothic, 1944 https://www.moma.org/media/W1siZiIsIjIwNDMyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=9cc9b3c498e21125
+				- [[Jackson Pollock]] anime des débats sur l'idée d'un art informel, en effet c'est un art sans forme, car la ligne n'est et n'as pas de contour
+					- Mais informel ce n'est pas une donné c'est une conséquence
+					- Le peintre n'as pas à informer il invente la matière moléculaire
+	- Elie Faure sur Vélasquez dit qu'il ne peint plus les choses il peint les contours
+		- peignait ce qui se passait « entre » les choses, c’est-à-dire le mouvement de l’air, tout ce qui est sans contour, la lumière entre une chose et une autre, tout ça, tout ce qui se passe entre les choses, c’est pour beaucoup de peintres, l’essentiel.
+- ## Cours 1981-05-05
