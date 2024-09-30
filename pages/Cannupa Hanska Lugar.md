@@ -1,10 +1,10 @@
 - [Cannupa Hanska Lugar](https://www.cannupahanska.com/) est un artiste né dans la réserve de Standing Rock, Dakota du Nord USA (Dakota: grand communauté indigène nord américaine)
-	- Crée des instalations qui à travers l'histoire urgentes sur l'indigénéité.
+	- Crée des instalations qui à travers l'histoire met en avant la condition de l'indigénéité.
 	- [*The Mirror Shield Project*](https://www.cannupahanska.com/social-engagement/mirror-shield-project) ![Mirror Shield Project — Cannupa Hanska Luger](https://images.squarespace-cdn.com/content/v1/63debd46d3ba8f71b9f866e0/1676414203729-JONIEKVKQNIWNZ033IU0/09+Mirror+Shield+Project++Concept+Artist_+Cannupa+Hanska+Luger+Oceti+Sakowin+camp%2C+Standing+Rock%2C+ND+2016+.jpg?format=1500w)
 	  id:: 656dc6a5-40c4-4f2b-8f11-ad339ffee2e8
 		- Vidéo Tuto qui invitent les gens à créer des boucliers miroir de défense activiste face à la création du projet Dakota Acces
 		- Basé sur la construction du pipeline Dakota Acces. Une ligne de 1886km de canalisation souterraine qui transport du pétrole brut tout les jours. Cette pipeline traverse plusieurs lieux sacrée et les met en péril en les traversant ( risque de contamination )
-		- De nombreux..se membre de la tribu de Standing Rock et d'autres communautés ou des activistes écologistes ont protesté..es contre ce projet. Dan sle reisque d'une faillite du tube qui pollurai les lieux sacrés
+		- De nombreux..ses membres de la tribu de Standing Rock et d'autres communautés ou des activistes écologistes ont protesté..es contre ce projet. Dans le risque d'une faillite du tube qui polluerai les lieux sacrés
 - Il use des de la fiction spéculative pour repenser le futur de son peuple
 - [*Future Ancestral Technologies*](https://www.cannupahanska.com/fat), 2017 ![Cannupa Hanska Luger: Sé'sh Shóto'sh Psí'sh | MAH](https://santacruz-mah.imgix.net/uploads/6.-Muscle-Bone-Sinew.-Cannupa-Hanska-Luger.-Film-Still.-Cinematogrpaher-Lucas-Mullikan-2021-cropped_color-correct-version.jpeg?auto=format&crop=focalpoint&domain=santacruz-mah.imgix.net&fit=crop&fp-x=0.5&fp-y=0.5&h=800&ixlib=php-3.3.1&q=82&w=800)
 	- Série de Vidéos, sculpture, performance qui combien science-fiction avec la réceptivité indigène, utilisant l'artisanat humain

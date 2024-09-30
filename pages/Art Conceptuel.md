@@ -1,7 +1,6 @@
 - Une pratique dominé par l’idée ou le concept dans laquelle l’exécution est superficielle – dématérialise l’art et centre l’idée
-- [[Joseph Kosuth]]
 - Édouard Levé: [*André Breton*](https://ekladata.com/4Xj7E_O2Znx4nZLgCiKiXggnR5A/andre-breton.jpg) https://ekladata.com/4Xj7E_O2Znx4nZLgCiKiXggnR5A/andre-breton.jpg
-- Prendre en photo l’homonyme de André BRETON
+	- Edouard Levé prend en photo l’homonyme de André BRETON
 - Idées d’œuvres non réalisées
 	- Édouard Levé[*Œuvre*](https://www.pol-editeur.com/index.php?spec=livre&ISBN=2-86744-910-3), 2002 un livre qui liste toutes les idées de l’artiste mais qu’il n’as pas réalisées
 	- [[Cory Arcangel]]: [*Continuous Partial Awareness (PDF )*](https://coryarcangel.com/things-i-made/2009-049-continuous-partial-awareness-pdf), 2009 https://coryarcangel.com/assets/imgs/Continuous-Partial-Awareness-2009-049-Full-db-OL.jpg

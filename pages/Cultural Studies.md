@@ -2,6 +2,7 @@
 - Approche interdisciplianires ouverte et expérimentale
 	- Etudient tout les phénomènes culturel en évitant d'isoler de leurs contextes sociaux
 	- Intègre les rapports de forces qui sont en jeu dans les pratique culturelles
+	- Approche hybride qui mélange beaucoup de science social
 - Les conceptions de la culture diffèrent entre les pays
 	- US & UK
 		- Culture comme bien de consommation, produits

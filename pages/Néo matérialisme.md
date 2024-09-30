@@ -29,7 +29,7 @@
 		  toutes les formes de vie organiques situées en dehors de la catégorie humaine.
 			- Mais de nombreux chercheur..euse se détournent de ce cadre et se tournent vers plus qu’humain en raison de la dichotomie problématique au cœur du non-humain.
 			- Décrire quelqu'un comme non-humain, c'est un peu comme décrire une femme comme non-homme, ou un noir comme non-blanc, ou la nature comme une non-culture.
-		- Nous créons un système binaire qui reproduit précisément le type de dichotomie [[Nature - Culture]] , corps/esprit, etc.. Cette dichotomie fait de l'autre une altérite et empeche de la comprendre dans ca valeur intrinsèque.
+		- Nous créons un système binaire qui reproduit précisément le type de dichotomie [[Nature - Culture]] , corps/esprit, etc.. Cette dichotomie fait de l'autre une altérite et empêche de la comprendre dans ca valeur intrinsèque.
 			- Pour les néo-matérialistes, il est important de dépasser ces dichotomies pour mieux comprendre les réseaux complexes et imbriqués d'agences et de relations qui composent le monde.
 	- Plus qu'humain
 		- Rompt avec la dichotomie [[Nature - Culture]], le paysage se dessine et évolue, le principe plus qu'humain englobe plus de chose
