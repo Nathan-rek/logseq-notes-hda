@@ -3,6 +3,7 @@
 	- Consacre une attention à l’expérimentation
 		- Privilégie la rencontre physique avec le medium
 			- Emploi de grand format traité en All-over[^2]
+			  id:: 661023c5-ef4d-415f-8f6d-c2ed1f703576
 				- Clément Greenberg parle de all-over evenness [une uniformité bord à bord]
 					- Questionnement de la planéité de la peinture comme une condition unique et existentielle à la peinture que les modernes ont travaillé..es dans un exercice d’autodéfinition moderniste [[Modernist Painting, Clément Greenberg]]
 - ## [[Color-Field Painting]]

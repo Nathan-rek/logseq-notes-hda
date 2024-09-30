@@ -249,3 +249,20 @@
 	- Elie Faure sur Vélasquez dit qu'il ne peint plus les choses il peint les contours
 		- peignait ce qui se passait « entre » les choses, c’est-à-dire le mouvement de l’air, tout ce qui est sans contour, la lumière entre une chose et une autre, tout ça, tout ce qui se passe entre les choses, c’est pour beaucoup de peintres, l’essentiel.
 - ## Cours 1981-05-05
+- Position diagrammatique
+	- Le diagramme prend tout le tableau
+		- Tendance expressioniste
+			- Dans cette expressionnistes on met la ligne sans contour une ligne abstraite bien plus abstraite que les peintures abstraites
+				- Le plus abstrait des [[Vassily Kandisky]] figure des triangles ou des rectangles
+			- Dans l' [[Expressionnisme Abstrait Américain]] la ligne à une certaine dimension qui est prédominant le traitement en ((661023c5-ef4d-415f-8f6d-c2ed1f703576)) est symptomatique de cette vision de la toile qui rompt avec la vison classique il n'y a aucune conception privilégiées tout endroit du tableau à une probabilité égale.
+			- La tendance expressionniste est un tendance où la main se rebelle face à l'œil, c'est un abandon du chevalet.
+				- On rompt avec l'horizon optique (oeil) pour un sol profondément tactile
+					- Or Fried et Greenberg dans leur analyse de [[Expressionnisme Abstrait Américain]] dise que c'est moderne car c'est la formation d'un espace optique pur
+						- Ce serait un espace optique qui rompt avec l'espace tactile classique qui est un espace qui met en avant la superposition des couche par les processus de contour
+				- [[Action Painting]] c'est une action qui domine
+	- Diagramme reduit au minium
+		- Le risque de la réduction diagrammatique c'est la création d'un *code* ce que Deleuze peut appeler L' [[Abstraction]]
+	- Diagramme qui fait sortir quelque chose
+		- Il agit comme diagrame mais n'occupe pas tout le tableau
+			- Il parait figuratif mais il n'est pas, il fait figurer le non-figuratif
+-
