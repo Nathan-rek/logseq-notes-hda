@@ -48,7 +48,7 @@
 		- Très tôt il utilise des outils d’imagerie numérique, tels que des programmes vectoriels et des logiciels de traitement d’images.
 	- Développe des stratégies pour traiter des images existantes
 	- A travers une sérié d’œuvre en 60cm x 60cm MAJERUS commente les conditions d’exposition dans la formation sans cesse renouvelés.
-		- Les styles de peintures et les motifs inspirés de , Frank STELLA, [[Gerhard Richter]], BASQUIAT, [[Andy Warhol]] , apparaissent comme des effets techniques.
+		- Les styles de peintures et les motifs inspirés de , [[Frank Stella]] , [[Gerhard Richter]], BASQUIAT, [[Andy Warhol]] , apparaissent comme des effets techniques.
 			- La citation comme méthode lui permet d’intégrer presque tout dans son travail
 	- Michel MAJERUS : [*Controlling the moonlight maze*](https://commons.wikimedia.org/wiki/File:Installation_view_controlling_the_moonlight_maze,_neugerriemschneider,_Berlin_2002.jpg) ![Wenn Spielkultur auf Kunst trifft. - Erbse](https://pseudoerbse.de/wp-content/uploads/2016/04/videospiele-kunst-kultur-gaming-fridericianum-kassel-images-flashback-michel-majerus-controlling-the-moonlight-maze.jpg)
 		- Le FBI donne le nom de code «Moonlight Maze» abrégé «MM» à l’attaque de hacker la plus agressive et persistantes contre le gouvernement américain jusqu’en 1998.

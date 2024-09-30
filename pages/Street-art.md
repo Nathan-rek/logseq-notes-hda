@@ -5,4 +5,3 @@
 	- Déplacement de la culture urbaine dans le champ de l'art qui se veut hermétique
 - Street-art maintenant participe à la gentrification de certains quartiers
 - [[Invader]]
--

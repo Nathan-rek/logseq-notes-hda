@@ -14,7 +14,7 @@
 - ## Miroir d'une société
 - Ils se présentent comme miroir de la société en renvoyant directement aux questions de consommation que ce soit à travers les objets de consommation ((65480be3-7ec8-4db9-9289-62be8b4f1216))
 - Les pubs qui créent le désire [[Jeff Koons]]: [*Hennessy, The Civilized Way to Lay Down the Law*](https://jeffkoons.com/artwork/luxury-degradation/hennessy-the-civilized-way-lay-down-the-law), 1986 https://jeffkoons.com/sites/default/files/artwork-images/lux4_sm.jpg
-- Ou alors la dérive pharmacologique de nos modes de consommation avec les cabinet de [[Damien Hirst]]: *The Days, the Hours, the Minutes, the Seconds*, 2008 ![Damien Hirst — Zoé Schreiber – Zigzags](https://images.squarespace-cdn.com/content/v1/580f2a72be6594a6e29cc729/1633357061551-RP5TO8JJXPLZO5YZEU23/Damian+Hirst%2C+The+Days%2C+the+hours%2C+the+minutes%2C+the+seconds%2C+2008+%28detail%29.jpg)
+- Ou alors la dérive pharmacologique de nos modes de consommation avec les cabinets de [[Damien Hirst]]: *The Days, the Hours, the Minutes, the Seconds*, 2008 ![Damien Hirst — Zoé Schreiber – Zigzags](https://images.squarespace-cdn.com/content/v1/580f2a72be6594a6e29cc729/1633357061551-RP5TO8JJXPLZO5YZEU23/Damian+Hirst%2C+The+Days%2C+the+hours%2C+the+minutes%2C+the+seconds%2C+2008+%28detail%29.jpg)
   id:: 663ca1cc-3aa6-4c6b-8706-aac4dae2d47e
 - Cette usage des signes culturelles qui fait des artsite des "*Manipulator of cultural Signs*" est fort présent avec la [[Post-Modernité]] ((663ca491-e79b-4e04-b9c5-efd65f616240))
 - ## Life / Death
