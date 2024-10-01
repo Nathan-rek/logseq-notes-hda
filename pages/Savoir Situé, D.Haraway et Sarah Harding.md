@@ -1,18 +1,18 @@
 - Le féminisme à refondé les sciences humaine notamment la Philosophie
-- Soulève le problème de l'objectivité scientifique
+- [[Donna Haraway]] chercheuse en biologie soulève le problème de l'objectivité scientifique
 	- *L'objectivité parfaite n'existe pas toute production de savoir est le fait d'un sujet inscrit dans un monde social*
 	- Depasse l'idée d'un universelle Philosophique qui se baserait sur le mythe de l'objectivité
 		- Toutes sciences est une production humaine
 		- Le point de vue de Sirius n'existe pas, on peut reconnaitre être situé et donc être teinté d'une subjectivité
 			- Risque de se positionner socialement avant d'écrire
 	- Tout savoir s'écrit toujours de quelque part
-- Harraway est de base philosophe des sciences(biologie) et remet en question le principe d'objectivité fort présent en science
+- [[Donna Haraway]] est de base philosophe des sciences(biologie) et remet en question le principe d'objectivité fort présent en science
 	- Il n'y a pas de discours sur l'objet l'objet est le discours en dehors de toute subjectivité
 	- En biologie l'objectivité est confondu avec une subjectivité dominantes, pense être objectif car son regard est partagé par la plupart
 		- La sante des femmes est néglige dans la biologie car elle l'étude des sciences est fait d'une subjectivité d'hommes prétendant a une objectivité
 	- En situant la pratique on va faire vivre d'autres subjectivités du monde.
 		- L'objectivité peut exister mais elle n'est jamais parfaites elle est toujours teint d'une subjectivité
-- Pour Harraway faire de la philosophie c'est redécrire le monde
+- Pour [[Donna Haraway]] faire de la philosophie c'est redécrire le monde
 	- C'est émettre un geste spéculatif, je décrit ce qui est et j'essaie de le faire parvenir
 - Cette théorie à influencé pleins d'autres domaines
 	- L'étude du cinéma avec le *Male Gaze*

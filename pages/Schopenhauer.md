@@ -3,5 +3,6 @@
 		- L'illusion est dans le fait que nous ne comprenons pas cette volonté
 		- Notre comprenons notre monde sur un principe de causalité on sait comment la vie se fait pas pourquoi la vie.
 	- Nous apparait les représentations d'une volonté qui nous dépasse
-- On sait qu'elle est la car elle nous entoure mais elle dépasse notre système de compréhension
+- On sait qu'elle est la car elle nous pousse a grandir et elle cree chez nous des sentiment afin de se reproduire
+	- Ses émotions sont illusoire car elle sont le fruit d'un volonté qui nous dépasse on sait comment on est amoureux mais on ne sait pas pourquoi on l'est
 - C'est une situation tragique pour Schopenhauer car cette volonté qui nous dépasse et à l'origine de la vie vie tragique, la volonté nous dépasse car elle continue de se perpétuer en nous esclaves de cette volonté.

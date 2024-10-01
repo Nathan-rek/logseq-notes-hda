@@ -1,0 +1,14 @@
+- L'informatique de la domination
+	- Les technologies se base sur un principe binaire
+		- Le sujet qui à le pouvoir et l'objet soumis à celui-ci
+	- Féministe qui dit qu'il faut sortir de l'essentialisme de responsabilité de reproduction
+- Les cyborgs pour Haraway sont des individus androgènes qui dépasse la biologies, individu non sexuées et donc post-binaire
+	- Ne s'identifie pas à une origine il peut se lier à plusieurs choses
+- Le féminisme doit prend acquis du tournant technologique que les technologies [[Cybernétique]] sont en train de faire.
+- La technologie perturbe les frontiéres, notament le rapport de [[Nature - Culture]] et c'est quand ces frotniere se trouble qu eles femmes doivent en profite
+	- Elles peuvent s'affranchir des assignations genré en abordant la figure du cyborg au delà du sexe du genre en fusion avec la technologie
+	  id:: 66fc4992-88fb-4575-b02f-95ef6c6854af
+- Cyborg
+	- Figure central de la science-fiction qui décrit un être humain moitié organique moitié [[Cybernétique]] dont les fonction physiologiste sont améliorés par des modification biochimiques et électroniques (Neil Harbisson)
+	- Ne s'identifient pas à leur origine ni à la nature, afin de développer un sentiment de compréhension à travers les différences entre eux et les autres
+- # [*Cyborg Manifesto : Science, Tehcnology and Socialist-Feminist in the Late Twentieth Century*](https://www.sfu.ca/~decaste/OISE/page2/files/HarawayCyborg.pdf), 1985

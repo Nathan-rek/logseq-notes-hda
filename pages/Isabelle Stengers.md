@@ -1,4 +1,4 @@
-- Critique le rôle et l'autorité de la science moderne dans la société contemporaines, elle remet en question ses prétentions à l'objectivité, à la rationalité et à la vérité, problème d'un [[Savoir Situé, D.Harraway et Sarah Harding]]
+- Critique le rôle et l'autorité de la science moderne dans la société contemporaines, elle remet en question ses prétentions à l'objectivité, à la rationalité et à la vérité, problème d'un [[Savoir Situé, D.Haraway et Sarah Harding]]
 - Distinction entre
 	- Les sciences en tant qu'entreprise créatives une pratique d'invention et de découverte
 	- La prétention moderniste de la science d'invalider tous les autres discours

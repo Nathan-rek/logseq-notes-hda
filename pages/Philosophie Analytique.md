@@ -1,2 +1,3 @@
 - Elle se caractérise par une approche rigoureuse du langage et de la logique pour clarifier les problèmes philosophiques, en s'inspirant des sciences et des mathématiques. Plutôt que de s'intéresser aux grandes questions métaphysiques ou existentielles, elle se concentre sur l'analyse des concepts, des arguments et du sens des mots, cherchant à résoudre les énigmes philosophiques à travers une méthode précise et critique.
-- Clarifier le langage jusqu'au jours ou on dépassera tout malentendu
+- Clarifier le langage jusqu'au jours où on dépassera tout malentendu sur les concepts philosophiques
+-

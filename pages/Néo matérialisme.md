@@ -15,7 +15,7 @@
 		- Un comportement inconscient ou involontaires
 		- Une activité dirigée vers un objectif
 	- Gilles Deleuze influence la nouvelle compréhension de l'agent non humain.
-	- Le dualisme classique de la philosophie est celui de Platon et Aristote
+	- Le dualisme classique de la philosophie est celui de [[Platon]] et Aristote
 		- Séparent l'esprit et le corps: la conscience et la pensée de tout ce qui est physique.
 			- Dualisme à l'origine de la dichotomie distinctes et oppositionnelles: [[Nature - Culture]], [[Sujet-Objet]]
 	- Deleuze va donc interroger les distinctions d'une vrai et d'une fausse agency. afin de multiplier la possibilité de manifestation d'agency

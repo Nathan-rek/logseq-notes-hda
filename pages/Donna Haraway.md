@@ -1,0 +1,9 @@
+- Donna Haraway voulait examiner comment le néo-libéralisme grandissant des années 80 pouvait pénétrer notre chair
+	- Cette pénetration dans notre chair est possibel car le liberlaisme est un machien de guerre de technologique
+		- L'influence de la [[Cybernétique]] a donnée au état unis un fort impact sur le monde.
+			- Un état néo-libérale cyber militariser
+- Au sein de cette guerre technologique la place de la femmes est crucial, la sciences et la technologies peuvent appartenir aux femmes
+	- La réappropriation des sciences par le féminisme
+- Pour Haraway la SF est une pensée, ce sont plus que des œuvres elle sont des œuvres de pensée direct qui ne nécessite aucune interprétations
+- ## [[Cyberg Manifesto, Donna Haraway]]
+-

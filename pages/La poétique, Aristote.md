@@ -10,4 +10,4 @@
 		- Il y a aussi une nécessité de vraisemblance et de raison, il ne faut pas de scène irrationnel ou d'invraisemblance
 	- Pour qu'une pièce soit bonne il faut que les actions parlent d'elle même:
 	- Aristote aime Œdipe roi
-- Contrairement à son enseignant Platon ([[La République, Platon]]) Aristote croit au bien fait de l'art pour la cité, car il y accorde une fonction cathartique
+- Contrairement à son enseignant [[Platon]] Aristote croit au bien fait de l'art pour la cité, car il y accorde une fonction cathartique

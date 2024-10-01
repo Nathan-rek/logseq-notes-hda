@@ -40,7 +40,8 @@
 	- nous présente une image totalement différente de la notion de mythologie, qui s'ouvre sur la cosmologie et la spiritualité. MURPHY est influencée à parts égales par l'immensité infinie du cyberspace telle que l'imaginaient les utilisateur..ices du premier World Wide Web et par le vocabulaire visuel du nouvel âge, pensez à des centaines d'années d'esthétique du design de l'Asie du Sud-Est rencontrant les clubs de yoga de Portland.
 	- Il en résulte une série de gravures créées numériquement et de sculptures découpées au laser dont la forme est si cohérente que le..a spectateur..ices croient souvent voir un texte d'une langue aujourd'hui disparue ou l'iconographie religieuse d'une secte ancienne. Au lieu de cela, les formes sont le produit de l'imagination de l'artiste, une sorte de phrase continue épelant l'histoire imaginaire d'un monde souterrain magnifiquement anarchique.
 - ## Fantasy and Cyborg
-- Donna HARAWAY a écrit un jour, dans son célèbre "[*Manifeste Cyborg*](https://fr.wikipedia.org/wiki/Manifeste_cyborg)", l'idée qu'il n'y avait pas de séparation entre les corps et les objets.
+- [[Donna Haraway]] a écrit un jour, dans son célèbre [[Cyberg Manifesto, Donna Haraway]] , l'idée qu'il n'y avait pas de séparation entre les corps et les objets.
+	- Rupture avec le dualisme [[Sujet-Objet]]
 	- Notre force vitale nous traverse et sort dans les objets que nous fabriquons, a-t-elle raisonné ; il ne devrait donc pas y avoir de distinction entre les soi-disant organismes réels ou naturels que la nature produit et les machines artificielles que les humain..es fabriquent.
 		- Sa conclusion : Nous sommes tous des cyborgs.
 - Saya WOOLFALK: [*ChimaTEK*](http://www.sayawoolfalk.com/chimera) ![  Chimera  Video Still 2013 ](https://images.squarespace-cdn.com/content/v1/574ef83b4d088e84c523b0e8/1465508875761-NU10TUCNP3MKTSUQ5CVS/Woolfalk_9.jpg?format=1000w)

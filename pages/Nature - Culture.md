@@ -3,8 +3,8 @@
 	- Objectivisation de la nature comme ressources
 - L’entité culturelle humaine qui ne se soustrait pas d’une instance naturel > Écosystème
 - Contre cette polarité:
-	- Bruno LATOUR / [[Isabelle Stengers]]: pensée de type: [[Post-Humanisme]] / Écosystémique ( ou l’humanité n’as pas de prépondérance )
-- ### Rapport Nature / Culture interroger
+	- Bruno latour/ [[Isabelle Stengers]]: pensée de type: [[Post-Humanisme]] / Écosystémique ( ou l’humanité n’as pas de prépondérance )
+- ### Rapport Nature / Culture interrogé
 - [[Ana Mendieta]] : artiste d’origine cubaine: trajectoire acculturation > tend un environnement culture de base (cubaine) vers un autre environnement (New York)
 	- Vers une inflexion du Land Art: intrusion dans l’espace naturel à des fins artistiques ((65d3770b-3fc2-421c-924c-2827dbeada7c)) > Charrie un système de domination de l’humain..e sur la Nature
 	- A l’inverse de ces modalités d’actions elle tente de mettre en place une conception matricielle: Laisse la marque de son corps à travers des moyens naturelles > Métamorphose entre le geste culturelle humain..es et le geste naturelle

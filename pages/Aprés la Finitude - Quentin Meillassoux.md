@@ -16,7 +16,7 @@
 									- **Réalisme naïf** : C'est la croyance selon laquelle le monde extérieur existe de manière indépendante de notre perception et que nous pouvons le connaître directement tel qu'il est. En d'autres termes, cette perspective suppose que les objets existent exactement comme nous les percevons, et que cette perception nous donne un accès direct à la réalité.
 									  id:: 66d445f4-3d51-442e-b14f-b2cb04d18ec0
 									- **Métaphysiques dogmatiques** : Ce sont les systèmes philosophiques qui prétendent détenir une connaissance certaine et absolue de la réalité. Ces métaphysiques reposent souvent sur des principes immuables ou des nécessités rationnelles qui prétendent expliquer l'essence du monde de manière définitive.
-- Corrélation : idée qu'on a accès qu'as la corrélation entre être et pensée et jamais a un de ces termes de façon isolées
+- Corrélation : idée qu'on a accès qu'as la corrélation entre être et pensée et jamais à un de ces termes de façon isolées
 	- [[Corrélationisme]]: tous courant de penser qui soutient le caractère corrélative de ces rapports.
 		- Consiste à disqualifier toutes prétention à considérer les sphères de la subjectivité et de l'objectivité indépendamment l'une de l'autres
 			- Cercle corrélation comme cette phénomène d'autocontradiction que lorsque qu'on pense un objet en soi on le pense déjà plus en soi

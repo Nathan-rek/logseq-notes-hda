@@ -1,17 +1,17 @@
-- [Images](https://archiv3.fridericianum.org/exhibitions/images)est une exposition au Fridericianum Kassel cura-té par Susanne PFEFFER[^69]
+- [Images](https://archiv3.fridericianum.org/exhibitions/images)est une exposition au Fridericianum Kassel cura-té par Susanne Pfefer[^69]
 - Comment par un processus d’interaction multiple et l’influence des nouvelles technologies le potentiels de l’imaginaire et l’image visuelle est devenu de plus en plus important
   L’exposition présente des artistes qui travaillent sur les mutations de l’image et de sa circulation et de son flux
 - ## Some Assembly Required D.N. Rodowick
-- Pour D.N RODOWICK[^70] la question de l’art moderne était comment libérer l’image de la représentation.
+- Pour D.N Rodowick[^70] la question de l’art moderne était comment libérer l’image de la représentation.
 	- Pour les contemporain..es c’est de savoir comment trouver de nouvelle approche pour reconfigurer cette question de manière à l’actualiser à notre environnement médiatique.
-		- Cette nouvelle approche s'accompagne d'une perte de foi en la représnetation.
+		- Cette nouvelle approche s'accompagne d'une perte de foi en la représentation.
 - Dans un continuum ou [[Walter Benjamin]] craint la reproductibilité, Baudrillard exprime l’affirmation du [[Post-modernisme]] et ne distingue plus l’original de la copie avec le [[Simulacre]]
 	- Comment aborder les images qui peuvent nous permettre d’aborder le réel.
 		- Le réelle est la où la violence est faite au corps, mais l’art y est impuissant. Alors il faut comprendre la matérialité des images qui représente le réel.
 			- ((664b8dda-9de0-4675-abfd-81aa5a2aaf33))
 				- On ne croit plus la représentation mais on croit la médiation.
 - La question est la même que Deleuze sur la peinture ([[Deleuze sur la peinture]]) le but est de proposer une image qui sort du vaste flux d'image pour proposer une image critique.
-	- La cave de Sturtevant devient vaste flux d'image l'image renvoi a une autre et il en est incapable d'en sortir
+	- La cave de Sturtevant devient vaste flux d'image l'image renvoi à une autre et il en est incapable d'en sortir
 		- [[Elaine Sturtevant]] : [*Plato’s Dual Action:Same/Idea/Transposed (2004)*](https://archiv3.fridericianum.org/exhibitions/images) ![Fridericianum](https://archiv3.fridericianum.org/img/5529fb68db560cd2/sturtevant-01-fabian-frinzel.jpg)
 - Cette réflexion sur l’image passe notamment par sa diffusion, l’exposition commence donc sur l’un des principes de la diffusion de l’image la réglementation du droit d’auteur
 	- [*Ann Lee*](https://www.pinaultcollection.com/fr/boursedecommerce/autour-dannlee) et ces diverses incarnations symbolisent dans le projet [[No Ghost Just a Shell]] cette condition primaire de la diffusion d’images

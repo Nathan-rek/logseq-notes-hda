@@ -4,5 +4,5 @@
 			- Perpétuellement entre les deux mondes
 			- C'est ce qui fait la condition humaine mais c'est aussi ce qui pousse à la création, il y a donc une évolution possible car nous somme jamais entièrement ici
 				- Tout idée nouvelles vient des deux mondes, toutes abstractions provient d'un encrage à la matière
-					- Le monde des Idée et le monde matérielle coexiste de façon inconfortable contrairement à chez Platon pour qui il sont distinct
-- Philosophie à l'épreuve du cinéma qui cherche a se détacher de la [[Philosophie Analytique]]
+					- Le monde des Idée et le monde matérielle coexiste de façon inconfortable contrairement à chez [[Platon]] pour qui il sont distinct
+- Philosophie à l'épreuve du cinéma qui cherche à se détacher de la [[Philosophie Analytique]]

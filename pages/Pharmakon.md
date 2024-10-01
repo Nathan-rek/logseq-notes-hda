@@ -1,8 +1,6 @@
-- Débat sur l’usage des grandes inventions ( PLATON – l’écriture ): usage de l’écriture ( technique et technologie ) l’écriture vient atrophier la mémoire
-  
-  Tekhnè: origine de teko: le fait de faire de fabriquer
-  
-  Pharmacologie: Bernard STIEGLER: penser la technologie moderne:
+- Débat sur l’usage des grandes inventions ( [[Platon]] – l’écriture ): usage de l’écriture ( technique et technologie ) l’écriture vient atrophier la mémoire
+- Tekhnè: origine de teko: le fait de faire de fabriquer
+- Pharmacologie: Bernard STIEGLER: penser la technologie moderne:
 - Photographie 19eme siècle:
 - Imprimerie 15ème siècle: propose une confrontation individuelle face au texte qui pousse à l’individualisme pensé par soit même / l’augmentation de production fait que l’on à accès à plus de livre et on se concentre moins sur précisément sur certains livres
 - Presses française: S’intéresse à la politique l’Économie / Au lieu de ce concentrer sur les fait divers
