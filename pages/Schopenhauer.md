@@ -1,0 +1,7 @@
+- Pour Schopenhauer le monde est un illusion, notre réalité matériel n'est qu'un monde de représentation d'un monde qui serait le monde de la volonté
+	- La volonté pour Schopenhauer c'est un puissance qui dépasse les condition matériel du monde des représentations
+		- L'illusion est dans le fait que nous ne comprenons pas cette volonté
+		- Notre comprenons notre monde sur un principe de causalité on sait comment la vie se fait pas pourquoi la vie.
+	- Nous apparait les représentations d'une volonté qui nous dépasse
+- On sait qu'elle est la car elle nous entoure mais elle dépasse notre système de compréhension
+- C'est une situation tragique pour Schopenhauer car cette volonté qui nous dépasse et à l'origine de la vie vie tragique, la volonté nous dépasse car elle continue de se perpétuer en nous esclaves de cette volonté.

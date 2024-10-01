@@ -4,6 +4,8 @@
 		- ![La psychanalyse pour étudiants en psychologie ou curieux](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBVnaolbO79P5P-E7IFDJYyXiMYrNa5l_Bog&s)
 		-
 		- En haut le *conscient/préconscient* à disposition (mémoire souvenir).
+			- Slavoj Žižek analyse le film Psycho comme une représentation graphique de la deuxième topique freudienne
+			  id:: 66fc1770-d565-458a-a99f-4ca37d845cd8
 		- L'inconscient nourrit par les pulsions du *ça*
 			- *ça* : fond animal et sexuel qui cherche la survie et la reproduction
 		- Le moi se négocie entre le *ça* et le *préconscient* face aux normes sociétales et morales
