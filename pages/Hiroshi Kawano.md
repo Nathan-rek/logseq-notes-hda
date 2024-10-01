@@ -1,3 +1,3 @@
-- A travers ses recherches esthétiques il cherche à mettre avant la logique humaine en utilisant le modèle de traitement de l’information de l’ordinateur
+- A travers ses recherches esthétiques il cherche à mettre avant la logique humaine en utilisant le modèle de traitement d’information de l’ordinateur
 	- Hiroshi KAWANO: [*Drawing*](https://dam.org/museum/artists_ui/artists/kawano-hiroshi/), 1964 ![](https://dam.org/museum/wp-content/uploads/2020/10/Kawano_2-2-e1604321763265.jpg)
 		- Il reste dans un esprit où l’art informatique est une machine qui comme l’homme doit comprendre l’algorithme de l’art. Cela induit que l’art est une simulation possible par un calcul dont la formule réside dans les œuvres

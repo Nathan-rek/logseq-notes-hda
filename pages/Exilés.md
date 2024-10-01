@@ -1,6 +1,6 @@
-- L'idée de l'origine es mythifier et pousse a une interprétation de l'œuvre comme dépendant d'un contexte social de sa production.
-- Via l'augmentation de l'exil géographique forcé et volontaire ou du nomadisme et la mondialisation des biens
-	- La notion de culture est donc remis en question. L'idée d'origine et d'immigration est remis en question
+- L'idée de l'origine est mythifié et pousse à une interprétation de l'œuvre comme dépendant d'un contexte social de sa production.
+- Via l'augmentation de l'exil géographique forcée et volontaire ou du nomadisme et la mondialisation des biens
+	- La notion de culture, l'idée d'origine et d'immigration sont remise en question
 - Navin Rawanchaikul: [*Places of Rebirth*](https://www.guggenheim.org/artwork/31233), 2009 ![Navin Rawanchaikul | Places of Rebirth | The Guggenheim Museums and  Foundation](https://www.guggenheim.org/wp-content/uploads/2009/01/2012.159_cu_web_1-1.jpg)
 	- L'artiste décrit sa première visite au Pakistan (lieu de naissance de ses ancêtres)
 		- La nature fluide des migrations se traduit souvent par des échanges et des adaptations de cultures, conférant à ses participant..es une identité transgéographique

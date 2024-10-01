@@ -1,16 +1,13 @@
 - L’accélérationnisme est un continuum idéologique
 - Propose que le processus sociaux ( la croissance capitaliste et le changement technologique soit intensifiés de manière drastique afin de déstabiliser le systèmes pour créer un nouveau changement social radical appelé «l’accélération»
 	- Soutient l’intensification indéfinie du capitalisme et de ses structures ainsi que les conditions d’une singularité technologique, un point hypothétique dans le temps où la croissance technologique devient incontrôlable et irréversible:
-	  
-	  *«Alors que les blockchains, la logistique des drones, les nanotechnologies, l’informatique quantique, la génomique computationnelle et la réalité virtuelle déferlent, immergées dans des densités d’intelligence artificielle toujours plus élevées L'accélérationnisme n’ira nulle part»*
-	  
-	  *Nick Land*
-	  
-	  Post-Marxiste:  Suit l’idée que les contradictions et les instabilités internes du capitalisme compromettront sa croissance, et que par conséquent l’abolition du système et de ses structures de classe pourrait être provoquée par son accélération
+		- *«Alors que les blockchains, la logistique des drones, les nanotechnologies, l’informatique quantique, la génomique computationnelle et la réalité virtuelle déferlent, immergées dans des densités d’intelligence artificielle toujours plus élevées L'accélérationnisme n’ira nulle part»*
+		  *Nick Land*
+		- Post-Marxiste:  Suit l’idée que les contradictions et les instabilités internes du capitalisme compromettront sa croissance, et que par conséquent l’abolition du système et de ses structures de classe pourrait être provoquée par son accélération
 - [[Déterritorialisation]] : Processus par lequel une relation sociale, un « territoire » subit une modification, une mutation ou une déconstruction de son organisation et de son contexte actuels. Les éléments constituent alors un nouveau territoire, ce qui est le processus de « re-territorialisation»
 - Nick Land: le capitalisme n’a jamais été correctement libéré, mais qu’il avait toujours été freiné par la politique
 - Le manifeste accélérationniste de Nick Srnicek et Alex Williams part du constat que la gauche, du fait de son opposition et rejet des symboles capitalistes, s’est retrouvé en retard sur les avancés de la droite. En effet, la droite garantie sa présence dans le futur, étant donné qu’elle investirait directement dans ses outils déterminants, c’est à dire l’économie et la technologies. La gauche, au contraire, en adoptant des stratégies comme le slow movement serait vouée à rester dans le passer. L’enjeu serait donc pour le mouvement accélérationniste de gauche, d’investir dans les mêmes stratégies que la droite, en vue d’assurer la présence de la gauche dans l’évolution de l’humanité. L’investissement dans le futur se ferait ainsi à travers l’usage, l’exploitation et l’investissement dans les nouvelles technologies
-	- L’aspect central de la spéculation 236 237 dans cette théorie, fait donc appel à la puissance de l’hyperstition : il s’agit de créer un imaginaire politique et technologique alternatif dans le but de modeler le futur dans cette direction.
+	- L’aspect central de la spéculation dans cette théorie, fait donc appel à la puissance de l’hyperstition : il s’agit de créer un imaginaire politique et technologique alternatif dans le but de modeler le futur dans cette direction.
 - ### Artiste influencé..e par L'accélérationnisme:
 - Jake & Dinos Chapman : Artiste contemporain connu notamment pour les scandales qu’ils engendrent – membre de la Young British Artist ([[Damien Hirst]], Gary Hume, Tracer Emins...) avec d’autres artistes anglais..es.
 	- Portant un attrait pour le dégoût et l’horreur les frères Chapman ne croit pas au progrès ni au passé.
