@@ -5,17 +5,20 @@
 - *Imagine and Narative*
 	- Texte qui propose une synthèse de la relation Antoine Wirtz et la notion de spectacle
 - ## Le Narrateur
-- Parmi tous ces travails il à été conteur pour enfants où ils racontais des contes qu'il créait
-- Il met en garde face à la perte de l'oralité face à l'écrit qui est nécessaire chez le conteurs
-	- La guerre de 14-18 et le traumatisme des soldats a rendu impossible de transmettre par l'oral les récits de guerre
-		- Les H sont devenus étranger à eux-mêmes et aux autres
-		- Le développement technique de la 1GM a appauvri les H culturellement
-			- Face aux nouvelles capacités techniques il y a une vague d'anti-scientisme dans les années 1920
-	- L'avènement de la société industrielle joue aussi dans la perte des moments de récits
-- Il oppose le conte de fées et le roman
-- La chute de l'expérience
-	- L'idée que notre expérience à une valeur moindre par rapport au génération précédente
-		- Il écrit l'idée que nos sens se sont anesthésié par l'introduction de l'humain dans la ville
-			- Par adaptation au surstimula de la ville le corps c'est adapté et c'est anesthésier
-	- La perte du temps de l'ennui joue beaucoup, on n'as plus le temps de flâner de se laisser aller face au temps
-- *L'art de raconter est en voie de se perdre. Il est de plus en plus rare de rencontrer des personnes qui sachent narrer une histoire*
+	- Parmi tous ces travails il à été conteur pour enfants où ils racontais des contes qu'il créait
+	- Il met en garde face à la perte de l'oralité face à l'écrit qui est nécessaire chez le conteurs
+		- La guerre de 14-18 et le traumatisme des soldats a rendu impossible de transmettre par l'oral les récits de guerre
+			- Les H sont devenus étranger à eux-mêmes et aux autres
+			- Le développement technique de la 1GM a appauvri les H culturellement
+				- Face aux nouvelles capacités techniques il y a une vague d'anti-scientisme dans les années 1920
+		- L'avènement de la société industrielle joue aussi dans la perte des moments de récits
+	- Il oppose le conte de fées et le roman
+		- Le principe du conte de fées est d'apprendre la ruse et l'insolence
+			- Il déteste Walt Disney, il dit que tous les films de Disney ont pour enseignement la peur et la fuite. Disney détruit les contes de fées il s'y oppose directement pour Benjamin
+	- La chute de l'expérience
+		- L'idée que notre expérience à une valeur moindre par rapport au génération précédente
+			- Il écrit l'idée que nos sens se sont anesthésié par l'introduction de l'humain dans la ville
+				- Par adaptation au surstimula de la ville le corps c'est adapté et c'est anesthésier
+		- La perte du temps de l'ennui joue beaucoup, on n'as plus le temps de flâner de se laisser aller face au temps
+	- *L'art de raconter est en voie de se perdre. Il est de plus en plus rare de rencontrer des personnes qui sachent narrer une histoire*
+	- Question de la transmission aux générations futures

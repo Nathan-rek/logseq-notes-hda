@@ -3,11 +3,11 @@
 - Le Centre Pompidou Metz, invite à une libre déambulation à travers les multiples phénomènes de la répétition. Elle se compose en 13 sections comme  les phénomènes de la répétitions
 - ## Essayer :
 	- Jusqu’à la fin du 19ème siècle, la séparation est nette entre l’œuvre d’art et les essaies qui l’ont précédées. Le [[Modernisme]] met en valeur le caractère progressif du processus de création, conduisant les artistes à ne plus concentrer leurs efforts dans l’exécution d’un ultime chef-d’œuvre, mais plutôt à procéder par suite d’essais d’égales valeurs
-		- François MORELLET: [*1952 x n°4 Quand j’étais petit je ne faisais pas grand*](https://www.centrepompidou.fr/fr/ressources/oeuvre/c888p94) ![1952 x 4 n°4 Quand j'étais petit je ne faisais pas grand - Centre Pompidou](https://www.centrepompidou.fr/media/picture/ad/6f/ad6fb1de597fec6055d97cfff28e0302/thumb_large.jpg)
+		- François Morellet : [*1952 x n°4 Quand j’étais petit je ne faisais pas grand*](https://www.centrepompidou.fr/fr/ressources/oeuvre/c888p94) ![1952 x 4 n°4 Quand j'étais petit je ne faisais pas grand - Centre Pompidou](https://www.centrepompidou.fr/media/picture/ad/6f/ad6fb1de597fec6055d97cfff28e0302/thumb_large.jpg)
 			- Figure majeure française de l' [[Abstraction]] géométrique, Il fonde dans les années 1960 la [GRAV](https://fr.wikipedia.org/wiki/Groupe_de_recherche_d%27Art_visuel) ( Groupe  de Recherche d’Art Visuel )
 			- Œuvre en All-over peinte en plusieurs fois. Une peinture géométrique peinte puis reprise 55ans plus tard et agrandie pour que l’original se confonde avec la copie
 			- L’agrandissement d’une composition ancienne lui confère une plus-value mais le titre suggère que celle-ci est dérisoire
-		- Richard SERRA: [*Main attrapant du plomb*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cAXpry) ![Hand Catching Lead - Centre Pompidou](https://www.centrepompidou.fr/media/picture/3b/0c/3b0c68c51a37390105c439c112b7a834/thumb_large.jpg)
+		- Richard Serra: [*Main attrapant du plomb*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cAXpry) ![Hand Catching Lead - Centre Pompidou](https://www.centrepompidou.fr/media/picture/3b/0c/3b0c68c51a37390105c439c112b7a834/thumb_large.jpg)
 			-
 			- Premier film de l’artiste américain connu pour ses sculptures minimales en métal au tournant des années 1960-1970
 			- Ce film constitue une mise en abyme du dispositif cinématographique. La main de l’artiste essaie de capturer des feuilles de plomb qui tombent dans le champ de la caméra
