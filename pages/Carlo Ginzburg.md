@@ -22,6 +22,7 @@
 	- Le premier narrateur est chasseur, c'est l'homme des cavernes qui analyse les traces
 		- Le récit commence par l'absence d'abord et se construit sur une mise en ligne qui révèle le tout
 		- Cela passe par une exacerbation de la sensibilité au contact de la matière
+	- La divination est une lecture des signes qui raconte un récit du futur
 	- Comment faire un récit qui raconte une histoire
 		- Un modèle de savoir qui se basse sur la narration
 	- La notion de récit est fragile car il est oral et ne peut pas s'appuyer sur la matérialité des traces vouées à disparaitre
