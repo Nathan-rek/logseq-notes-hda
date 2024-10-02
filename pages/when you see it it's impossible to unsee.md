@@ -9,8 +9,8 @@
 	- Image decontextualiser, l'ahstag cannot be unseen
 	- Buzz Feed utilise aussi cette méthode de formulation pour jouer avec notre curiosité
 		- Méthode ClickBait
-- Les memeq reprennent ce principe
-	- L'aura de l'ouvre de [[Walter Benjamin]] devient obsolètes avec la diffusion des memes
+- Les meme reprennent ce principe
+	- L'aura de l'oeuvre de [[Walter Benjamin]] devient obsolètes avec la diffusion des memes
 - L'antimeme
 	- Ressemble à un meme
 	- Contient une anti-blague

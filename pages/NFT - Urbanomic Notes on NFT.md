@@ -1,5 +1,5 @@
-- Les NFT permette de redonner une valeur auratique au œuvre qui selon [[Walter Benjamin]] se voit en perte d'aura par la capacité a reproduire les œuvres
-	- La ou les institutions et particulièrement le marché étaient détenteurs de la qualification de cette aura c'est aujourd'hui la technologie blockchain
+- Les NFT permettent de redonner une valeur auratique au œuvre qui selon [[Walter Benjamin]] se voit en perte d'aura par la capacité a reproduire les œuvres
+	- La où les institutions et particulièrement le marché étaient détenteurs de la qualification de cette aura c'est aujourd'hui la technologie blockchain
 - La pratique numérique se voit ouvrir deux voies
 	- Le [[Simulacre]]
 		- Un voie que ouvre le Web 1.0 ou copie set duplicat foisonne sans contrôle.

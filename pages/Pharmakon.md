@@ -7,6 +7,6 @@
 	- Relation France et Arts: offre des tribunes à des auteur..ices ( Victor HUGO / Émile ZOLA )
 		- CHARIVARI accorde une place à l’illustration: prend des sujets du monde du l’art: apparition des critiques d’art
 	- La presses livre des portraits photo sur des artistes dans leurs ateliers
-- [[Walter Benjamin]] : traite de la perte de l’aura
+- [[Walter Benjamin]] : traite de la perte de l’aura de l'œuvre
 - [[Photographie]]
 - [[Phonographe]]
