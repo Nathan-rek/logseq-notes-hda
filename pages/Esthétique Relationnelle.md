@@ -31,7 +31,7 @@
 - ## Analyse du texte - Esthétique relationnelle
 - [[Nicolas Bourriaud]] déplore un manque d’analyse des pratiques contemporaines de son époque (Années 1990). Il prend comme point de départ des pratiques qui tournent autour des notions d’interactivité de convivialité et de relation.
 - Face au grand voie de la communication comment récréer du contact autrement que par ses voies.
-	- Les relations rentreraient dans le système de consommation mis en place par le capitalisme. Cette affections du monde relationnelle est pour Debord le dernier Stade de mutation vers la sociétés de spectacle. [[L’international situationniste]]
+	- Les relations rentreraient dans le système de consommation mis en place par le capitalisme. Cette affections du monde relationnelle est pour Debord le dernier Stade de mutation vers la société de spectacle. [[L’international situationniste]]
 - [[Nicolas Bourriaud]] approche les pratiques contemporaines comme une autre manière d’être au monde réel. Sans être dans l’ [[Utopie Moderne]] de crée avec des œuvres une autre réalité imaginaire mais de constituer des modes d’existence ou des modèles d’action au sein du réel existant.
 	- L’art comme générateur d’interstices sociales. Prenant en compte le rôle de l’urbanisation dans nos rapport au autres. Les artistes contemporain..es face à cela créent et repensent le rapport monde à travers notre rapport à la ville ou aux autre.
 		- Gabriel Orozco: [*Crazy Tourist*](https://www.mariangoodman.com/artists/56-gabriel-orozco/works/39141/), 1991 ![Gabriel Orozco, Crazy Tourist (Turista maluco), 1991 | Marian Goodman](https://artlogic-res.cloudinary.com/w_1680,h_1680,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/mariangoodman/images/view/48e05fa17f7c0a07bebcf778f94cdcf4j.jpg)
@@ -48,7 +48,7 @@
 - Il préconise l'esthétique relationnelle non pas comme une théorie de l'art mais une théorie de la forme.
 	- Forme: unité cohérente, une structure qui présente les caractéristiques d'un monde
 		- De cette forme nait la cohésion durable nécessaire  / La forme comme une rencontre durable
-	- Cette cohésion durable est une condition primordiale qui crée des possibilité de vie nouvelle
+	- Cette cohésion durable est une condition primordiale qui crée des possibilités de vie nouvelle
 		- Pour Deleuze et Guattari c'est l'art comme un bloc d'affects et de préceptes
 			- L'art fait tenir un moment de subjectivité liées à des expériences singulières
 	- La forme de l'œuvre contemporaine est au delà de sa forme matérielle elle est l'élément reliant
@@ -56,7 +56,7 @@
 	- La forme comme propriété relationnelle.
 		- L'individu quand il croit se regarder objectivement ne contemple en fin de compte rien d'autre que le résultat de perpétuelle transactions avec la subjectivité des autres.
 		- Pour certain..e la forme artistique échapperait à cette fatalité car elle est médiatisé par une œuvre.
-	- Oppose à la définition de Thierry de Duve pour qui l'art est la somme de jugement ( esthétique historique ) énoncée par l'artiste lors de sa réalisation
+	- Opposé à la définition de Thierry de Duve pour qui l'art est la somme de jugement ( esthétique historique ) énoncée par l'artiste lors de sa réalisation
 	- Or pour [[Nicolas Bourriaud]] c'est l'invention de relations de l'œuvre avec les sujets qui donne forme
 		- Il prend comme exemple la pensée d'Emanuelle Lévinas pour qui le visage c'est "ce qui m'ordonne de servir autrui" "ce qui nous interdit de tuer".
 			- Toute relations intersubjective passe par la forme du visage qui symbolise la responsabilité qui nous incombe par rapport à autrui
@@ -64,7 +64,7 @@
 - L'interactivité de plus en forte apparait aussi dans les arts avec des œuvres qui s'adonnent de plus en plus à des possibilités d'interactions
 	- Question le monde de l'art comme un milieu relationnelle suralimenté de d'inter-connexion. De ce réseaux dense certain..e voit une autonomie ou "c'est l'art qui fait l'art, pas les artistes"
 		- [[Nicolas Bourriaud]] s'oppose à ce cyber-déterminisme car pour lui le [[Monde de l'art]] est alimentés par des pratiques extérieurs, il qualifie donc le réseau de l'art comme poreux et il détermine l'évolution du [[Monde de l'art]] par le rapport de ce réseaux à avec l'ensemble des champs de productions.
-		- Il y ajoute une historicité de l'art relationnelle.
+		- Il y ajoute une historicité de [[Art Relationnel]] .
 			- Dans un premier temps l'art est une interface qui nous met en relation avec le divin ( Humanité - Divin)
 			- Puis l'art est une relation au monde physique ( Humanité et objets )
 			- Puis relation interhumaines ( humain..e à humain..e)
@@ -78,8 +78,7 @@
 		- Détermine arbitrairement qu'à une certaine heure de la journée, le premier objet se trouvant à sa porté serait transforme en [[Ready-made]]
 - Cette importance du rendez vous comme nouvelle objet esthétique à pousser certain..es artiste à travaillé..e la forme de la carte de visite où l'importance de l'annonce du vernissage ( carton d'invitation )
 - Une œuvre comme dispositif relationnel comporte un certain degré d'aléatoire
-	- Braco Dimitrijevic: [*The Casual Passerby I Met at 11.09 A.M. Paris
-	  (Le passant que j'ai rencontré par hasard à 11h09 à Paris)*] , 1971 ![The Casual Passerby I Met at 11.09 A.M. Paris (Le passant que j'ai  rencontré par hasard à 11h09 à Paris) - Centre Pompidou](https://www.centrepompidou.fr/media/picture/bd/d7/bdd7e0075fe6ff567701079ee62ec335/thumb_large.jpg)
+	- Braco Dimitrijevic: *The Casual Passerby I Met at 11.09 A.M. Paris (Le passant que j'ai rencontré par hasard à 11h09 à Paris)* , 1971 ![The Casual Passerby I Met at 11.09 A.M. Paris (Le passant que j'ai  rencontré par hasard à 11h09 à Paris) - Centre Pompidou](https://www.centrepompidou.fr/media/picture/bd/d7/bdd7e0075fe6ff567701079ee62ec335/thumb_large.jpg)
 		- Célèbre démesurément le visage d'un inconnu
 	- On Kawara: [*I met*](https://www.guggenheim.org/audio/track/on-kawara-i-met-1968-79), 1968-79 ![On Kawara: I Met, 1968–79 | The Guggenheim Museums and Foundation](https://www.guggenheim.org/wp-content/uploads/2015/02/art-on-kawara-notes-for-i-met.jpg)
 		- Lorsqu'il rencontrait de nouvelles personnes, il leur demandait soit d'écrire leur nom, soit de lui donner une carte de visite afin qu'il puisse lire le nom pour s'en souvenir. Finalement, il a commencé à enregistrer ces noms dans des listes et des agendas qu'il emportait avec lui lorsqu'il voyageait.
@@ -153,6 +152,6 @@
 			- Contrairement à la critique de Fried dans [[Art et Objectité]] la participation oculaire du..la regardeur..euses dans l'espace n'est pas qu'un présence arbitraire physique mais ses sa complète présence et participation qui est mis en jeux
 				- [[Felix Gonzalez-Torres]] [*"Untitled" (Arena)*](https://www.felixgonzalez-torresfoundation.org/works/untitled-arena), 1993 ![Felix Gonzalez-Torres | | Flash Art](https://flash---art.com/wp-content/uploads/2016/12/Felix-Gonzales-Torres3_FlashArt-720x725.jpg)
 				- Ce n'est pas que compléter l'œuvre par le regard c'est y entreprendre un rapport d'intersubjectivité entre les formes mises à disposition et la réponse émotionnelle sociale et comportementale
-	- Là où la [[Modernité]] à mis à mal le groupe sous le prétexte de l'aliénation collective il faut en ces temps contemporains faire un synthèse des modes d'être ensemble.
+	- Là où la [[Modernité]] à mis à mal le groupe sous le prétexte de l'aliénation collective il faut en ces temps contemporains faire une synthèse des modes d'être ensemble.
 	- L'art contemporain déplace l'aura de l'œuvre elle n'est plus dans son origine mais dans son effet.
 -

@@ -28,7 +28,8 @@
 - ### Art Social - [[Sculpture sociale]] 
   Si la participation du..la spectateur..ices peut donner lieu à des types très variés d’environnements, dans certains cas, ceux-ci peuvent prétendre à un idéal de synthèse entre propositions plastiques et existentielles en vue d’une formulation esthétique utopique et globale
 - Stano FILKO dès les années 1960 développe un amalgame original de stratégies [[Fluxus]] , d’adaptation pop et de critique du fonctionnalisme, s’inspire de l’architecture moderniste, de la perspective situationniste et d’une philosophie « existentielle » que les intellectuel..les slovaques inventèrent comme antidote au matérialisme du léninisme.
-	- Stano FILKO: [*Environnements universels*](https://old.sng.sk/sk/eshop/411-stano-filko-universal-environment) > symbolisent la nécessité d’une continuité entre une vision créatrice et les besoins fondamentaux de la vie quotidienne. En réponse à une interrogation de [[Fred Forest]] [^13], FILKO définira plus tard le but de l’ « art sociologique » – tendance générique à laquelle il reconnaît a posteriori appartenir – comme consistant à nous ramener à une réalité psycho-sensorielle falsifiée par les mass media pour nous faire vivre pleinement tel ou tel moment de la communication entre les personnes.
+	- Stano FILKO: [*Environnements universels*](https://old.sng.sk/sk/eshop/411-stano-filko-universal-environment)
+		- Symbolisent la nécessité d’une continuité entre une vision créatrice et les besoins fondamentaux de la vie quotidienne. En réponse à une interrogation de [[Fred Forest]] [^13], FILKO définira plus tard le but de l’ « art sociologique » – tendance générique à laquelle il reconnaît a posteriori appartenir – comme consistant à nous ramener à une réalité psycho-sensorielle falsifiée par les mass media pour nous faire vivre pleinement tel ou tel moment de la communication entre les personnes.
 		- Cet art inviterait à la perception et à l’expérience complexe de la réalité sortie du courant de son existence banale
 - Cette dimension utopique s’attachant à révolutionner le réel à l’échelle globale est une constante dans les projets d’artistes de cette époque
 	- L’un de ces projets les plus ambitieux et certainement l’un des plus célèbres fut celui mis en œuvre par [[Joseph Beuys]] dont le travail est un questionnement permanent sur les thèmes de l’humanisme, de l’écologie, de la sociologie, et de l’anthroposophie.
@@ -43,10 +44,7 @@
 	- Des artistes comme Alexis YANEZ ont participé à développer les arts de la situation en initiant des situations au sein desquelles le..a participant..e développeraient une impulsion créatrice
 - Le Jeu est un élément central au sein des esthétique participatives et donne à l’activité artistique un aspect élémentaire de que le jeu est constituer.
 	- Chez Hans-Georg GADAMER, le jeu est à la fois à la genèse de l’œuvre (la plus traditionnelle) et au principe de sa lecture. Selon le philosophe, une œuvre peut s’envisager comme un « moment de jeu ». Le jeu se suffit à lui-même, « ne remplit son but que lorsque le joueur s’oublie dans le jeu », comporte un sérieux qui lui est propre, et un espace particulier.
-	  
-	  *« la perception (…) d’une œuvre d’art exige un comportement particulier – artistique – qui possède une série de traits communs avec le comportement ludique »*
-	  
-	  *Youri Lotman*
+		- *« la perception (…) d’une œuvre d’art exige un comportement particulier – artistique – qui possède une série de traits communs avec le comportement ludique »* Youri Lotman
 - L’expérience peut se situer entre l’individu et son environnement c’est dans cette espace potentiel que l’expérience se situe.
 - L’art, et le jeu peuvent être aussi vu comme un lieu ou la tension de la réalité est neutre. Dans une tension à accepter la réalité du dedans et du dehors, les arts peuvent être comme d’autre chose une aire intermédiaire ou l’expérience n’est plus la même.
 	- Dans nos relation aux objets comme objets qui peuvent être le lieu de subjectivité et de création d’espace transitionnelle, l’adulte peut être ce qui envisage la fin de la subjectivité et donne pouvoir au rapport objectif au monde qui tende cette acceptation de la réalité.
