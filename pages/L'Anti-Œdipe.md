@@ -38,7 +38,3 @@
 		- Deleuze et Guattari voient chez Marcuse une vision trop linéaire de la libération du désir. Pour eux, la libération du désir ne consiste pas seulement à **retirer les contraintes** extérieures, mais à comprendre comment le désir est déjà pris dans des systèmes complexes de pouvoir et de production.
 			- D&G cherchent à montrer que le désir fonctionne toujours en relation avec des agencements sociaux et économiques, et que **le désir lui-même** est investi dans la perpétuation des systèmes de pouvoir, y compris le capitalisme.
 				- De plus, ils rejettent l'idée que le **complexe d'Œdipe** soit universel. Ils y voient plutôt un outil idéologique utilisé pour contrôler et normaliser les individus, en particulier dans la cellule familiale bourgeoise.
-- ## Le corps sans organe
-- Place une âme dans un corps sans organe et donc maladie, un corps immortel
-- L'organicité est la marque de notre mortalité
-	- Ce n'est pas un Transhumanisme du [[Post-Humanisme]] c'est un

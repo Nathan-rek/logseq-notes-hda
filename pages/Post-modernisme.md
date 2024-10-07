@@ -1,5 +1,5 @@
 - Le langage de la [[Post-Modernité]] se transforme dans un post-modernisme
-	- Le post-modernisme c'est l'expression culture de la [[Post-Modernité]]
+	- Le post-modernisme c'est l'expression culturel de la [[Post-Modernité]]
 - Les acteur..ices du monde de l'art changent face au bouleversement de la [[Post-Modernité]]
 	- Charles Jencks: *Le langage de l'architecture Post-moderne*
 		- Contrairement à l'architecture de la [[Modernité]] on ne pense plus le futur mais on se mêle au langage passéiste

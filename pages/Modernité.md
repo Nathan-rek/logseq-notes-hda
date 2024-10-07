@@ -25,12 +25,12 @@
 	- A travers les réseaux électrique, l’intensité de la machine devient analogue à l’intensité de l’homme
 	- L’intensité dépasse la norme car elle n’est pas mesurable.
 - # Multiplicités des modernités
-- Rompre avec l'idée d'un modernisme qui ne serait qu'occidental, qui serait née à Paris et ensuite copié par le reste du monde.
+- Rompre avec l'idée d'un [[Modernisme]] qui ne serait qu'occidental, qui serait née à Paris et ensuite copié par le reste du monde.
 	- On parle de l'école de paris, comme capital des arts ou converge plusieurs personnes de différentes origines
 		- [[Impressionisme]] nait par la mixité de Paris, au contact du Japonisme
 - ## Modernisme Global
 - Le monde contemporain se base sur l'impérialisme colonial du 19ème siècle.
-- Le modernisme se base sur un enchevêtrement colonial
+- Le [[Modernisme]] se base sur un enchevêtrement colonial
 - L'occident est un Mythe ?
 	- [Unpacking Europe](https://aaa.org.hk/en/collections/search/library/unpacking-europe-towards-a-critical-reading)
 		- Critique l'idée que l'occident serait un bloque homogène crée par une idéologie chrétienne

@@ -19,7 +19,7 @@
 					- L’autocritique consistait désormais à éliminer des effets spécifiques de chaque art
 						- Tout effet qui pourrait être emprunté à un autre art est éliminés
 						- Ainsi chaque art serait rendu «pur», la garantie de ses normes de qualité ainsi que de son indépendance.
-							- Pur signifie une auto-définition. Et l’autocritique dans les arts est devenue une entreprise d’auto-définiton. L’art réaliste et naturaliste a dissimulé le medium, utilisant l’art pour dissimuler l’art, le modernisme a utilisée l’art pour attirer l’attention sur l’art
+							- Pur signifie une auto-définition. Et l’autocritique dans les arts est devenue une entreprise d’auto-définiton. L’art réaliste et naturaliste a dissimulé le medium, utilisant l’art pour dissimuler l’art, le [[Modernisme]] a utilisée l’art pour attirer l’attention sur l’art
 - Les limitations qui constituent le medium de la peinture: la surface plane, la forme du support, les propriétés du pigment.
 	- Traitées par les Maîtres anciens comme des facteurs négatifs qui ne pouvait être reconnus qu’implicitement ou indirectement
 		- Sous le [[Modernisme]] ces limites en sont venue à être considéré comme des facteurs positifs et ont été ouvertement reconnue
