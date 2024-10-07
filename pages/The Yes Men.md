@@ -1,5 +1,4 @@
 - Figure de cynisme par rapport à cette figure non-conformiste
 - Artivisme, qui par la performance critique les aspect d'un monde néo-libérale
-- Parodie la sociéte néo-liberale par le pastiche
+- Parodie la société néo-libérale par le pastiche
 	- Se présente comme acteur du monde néolibérale dans l'ordre de la caricature
--

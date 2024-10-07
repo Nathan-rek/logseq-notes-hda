@@ -10,5 +10,5 @@
 	- ((65f9e2a5-cf92-4907-bf51-b1de14a55908))
 	  id:: 65d3770e-fc61-44fa-b307-388857629b7d
 - Se courant prend une forme de concrétisation avec l'exposition de 1977 au MET de la [[Pictures Generations]]
-- [[Christian Marclay]]
+-
 -

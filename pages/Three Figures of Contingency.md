@@ -7,10 +7,10 @@
 - Meillasoux le rappelle dans son livre [[Aprés la Finitude - Quentin Meillassoux]] mais l'étymologie de contingence est différentes du hasards ou de l'aléatoire qui eux se rapportent à tomber , l'éventualité de l'un des nombreux résultat possibles. La contingence vient de "arriver" c'est un événement qui vient de l'extérieur qui frappe.
 	- [[Aprés la Finitude - Quentin Meillassoux]] ((66d34cae-f1f1-4b84-b296-3804e410b377))
 - Le constat de la contingence serait la pilule la plus dure à avaler pour l'H
-	- Freud disait qu'il y avait 3 grosses blessures narcissiques pour l'H
+	- [[Freud]] disait qu'il y avait 3 grosses blessures narcissiques pour l'H
 		- Le systèmes Coperniciens et le fait que la terre n'est pas au centre
 		- L'évolution de Darwin, et le fait que l'humain est le produit d'une sélection naturelles
-		- La psychanalyse de Freud, et le fait que l'humain n'est pas le maitres de sa propre conscience et de son destin car dirigées pas des processus inconscient.
+		- La psychanalyse de [[Freud]] , et le fait que l'humain n'est pas le maitres de sa propre conscience et de son destin car dirigées pas des processus inconscient.
 	- Ces humiliations brise l'attitude humaine dans sa perspective naturelle qui fait de lui le sujet qu'il pense être, central fondateur et nécessaire. Elles soulignent que notre identité est façonnée par des forces qui ne dépendent pas uniquement de notre pensée consciente.
 - Pour Meillasoux penser la contingence serait la tache ultime pour se débarrasser des illusions optimistes de la [[Modernité]].
 	- Mais considérer cette réflexion comme une tâche positive signifie refuser de rester simplement piégé dans un état ([[Post-Modernité]]) de deuil pour des certitudes perdues.

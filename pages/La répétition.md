@@ -23,7 +23,7 @@
 			- L’idée de processus: ce qui se passe entre deux œuvres importe tout autant que le résultat final
 		- Des gestes qui peuvent être substitut du corps qui deviennent des objets de dégoût ou de tendresses
 			- Victor BRAUNER: [*Force de concentration de Monsieur K.*](https://www.lejournaldesarts.fr/expositions/victor-brauner-un-surrealiste-part-151491) ![Victor Brauner, un surréaliste à part](https://www.lejournaldesarts.fr/sites/lejournaldesarts/files/2020-10/victor-brauner-force-concentration-monsieur-k-1934-copyright-photo-centre-pompidou-mnam-cci-rmn-grand-palais.jpg)
-				- Considéré comme l’une des grandes figures du [[Surréalisme]] par André BRETON
+				- Considéré comme l’une des grandes figures du [[Surréalisme]] par André Breton
 					- Présente une figure mythique inspirée d’*Ubu Roi[^75]* en positif/négatif. Le Thème du double est récurant chez l’artiste.
 					- Il voit son tableaux comme d’un coté un fascisme montant et de l’autre une force visionnaire de la répulsion.
 			- Annette MESSAGER: [*Les Pensionnaires*](https://www.centrepompidou.fr/fr/ressources/oeuvre/MkkMEYK) ![Les Pensionnaires - Centre Pompidou](https://www.centrepompidou.fr/media/picture/62/9b/629b3075ff8a0d90e8ea8b5426376604/thumb_large.jpg)
@@ -34,7 +34,8 @@
 			- [*Untitled (Cotton, thread, mirror, and table)*](https://www.moma.org/collection/works/159602), 2007 ![Marie Cool, Fabio Balducci. Untitled (Cotton, thread, mirror, and table).  2007 | MoMA](https://www.moma.org/media/W1siZiIsIjI1MjExMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=f2ce51438fc26a81)
 				- L’artiste répète une série de geste répétitif redoublé d’un miroir devant laquelle elle est installés. Les gestes de travail se transforme en chorégraphie poétique
 	- La multiplication du module avec ou sans variations. La même opération de multiplication modulaire est effectuées par Cornelia PARKER dans sa séries des: [*Dessins de balle*](https://www.centrepompidou.fr/fr/ressources/oeuvre/c8EGKEk) ![Bullet drawing - Centre Pompidou](https://www.centrepompidou.fr/media/picture/10/b4/10b42b2f43bbc0bf17eae21040f3be2e/thumb_large.jpg)
-		- Comme un retournement de l’abstraction dont elle revêt les apparences, le matériau de départ est trouvé dans le monde extérieur, y comprise le plus violent > Les grilles flottent sont constituées de filament de balle de fusil
+		- Comme un retournement de l’abstraction dont elle revêt les apparences, le matériau de départ est trouvé dans le monde extérieur, y comprise le plus violent
+			- Les grilles flottent sont constituées de filament de balle de fusil
 - ## Diviser & Multiplier:
 	- Il n’y a guère de forme plus minimale que le carré. Un [[Minimalisme]] qui devient potentiellement dynamique avec la composition [[De Stijl - Néo-plasticisme]] Jean Gorin :[*compositions n°3*](https://www.museedegrenoble.fr/oeuvre/2293/1922-composition-n-3.htm) ![Composition n°3](https://images.navigart.fr/1000/4T/01/4T01111.jpg)
 	  id:: 6543a5de-45c0-4ce5-8ad5-bcf521e7ac81
@@ -48,7 +49,7 @@
 - ## Arpenter
 	- Claude VIALLAT: [*Répétition, 1968*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cxgR6p)![Répétition - Centre Pompidou](https://www.centrepompidou.fr/media/picture/fd/a2/fda2f771c25e9bef5f335208ab6194aa/thumb_large.jpg)
 		- Figure Titulaire du groupe Support-Surface qui affirment que la réalité physique du tableau et de l’expérience s’y joue tout en refusant l’idée de signification
-	- Noël DOLLA: [*Torchon et traces*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cAnBLa5), 1972 ![Torchon et traces - Centre Pompidou](https://www.centrepompidou.fr/media/picture/61/e6/61e61508259dae11f26009d2031820c7/thumb_large.jpg)
+	- Noël Dolla: [*Torchon et traces*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cAnBLa5), 1972 ![Torchon et traces - Centre Pompidou](https://www.centrepompidou.fr/media/picture/61/e6/61e61508259dae11f26009d2031820c7/thumb_large.jpg)
 		- Suite au décès de son grand-père en 1966 il décide de peindre tous les ans à cette même date. Il signe son acte de naissance artistique, puis dédie son travail à une réflexion sur la peinture qu’il réduit au geste minimum: le point de touche multiplié sur différentes surfaces
 - ## Compter
 	- Le monde occidentale se caractérise par la répétition d’opérations comptables dont se sont saisis les artistes conceptuels aussi bien en peinture en sculpture qu’en photographie.
@@ -58,21 +59,22 @@
 		- Roman OPALKA: [*1 à l'infini, détail 3666937-3669842*](https://www.centrepompidou.fr/es/ressources/oeuvre/cAep4d) ![Opalka 1965/1 à l'infini, détail 3666937-3669842 - Centre Pompidou](https://www.centrepompidou.fr/media/picture/d7/bb/d7bbd62f8c95feaf53884f71358f25ef/thumb_large.jpg)
 			- Conçoit en 1965 le projet de représenter l’écoulement du temps. Ainsi, sur la première toile dont le fond à été préparé en noir au moyen d’un pinceau n°0. Il déroule ensuite les nombres successifs en saturant la surface de toile et des toiles suivantes jusqu’à l’infini ou plutôt l’indéfini. Le fond de chaque toile s’éclaircit de 1% de blanc par rapport à la précédente, de sorte que les chiffres s’inscrivent en blanc sur blanc à la fin
 - ## Fixer
-	- Au milieu des années 1920, s’appuyant sur les découvertes de Sigmund FREUD, le surréalisme cherche à fixer les images produites par l’inconscient notamment les rêves. La photographie (artistes de la Nouvelle Objectivité[^76]) et le cinéma deviennent alors les mediums de nouvelle structure narratives, mettant en lumière les activités corporelles obsessionnel et le rapport pulsionnelle au monde qui nous entoure
+	- Au milieu des années 1920, s’appuyant sur les découvertes de Sigmund [[Freud]] , le [[Surréalisme]] cherche à fixer les images produites par l’inconscient notamment les rêves. La photographie (artistes de la Nouvelle Objectivité[^76]) et le cinéma deviennent alors les mediums de nouvelle structure narratives, mettant en lumière les activités corporelles obsessionnel et le rapport pulsionnelle au monde qui nous entoure
 		- Germaine DULAC: [*La Coquille et le Clergyman*](https://fr.wikipedia.org/wiki/La_Coquille_et_le_Clergyman) ![La Coquille et le Clergyman — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/La_coquille_et_le_clergyman_4.jpg/640px-La_coquille_et_le_clergyman_4.jpg)
-			- Le premier film [[Surréalisme]] d’après un scénario d’Antonin ARTAUD. Le cinéma devient ici un medium plastique et le montage un outil artistique pour assembler des images et générer des rythmes poétiques qui reflètent les tourments de l’inconscient
+			- Le premier film [[Surréalisme]] d’après un scénario d’Antonin Artaud. Le cinéma devient ici un medium plastique et le montage un outil artistique pour assembler des images et générer des rythmes poétiques qui reflètent les tourments de l’inconscient
 - ## Persévérer
 	- Simon HANTAÏ: [*Peinture (Écriture rose)*](https://www.centrepompidou.fr/fr/ressources/oeuvre/RnbPQmg) ![Peinture (Ecriture rose) - Centre Pompidou](https://www.centrepompidou.fr/media/picture/05/12/0512509528e158fdac1e79eaa6acbc9e/thumb_large.jpg)
 		- Figure majeur de l’abstraction, il passe par le surréalisme mais refuse de représenter iconographiquement les opérations de l’inconscient.
 			- Il choisit plutôt la méthode de l’automatisme physique qui donne naissance à des tableaux constitués d’une accumulation de gestes. Lorsqu’il rompt avec le surréalisme il systématise ce procédé dans des toiles frénétiquement couvertes de grandes traces.
 		- Ses œuvres de 1959 traduisent une volonté de dépersonnalisation, qui passe par une pratique laborieuse d’infimes taches répétitive, en particulier l’écriture.
-	- Il adopte le pliage comme méthode > Plie froisse et déforme des toiles non tendues avant de les peindre
+	- Il adopte le pliage comme méthode
+		- Plie froisse et déforme des toiles non tendues avant de les peindre
 - ## Accumuler
 	- Traumatisé..es après la seconde guerre mondial et fasciné..es par les prémices de la société de consommation, de nombreux..ses artistes ont définitivement renoncé à toute formes de représentation figurative pour faire de l’accumulation de gestes, de matières ou d’objets, un véritable processus artistique.
-		- Paul MCCARTHY: [*Heinz Ketchup Sauce*](https://www.centrepompidou.fr/fr/ressources/oeuvre/c4by5xq), 1974 ![Heinz Ketchup Sauce - Centre Pompidou](https://www.centrepompidou.fr/media/picture/7e/c5/7ec52f68fa40ebe838b5496bafd206b6/thumb_large.jpg)
-			- Une violence à la fois prosaïque et parodique, tandis que les Nouveaux Réalistes, en particulier Arman et Gérard DESCHAMPS, remplacent les gestes peints par les matériaux de la société de consommation.
+		- Paul McCarthy: [*Heinz Ketchup Sauce*](https://www.centrepompidou.fr/fr/ressources/oeuvre/c4by5xq), 1974 ![Heinz Ketchup Sauce - Centre Pompidou](https://www.centrepompidou.fr/media/picture/7e/c5/7ec52f68fa40ebe838b5496bafd206b6/thumb_large.jpg)
+			- Une violence à la fois prosaïque et parodique, tandis que les Nouveaux Réalistes, en particulier Arman et Gérard Deschamps, remplacent les gestes peints par les matériaux de la société de consommation.
 			- Détaille les mécanismes inconscients qui régissent la société américaine
-		- André LANSKOY: [*Multitudes*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cBz5Ga), 1949 ![Multitudes - Centre Pompidou](https://www.centrepompidou.fr/media/picture/0a/9b/0a9bf09ba8ef3e4ef56e0256e3dfb52e/thumb_large.jpg)
+		- André Lanskoy: [*Multitudes*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cBz5Ga), 1949 ![Multitudes - Centre Pompidou](https://www.centrepompidou.fr/media/picture/0a/9b/0a9bf09ba8ef3e4ef56e0256e3dfb52e/thumb_large.jpg)
 			- Accumule gestes et traces. Se range dans L’expressionnisme abstrait adoptant une postérité immense quoique paradoxale.
 - En 1969, Deleuze met en valeur l’existence de certaines œuvres de «séries d’événement à petites différence internes, réglées par un étrange objet» Cette observation peut s’appliquer aussi au sérigraphie d’[[Andy Warhol]]: [*Big Electric Chair*](https://fr.wahooart.com/@@/8XXNEQ-Andy-Warhol-Chaise-électrique) ![ Reproductions D'art Chaise électrique de Andy Warhol (Inspiré par) (1928-1987, United States) | WahooArt.com](https://fr.wahooart.com/Art.nsf/O/8XXNEQ/$File/Andy-Warhol-Electric-Chair-3-.JPG)
 - Le cas de [[Elaine Sturtevant]]: [*Triptych Marilyn,*](https://ropac.net/artists/83-sturtevant-estate/works/11281-sturtevant-estate-triptych-marilyn-2004/) 2004 ![](https://artlogic-res.cloudinary.com/w_2000,h_2000,c_limit,f_auto,fl_lossy,q_auto:good/ws-ropac/usr/images/artworks/main_image/items/32/32d8efa6a68d483b9e06e2524015b7ce/st_1113-300dpi.jpg)
@@ -80,7 +82,7 @@
 	- Qui reproduit des œuvres tout en essayent de les reproduire à la perfection de telle sorte qu’elles deviennent des «petites différences»
 - ## Réitérer
 	- L’espace humain est habité par les corps dont les positions , quoique similaire, ne sont jamais identique. Leur réitération dans une même danse crée des variations , plus ou moins perceptible, dont certain..e artistes ont fait leur sujets
-		- Barnett NEWMAN: [*Shining Forth (to George) (Surgit la lumière (Pour George))*](https://www.centrepompidou.fr/fr/ressources/oeuvre/czAAorg) ![Shining Forth (to George) (Surgit la lumière (Pour George)) - Centre  Pompidou](https://www.centrepompidou.fr/media/picture/8b/b7/8bb7e685226f20520178d8331e62f2d8/thumb_large.jpg)
+		- Barnett Newman: [*Shining Forth (to George) (Surgit la lumière (Pour George))*](https://www.centrepompidou.fr/fr/ressources/oeuvre/czAAorg) ![Shining Forth (to George) (Surgit la lumière (Pour George)) - Centre  Pompidou](https://www.centrepompidou.fr/media/picture/8b/b7/8bb7e685226f20520178d8331e62f2d8/thumb_large.jpg)
 		  id:: 6543a5de-313e-438a-9ea1-fdbbcce7354a
 			- À partir de 1949, l’artiste simplifie radicalement sa peinture : ne produit que des bandes monochromes rythmés par des bandes verticales, qu’il nomme «zip» pour renforcer leurs caractère dynamique. Ce dépouillement modulaire abstrait inspire d’autres artistes
 		- Djamel TATAH: [*Sans titre*](https://www.centrepompidou.fr/fr/ressources/oeuvre/c9bz7L), 1998 ![Sans titre - Centre Pompidou](https://www.centrepompidou.fr/media/picture/4a/aa/4aaaabca7ae66a744cb65d325085a0c6/thumb_large.jpg)
@@ -91,9 +93,9 @@
 			- Créent des typologies qui en mettant en valeur la similitude en même temps que la diversité, dans des territoires pourtant éloignés géographiquement
 - ## Recommencer
 	- Le flux des images disponible à tout instant a pu sembler condamner la peinture à n’être que la répétition d’images déjà existantes, sans possibilité d’invention. Certain..es ont trouvé le moyen de continuer en intégrant la répétition comme motif interne
-		- Marthe WÉRY: [*Peinture Venise 82*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cbqkpqR), 1982 ![Peinture Venise 82 - Centre Pompidou](https://www.centrepompidou.fr/media/picture/67/11/6711e2fc868990e61ab6cc42d9f7f051/thumb_large.jpg)
+		- Marthe Wery: [*Peinture Venise 82*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cbqkpqR), 1982 ![Peinture Venise 82 - Centre Pompidou](https://www.centrepompidou.fr/media/picture/67/11/6711e2fc868990e61ab6cc42d9f7f051/thumb_large.jpg)
 		  id:: 65480be3-66f3-4e24-a990-e1bc58df233a
 			- Multiples les panneaux en répétant les formats et en les recouvrant d’une couleur dont les variations tiennent à la densité différente de son application
-		- Camila Oliveira FAIRCLOUGH: [*Many Questions*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cAg74Kr) ![Many Questions - Centre Pompidou](https://www.centrepompidou.fr/media/picture/4b/1e/4b1e35039e488a948baa3c2b25fd3674/thumb_large.jpg)
+		- Camila Oliveira Fairclough: [*Many Questions*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cAg74Kr) ![Many Questions - Centre Pompidou](https://www.centrepompidou.fr/media/picture/4b/1e/4b1e35039e488a948baa3c2b25fd3674/thumb_large.jpg)
 			- Les peintures se composent d’élément divers empruntés au quotidien ou aux signes du langage. Pour autant elles ne doivent pas être lues, décryptées ou comprises. L’artiste invite à la poésie, aux questions qui restent en suspens au doute de la réflexion
 				- Laisser ouvertes les questions plutôt que de donner des réponses définitives.

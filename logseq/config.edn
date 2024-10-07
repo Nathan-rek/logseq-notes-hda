@@ -414,6 +414,6 @@
  :file/name-format :triple-lowbar
  :graph/settings {:journal? false
  :builtin-pages? false
- :excluded-pages? true
+ :excluded-pages? false
  :orphan-pages? false}
  :zotero/settings-v2 {"default" {:type-id "12626126", :zotero-data-directory "", :page-insert-prefix "", :attachments-block-text "[[Assets]]", :include-notes? true, :overwrite-mode? false, :include-attachments? false, :prefer-citekey? false}}}

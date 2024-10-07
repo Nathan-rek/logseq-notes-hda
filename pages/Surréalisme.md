@@ -3,7 +3,7 @@
 	- Libérer la pensé de tout contrôle de la raison de tout censure et de s’affranchir des préoccupations esthétiques ou morales
 	- Réintroduise le hasard, l’alogique [[Dada]] dans le processus créatif > Cadavre Exquis
 - ## L’inconscient
-- Au courant des théories de Freud, Breton cherche à réintroduire l’inconscient à travers l’art dans la réalité dans une surréalité,
+- Au courant des théories de [[Freud]] , Breton cherche à réintroduire l’inconscient à travers l’art dans la réalité dans une surréalité,
 	- L’art à un impact sur la réalité. Il se rattache notamment au parti communiste
 		- Breton une fois exclue reconsidère l’activité social et l’endoctrinement politique
 - Rechercher sur l’inconscient

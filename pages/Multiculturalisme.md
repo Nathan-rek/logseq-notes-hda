@@ -1,20 +1,43 @@
 - Coexistence d'une pluralité de cultures au sein d'un même espace géopolitique.
 	- Indicateur de la crise du projet de la [[Modernité]]
 		- Pose un défi de civilisation aux sociétés contemporaines et dépassant la spécificité de chaque contexte national
-- Exposition marquante sur l'arrivé des arts non européens dans l'art
-	- *Primitivism in Twentieth Century Art*, Musée d'Art Moderne de NY 1984
-		- La couverture met en avant la juxtaposition d'un visage de Picasso et un masque Africain, rapprochement purement formaliste en dehors des valeurs de leur contexte de production
-		- William Rubin va rassembler 200 objet d'art primitif et 150 oeuvre d'art contemporaines
+	- Le Multiculturalisme promet une planète unifiée par une culture universelle (village global)
+		- Cela peut entrainer une perte d'identité
+			- Tout le monde doit s'américaniser, mode d'alimentation, code vestimentaire
+		- Exacerbation des particularismes
+			- Les résistances face cette universalisation, développe une accroche forte à une particularité propre à leurs identités
+- Expositions marquantes sur l'arrivé des arts non européens dans l'art
+	- ## *Primitivism in Twentieth Century Art*, Musée d'Art Moderne de NY 1984
+	  id:: 66e7f1c5-7507-45b1-850c-81c9bdfd8ace
+		- William Rubin va rassembler 200 objets d'art "primitif" et 150 œuvres d'arts contemporains
 			- Ce n'est pas une étude de l'art primitif mais une volonté de rendre manifeste sont rapport à l'art moderne
 				- Le MoMa accorde très tôt une place à l'art occidental
 					- Met en avant des photos qui mettent en avant les pièces volumétriques plutôt que les objet eux-mêmes
-	- *Magiciens de la terre*, Centre Pompidou 1989
+		- La couverture met en avant la juxtaposition d'un visage peint par Picasso et un masque Africain, rapprochement purement formaliste en dehors des valeurs de leur contexte de production
+		- Cette Juxtaposition va poser problèmes car on juxtaposer des tableaux et des bout de décor
+			- Sur-importance du figuratif on considère œuvre d'art un élément qui aurait un potentiel significatif
+				- On mélange objet culture, décoration, œuvre...
+		- L'espace de monstration est orthogonaux, ont met en avant leur qualités sculpturales sans les contextualiser
+		- L'exposition est segmentés par thèmes
+			- I Concepts
+				- Système de pictogramme: une forme change de sens en fonction de l'ensemble dans lequel elle s'insère
+				- Des proportions autres que naturelles qui rompt avec les canon académiques
+			- II Histoire:
+				- Va de Paul Gauguin au [[Expressionnisme Abstrait Américain]]
+				- Témoigne des contacts entre les artistes et des civilisations non européennes
+			- III Affinités
+				- Assimilation postérieur qui se base sur les formes
+				- On juxtapose une carte de navigation polynésienne que l'on va orienter comme une œuvre abstraite minimales
+			- IV Explorations contemporaines
+				- Œuvres des années 70-80 qui prend sa source dans des considérations [[Primitivisme]]
+				- L'œuvre de [[Joseph Beuys]] est une exploration contemporaines qui utilise des matériaux [[Primitivisme]]
+		- Volonté de faire dialogique des objets selon des affinités de formes et d'esprit
+		- Croyance que l'objet peut se concevoir indépendamment de son contexte et ce sur la base même d'un point de vue esthétique
+		- Les artistes modernes commentent rarement leurs sources d'inspiration
+			- Max Ernst Bird Head, 1935 s'inspire d'un masque Tusyan du Burkina Faso
+			- ![Mask - Loniakan - Tusyan - Burkina Faso (No Reserve Price) - Catawiki](https://assets.catawiki.nl/assets/2024/7/18/9/1/9/91984baf-599b-4f79-b725-e168fc0a890f.jpg)
+			- Max Ernst: [*Bird Head*](https://hyperallergic.com/419433/max-ernst-museum-of-modern-art-birds/), 1935 ![Birding with Max Ernst](https://i0.wp.com/hyperallergic-newspack.s3.amazonaws.com/uploads/2017/12/max-ernst-bird-head-193435-720x1001.jpg?resize=720%2C1001&quality=95&ssl=1)
+	- ## *Magiciens de la terre*, Centre G. Pompidou 1989
 		- L’exposition voulait aussi montrer un art de la [[Post-Modernité]] et [[Post-Coloniale]] , en s’affranchissant du regard "blanc",
 		  masculin et occidental”. Cependant cette exposition fait débat, par le choix des œuvres exposées et le temps de parole laissé aux artistes
 			- Maureen Murphy dans *Des Magiciens de la terre, à la globalisation du monde de l’art : retour sur une exposition historique* met en garde face à la globalisation et donc la démocratisation de l'art contemporain et la possibilité d'être en adéquation avec les notions de consommation culturelle que le tourisme de masse amènent
-- Le Multiculturalisme promet une planète unifiée par une culture universelle (village global)
-	- Cela peut entrainer une perte d'identité
-		- Tout le monde doit s'américaniser, mode d'alimentation, code vestimentaire
-	- Exacerbation des particularismes
-		- Les résistances face cette universalisation, développe une accroche forte à une particularité propre à leurs identités
--

@@ -11,13 +11,15 @@
 	  id:: 663c97fd-ea76-4c1b-9e28-bbc82ab79b16
 	- Il souligne l’image comme objet plutôt comme de l’image comme représentation de quelque chose, que ce soit dans le monde physique ou dans le monde émotif de l’artiste
 - # Shape as Form: Frank Stella's Irregular Polygons, Michael Fried
-- Forme littérale: forme du cadre
-- Forme Dépeinte: forme présente dans le cadre
-- La forme littérale avec l'évolution du [[Modernisme]] prend de nouvelles responsabilités.
-	- La ou avant le cadre n'était qu'un simple objet
-- Frank Stella: [*Avicenna*](https://bpb-us-e1.wpmucdn.com/blogs.uoregon.edu/dist/6/10359/files/2015/01/avicenna-23cdwgx.jpg), 1960 https://blogs.uoregon.edu/kendallwagnerarh410/files/2015/01/avicenna-23cdwgx.jpg
-	- Stella donne à la forme littérale la capacité de dominer et d'informer la forme dépeinte
-	- Chaque bandes est généré par le framing de la formes dépeinte
-	- De même avec Kenneth Noland et ses peintures sur chevron
-		- Kenneth Noland: [*Chevron*](https://www.rogallery.com/artists/kenneth-noland/chevron/), 1965 https://cdn.shopify.com/s/files/1/0054/5072/7489/products/chevron-watercolor-or-kenneth-nolandproduct-type-1_2400x.jpg
-		  id:: 66fab936-c268-43ca-8229-ce36064cefc4
+	- Forme littérale: forme du cadre
+	- Forme Dépeinte: forme présente dans le cadre
+	- La forme littérale avec l'évolution du [[Modernisme]] prend de nouvelles responsabilités.
+		- La ou avant le cadre n'était qu'un simple objet
+	- Frank Stella: [*Avicenna*](https://bpb-us-e1.wpmucdn.com/blogs.uoregon.edu/dist/6/10359/files/2015/01/avicenna-23cdwgx.jpg), 1960 https://blogs.uoregon.edu/kendallwagnerarh410/files/2015/01/avicenna-23cdwgx.jpg
+		- Stella donne à la forme littérale la capacité de dominer et d'informer la forme dépeinte
+		- Chaque bandes est généré par le framing de la formes dépeinte
+		- De même avec Kenneth Noland et ses peintures sur chevron
+			- Kenneth Noland: [*Chevron*](https://www.rogallery.com/artists/kenneth-noland/chevron/), 1965 https://cdn.shopify.com/s/files/1/0054/5072/7489/products/chevron-watercolor-or-kenneth-nolandproduct-type-1_2400x.jpg
+			  id:: 66fab936-c268-43ca-8229-ce36064cefc4
+	- Les peinture spray de Jules Olitski il y a pour Fried un geste contre la forme dépeinte l'envie de n'emmètres aucune forme que de la couleur
+-

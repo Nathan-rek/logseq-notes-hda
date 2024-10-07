@@ -1,15 +1,8 @@
+- Premier Opus de Capitalisme et Schizophrénie issue de la collaboration entre le psychanalyse Felix Guattari et Gilles Deleuze
 - L'Anti-Œdipe est une critique de la psychanalyse Freudienne notamment la place des grilles de lecture de la familles. ([[L'interprétation des énoncés, Deleuze, Guattari, Parnet]] )
 	- Le travail de la psychologie va consister à explorer l'inconscient pour voir comment il se construit
-	- Freud va jeter les bases de la lecture de l'inconscient avec la *deuxième topique freudienne*
-		- ![La psychanalyse pour étudiants en psychologie ou curieux](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBVnaolbO79P5P-E7IFDJYyXiMYrNa5l_Bog&s)
-		-
-		- En haut le *conscient/préconscient* à disposition (mémoire souvenir).
-			- Slavoj Žižek analyse le film Psycho comme une représentation graphique de la deuxième topique freudienne
-			  id:: 66fc1770-d565-458a-a99f-4ca37d845cd8
-		- L'inconscient nourrit par les pulsions du *ça*
-			- *ça* : fond animal et sexuel qui cherche la survie et la reproduction
-		- Le moi se négocie entre le *ça* et le *préconscient* face aux normes sociétales et morales
-	- Bien que la psychanalyse a évolué ce schéma reste présent et ce n'est pas ce schéma que D&G reproche à Freud mais c'est la neutralisation psychanalytique de l'inconscient que Freud a fait en le découvrant et en collant sur lui une lecture familiariste et structuraliste.
+	- La psychanalyse a évolué selon la ((07ef3bb4-85c3-47a0-bec1-5cf0df8ced8f))
+		- Ce schéma reste présent et ce n'est pas ce schéma que D&G reproche à [[Freud]] mais c'est la neutralisation psychanalytique de l'inconscient que [[Freud]] a fait en le découvrant et en collant sur lui une lecture familiariste et structuraliste.
 		- Didier Eribon dit de ce livre que c'est "*une critique de la normativité psychanalytique*"
 		- Pour D&G c'est un problème car nos désirs sont ce qui nous pousse à agir dans la société.
 		- En collant sur l'inconscient une lecture familiariste on empêche la puissance révolutionnaire de l'inconscient car on le structuralise et donc on ne peut le modifier, tout comme la société se présente comme un ensemble structurelle
@@ -20,14 +13,32 @@
 			- La **schizophrénie** est une métaphore et un modèle positif dans sa capacité à **déterritorialiser** les structures fixes. La schizo-analyse valorise cette capacité à briser les cadres imposés
 	- Une conception Schizo-analytique réouvre le champ d'interprétation de l'inconscient
 		- Nos désirs ne serait donc pas que structuré par le manque
-			- Ce manque est pour Freud le manque de la relation Œdipienne originelle
+			- Ce manque est pour [[Freud]] le manque de la relation Œdipienne originelle
 		- Pour D&G le désir comme production, le désir n'est plus une malédiction originelle
 			- C'est une production joyeuse et révolutionnaire
 			- Il parle de désir productif le désir n'est pas refoulé car l'individu est une machine désirante ouverte à des flux et des forces qui s'inscrivent dans un large réseaux sociaux
 	- Le désir n'est pas un désir d'objet mais un désir complexe
 		- Un désir complexe est un désir d'agencement: On en veut pas l'objet cigarette mais on souhaite un agencement complexe dont la cigarette fait partie
 			- Ce que les publicitaires ont bien compris, ils vendent un agencement de désir
-- La critique de D&G reproche à Freud de s'arrêter au *refoulés* et de ne pas mettre en perspectives les enjeux de société avec les désir refoulés.
+- La critique de D&G reproche à [[Freud]] de s'arrêter au *refoulés* et de ne pas mettre en perspectives les enjeux de société avec les désir refoulés.
 	- Aller à la source même du ça et de sa production**
 - La schizo-analyse est aussi une critique du **capitalisme**, qu’ils perçoivent comme un système qui exploite les forces désirantes et les reterritorialise dans un cadre de production et de consommation. Le capitalisme, tout comme la psychanalyse, capture et canalise les désirs pour les intégrer dans ses circuits économiques et sociaux.
 - **Désir et capitalisme** : Le capitalisme, pour Deleuze et Guattari, libère certains flux de désir (comme dans la consommation ou l'innovation) tout en les contrôlant et en les exploitant à son avantage. Le capitalisme opère ainsi une sorte de schizophrénie contrôlée, où il encourage l'individualisme et l'innovation tout en maintenant des formes de domination.
+- ## Eros et civilisation, Herbert Marcuse
+	- Dans "Eros et civilisation"*, Marcuse s'appuie sur les concepts de [[Freud]] pour expliquer que la civilisation impose une répression du désir (ou "Éros") pour maintenir l'ordre social et productif.
+		- Marcuse croit que dans une société industrielle avancée, le désir individuel est contrôlé pour servir le capitalisme, et la libération du désir pourrait conduire à une société non répressive.
+			- Il imagine une société où l'énergie libidinale n'est plus refoulée pour servir la production et le travail, mais est libre d'être investie dans la créativité, la jouissance et des formes de vie non productives.
+				- Cela mènerait à une forme de **"réconciliation"** entre le principe de plaisir et le principe de réalité, où les besoins humains seraient comblés sans cette répression aliénante.
+	- ### Différence principale : nature du désir
+		- Là où Marcuse conçoit le désir comme étant réprimé par la société capitaliste et croit en une possible **libération du désir** dans un avenir post-répressif, Deleuze et Guattari estiment que le désir est déjà **connecté** à la production sociale, même sous le capitalisme.
+			- Selon eux, il n'y a pas une simple opposition entre désir et répression. Le désir est aussi un moteur de la production capitaliste, ce qu'ils appellent la **production désirante**.
+		- Ils suggère que le désir n'est pas quelque chose qui serait refoulé par la société pour être libéré plus tard.
+			- Il est plutôt modelé et canalisé dans certaines directions par les structures sociales, économiques et politiques (y compris le capitalisme).
+	- ### La critique du freudo-marxisme
+		- Deleuze et Guattari voient chez Marcuse une vision trop linéaire de la libération du désir. Pour eux, la libération du désir ne consiste pas seulement à **retirer les contraintes** extérieures, mais à comprendre comment le désir est déjà pris dans des systèmes complexes de pouvoir et de production.
+			- D&G cherchent à montrer que le désir fonctionne toujours en relation avec des agencements sociaux et économiques, et que **le désir lui-même** est investi dans la perpétuation des systèmes de pouvoir, y compris le capitalisme.
+				- De plus, ils rejettent l'idée que le **complexe d'Œdipe** soit universel. Ils y voient plutôt un outil idéologique utilisé pour contrôler et normaliser les individus, en particulier dans la cellule familiale bourgeoise.
+- ## Le corps sans organe
+- Place une âme dans un corps sans organe et donc maladie, un corps immortel
+- L'organicité est la marque de notre mortalité
+	- Ce n'est pas un Transhumanisme du [[Post-Humanisme]] c'est un
