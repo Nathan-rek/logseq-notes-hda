@@ -2,6 +2,7 @@
 	- La vie n'est pas dans la pensée
 - La psychanalyse pour Sontag à un pouvoir démesuré, qui est dangereux par rapport à la personne qui offre le l'analyse.
 	- Mettre nos sentiments à distance genre une aliénation de notre propre vies
+- Sontag poursuit le projet nietzschéen dans [[Nietzsche, La Naissance de la tragédie]] sur l'art en cherchant une carnation de l'art par la vie et non pas par le concept
 - ## Contre l'interprétation
 	- Herméneutique: qui a un attrait pour l'interprétation
 	- Les premières conceptions théoriques sont des conceptions herméneutiques de l'art. Elles interprètent l'art comme imitation du réel, et donc un besoin de justification
