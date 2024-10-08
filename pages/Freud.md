@@ -10,3 +10,12 @@
 			- *ça* : fond animal et sexuel qui cherche la survie et la reproduction
 		- Le moi se négocie entre le *ça* et le *préconscient* face aux normes sociétales et morales
 			- Slavoj Žižek analyse le film Psycho et l'architecture de la maison ou se déroule le crime comme une représentation graphique de la deuxième topique freudienne
+- Le désir est la force fondamentale pour Freud, il emploi sous le terme de libido
+	- Il le lie autant à la sexualité car il étudie sur les enfant de 0 à 5 ans et suite à cette observation
+		- La sexualité des enfant est très diffèrent des adultes et elle ne peut pas être juxtaposé
+		- La découverte du monde à travers le corps
+			- Stade oral: les enfants qui lèches tous
+			- Stade anal: Intérêt particulier dans la défection
+			- Stade phallique(présent aussi chez les filles par le clitorice): sentiment de toutes puissance vis à vis de leur organes, masturbation récurrente chez les enfants
+	- Donc pour Freud la découverte du monde passe par le corps, ces stades reste des lieux privilégié de la sexualité
+- Freud met en avant la régénération du patriarcat dans chaque génération

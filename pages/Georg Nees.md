@@ -1,6 +1,6 @@
 - Comme Michael NOLL Georg, cherche à donner aux œuvres d’art informatique une profondeur certaine.
 	- Georg NEES: [*Max Bense Museum*](http://dada.compart-bremen.de/item/artwork/1268) ![](http://dada.compart-bremen.de/imageUploads/medium/bense_nees.jpg)
-		- Illustration d’une sorte de pièce de musée ou sa représentation par ordinateur lui permettrait de se dépasser et de reconsidérer une nouvelle matérialité
+		- Illustration d’une sorte de pièce de musée où sa représentation par ordinateur lui permettrait de se dépasser et de reconsidérer une nouvelle matérialité
 	- Il y questionne la capacité des ordinateurs à recréer nos relations avec la matière notamment à travers la représentation de celle ci.
 		- Un des éléments qu’il a utilisé pour crée ses modes de représentation c’est le jeux de la perspective chaotique. Comme étant un mode de représentation métrique la perspectives est vite devenu un terrain d’approche pour les arts informatique notamment ceux..celles qui utilisent les techniques de 3D
 			- Georg NEES: [*Flur*](http://dada.compart-bremen.de/item/artwork/378), 1969 ![](http://dada.compart-bremen.de/imageUploads/medium/02aNeesFlur69_2kx2k.jpg)

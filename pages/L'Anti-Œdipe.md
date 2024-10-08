@@ -1,4 +1,4 @@
-- Premier Opus de Capitalisme et Schizophrénie issue de la collaboration entre le psychanalyse Felix Guattari et Gilles Deleuze
+- Premier Opus de *Capitalisme et Schizophrénie* issue de la collaboration entre le psychanalyse Felix Guattari et Gilles Deleuze
 - L'Anti-Œdipe est une critique de la psychanalyse Freudienne notamment la place des grilles de lecture de la familles. ([[L'interprétation des énoncés, Deleuze, Guattari, Parnet]] )
 	- Le travail de la psychologie va consister à explorer l'inconscient pour voir comment il se construit
 	- La psychanalyse a évolué selon la ((07ef3bb4-85c3-47a0-bec1-5cf0df8ced8f))
@@ -7,8 +7,7 @@
 		- Pour D&G c'est un problème car nos désirs sont ce qui nous pousse à agir dans la société.
 		- En collant sur l'inconscient une lecture familiariste on empêche la puissance révolutionnaire de l'inconscient car on le structuralise et donc on ne peut le modifier, tout comme la société se présente comme un ensemble structurelle
 	- Pour D&G l'inconscient est bien plus baroque et c'est pour cela qu'il crée la schizo-analyse
-		- Schizophrénie comme trouble mental qui se traduit par une distorsion de la réalité, hallucinations et problème de rapport à l'autre et sa propre identité
-		- La schizo-analyse présente un inconscient qui est structuré comme le délire du schizophrène, le psychisme serait une usine a crée du désire ( qui ne serait pas qu'œdipien ).
+		- La schizo-analyse présente un inconscient qui est structuré comme le délire du schizophrène, le psychisme serait une usine à crée du désire ( qui ne serait pas qu'œdipien ).
 			- Schizo car non unifié ( contrairement à l'Œdipe familiale )
 			- La **schizophrénie** est une métaphore et un modèle positif dans sa capacité à **déterritorialiser** les structures fixes. La schizo-analyse valorise cette capacité à briser les cadres imposés
 	- Une conception Schizo-analytique réouvre le champ d'interprétation de l'inconscient
@@ -21,7 +20,7 @@
 		- Un désir complexe est un désir d'agencement: On en veut pas l'objet cigarette mais on souhaite un agencement complexe dont la cigarette fait partie
 			- Ce que les publicitaires ont bien compris, ils vendent un agencement de désir
 - La critique de D&G reproche à [[Freud]] de s'arrêter au *refoulés* et de ne pas mettre en perspectives les enjeux de société avec les désir refoulés.
-	- Aller à la source même du ça et de sa production**
+	- Aller à la source même du ça et de sa production
 - La schizo-analyse est aussi une critique du **capitalisme**, qu’ils perçoivent comme un système qui exploite les forces désirantes et les reterritorialise dans un cadre de production et de consommation. Le capitalisme, tout comme la psychanalyse, capture et canalise les désirs pour les intégrer dans ses circuits économiques et sociaux.
 - **Désir et capitalisme** : Le capitalisme, pour Deleuze et Guattari, libère certains flux de désir (comme dans la consommation ou l'innovation) tout en les contrôlant et en les exploitant à son avantage. Le capitalisme opère ainsi une sorte de schizophrénie contrôlée, où il encourage l'individualisme et l'innovation tout en maintenant des formes de domination.
 - ## Eros et civilisation, Herbert Marcuse

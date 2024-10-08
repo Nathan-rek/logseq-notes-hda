@@ -1,5 +1,5 @@
 - Artiste américain symptomatique de l'esprit de la [[Post-Modernité]]
-- Lui aussi hérité du [[Pop-Art]] il puisse dans l'histoire de l'art des formes pour les réactualiser
+- Héritier du [[Pop-Art]] il puisse dans l'histoire de l'art des formes pour les réactualiser
 	- Jeff Koons: [*Ballon Venus*](https://jeffkoons.com/artwork/antiquity/balloon-venus) ![Balloon Venus by Jeff Koons, a unique creation Dom Pérignon](https://www.themilliardaire.com/en//wp-content/uploads/2013/10/koons-venus.jpg)
 	  id:: 661023c7-0346-433f-94d1-cfaefca79fe4
 	- Déplace des formes antiques avec des matériaux actuels

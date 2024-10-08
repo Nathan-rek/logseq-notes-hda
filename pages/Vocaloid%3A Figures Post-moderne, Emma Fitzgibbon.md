@@ -1,12 +1,12 @@
 - Logiciel de composition musical développé par Yamaha
 	- Les voix ont une adaptation fictionnelle sous forme de personnages entièrement modulables
-- Le vocaloid prend un aspect futuriste car remet en question ce que est humain et marque la fusion entre humain..e et machines
+- Le vocaloid prend un aspect futuriste car remet en question ce qui est humain et marque la fusion entre humain..e et machines
 	- Produit des effets qui dépassent les capacités de l'humain..e
 		- Recherche d'une intensité post-humaine
 		- La technologie va vers une hyper-carnation futuriste
 			- Le Breakbeat pousse le corps vers une incarnation post humaine
 - La production vocaloid devient un symbole trans-humaniste, mais son aspect modulable peut poser des problèmes éthiques et morales
-	- [[No Ghost Just a Shell]] Ann lee se présente comme entités modulable, glissement immatériel de la pensé humaine dans l'incarnation digitale
+	- Dans le projet de [[No Ghost Just a Shell]] Ann lee se présente comme entités modulable, glissement immatériel de la pensé humaine dans l'incarnation digitale
 	- Ses projets rejouent les enjeux de domination sexiste et raciale
 		- Position d'extrêmes soumission des personnages face aux hommes derrière la production
 			- Les productions véhicules la domination masculine sur l'image de la femme asiatique

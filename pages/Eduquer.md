@@ -1,5 +1,0 @@
-- [[ERG]]
-- [[Black Mountain College]]
-- [[Calarts]]
-- [[Académie - Beaux-Arts]]
--
