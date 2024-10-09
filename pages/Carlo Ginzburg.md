@@ -26,3 +26,4 @@
 	- Comment faire un récit qui raconte une histoire
 		- Un modèle de savoir qui se basse sur la narration
 	- La notion de récit est fragile car il est oral et ne peut pas s'appuyer sur la matérialité des traces vouées à disparaitre
+-

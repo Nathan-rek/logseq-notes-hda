@@ -1,4 +1,4 @@
-- Philosophe Allemand, juif qui fuit l'Allemagne en 1933 et qui sous occupation tente de fuir au USA par l'Espagne, convaincu d'être suivi par la Gestapo il se suicide
+- Philosophe Allemand, juif qui fuit l'Allemagne en 1933 pour la France et qui sous occupation tente de fuir au USA par l'Espagne, convaincu d'être suivi par la Gestapo il se suicide
 - N'as jamais eu de poste à l'université ce qui l'as poussé à écrire dans des journaux, il écrit donc beaucoup de texte court
 - Ecrie beaucoup par dialectique négative, il ne dépasse jamais les contradictions il ne cherche pas la synthèse
 - Ce qui intéresse Benjamin c'est la perte, la perte de l'aura, la perte du narrateur

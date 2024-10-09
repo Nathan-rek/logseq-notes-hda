@@ -1,8 +1,34 @@
-- Philosphe et physicienne qui s'intéresse au [[Sujet-Objet]]
+- Philosphe et physicienne née en 1956, elle a fait une thèse en physique, elle noue la physique quantique et la philosophie queer
 - Basé sur le principe de la physique quantique de Bohr
 	- Bohr à changer l'incertitude en l'interdetermination
 - Réalisme Agentielle
-	- L'unite de base de la réalite au niveua des propriétes empriquement verifiables de la metiere esrt le phenomene entre les partie
-	- Les choses n'existent pas seul elles sont en interdépendance et donc la matière au niveau atomique et enchevêtrer.
+	- L'unité de base de la réalité au niveau des propriétés empiriquement vérifiables de la matière est le phénomène entre les partie
+	- Les choses n'existent pas seul elles sont en interdépendance et donc la matière au niveau atomique est enchevêtrer.
 		- Sortir d'une vision individualiste et séparatrice de la matière
 	- L'existence entre un phénomène est inséparable d'un autres phénomènes
+- # Transmatérialité
+	- Nouvelle théorie du toucher et par la de la matière en physique quantique
+		- L'intra-action: néologisme qui refuse toute forme d'ontologie, premier sur l'entité
+			- Elle refuse qu'il y est un noyau qui interagit avec un autre, l'intra action est premier sur l'entité, l'élément n'existe pas sans l'interaction avec le monde
+			- Il n'y a pas de substance individualiste
+	- La matière est une construction abstraite, il n'existe pas de chose isolée il n'existe que les agencements dynamiques
+	- L'espace et le temps ne sont pas préfiguré il se reconditionne par l'intra-action
+	- Le social est un enchevêtrement tout comme la Nature
+		- Les sciences naturels auraient tendance à dire ce qui est nature ou non
+			- Dans le cadre de sa thèse accepter son agencement et donc sa transidentité c'est accepter ce qui serait d'un naturelle
+	- Le toucher chez les physiscien..nes n'est qu'une interaction électromagnétique
+		- Le toucher est impossible, le toucher est enfaite une répulsions électromagnétique
+	- Cette théorie du toucher pour Barad est réactionnaires, qui serait gangrené pas un dogme religieux qui rend le désir (contact amoureux) impossible
+		- Un préjuges normaux hétéronormés
+	- Elle base sa théorie sur l'étude des éclairs
+		- On c'est rendu compte que les éclairs ne vient pas que du ciel, le sol projetait aussi de l'électricité
+		- Schema de l'eclaire qui ne serait pas hétéronormé
+			- La terre est active dans la création de l'éclair
+	- La trans-matérialité car tout se redéfinit en permanence par l'interaction quantique
+		- Tout comme l'éclair qui est précaire qui parvient par l'interaction d'éléments chargés
+		- Ne pas nous aligner avec une essence mais de nous reconnaitre nous-mêmes mobilisation de la "nature" n'a de cesse de défaire le naturel
+			- Rupture avec la construction [[Nature - Culture]]
+	- Inspiré par Susan Stryker
+		- Elle a réécrit Frankenstein dans une perspective trans-identitaire
+		- Elle travail à partir de la science biologique là où Barad par à partir de la physique
+	-

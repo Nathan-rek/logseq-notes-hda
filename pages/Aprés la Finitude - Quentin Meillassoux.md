@@ -30,7 +30,7 @@
 	- **Archi-fossile**: matériaux indiquant l'existence d'une réalité ancestrales
 		- Matériel à l'origine des expérimentations donnant lieux à l'estimation de phénomènes ancestrales
 	- Quelle interprétation le [[Corrélationisme]] donnerait face aux énoncés ancestraux ?
-		- Le [[Corrélationisme]] ne peut entrevoir les matières Archi fossile car elle ne réponde pas au corrélat.
+		- Le [[Corrélationisme]] ne peut entrevoir les matières Archi fossile car elle ne réponde pas au corrélat créationniste.
 			- On décrit des événements qui ne nous était pas sensible.
 				- Cette absence de témoin pose aussi soucis au lointain sachant que la lumière qui nous parviens est issu de temps antérieur
 	- On se voit jamais un cube en entier
