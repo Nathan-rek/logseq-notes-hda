@@ -74,8 +74,6 @@
 	- Dans [*95-Tongue Audit*](https://www.hannelinerogeberg.com/all?pgid=krs937oo-517bea26-67c2-490d-b7d0-86ad167b1e3d), 1995, et [*Mortier et pilon*](https://www.brooklynmuseum.org/calendar/event/old-8669), 1999 on y voit des poses potentiellement synesthésiques
 		- Ces images inversent, de la même manière que la synesthésie inverse, la relation entre l'émotion et la raison dans le fonctionnement de la perception
 		- Comme la synesthésie, les images élèvent la base expérientielle de la connaissance. Nous passons d'un monde de déficits négatifs à un monde d'erreurs positives.
-- #### <a name="__refheading___toc31253_904435087 copie 1"></a>Le Cinéma et le cerveau
-- ##### <a name="__refheading___toc31257_904435087 copie 1 copie 2"></a>Films non visuels:
 - Tony CONRAD: [*The Flicker*](https://www.youtube.com/watch?v=k_7QHnmRNXI), 1965
 	- Un film composé entièrement de photogramme noir et blanc qui alternent selon différent arrangement ou fréquence > cela produit un effet stroboscopique > Cela peut provoquer une crise d’épilepsie chez une personne sur 15 000.
 		- En impliquant la rétine plutôt que la vue > Stimulant l’impression physiologique plutôt que psychologiste le film déplace les centre de réception du sensoriel vers le neuronale

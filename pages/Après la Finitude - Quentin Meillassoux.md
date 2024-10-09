@@ -40,3 +40,4 @@
 	- La science elle conçoit ces espaces temps antérieur à la conscience et la donation elle même.
 - *« La contingence […] est quelque chose qui finit par se produire—quelque chose d'autre, quelque chose qui, dans son irréductibilité à toutes les possibilités pré-enregistrées, met un terme à la vanité d'un jeu où tout, même l'improbable, est prévisible. »*
   id:: 66d34cae-f1f1-4b84-b296-3804e410b377
+-

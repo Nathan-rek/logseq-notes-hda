@@ -1,5 +1,6 @@
-### I Hate Visual Culture
-Dans l’essor des Visual studies différent théoricien..nes sont amené..es à traiter de façon épistémologique l’étude visuelle ou des cultures visuelles.
+- Mélange des champs disciplinaires autour d'un objet d'une thématique
+- ### I Hate Visual Culture
+  Dans l’essor des Visual studies différent théoricien..nes sont amené..es à traiter de façon épistémologique l’étude visuelle ou des cultures visuelles.
 - La théoricienne Rosalind E. Krauss déclare « I hate visual Culture »
 	- Le fait que les projets des Visual Studies cherche à se débarrasser des autres disciplines
 	- Critique de cette tendance de mode à brouiller les frontières du champ disciplinaires selon un certain progressisme sociales

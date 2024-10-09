@@ -6,6 +6,8 @@
 	- Les choses n'existent pas seul elles sont en interdépendance et donc la matière au niveau atomique est enchevêtrer.
 		- Sortir d'une vision individualiste et séparatrice de la matière
 	- L'existence entre un phénomène est inséparable d'un autres phénomènes
+- Travail formel sur la langue pour rendre compte de sa théorie
+	- La langue qui pour elle cherche à diviser or pour Barad elle essaie de rendre compte de l'enchevêtrement
 - # Transmatérialité
 	- Nouvelle théorie du toucher et par la de la matière en physique quantique
 		- L'intra-action: néologisme qui refuse toute forme d'ontologie, premier sur l'entité
