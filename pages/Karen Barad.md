@@ -32,5 +32,5 @@
 			- Rupture avec la construction [[Nature - Culture]]
 	- Inspiré par Susan Stryker
 		- Elle a réécrit Frankenstein dans une perspective trans-identitaire
-		- Elle travail à partir de la science biologique là où Barad par à partir de la physique
+		- Elle travail à partir de la science biologique là où Barad part à partir de la physique
 	-

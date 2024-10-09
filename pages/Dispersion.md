@@ -12,7 +12,7 @@
 			- lors d’une foire d’inventeur amateurs est exemplaire.
 			- L’image de l’artiste comme inventeur..ices amateur..ices est valoriser par [[Seth Price]]
 	- Pour [[Seth Price]]les artistes des 100 derniers années souffre du traumatisme contextuelle des nouvelles œuvres d’art.
-- Dan Graham, évoque le fait que dans l’ère contemporaine l’œuvre d’art à nécessité d’être exposé et d’être photographié puis diffuser dans un magazine d’art pour être art.
+- Dan Graham, évoque le fait que dans l’ère contemporaine l’œuvre d’art à nécessité d’être exposé et d’être photographié puis diffusé dans un magazine d’art pour être art.
 	- Comment sortir de ce système structuré
 		- L’expérience Rotor Relief de [[Marcel Duchamp]] met en garde les possibles échappatoires de ce système.
 		- Les œuvres survivent grâce à travers la documentation et le discours, orchestré par les institutions habituelles (magazine, galeries…).
@@ -26,9 +26,9 @@
 - Dan GRAHAM: *Figuratif*
 	- L’œuvre exprime et figure l’ensemble des coûts nécessaire pour faire une pub dans un magazine.
 		- Les mécanismes de marché de circulation, de distribution et de diffusion devient une parti crucial du travail.
-- Pour [[Seth Price]] l’utilisation des médias de masse comme moyen de communication générique est une utilisation qui dans les avant-gardes est ambigu. Le magazine [*ToiletPaper*](https://www.toiletpapermagazine.org/) de Maurizio Cattelan fest un exemple de ces relations ambiguës.
+- Pour [[Seth Price]] l’utilisation des médias de masse comme moyen de communication générique est une utilisation qui dans les avant-gardes est ambigu. Le magazine [*ToiletPaper*](https://www.toiletpapermagazine.org/) de Maurizio Cattelan est un exemple de ces relations ambiguës.
 	- Cattelan utilise le magazine considéré comme artefact du marché de consommation pour y présenter un geste artistique qui s’en sépare
-- Dans le cas de l’art publique l’auteur y voit une expérience collective qui repose sur des expériences privées simultanées. Des expériences réparties dans le champ de la culture médiatique, liées entre elle par un débat, une publicité, une promotion.
+- Dans le cas de l’art publique l’auteur y voit une expérience collective qui repose sur des expériences privées simultanées. Des expériences réparties dans le champ de la culture médiatique, liées entre elles par un débat, une publicité, une promotion.
 	- Il y compare un site web dont l’expérience est assez individuelle mais est simultané avec de nombreuses personnes peut être considéré comme une œuvre d’art public autant voir plus réussi qu’un monument niché sur une place urbaine.
 		- L’œuvre d’art public est une forme d’appréciation anachronique. Une appréciation communautaires
 			- Mais cette expérience communautaire est une approche de moins en moins viable.

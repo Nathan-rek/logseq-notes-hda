@@ -1,8 +1,8 @@
 - Théoricien des images née en 1942 considéré comme membre fondateur des [[Visual Studies]]
 - La questionne la réponse émotionnel des images sur nous
 	- Pourquoi les images aurait un telle pouvoir sur nous
-		- L'une des thèse est le pouvoir de l'image a être un quasi sujet dans le sens ou elle possèderai une forme de subjectivité et donc créerait une forme de rencontre
-		- Question du fétiche de l'image, et le rôle de ce fétiches dans l'histoire occidentale rationaliste qui se dit ne pas agir par fétich
+		- L'une des thèses est le pouvoir de l'image à être un quasi sujet dans le sens ou elle possèderai une forme de subjectivité et donc créerait une forme de rencontre
+		- Question du fétiche de l'image, et le rôle de ce fétiches dans l'histoire occidentale rationaliste qui se dit ne pas agir par fétiche
 	- Aucun individu moderne rationnelle et séculaire pense que les images doivent être traité comme de personnes mais on est enclin à faire cela
 	- Ce n'est plus pourquoi les images ont un pouvoir sur moi mais la question de ce que veulent les images et leur désir
 - Les images sont construites dans une subalternation, dans un position minoritaire à qui on le fait parler et à qui on donne du pouvoir
