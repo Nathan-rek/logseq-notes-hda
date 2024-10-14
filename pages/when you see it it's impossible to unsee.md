@@ -6,13 +6,13 @@
 - Les scientifiques s'intéresses au rôle des illusions d'optiques
 	- Test de Rorscharch ((653fcc09-e8bc-4c3b-b1fd-e71fea161705))
 - *Cannot be unseen*
-	- Image decontextualiser, l'ahstag cannot be unseen
+	- Image décontextualiser, l'hashtag cannot be unseen
 	- Buzz Feed utilise aussi cette méthode de formulation pour jouer avec notre curiosité
 		- Méthode ClickBait
 - Les meme reprennent ce principe
-	- L'aura de l'oeuvre de [[Walter Benjamin]] devient obsolètes avec la diffusion des memes
+	- L'aura de l'œuvre de [[Walter Benjamin]] devient obsolètes avec la diffusion des memes
 - L'antimeme
 	- Ressemble à un meme
 	- Contient une anti-blague
 	- A un role humoristique
-		- Se rapproche d'un art autotélique [[Art Conceptuel]] qui joue de ces propres codes et se redefinit de ces codes
+		- Se rapproche d'un art autotélique [[Art Conceptuel]] qui joue de ces propres codes et se redéfinit de ces codes

@@ -91,8 +91,8 @@
 	- Le grand enjeu: raccourcir le différé entre la réception du message et sa restitution utiles, opérer en «temps réel». Applications à la musique, à l’alimentation, à l’image, à l’habitat. On rencontre ce paradoxe: on a beau aller très vite l’instant reste insaisissable.
 	- Tous les messages ne nous étaient pas destinés, nous les volons.
 - Homme invisible:
-	- ALEXANDER: Head in a 4 Dimensional Environement ![Head in a 4D Environment - Art Alexander](https://www.art-alexander.com/wp-content/uploads/2018/10/Head-in-a-4D-Environment.jpg)
-	- Stephen BENTON: RindII,1977 ![image.png](../assets/image_1698625348590_0.png)
+	- ALEXANDER: Head in a 4 Dimensional Environement
+	- Stephen Benton: RindII,1977 ![image.png](../assets/image_1698625348590_0.png)
 - Rendre sensible l’implication de l’invisible dans le visible. L’image visuelle résultant du procédé holographique accentue l’aspect précaire de la chose vue. Incertitude qui se réfléchit sur le sujet voyant: n’est-il pas invisible à lui même sans le secours de quelque matériel spéculaire
 - Auto-engendrement:
 	- Automatisation d’un processus complet de fabrication. De l’idée à l’objet fini, imbrication du logiciel et du «matériel» telle qu’on ne sait pas si la machine pense ou si l’esprit fabrique. La création résulte plutôt d’un état de haute complexité que d’un acte
@@ -102,12 +102,12 @@
 - L’ombre de l’ombre
 	- Est réel ce qui fait l’objet d’un témoignage ( photographie ) et d’une définition ( le dictionnaire). La réalité devient l’ombre de ce qui la répète en image et ou en mots.
 	- [[Joseph Kosuth]] : One and Three Shadows, 1965 ![One and Three Shadows (Ety. Hist.) | Widewalls](https://d16kd6gzalkogb.cloudfront.net/__sized__/auction_artwork_images/Joseph-Kosuth-One-and-Three-Shadows-Ety.-Hist.-1965-thumbnail_webp-9999x9999.webp)
-		- L’ombre > sa définition dans le dictionnaire
-		- L’ombre > son image photographiée dans le même lieu.
-		- L’ombre présente in situ sur le lieu de l’œuvre
+		- L’ombre: sa définition dans le dictionnaire
+		- L’ombre: son image photographiée dans le même lieu.
+		- L’ombre: présente in situ sur le lieu de l’œuvre
 - Espace réciproque
 	- Pour expliquer les propriétés de la matière, il faut les transcrire dans un espace différent, qui se réduit au moyen d’une relation mathématique: sorte d’anamorphose matérielle, c’est l’espace réciproque
-		- Stephen Benton: Crystal beginning, 1977 ![MIT Museum](https://webmuseum.mit.edu/mxgis/?kv=9236&style=detail){:height 237, :width 229}
+		- Stephen Benton: Crystal beginning, 1977 ![Collection - Stephen Benton](https://www.jrholocollection.com/collection/images/benton/CrystalBeginnings.jpg)
 - Lumière dérobée
 	- Problème du peintre: comment éclairer son sujet (la «matière» à laquelle le tableau se réfère ) alors qu’il dispose de la seul couleur chimique ? Solution: faire de la lumière à la fois le sujet (la matière) du tableau et le moyen de le peindre.
 		- Simone Martini: Annonciations, 1333 ![Annonciation entre les saints Ansan et Marguerite — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/d/d8/Galer%C3%ADa_Uffizi%2C_Florencia%2C_Italia%2C_2022-09-18%2C_DD_26.jpg)
@@ -133,7 +133,7 @@
 	- Annegret SOLTAU: [*Schwanger*](https://www.artsy.net/artwork/annegret-soltau-schwanger-pregnant), 1980 ![Annegret Soltau | Schwanger (Pregnant) (1980-1982) | Available for Sale |  Artsy](https://d7hftxdivxxvm.cloudfront.net/?height=801&quality=1&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FVBG-RPfNxdDvVYyFYk3Ibw%2Fsmall.jpg&width=801)
 - Négoce Peint
 	- Le tableau a représente le commerce dans sa gloire et dans sa honte. L’artiste peut signifier que l’oeuvre est elle même une valeur commercial.
-		- Quentin METSYS: [*Le prêteur et sa femme*](https://fr.wikipedia.org/wiki/Le_Prêteur_et_sa_Femme), 1514 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Massysm_Quentin_%E2%80%94_The_Moneylender_and_his_Wife_%E2%80%94_1514.jpg/260px-Massysm_Quentin_%E2%80%94_The_Moneylender_and_his_Wife_%E2%80%94_1514.jpg)
+		- Quentin Metsys: [*Le prêteur et sa femme*](https://fr.wikipedia.org/wiki/Le_Prêteur_et_sa_Femme), 1514 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Massysm_Quentin_%E2%80%94_The_Moneylender_and_his_Wife_%E2%80%94_1514.jpg/260px-Massysm_Quentin_%E2%80%94_The_Moneylender_and_his_Wife_%E2%80%94_1514.jpg)
 			- L’homme compte l’argent et la femme lit la bible
 		- [[Marcel Duchamp]] : [*Obligation pour la roulette de Monte-Carlo*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cy9Epa), 1924 ![Obligations pour la roulette de Monte-Carlo (André Breton)](https://www.andrebreton.fr/fr/file/205494/raw/HR_56600100131600_1_watermarked.jpg){:height 628, :width 450}
 			- L’œuvre contre remboursement

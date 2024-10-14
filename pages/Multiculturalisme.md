@@ -2,42 +2,72 @@
 	- Indicateur de la crise du projet de la [[Modernité]]
 		- Pose un défi de civilisation aux sociétés contemporaines et dépassant la spécificité de chaque contexte national
 	- Le Multiculturalisme promet une planète unifiée par une culture universelle (village global)
+	  id:: 67039fcc-8cc2-4744-b694-667383f5bc39
 		- Cela peut entrainer une perte d'identité
 			- Tout le monde doit s'américaniser, mode d'alimentation, code vestimentaire
 		- Exacerbation des particularismes
 			- Les résistances face cette universalisation, développe une accroche forte à une particularité propre à leurs identités
-- Expositions marquantes sur l'arrivé des arts non européens dans l'art
-	- ## *Primitivism in Twentieth Century Art*, Musée d'Art Moderne de NY 1984
-	  id:: 66e7f1c5-7507-45b1-850c-81c9bdfd8ace
-		- William Rubin va rassembler 200 objets d'art "primitif" et 150 œuvres d'arts contemporains
-			- Ce n'est pas une étude de l'art primitif mais une volonté de rendre manifeste sont rapport à l'art moderne
-				- Le MoMa accorde très tôt une place à l'art occidental
-					- Met en avant des photos qui mettent en avant les pièces volumétriques plutôt que les objet eux-mêmes
-		- La couverture met en avant la juxtaposition d'un visage peint par Picasso et un masque Africain, rapprochement purement formaliste en dehors des valeurs de leur contexte de production
-		- Cette Juxtaposition va poser problèmes car on juxtaposer des tableaux et des bout de décor
-			- Sur-importance du figuratif on considère œuvre d'art un élément qui aurait un potentiel significatif
-				- On mélange objet culture, décoration, œuvre...
-		- L'espace de monstration est orthogonaux, ont met en avant leur qualités sculpturales sans les contextualiser
-		- L'exposition est segmentés par thèmes
-			- I Concepts
-				- Système de pictogramme: une forme change de sens en fonction de l'ensemble dans lequel elle s'insère
-				- Des proportions autres que naturelles qui rompt avec les canon académiques
-			- II Histoire:
-				- Va de Paul Gauguin au [[Expressionnisme Abstrait Américain]]
-				- Témoigne des contacts entre les artistes et des civilisations non européennes
-			- III Affinités
-				- Assimilation postérieur qui se base sur les formes
-				- On juxtapose une carte de navigation polynésienne que l'on va orienter comme une œuvre abstraite minimales
-			- IV Explorations contemporaines
-				- Œuvres des années 70-80 qui prend sa source dans des considérations [[Primitivisme]]
-				- L'œuvre de [[Joseph Beuys]] est une exploration contemporaines qui utilise des matériaux [[Primitivisme]]
-		- Volonté de faire dialogique des objets selon des affinités de formes et d'esprit
-		- Croyance que l'objet peut se concevoir indépendamment de son contexte et ce sur la base même d'un point de vue esthétique
-		- Les artistes modernes commentent rarement leurs sources d'inspiration
-			- Max Ernst Bird Head, 1935 s'inspire d'un masque Tusyan du Burkina Faso
-			- ![Mask - Loniakan - Tusyan - Burkina Faso (No Reserve Price) - Catawiki](https://assets.catawiki.nl/assets/2024/7/18/9/1/9/91984baf-599b-4f79-b725-e168fc0a890f.jpg)
-			- Max Ernst: [*Bird Head*](https://hyperallergic.com/419433/max-ernst-museum-of-modern-art-birds/), 1935 ![Birding with Max Ernst](https://i0.wp.com/hyperallergic-newspack.s3.amazonaws.com/uploads/2017/12/max-ernst-bird-head-193435-720x1001.jpg?resize=720%2C1001&quality=95&ssl=1)
-	- ## *Magiciens de la terre*, Centre G. Pompidou 1989
-		- L’exposition voulait aussi montrer un art de la [[Post-Modernité]] et [[Post-Coloniale]] , en s’affranchissant du regard "blanc",
-		  masculin et occidental”. Cependant cette exposition fait débat, par le choix des œuvres exposées et le temps de parole laissé aux artistes
-			- Maureen Murphy dans *Des Magiciens de la terre, à la globalisation du monde de l’art : retour sur une exposition historique* met en garde face à la globalisation et donc la démocratisation de l'art contemporain et la possibilité d'être en adéquation avec les notions de consommation culturelle que le tourisme de masse amènent
+- ## *“Primitivism” in 20th Century Art: Affinity of the Tribal and the Modern*, MoMa 1985
+  id:: 66e7f1c5-7507-45b1-850c-81c9bdfd8ace
+	- William Rubin va rassembler 200 objets d'art "primitif" et 150 œuvres d'arts contemporains
+		- Ce n'est pas une étude de l'art primitif mais une volonté de rendre manifeste sont rapport à l'art moderne
+			- Le MoMa accorde très tôt une place à l'art occidental
+				- Met en avant des photos qui mettent en avant les pièces volumétriques plutôt que les objet eux-mêmes
+	- La couverture met en avant la juxtaposition d'un visage peint par Picasso et un masque Africain, rapprochement purement formaliste en dehors des valeurs de leur contexte de production
+	- Cette Juxtaposition va poser problèmes car on juxtaposer des tableaux et des bout de décor
+		- Sur-importance du figuratif on considère œuvre d'art un élément qui aurait un potentiel significatif
+			- On mélange objet culture, décoration, œuvre...
+	- L'espace de monstration est orthogonaux, ont met en avant leur qualités sculpturales sans les contextualiser
+		- Les objets sons détachés de leur contexte car ne sont pas amené par ceux..lles qui les conçoivent
+	- L'exposition est segmentés par thèmes
+		- I Concepts
+			- Système de pictogramme: une forme change de sens en fonction de l'ensemble dans lequel elle s'insère
+			- Des proportions autres que naturelles qui rompt avec les canon académiques
+		- II Histoire:
+			- Va de Paul Gauguin au [[Expressionnisme Abstrait Américain]]
+			- Témoigne des contacts entre les artistes et des civilisations non européennes
+		- III Affinités
+			- Assimilation postérieur qui se base sur les formes
+			- On juxtapose une carte de navigation polynésienne que l'on va orienter comme une œuvre abstraite minimales
+		- IV Explorations contemporaines
+			- Œuvres des années 70-80 qui prend sa source dans des considérations [[Primitivisme]]
+			- L'œuvre de [[Joseph Beuys]] est une exploration contemporaines qui utilise des matériaux [[Primitivisme]]
+	- Volonté de faire dialogique des objets selon des affinités de formes et d'esprit
+		- On fait des rapprochement entre une peinture de Kenneth Noland et une sculpture des Highlands de Nouvelle-Guinée par simple fait qu'elles présentent des cercles concentriques
+	- Croyance que l'objet peut se concevoir indépendamment de son contexte et ce sur la base même d'un point de vue esthétique
+	- Les artistes modernes commentent rarement leurs sources d'inspiration
+		- Max Ernst *Bird Head*, 1935 s'inspire d'un masque Tusyan du Burkina Faso
+			- ![Mask - Loniakan - Tusyan - Burkina Faso (No Reserve Price) - Catawiki](https://assets.catawiki.nl/assets/2024/7/18/9/1/9/91984baf-599b-4f79-b725-e168fc0a890f.jpg){:height 56, :width 450}
+		- Max Ernst: [*Bird Head*](https://hyperallergic.com/419433/max-ernst-museum-of-modern-art-birds/), 1935 ![Birding with Max Ernst](https://i0.wp.com/hyperallergic-newspack.s3.amazonaws.com/uploads/2017/12/max-ernst-bird-head-193435-720x1001.jpg?resize=720%2C1001&quality=95&ssl=1)
+		- Thomas McEvilley: L'exposition est une apologie de l'art moderne sur le dos des "primitfs
+			- La vision occidentale modern à censuré le primitivisme au nom de la civilisation contemporaine
+			- Traite les primitifs comme moins qu'humains moins que culturelle
+		- Rasheed Araeen
+			- La caractérisation des arts africains, d'Océanie et d'Asie en termes de [[Primitivisme]] est une justification de l'expansion coloniale et témoigne la volonté de tenir les peuples du tiers monde à l'écart de la contemporanéité
+		- James Clifford
+			- L'ignorance du contexte culturel sembles pratiquement la condition préalables de la critique artistique. Dans ce système d'objet, une œuvre tribale est détachée d'un milieu pour circuler librement dans un autre, un certain [[Monde de l'art]] -- celui des musées, des marchés et des connaisseurs
+- ## *Magiciens de la terre*, Centre G. Pompidou 1989
+	- L’exposition voulait aussi montrer un art de la [[Post-Modernité]] et [[Post-Coloniale]] , en s’affranchissant du regard "blanc",
+	  masculin et occidental”. Cependant cette exposition fait débat, par le choix des œuvres exposées et le temps de parole laissé aux artistes
+	- L'exposition commence avec un grand panneau qui demande qui sont les magiciens de la terre ?
+	- L'exposition c'est fait en partie dans les grandes halle de la Villette et dans le centre Pompidou
+		- Au halles de la villettes se présente des œuvres grand format et des œuvres réaliser in situ
+		- Au centre Pompidou le format du White Cube est bien plus présent
+			- Chaque artiste est sépare il n'y a pas de rapporchement formel
+			- Barbara Kruger: *On n'as plus besoin de héros*, 1989
+				- ![Les Magiciens de la Terre 25 anni dopo | Artribune](https://www.artribune.com/wp-content/uploads/2014/08/Barbara-Kruger-On-na-plus-besoin-de-h%C3%87ros-%E2%88%8F-Centre-Pompidou-Biblioth%C3%A4que-KandinskyPhototh%C3%A4que-du-Mnam-Cci-Photo-Jacques-Faujour-768x613.jpg)
+	- Se veut etre une réponse a ((66e7f1c5-7507-45b1-850c-81c9bdfd8ace))
+	- Etre la première exposition transculturelle
+		- Remise en question de l'organisation du [[Monde de l'art]] et des grands centre euro-centrique
+			- Subverti l'illusion de supériorité euro centrique dans le domaine de la représentation artistique et de la vision du moderne hérité de l'ère coloniale
+		- Richarl Long: *Cercle de boue* et Yarla
+			- ![Magiciens de la terre / Colloque 2014 - 2ème journée - Centre Pompidou](https://www.centrepompidou.fr/media/picture/41/71/41714dca495ae3de1ff210de59de605f/thumb_large.jpg)
+			- Comment exposer une production qui n'est pas sensé se finir
+		- Huang Yong Ping: [*Variations sur la machine à laver les livres*](https://art.moderne.utl13.fr/2016/05/cours-du-2-mai-2016/), 1989
+			- ![Cours du 2 mai 2016 – L'art moderne](https://art.moderne.utl13.fr/2016/huan_rept.jpg)
+			- Met dans une machine à laver un livre d'Histoire de l'art occidentale et chinois afin de symboliser le mix d'influence artistique qu'il voulait affirmé
+	- Maureen Murphy dans *Des Magiciens de la terre, à la globalisation du monde de l’art : retour sur une exposition historique* met en garde face à la globalisation et donc la démocratisation de l'art contemporain et la possibilité d'être en adéquation avec les notions de consommation culturelle que le tourisme de masse amènent
+- ## La vision Hégémonique
+- Terme marxiste, comment la science de l'un étudie celle des autres sous un angle supérieur
+- Contradiction propre au multiculturalisme des sociétés postindustrielles
+-

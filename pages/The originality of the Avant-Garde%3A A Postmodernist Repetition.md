@@ -3,15 +3,15 @@
 	- La porte de l'enfer est donc un multiple qui n'existe sans original
 		- La notion d'authentification est un problème dans chacune de version tout reproduisant une porte différente sur la même base
 		- La notion de multiple est marquante chez les artiste suite a [[Walter Benjamin]] le négatif comme le moule sont les particularités de ses mediums et deviennent des possibles multiples
-			- Rodin n'allait jamais a l'usine ou été coulé ses sculptures il ne s'intéressait qu'au moule, le résultat lui importait peu.
+			- Rodin n'allait jamais à l'usine ou été coulé ses sculptures il ne s'intéressait qu'au moule, le résultat lui importait peu.
 				- Le travail de Rodin était fait de potentiel multiples
 					- ((661877cf-c29a-4526-b2a1-61f46d745ddd))
-- Ou placer un..e artiste en perpétuel quête de singularité par l [[L'Originalité]] quand a sa mort sa production devient reproductible
+- Ou placer un..e artiste en perpétuel quête de singularité par l [[L'Originalité]] quand à sa mort sa production devient reproductible
 - Pour [[Rosalind Krauss]] on passe d'une culture de l'original à une culture du multiple
 - Le photographe est celui qui prend la photo et on le jugera sur sa prise de photo et non sur sa maniere de l'imprimer
 - Dans les avant-gardes américaines le souhait est d'être nouveaux non pas en brulant le passé mais un nouveau littérale, qui serait le fruit d'un fluide amniotique
 	- Une création à partir de 0
 	- Prend le soi comme origine est une solution car il n'y aurait de contamination du passé
-		- Deplus si il est maintenu par une possible régénération du soi
+		- De plus si il est maintenu par une possible régénération du soi
 			- [[Kazimir Malevitch]] disait *Only he is alive who rejects his convictiosn of yesterday*
-	- Le travail des avant gardes est plus un travial sur la notion [[L'Originalité]] que un travail qui produirait de [[L'Originalité]]
+	- Le travail des avant gardes est plus un travail sur la notion [[L'Originalité]] que un travail qui produirait de [[L'Originalité]]

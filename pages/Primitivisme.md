@@ -20,7 +20,7 @@
 - Avatar: réactive les concepts de primitivisme du bon sauvage et ne reflète aucune vérité documentaire
 - ## Primitivisme in modern Art, 1938
 	- Robert Goldwater publie un livre: Primitivisme in modern Art, 1938
-	- Le livre influence l'exposition ((66e7f1c5-7507-45b1-850c-81c9bdfd8ace))
+	- Le livre influence l'exposition ## *Primitivism in Twentieth Century Art*, Musée d'Art Moderne de NY 1984
 	- Un moyen de simplifier les aspect purement optique de l'œuvre d'art pour donner libre cours, par une image absolue, libre de toute référence au réel, à l'intensité de l'affect
 		- Pour les artistes primitivistes il a deux moyens de suscité cette émotions
 			- Il faut inventer une certain manière de simplifier l'image
