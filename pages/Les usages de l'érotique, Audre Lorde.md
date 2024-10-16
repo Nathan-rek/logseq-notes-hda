@@ -14,7 +14,7 @@
 		- Les Seven Sisters sont des écoles uniquement pour les femmes
 	- L'érotique est une puissance inutilisée a déplacés des utilisations du patriarcat
 		- Elle part non pas d'un postulat psychanalytique freudien mais d'un nouvelle usage de l'érotique loin de [[Freud]]
-	- L'érotique de Lorde est une puissance qui serait principalement spirituelle et femine
+	- L'érotique de Lorde est une puissance qui serait principalement spirituelle et féminine
 		- L'enjeux du féminisme est de trouver un espace où les femmes peuvent se représenter et exister
 	- La tendance de mettre une distance entre l'esprit et le corps à affaibli l'émotions
 	- Les systèmes de travail comme le capitalisme détruise la possibilité de la puissance érotique dans le travail

@@ -1,4 +1,4 @@
-- L'un des acteurs de cette nouvelle forme est Robert Morris qui suite à ses œuvres ralliées au  [[Minimalisme]] s'oppose ce mouvement est fait le choix d'orienter son travail en proposant une sculpture littéralement souple, parfois à la limite du périssable
+- L'un des acteur..ices de cette nouvelle forme est Robert Morris qui suite à ses œuvres ralliées au  [[Minimalisme]] s'oppose ce mouvement est fait le choix d'orienter son travail en proposant une sculpture littéralement souple, parfois à la limite du périssable
 	- Sa première interrogation sont sur le rôle de la matière dans la détermination de la forme final de la sculpture
 		- Il critique l'approche occidental à soumettre la matière à un ordre qui lui est extérieur.
 	- De ce constat Morris veut valoriser la matière mettant en avant ces caractéristiques autodestructives. Dans un ambition paradoxale de **pérenniser l’éphémère**. En inspiration avec les sculptures molles de Claes Oldenburg ((65fbfa78-86ff-4bba-83e6-6b04914669bc))

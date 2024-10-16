@@ -9,4 +9,7 @@
 	- Les usagers de l'art contemporain
 	- Perspective de l'usage de l'art, on passe du spectacle à l'usage. Ce qui rompt avec le paradigme de l'[[Académie - Beaux-Arts]] mais vers un paradigme de l'usologie
 	- Propose de désactiver la fonction esthétique de l'art pour engager sa fonction usologique
+- Ecole sur base de St Luc
+	- Groupe de jésuites qui cherche à proposer un apprentissage des métiers de l'art à une classe populaire
+		- Dans les années 1970 un des Jésuite se rend compte que l'arrivé des performance de l'installations... va nécessiter un nouvel espace d'expérimentation en fessant appelle à Thierry DeDuve
 - [[Petticoat Government]]

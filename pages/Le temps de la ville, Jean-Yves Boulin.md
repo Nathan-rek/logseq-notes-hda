@@ -1,0 +1,7 @@
+- Comment approcher les contraintes temporelles du travail avec le travail non rémunéré, et comment la semaine de 35 heures a accentué ces inégalités dans l’utilisation du temps ?
+- Comment des acteurs locaux peuvent-ils participer à réduire ces inégalités ?
+- Plusieurs réorganisations des villes se font sur la base d’un réagencement des fonctionnements collectifs, tant dans leur dimension temporelle que spatiale.
+- La discipline du temps est héritée de la Révolution industrielle ; c’est la politique du travail comme création d’identité individuelle et collective.
+	- Le loisir est présent dans cette discipline.
+		- Ces temps hors travail se structurent sur ce temps de travail et prennent donc place dans des temps au marge du temps de travail, créant une synchronisation du temps collectif.
+		- Cette synchronisation est à la base du modèle des ressources humaines et de la femme au foyer.

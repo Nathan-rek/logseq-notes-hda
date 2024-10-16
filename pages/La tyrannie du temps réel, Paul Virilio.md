@@ -2,16 +2,16 @@
 - Communautés d'émotions, la puissance de condition de l'émotion va bousculer la politique
 	- Emancipation du présent, le présent s'émancipe du présent et de l'avenir
 		- La création de communautés d'affects
-			- Les communautés partage des intérêts c'est ce qui a mis en place l'historie de la politique jusqu'à la révolution russe communiste.
-				- Une communauté d'émotion instantanés (mondialisation des affect en temps réel)
-					- Pour Virilio le fait de partager en même temps une même émotions serait un dénie de la démocratie
+			- Les communautés partagent des intérêts c'est ce qui à mis en place l'histoire de la politique jusqu'à la révolution russe communiste.
+				- Une communauté d'émotions instantanés (mondialisation des affects en temps réel)
+					- Pour Virilio le fait de partager en même temps une même émotion serait un dénie de la démocratie
 						- Par la puissance de conditionnement d'émotions peut bouleverser la classe politique
-			- Cette mondialisation des affects est similaire à une religion, une religion sans dieux qui va vers l'inconnue
+			- Cette mondialisation des affects est similaire à une religion, une religion sans dieux car elle n'as pas de figure qui va vers l'inconnue
 - ## Videodrome
 - Le sport est la propagande du progrès
 	- La performance va se développer par des mutations du corps
-		- Le cavalier, est face a un double corporelle avec le cheval, ce double va se développer de plus en plus en quête de vitesse, de l'homodrome, à l'hippodrome, à l'aérodrome
-		- Ce dédoublement va aboutir au videodrome, un dédoublement de la personnalité, 'l'individu n'est que son image pour la performance de l'émotion des foules.
+		- Le cavalier, est face à un double corporelle avec le cheval, ce double va se développer de plus en plus en quête de vitesse, de l'homodrome, à l'hippodrome, à l'aérodrome
+		- Ce dédoublement va aboutir au videodrome, un dédoublement de la personnalité, l'individu n'est que son image pour la performance de l'émotion des foules.
 		- On assiste à la prise de pouvoir de la vitesse.
 	- La vitesse est à l'origine de la démocratie et donc des classes de vitesse
 - Lors de la guerre du golf des H se rendent à des drones(machines), c'est soumission robotique de l'individu
@@ -21,16 +21,16 @@
 	- L'accélération mène à l'accumulation -> capitalisme
 - Le champion est le héros de la hiérarchie de vitesse
 	- Vitesse d'acquérir un pouvoir
-		- Cela pousse a une performance qui dépasse la chair elle devient machinique et donc économique
+		- Cela pousse à une performance qui dépasse la chair elle devient machinique et donc économique
 	- Le sportif est l'image idéaliser du domocrates
 - Virilio croit à la musicologie, il croit au tempo
 - ## La catastrophe du progrès
-- Pour Virilio la rapidité réduit le monde a rien
+- Pour Virilio la rapidité réduit le monde à rien
 	- La terre est trop petite pour le progrès, pour le profit instantané
 	- L'infiniment petit réduit le monde
 		- C'est une régression de penser à plus petit, au nanotechnologies aux ondes.
 			- L'accélérateur de particules cherche à retrouver le bigbang, l'origine, c'est une régression vers plus que l'enfance mais vers l'origine de tout.
-				- Il suppose que c'est ce qui ferrait aimer l'origine du monde de Courbet comme un retour a l'origine au sexe d'origine
+				- Il suppose que c'est ce qui ferrait aimer l'origine du monde de Courbet comme un retour à l'origine au sexe d'origine
 					- Courbet: [*L'origine du monde*](https://fr.wikipedia.org/wiki/L%27Origine_du_monde), 1866 ![L'Origine du monde" : un nu manifeste - Histoire analysée en images et  œuvres d'art | https://histoire-image.org/](https://histoire-image.org/sites/default/files/2023-01/courbet-gustave-origine-monde.jpg)
 				- La catastrophe du progrès c'est rentre dans le ventre de sa mère
 	- L'astrophysique était à l'époque une idée de la dilatation or aujourd'hui on cherche l'origine le plus petit de plus petit le plus inerte des inerte.
@@ -39,7 +39,7 @@
 	- Malgré cette agrandissement il y a une réduction
 	- La catastrophe du collectivisme a donné des discours opposés
 		- Malgré la croissance démographique il y un paradoxale individualisme de masse
-		- Les pouvoirs traite tête par tête les individus
+		- Les pouvoirs traitent tête par tête les individus
 			- Une période de condition de la pensée inédite
 - Dans le cadre de la mondialisation des affects il y a un risque de fascisme
 	- Le fascisme du début du siècle dernier c'est fait sur la communauté des peurs
@@ -64,32 +64,32 @@
 	- Il pense un retour de l'université dans son origine. L'université est la pour éviter la barbaries pour éviter la catastrophe sauf qu'aujourd'hui la catastrophe c'est le progrès
 		- Le progrès pose un risque sur le savoir même et engendre une panique du savoir.
 - ## L'art de la chair
-- L'histoire est une histoire de vitesses ce sont les sportifs les rapides qui gouvernent qui ensuit se battent et enfin domine
+- L'histoire est une histoire de vitesse ce sont les sportif..ves les rapides qui gouvernent qui ensuite se battent et enfin domine
 	- Le sport est une sphère d'accélération, or aujourd'hui on n'est plus un art de la chair mais un art de la prothèses
-		- La prothèse fait quitter la chair, car ce n'est pas l'humain qui peut dépasser la prothèse, mais une autre prothèse, meilleure. La nanotechnologie est une promesse qui engendre une suite de prothèses encore plus rapides.
+		- La prothèse fait quitter la chair, car ce n'est pas l'humain..e qui peut dépasser la prothèse, mais une autre prothèse, meilleure. La nanotechnologie est une promesse qui engendre une suite de prothèses encore plus rapides.
 		- La performance technique s'impose à la performance humaine
-	- Perte de l'humain perte de la chair, le sport est l'idéalisation de la carnation de la chair, qui se perte dans la technique et dans le moteur
+	- Perte de l'humain..e perte de la chair, le sport est l'idéalisation de la carnation de la chair, qui se perte dans la technique et dans le moteur
 	- La cité est un stade et le combat doit être celui de la chair
 - ## De la limite
-- La disparition de la chair a un horizon [[Post-Humanisme]].
-- On passe de l'ère des révolutions, a l'ère des révélations, nous sommes des révélationnaire
+- La disparition de la chair à un horizon [[Post-Humanisme]].
+- On passe de l'ère des révolutions, à l'ère des révélations, nous sommes des révélationnaire
 	- Ce révèle à nous que le monde est trop petits, que les connaissances sont dangereuses
 - Peut-il y avoir des nano-performances ?
 - Les excès de vitesse (motorisé) paralyse le mouvement or l'H est animale animé il est pas végétales et minéral il est doté de mouvement.
 	- La premier liberté humaine c'est la liberté de mouvement
 - Le premier langage est celui du corps
 - ## La cité est un stade
-- La base de la cités est l'H qui se déplace et qui peut rejoindre les autres
+- La base de la cité est l'H qui se déplace et qui peut rejoindre les autres
 	- La Ville est le lieu du mouvement construit, un mouvement sur place, in situ, la cité crée l'inertie
 		- L'écran a remplacé la cité, le corps est transférer à l'image
 - On perçoit le corps et l'espace à travers une corporalité
 - La vitesse n'est pas un phénomène c'est la relation entre les phénomènes
 - ## Disparitions
 - La réduction de l'espace temps va vers une fin de la géographie, la contraction du monde
-	- Le rapport a l'autres est la découverte, l'étranger est celui qu'on recherche, le complément
-		- La compétition dans le duel ou dans l'embrassade a été le caractère du monde, mais la compression des distances nous faire perdre l'originalité de l'étranger, il n'y a plus de partenaire il n'y a que des voisins
+	- Le rapport à l'autres est la découverte, l'étrangèr..e est celui qu'on recherche, le complément
+		- La compétition dans le duel ou dans l'embrassade à été le caractère du monde, mais la compression des distances nous faire perdre l'originalité de l'étranger, il n'y a plus de partenaire il n'y a que des voisins
 			- La coprésence gêne, la contamination est un risque.
-			- La télé-présence nous faire perde l'étranger et l'autre
+			- La télé-présence nous faire perde l'étrange..èr..e et l'autre
 - La propagande du progrès est nihiliste.
 	- La nihilisme est dans sa propagation pas tant dans le progrès lui même
 -

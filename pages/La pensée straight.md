@@ -1,0 +1,9 @@
+- La place du langage dans les mouvements lesbiens et de liberation de la femmes.
+	- Le développement de la linguistique a fort impacter le langage social et le langage du pouvoir
+	- Les imbrications du langage dans le pouvoir fait perdre de vue les cause matérielle des oppressions
+	- Les discours et le langage des sciences donnent de la réalité social une version scientifique où les humains sont donnés comme invariants
+- Le langage symbolique est devenu une arme de détournement. Les symboles étant des productions de l'inconscient ils sont donc facilement manipulable par voie de théorisation et de thérapies.
+	- Et ces interprétations sont facilement imposable à l'inconscient collectif ou individuel.
+	- L'inconscient aurait le bon gout de structurer à partir de ces symboles et métaphores.
+		- L'Œdipe de [[Freud]]
+- Si les inconscients sont facile à manipuler il exiges des interprétations multiples, et seul les spécialistes sont capable de mener à bien ce déchiffrement

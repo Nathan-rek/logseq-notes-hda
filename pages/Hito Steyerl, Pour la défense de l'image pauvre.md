@@ -1,6 +1,0 @@
-- Artiste, philosophe allemande née en 1968, travail en théorie pratique
-- Constitue une théorie des classes des images
-	- Application de Marx à la théorie visuelle et aux [[Visual Studies]]
-- La netteté et leur définition serait l'élément qui les ordonnerait dans cette classe
-- L'image pauvre serait sous-prolétaire, un prolétaire lumpen
-	- Une classe qui ne serait politiquement activable pour Marx

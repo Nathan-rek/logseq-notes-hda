@@ -1,0 +1,10 @@
+- Une partie du rapport au temps se fait lors de la socialisation primaire (famille)
+	- Socialisation : processus d'acceptation des règles de vie commun et collectives qui corresponde aussi a certain famille, transformer une individu en un être social. Nos interactions vont intégrer différents savoir-faire, compétences, savoir être qui s'acquière pendant ces temps de socialisation. Rencontre face aux règles implicites ou explicites
+		- Socialisation primaire: essentiellement familliales
+		- Socialisation secondaire:
+- Les écoles et les institutions sont aussi des instances de socialisation
+- [[Le temps de la ville, Jean-Yves Boulin]]
+- [[Le temps des mères, le temps des pères, Christine Barnet-Verzat]]
+- [[Le rapport au temps des adolescents, Gilles Pronovost]]
+- [[La tyrannie du temps réel, Paul Virilio]]
+-

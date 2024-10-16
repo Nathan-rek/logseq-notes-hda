@@ -33,11 +33,10 @@
 			- Issue d'une nouvelle ou un Notaire qui un jour refuse d'effectuer les taches qu'on lui donne et préfère ne plus rien faire
 			- Combattre l'appareil d'état à distance, se soustraire à l'action peut être une maniere d'affronter.
 				- La disparition peut être une option d'existence
-		- Pierre Zaoui: *La discrétion*
-			- Un art de disparaitre
-				- Réapprendre à ne pas être vue
+- Pierre Zaoui: *La discrétion*
+	- Un art de disparaitre
+		- Réapprendre à ne pas être vue
 - ## L'art de mourir
-- [[Bas Jan Ader]]
 - Daniel Savatore Schiffer: [*Traité de sublime de la mort sublime*](https://www.fr.fnac.be/a11118259/Daniel-Salvatore-Schiffer-Traite-de-la-mort-sublime)
 	- Socrate accepte la mort et met en pratique une leçon philosophique au principe de sa mort
 - Recherche du sublime, la mort comme comment sublime où l'on se retrouve confronter à la limite de la vie
@@ -45,5 +44,6 @@
 - Le coefficient artistique œuvre qui n'as pas la forme d'une œuvre d'art
 	- [[Marcel Duchamp]] engage déjà à utiliser le terme de coefficient artistique
 - [[Jochen Gerz]]
+- [[Bas Jan Ader]]
 - [[Inframince]]
 -

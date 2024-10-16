@@ -1,0 +1,18 @@
+- Philosophe, historien de l'art
+- Interroge le statut de la matière dans la création
+- L'étymologie art plastique suppose implicitement une passivité de la matière, la plasticité du matériau [[L'Antiforme]]
+	- La matière ne résiste pas au forme
+- La matière reste en attente d'une forme qui l'autorisera à être digne
+- Il prend le cas de la cire, notamment du technicien de la matière (artisan cirier)
+	- Il ne parle plus de la cire en général car il y a autant de mot que d'état de la cire
+- La cire rompt avec les statuts de la matière d'Aristote
+	- Solide
+	- Dur
+	- Molle
+	- Liquide
+		- La cire serait une contradiction des qualités matérielles
+			- Elle ignorerait les contradictions et les hiérarchies traditionnelles des arts plastiques
+- La cire ne consiste en rien d'autres que sa modifications
+	- Elle n'as pas de stabilité ni de consistance
+- Travail la viscosité
+	- Ce qui échappe aux catégories car trop changeant trop mouvant
