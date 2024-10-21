@@ -11,7 +11,7 @@
 - Les femmes et les personnes racisées sont de plus en plus intégré au [[Monde de l'art]]
 	- En 1989, le centre Georges-Pompidou et la grande halle de la Villette proposent une exposition “[*Magiciens de la terre*](https://www.centrepompidou.fr/fr/programme/agenda/evenement/cTEXnL)”, qui expose 101 artistes qui ne sont pas occidentaux ou qui sont orienté..es hors occident, en les exposant..e sans jugement hiérarchique.
 	  id:: 65d3770f-40e1-4de4-8826-0c3b4dbdafa0
-		- L'expositon se differencie de ## *Primitivism in Twentieth Century Art*, Musée d'Art Moderne de NY 1984 qui ne parle juste de l'influence du monde non occidental sur des artiste occidentaux..les
+		- L'expositon se differencie de ((66e7f1c5-7507-45b1-850c-81c9bdfd8ace)) qui ne parle juste de l'influence du monde non occidental sur des artiste occidentaux..les
 - Rompt avec la [[Modernité]] et le [[Modernisme]]
 	- En architecture certains écrit et pratique viennent directement critiquer l'approche moderniste et fonctionnaliste de l'architecture
 	- Le Mouvement Memphis rompt avec le *“less is more”*

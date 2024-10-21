@@ -5,7 +5,7 @@
 	- Cette investigation de la grille se voue aujourd'hui à l'échec pour Krauss face aux pratiques de l'art contemporain.
 - La grille résiste à l'expansion, l'extension, la transmutation.
 	- Pour Krauss [[Piet Mondrian]] à émis une œuvre ((65d37714-b729-417a-8824-f7b8e7265c57)) et la répète pendant 15 ans et le [[Modernisme]] continue d'engendrer des exemples de grille.
-- la grille fonction de deux manières
+- La grille fonctionne de deux manières
 	- Spatial: bidimensionnelle, géométrique, ordonné, elle est antinaturelle , anti mimétique elle va à l'encontre du réel.
 		- Décret esthétique où l'ordre n'est que relation pure, elle permet de refouler la prétention qu'ont les objets naturels d'avoir un ordre propre
 			- La grille devient un espace autonome et autotélique

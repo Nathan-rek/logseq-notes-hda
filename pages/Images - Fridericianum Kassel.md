@@ -44,12 +44,12 @@
 			- Dans [*Double Hunt*](https://sethpriceimages.com/post/78862839544/double-hunt-seth-price-2006-fluorescent) l’image des grottes de Lascaux marque un dépassement de l’image originel > Le modèle qui a servi à l’impression n’est pas qu’un reproduction numérique d’une motif sur un mur qui lui aussi est une reproduction des réels dessins sur la grotte de Lascaux qui on été réalisés pour protéger les vrais dessins originaux
 			- [*Hostage Video Still With Time Stamp,*](https://sethpriceimages.com/post/43415521935/hostage-video-still-with-time-stamp-seth-price)[*Double Hunt*](https://sethpriceimages.com/post/78862839544/double-hunt-seth-price-2006-fluorescent) > Les images fixes de la vidéo d’otage sont des appropriations d’un motif cruel ( décapitation djihadistes ) > Il retire les images de leur circulation numérique, fige les séquences d’action en motif fixes, les recadrent et les éditent les impriment dans un processus de sérigraphie
 				- Il les déforment jusqu’à ce que le motif ne puisse être reconnu que schématiquement. Les images qui montrent une violation possible de l’intégrité humaine sont violées dans leur propre intégrité en tant qu’images
-- Michel MAJERUS:
+- Michel Majerus:
 	- Intègre des citations visuelles de la culture de masse, du jeu et du cyberespace dans une imagerie agressive.
 		- Très tôt il utilise des outils d’imagerie numérique, tels que des programmes vectoriels et des logiciels de traitement d’images.
 	- Développe des stratégies pour traiter des images existantes
-	- A travers une sérié d’œuvre en 60cm x 60cm MAJERUS commente les conditions d’exposition dans la formation sans cesse renouvelés.
+	- A travers une sérié d’œuvre en 60cm x 60cm Majerus commente les conditions d’exposition dans la formation sans cesse renouvelés.
 		- Les styles de peintures et les motifs inspirés de , [[Frank Stella]] , [[Gerhard Richter]], BASQUIAT, [[Andy Warhol]] , apparaissent comme des effets techniques.
 			- La citation comme méthode lui permet d’intégrer presque tout dans son travail
-	- Michel MAJERUS : [*Controlling the moonlight maze*](https://commons.wikimedia.org/wiki/File:Installation_view_controlling_the_moonlight_maze,_neugerriemschneider,_Berlin_2002.jpg) ![Wenn Spielkultur auf Kunst trifft. - Erbse](https://pseudoerbse.de/wp-content/uploads/2016/04/videospiele-kunst-kultur-gaming-fridericianum-kassel-images-flashback-michel-majerus-controlling-the-moonlight-maze.jpg)
+	- Michel Majerus: [*Controlling the moonlight maze*](https://commons.wikimedia.org/wiki/File:Installation_view_controlling_the_moonlight_maze,_neugerriemschneider,_Berlin_2002.jpg) ![Wenn Spielkultur auf Kunst trifft. - Erbse](https://pseudoerbse.de/wp-content/uploads/2016/04/videospiele-kunst-kultur-gaming-fridericianum-kassel-images-flashback-michel-majerus-controlling-the-moonlight-maze.jpg)
 		- Le FBI donne le nom de code «Moonlight Maze» abrégé «MM» à l’attaque de hacker la plus agressive et persistantes contre le gouvernement américain jusqu’en 1998.

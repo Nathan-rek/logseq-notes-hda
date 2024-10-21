@@ -53,10 +53,10 @@
 	- L'exposition c'est fait en partie dans les grandes halle de la Villette et dans le centre Pompidou
 		- Au halles de la villettes se présente des œuvres grand format et des œuvres réaliser in situ
 		- Au centre Pompidou le format du White Cube est bien plus présent
-			- Chaque artiste est sépare il n'y a pas de rapporchement formel
+			- Chaque artiste est sépare il n'y a pas de rapprochement formel
 			- Barbara Kruger: *On n'as plus besoin de héros*, 1989
 				- ![Les Magiciens de la Terre 25 anni dopo | Artribune](https://www.artribune.com/wp-content/uploads/2014/08/Barbara-Kruger-On-na-plus-besoin-de-h%C3%87ros-%E2%88%8F-Centre-Pompidou-Biblioth%C3%A4que-KandinskyPhototh%C3%A4que-du-Mnam-Cci-Photo-Jacques-Faujour-768x613.jpg)
-	- Se veut etre une réponse a ((66e7f1c5-7507-45b1-850c-81c9bdfd8ace))
+	- Se veut être une réponse à ((66e7f1c5-7507-45b1-850c-81c9bdfd8ace))
 	- Etre la première exposition transculturelle
 		- Remise en question de l'organisation du [[Monde de l'art]] et des grands centre euro-centrique
 			- Subverti l'illusion de supériorité euro centrique dans le domaine de la représentation artistique et de la vision du moderne hérité de l'ère coloniale
@@ -66,7 +66,31 @@
 		- Huang Yong Ping: [*Variations sur la machine à laver les livres*](https://art.moderne.utl13.fr/2016/05/cours-du-2-mai-2016/), 1989
 			- ![Cours du 2 mai 2016 – L'art moderne](https://art.moderne.utl13.fr/2016/huan_rept.jpg)
 			- Met dans une machine à laver un livre d'Histoire de l'art occidentale et chinois afin de symboliser le mix d'influence artistique qu'il voulait affirmé
+		- Samuel Kane Kwey
+			- Sculpte des tombes par fonction communautaire mais se retrouve exposé comme œuvre d'art au Centre Pompidou
+			- Paa Joe ![You Can Now Be Fresh To Death With Your Very Own Giant Nike Air Max 95  Coffin - GQ Australia](https://content.api.news/v3/images/bin/47de45a1b47ed5f432fb17e5321c999b?width=1024)
+			- Un regard occidental va voir ce geste selon une tradition artistique occidental [[Pop-Art]]
+		- Chéri Samba: *L'espoir fait vivre*, 1956 ![Chéri Samba - L'espoir fait vivre - Hazan 1997 - Saint-Martin Bookshop](https://saint-martin-bookshop.com/cdn/shop/files/Cheri-Samba-L_espoir-fait-vivre-Hazan-1997_-71486282.jpg?v=1727543294)
+			- Les journalistes de [*Actuel*](https://fr.wikipedia.org/wiki/Actuel_(magazine_fran%C3%A7ais)) on demandé à Chéri Samba de faire une chronique de son séjour à Paris
+			- Plus aucun des tableaux de Chéri Samba n'est au Congo, son succès planétaire est du à sa sur-commercialisation dans l'art Contemporain
+		- Chéri Samba: *Mobali ya Monyato* ![Cheri Samba Vintage Print 2002 mobali Ya Monyato 1989 Home Decor Wall Art  Art Print Modern African School Wall Decor - Etsy](https://i.etsystatic.com/18248118/r/il/8c9bc8/6260737168/il_570xN.6260737168_6woi.jpg)
+			- Texte qui commente la vie moral et la perte de valeur présente dans les milieux rural
+		- Esther Mahlangu est présente dans les magiciens de la terre, elle reproduit le rituel Ndébélé de peinture des maisons
+			- ![RENCONTRE AVEC ESTHER, GRANDE PRETRESSE DE L'ART NDEBELE - BLOG TOUR DU  MONDE - Vivez un tour du monde comme si vous le faisiez !](https://idata.over-blog.com/0/44/26/71/01-afrique-sud/008-village-ndebele-mur-peint.jpg)
+		- Bodys Isek Kingelez: ![Bodys Isek Kingelez ou l'avant-garde au service d'une ville joyeuse](https://chroniques-architecture.com/wp-content/uploads/2020/09/06-Bodys-Isek-Kingelez.jpg)
+			- Image futuriste moderne du Zaïre
+		- Marina Abramovic: *Boat emptying*, 1989 ![BOAT EMPTYING STREAM ENTERING. 1990. - Unoriginal Sins](https://unoriginalsins.co.uk/wp-content/uploads/2023/01/IMG_2170.jpeg)
+			- Adapte un tradition australienne en une sculpture et une performance
+	- L'exposition n'as pas été un succès critique.
+		- Bien que JH Martin dit avoir conçu un projet délicat entre sa propre intuition "artistique" et la critique anthropologique
+	- Benjamin Buchloh dans les *Cahiers du Mnam* soulève les pièges des magiciens de la Terre
+	- Implicite [[Primitivisme]] dans la sélection d'artiste non occidentaux
+	- Expositon conçue sous le mode de la foire
+		- Trop complices avec des modes de consommation capitaliste qui caractérisent l'époque
+	- Reproche d'exotisation et de mise à distance de l'autres, opposer l'indigène et l'art contemporain
 	- Maureen Murphy dans *Des Magiciens de la terre, à la globalisation du monde de l’art : retour sur une exposition historique* met en garde face à la globalisation et donc la démocratisation de l'art contemporain et la possibilité d'être en adéquation avec les notions de consommation culturelle que le tourisme de masse amènent
+- James Clifford, *La culture est une idée compromise*
+	- L'identité est conjoncturelle, non essentiel. Les rêves de pureté sont mortifères, les purs produit de l'Amérique sont condamnés à la folie
 - ## La vision Hégémonique
 - Terme marxiste, comment la science de l'un étudie celle des autres sous un angle supérieur
 - Contradiction propre au multiculturalisme des sociétés postindustrielles
