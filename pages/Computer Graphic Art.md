@@ -24,7 +24,7 @@
 	- Les œuvres en temps réel peuvent être vu comme concept intellectuelle.
 		- A la différence des œuvres d’arts comme objet matérielle figée comme la peinture ou même les films en tant que séquence prédites.
 		- Les art informatiques ont permis aux participant..e et l'ordinateur avec l'écran CRT[^26] d’interagir en tant que processus, L'objet d'art n'est pas l'ordinateur ou l'écran, mais l'activité des deux interagissant avec le..a participant..e. En plus de ses paramètres artistiques, le contenu de cette forme d'art dépend de la dynamique d'un processus en temps réel qui donne une vitalité et vie à l'affichage visuel à travers l'animation et l'interaction de l'utilisateur..ices.
-- ### Artistes
+- ### Artistes:
 - [[Hiroshi Kawano]]
 - [[Kenneth Knowlton]]
 - [[Manfred Mohr]]

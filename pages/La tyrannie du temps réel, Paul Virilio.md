@@ -1,4 +1,5 @@
 # Communisme des affects
+id:: 66eb32c7-4b18-4fb7-8772-f92afc3d14d9
 - Communautés d'émotions, la puissance de condition de l'émotion va bousculer la politique
 	- Emancipation du présent, le présent s'émancipe du présent et de l'avenir
 		- La création de communautés d'affects

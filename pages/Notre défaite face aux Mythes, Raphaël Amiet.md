@@ -1,0 +1,15 @@
+- La démocratisation d'internet a permis de développe des récits de [[Contre-culture]], remettant en question le discours dominant.
+- Le 11 septembre (9/11) a secoué l'hégémonie occidentale et a marqué le début d'une nouvelle ère, une ère de méfiance générale envers les institutions, les médias et les politiques.
+- Les récits alternatifs, ces nouvelles mythologies, prennent de plus en plus de place.
+- Yves Citton, dans *Mythocratie*, parle des mythes comme des grands lieux politiques de la société. La mythocratie cristallise la circulation d'histoires et de mythes comme un lieu de pouvoir.
+	- Ce ne sont plus les citoyens qui décident, mais les narrations disponibles dans l'espace public.
+	- Pour Citton, la défaite historique de la gauche et des mouvements d'émancipation est d'avoir abandonné leurs grands récits pour un rationalisme froid, appauvri dans des postures morales et des discours excluants.
+	- Les mythes et les [[Utopie]] fessait le carburant du projet révolutionnaires.
+		- Cette disparition s'est faites au profit de récit néolibéraux réactionnaires, très visible dans l'espace public.
+- Le rationalisme comme posture qui condamne les récits comme outils de manipulation et de contrôle.
+	- Mais on pourrait y voir un moyen d'échapper au statu quo
+- Réinvestir les récits c'est reprendre possession de l'outil narratif comme moyen de mobilisation et de construction du futur.
+	- La puissant des récits est décupler dans une ère des affects, ((66eb32c7-4b18-4fb7-8772-f92afc3d14d9))
+- La droites radicales quitte le fanatisme groupusculaire et investit le web
+	- Se qui désemparé la gauche qui se réduit a être pecus comme d'ennuyant défenseur..euses du statu quo.
+-

@@ -21,6 +21,8 @@
 - Théorie de l'écriture qui passe avant tout par le corps
 	- L'imaginaire pense que l'écriture est une activité intellectuelle qui est souvent éloigné du corps
 - Pour Cixious il est impossible de définir une pratique d'écriture féminine
+-
+-
 - Lacan à fait plusieurs séminaires et dans son 20ème il parle de la sexualité féminine, il s'intitule *En corps*
 	- L'orgasme féminin dépasserai le langage et il serait impossible à décrire.
 	- La Loi chez Lacan est l'organisation social phallocentrique patriarchal
