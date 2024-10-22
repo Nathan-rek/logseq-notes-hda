@@ -19,3 +19,4 @@
 			- Stade phallique(présent aussi chez les filles par le clitorice): sentiment de toutes puissance vis à vis de leur organes, masturbation récurrente chez les enfants
 	- Donc pour Freud la découverte du monde passe par le corps, ces stades reste des lieux privilégié de la sexualité
 - Freud met en avant la régénération du patriarcat dans chaque génération
+- Freud se méfie de la musique car elle résiste au langages

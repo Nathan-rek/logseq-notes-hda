@@ -1,10 +1,11 @@
 - Issu d'un école formaliste proche de Greenberg et Fried elle suivra sa propre voie vers une sociologie de l'art
-- # Grilles, Rosalind Krauss
+- # Grilles
 - La grille comme structure formelle apparait en Europe dans les arts visuels. Symptôme visuel de la [[Modernité]]
 	- La grille contre l'illusion de la parole
 	- Cette investigation de la grille se voue aujourd'hui à l'échec pour Krauss face aux pratiques de l'art contemporain.
 - La grille résiste à l'expansion, l'extension, la transmutation.
 	- Pour Krauss [[Piet Mondrian]] à émis une œuvre ((65d37714-b729-417a-8824-f7b8e7265c57)) et la répète pendant 15 ans et le [[Modernisme]] continue d'engendrer des exemples de grille.
+- Piet Mondrian: Composition 1, Lozenge with Four Lines , 1918 ![Piet Mondrian, Composition No. 1: Lozenge with Four Lines, 1930. Oil on canvas, 29 5/8 x 29 5/8 inches (75.3 x 75.3 cm); vertical axis: 41 3/8 inches (105.1 cm); horizontal axis: 42 5/8 inches (108.3 cm)](https://www.guggenheim.org/wp-content/uploads/1930/01/71.1936.R96_ph_web-1.jpg)
 - La grille fonctionne de deux manières
 	- Spatial: bidimensionnelle, géométrique, ordonné, elle est antinaturelle , anti mimétique elle va à l'encontre du réel.
 		- Décret esthétique où l'ordre n'est que relation pure, elle permet de refouler la prétention qu'ont les objets naturels d'avoir un ordre propre
@@ -27,3 +28,21 @@
 			- La fenêtre éclaire et reflète elle est la naissance via l'éclaircissement mais le reflet devient le gel celui qui fige
 				- Pour Mallarmé c'est *la cristallisations de la réalité dans l'art*
 					- Odille Redon: Jour, 1891  ![Odilon Redon | Le jour VI (1891) | MutualArt](https://media.mutualart.com/Images//2021_09/08/18/185414033/c7dca692-2650-4fb9-b3b4-7746ef361836.Jpeg)
+- # The originality of the Avant-Garde: A Postmodernist Repetition
+- Rodin décède en 1918 léga tout son héritage à l'été Français, il lega donc le droit de reproduction de ses œuvre notamment le droit d'utiliser ses moules pour refaire des œuvres, il limiterai à 12 le nombre de reproduction de la porte des enfers ((65480be3-819c-46f5-b25d-348e223d9332))
+	- Le problème est que Rodin n'as jamais finit de son vivant le moule entier c'est une recomposition à partir de note, le premier bronze s'est fait en 1921 3 ans après la mort de Rodin
+	- La porte de l'enfer est donc un multiple qui n'existe sans original
+		- La notion d'authentification est un problème dans chacune de version tout reproduisant une porte différente sur la même base
+		- La notion de multiple est marquante chez les artiste suite a [[Walter Benjamin]] le négatif comme le moule sont les particularités de ses mediums et deviennent des possibles multiples
+			- Rodin n'allait jamais à l'usine ou été coulé ses sculptures il ne s'intéressait qu'au moule, le résultat lui importait peu.
+				- Le travail de Rodin était fait de potentiel multiples
+					- ((661877cf-c29a-4526-b2a1-61f46d745ddd))
+- Ou placer un..e artiste en perpétuel quête de singularité par l [[L'Originalité]] quand à sa mort sa production devient reproductible
+- Pour [[Rosalind Krauss]] on passe d'une culture de l'original à une culture du multiple
+- Le photographe est celui qui prend la photo et on le jugera sur sa prise de photo et non sur sa maniere de l'imprimer
+- Dans les avant-gardes américaines le souhait est d'être nouveaux non pas en brulant le passé mais un nouveau littérale, qui serait le fruit d'un fluide amniotique
+	- Une création à partir de 0
+	- Prend le soi comme origine est une solution car il n'y aurait de contamination du passé
+		- De plus si il est maintenu par une possible régénération du soi
+			- [[Kazimir Malevitch]] disait *Only he is alive who rejects his convictiosn of yesterday*
+	- Le travail des avant gardes est plus un travail sur la notion [[L'Originalité]] que un travail qui produirait de [[L'Originalité]]

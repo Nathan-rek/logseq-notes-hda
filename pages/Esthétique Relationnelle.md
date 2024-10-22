@@ -62,7 +62,7 @@
 			- Toute relations intersubjective passe par la forme du visage qui symbolise la responsabilité qui nous incombe par rapport à autrui
 	- Produire une forme c'est inventer des rencontres possibles, recevoir une forme c'est créer les conditions d'un échange
 - L'interactivité de plus en forte apparait aussi dans les arts avec des œuvres qui s'adonnent de plus en plus à des possibilités d'interactions
-	- Question le monde de l'art comme un milieu relationnelle suralimenté de d'inter-connexion. De ce réseaux dense certain..e voit une autonomie ou "c'est l'art qui fait l'art, pas les artistes"
+	- Question le [[Monde de l'art]] comme un milieu relationnelle suralimenté de d'interconnexion. De ce réseaux dense certain..e voit une autonomie ou "c'est l'art qui fait l'art, pas les artistes"
 		- [[Nicolas Bourriaud]] s'oppose à ce cyber-déterminisme car pour lui le [[Monde de l'art]] est alimentés par des pratiques extérieurs, il qualifie donc le réseau de l'art comme poreux et il détermine l'évolution du [[Monde de l'art]] par le rapport de ce réseaux à avec l'ensemble des champs de productions.
 		- Il y ajoute une historicité de [[Art Relationnel]] .
 			- Dans un premier temps l'art est une interface qui nous met en relation avec le divin ( Humanité - Divin)

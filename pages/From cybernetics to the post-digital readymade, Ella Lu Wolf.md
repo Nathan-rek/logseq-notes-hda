@@ -1,5 +1,5 @@
 - L'arrivé des technologies et du digital en plus d'avoir modifiée la production, a aussi modifiée la distribution et la consommation
-	- Mais la digitalization du monde de l'art contemporain n'est pas qu'une nouvelle manière de challenger l'art. C'est aussi devenu un nouveaux système néo-libérale qui c'est mis en place avec des outils digitaux comme les réseaux sociaux
+	- Mais la digitalization du [[Monde de l'art]] contemporain n'est pas qu'une nouvelle manière de challenger l'art. C'est aussi devenu un nouveaux système néo-libérale qui c'est mis en place avec des outils digitaux comme les réseaux sociaux
 - Les productions artistiques liées au digital ont mis du temps à s'inscrire dans le paysage artistique institutionnelle car étaient difficilement conservable du à mise à jour constante des matériaux et des technologies.
 	- Avec les [[Les Immatériaux 1985]] la curation d'œuvre digital a pris un autre tournant
 		- [[Cory Arcangel]] cherche à interroger ses enjeux de conservation numérique, il a notamment retrouver et réhabilité les dessins de [[Andy Warhol]] fait sur ordinateur. Il fait aussi de même avec l'ordinateur de Michel Majerus dans [*Let's play majerus*](https://coryarcangel.com/shows/715)

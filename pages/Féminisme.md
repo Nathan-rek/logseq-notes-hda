@@ -1,0 +1,6 @@
+- La première vague du féminisme va se battre pour le droit de vote avec les suffragettes
+	- Acquis en en Belgique en 1948 et dans d'autre pays par la suite.
+- Dans les années 1950 au Etats-Unis il renaît avec la "Mystique féminine"
+	- Un livre qui parle de la dépression des femmes dans les banlieues résidentielle
+- En France après 1968 un deuxième élan prend forme notamment avec [[Hélène Cixious]] et [[Monique Wittig]]
+- La 4ème vague du Féminisme remet en question les représentations du divin féminin et masculin

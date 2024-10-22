@@ -5,6 +5,8 @@
 	- Philosophe du langages, la langue est toujours un excès d'elle même
 	- Lui aussi juif d'Algérie
 - Le Rire de la méduse parais en 1975
+- Le féministe de Cixious n'est pas tant oppositionnelle
+	- Comment les H et les F peuvent se rencontrer malgré le patriarcat
 - ## Le Rire de la méduse
 - Le projet est de redonner aux femmes l'écriture, la possibilité d'écrire leurs histoire
 	- Ecrire leurs propres mouvement, en dehors de l'histoire patriarcal
