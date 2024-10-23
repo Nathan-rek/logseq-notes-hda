@@ -1,4 +1,13 @@
 - Né en Grand Bretagne fort influencés par les philosophes de la French Theory
+- Hoggart et Stuart Hall sont des marxistes, il fonde le centre d'étude culturelle en Angleterres
+	- Pour regarder les question culturelles il faut prendre en compte le poids de l'idéologie
+		- Pour Stuart Hall c'est l'idéologie qui va façonner notre rapport au monde, qu'est ce qui est de l'ordre l'idéologie dans les médias et dans la culture
+	- Le Cultural Studies vont donner de la subjectivité aux individus
+		- Face au media que se passe t'il dans la réception
+- Potentiel risque de relativisme
+	- Reproche d'être relativiste en mettant à mal la hiérarchie et donc tout est équivalent et tout est dans tout
+- L'approche media culturelle est de comprendre le sens des classe
+- La culture comme le fruit d'un environnement particulier qui traverse les individus
 - Approche interdisciplianires ouverte et expérimentale
 	- Etudient tout les phénomènes culturel en évitant d'isoler de leurs contextes sociaux
 	- Intègre les rapports de forces qui sont en jeu dans les pratique culturelles
@@ -11,4 +20,11 @@
 		- Bien qu'il faut préserver
 		- Validation par le ministère
 		- Risque de démocratisation élitaires et de non reconnaissance de la diversité culturelle
--
+- Prend origine avec la théorie Critique
+	- Ecole de Frankfurt
+		- Adorno et la culture de masse
+	- Guy Debord et la société des spectacles
+	- Pierre Bourdieu
+- Tous en critique de la hiérarchie culturelle
+	- La haute culture
+	- La basse culture à direction des masses, Aliénation par les [[Industries Culturelles]]
