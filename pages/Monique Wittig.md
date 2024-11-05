@@ -2,6 +2,12 @@
 	- A 29ans en 1969 elle sort son premier roman et gagne le prix Médicis et est publier au Editions Minuits
 - Elle va participer à la renaissance du [[Féminisme]] en Europe
 - Wittig en tant que lesbienne marxiste, elle conçoit les femmes comme une classe et l'hétérosexualité comme la matrice social dominante
+- Pour Wittig la différence sexuel et le [[Féminisme différentialiste]] ne marche pas pour les lesbiennes
+	- Les H et les Femmes comme l'étant donné, comme le jardin d'Eden, mythologie qui s'incarne dans la religion, la moral, la sciences
+	- La médecine et le discours médical voit l'hétérosexualité comme la seul pratique saine.
+		- Jusqu'en 1980 l'homosexualité est vu comme une maladie
+	- Pour Wittig le problème premier est la vision de l'hétérosexualité comme mythe fondateur de la pense occidentale ((6717bd02-d185-45d0-9a5a-e3ff9dc3b395))
+	- La vision de l'hétérosexualité est pour Wittig ce qui empêche d'exister comme sujet lesbiens
 - # Les Guérillères
 - Le livre commence après le renversement du patriarcat
 	- Des femmes essaie de nettoyer la nouvelle société des reste du patriarcat
@@ -24,6 +30,7 @@
 - Lors de la chasse aux Hommes le male gaze est retourner, c'est l'H qui est décrit par ses attributs physiques "le mal jambé"
 - En fessant un personnage principale collectif on rend impossible l'indiviud
 - # La pensée Straight
+  id:: 6717bd02-d185-45d0-9a5a-e3ff9dc3b395
 - La place du langage dans les mouvements lesbiens et de libération de la femme.
 	- Le développement de la linguistique a fort impacter le langage social et le langage du pouvoir
 	- Les imbrications du langage dans le pouvoir fait perdre de vue les cause matérielle des oppressions

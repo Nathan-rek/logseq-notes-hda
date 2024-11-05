@@ -1,5 +1,6 @@
 - Intellectuelle née en Algérie en 1936 dans une famille juive d'Oran
 	- Les juives présent dans les colonies françaises se sont fait considéré comme citoyen..nes par les colonies françaises et non comme indigènes comme les populations algériennes non juives
+- Se raccroche au mouvement [[Féminisme différentialiste]]
 - Elle quitte l'Algérie pour Paris très jeunes, elle se marie et à des enfant très jeunes et est très tôt reconnue par l'académie. Elle écrit des romans, des pièces de théâtre, et des essaies théoriques
 - Grand Amour de Jacques Derrida
 	- Philosophe du langages, la langue est toujours un excès d'elle même

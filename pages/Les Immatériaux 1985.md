@@ -34,7 +34,7 @@
 		- [[Marcel Duchamp]] : Infra-Minces ![image.png](../assets/image_1698530717395_0.png)
 			- Concept esthétique désignant une différence ou un intervalle imperceptible parfois imaginable entre deux phénomènes
 			- [[Marcel Duchamp]]: Pistons de courant d’air ![image.png](../assets/image_1698530758869_0.png)
-	- A fort engraissement les surfaces se muent en relief mouvementés, la chaire se résout en cellules impalpables. L’art délaisse l’apparence visible pour l’insaisissable apparition. Ce que [[Marcel Duchamp]] nommait l’infra-Mince > Caresses infra minces
+	- A fort engraissement les surfaces se muent en relief mouvementés, la chaire se résout en cellules impalpables. L’art délaisse l’apparence visible pour l’insaisissable apparition. Ce que [[Marcel Duchamp]] nommait l’[[Inframince]]
 		- Yves KLEIN: Zones de sensibilité pictural immatérielle, 1959 ![image.png](../assets/image_1698530792346_0.png)
 		- Documents témoignant de la cession des zones de sensibilité picturale au bord de la seine
 		- Giovanni ANSELMO :Invisible ![image.png](../assets/image_1698530777826_0.png){:height 383, :width 500}
