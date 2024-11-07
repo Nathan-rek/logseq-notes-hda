@@ -4,9 +4,9 @@
 		- La création de xéno-entités: Xenofeminism, a politics for Alientation
 		- Techno-matérialisme
 			- Réimplanter les potentiels émancipateurs féministes et sociales dans les technologies
-		- Anti-naturalisme
+		- Antinaturalisme
 			- Refuse l'utilisation de la "nature" pour justifier des considérations "sociale" (prédisposition des femmes à la maternité)
 			- Penche vers le bio hacking et désacralise le corps naturel
 		- Abolitionnisme du genre
 - Dans un monde qui rentre dans un accélérateur technologiques géant transformé par l'automatisation, la mondialisation et la révolution numérique
-- S'émanciper par l'aliénation,
+- S'émanciper par l'aliénation

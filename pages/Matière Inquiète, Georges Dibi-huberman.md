@@ -12,7 +12,7 @@
 	- Liquide
 		- La cire serait une contradiction des qualités matérielles
 			- Elle ignorerait les contradictions et les hiérarchies traditionnelles des arts plastiques
-- La cire ne consiste en rien d'autres que sa modifications
+- La cire ne consiste en rien d'autres que sa modification
 	- Elle n'as pas de stabilité ni de consistance
 - Travail la viscosité
 	- Ce qui échappe aux catégories car trop changeant trop mouvant

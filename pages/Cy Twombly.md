@@ -4,11 +4,12 @@
 - La référence à l’antiquité peut être épique et déployer dans un espace pictural large.
 	- Cy Twombly: [*Ilium (One Morning Ten Years Later) \[Part I\]*](https://www.thebroad.org/art/cy-twombly/ilium-one-morning-ten-years-later-part-i), 1964 ![Image Currently Unavailable](https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/twombly_ilium.jpg.webp?itok=oDo0BkQm)
 		- L’allusion graphique au champ de bataille de la guerre entre Grec et Troyens.
-		- Pour Richard LEEMAN *«l’évocation ne se joue pas dans l’adéquation entre le tableau et le paysage mais entre l’image acoustique du mot»*
+		- Pour Richard Leeman *«l’évocation ne se joue pas dans l’adéquation entre le tableau et le paysage mais entre l’image acoustique du mot»*
 - Cy Twombly: [*Dionysus*](https://namingthegods.com/artwork/4595224.html), 1975 ![](https://img-cache.oppcdn.com/fixed/66129/assets/PsTdCqGVN1ktX8pY.jpg)
 	- Certain..es voit dans le travail de Twombly de la figuration qui associe sexualité et guerre.
 		- Le phallus de profil répétés dans ces œuvres représentais aussi bien à des chars [ créant un pictogramme de guerre ] mais aussi un dionysiaque en voie d’extase
-- Cy Twombly: [*Venus*](https://artblart.com/2017/04/11/exhibition-cy-twombly-at-the-centre-pompidou-paris/cy-twombly-venus-1975-web/), 1975 ![Cy Twombly. 'Venus' 1975](https://artblart.files.wordpress.com/2016/12/cy-twombly-venus-1975-web.jpg?w=650) / Cy Twombly: [*Apollo*](https://artblart.com/2017/04/11/exhibition-cy-twombly-at-the-centre-pompidou-paris/twombly-apollo-web/), 1975 ![Cy Twombly. 'Apollo' 1975](https://artblart.files.wordpress.com/2016/12/twombly-apollo-web.jpg?w=650)
+- Cy Twombly: [*Venus*](https://artblart.com/2017/04/11/exhibition-cy-twombly-at-the-centre-pompidou-paris/cy-twombly-venus-1975-web/), 1975 ![Cy Twombly. 'Venus' 1975](https://artblart.files.wordpress.com/2016/12/cy-twombly-venus-1975-web.jpg?w=650)
+	- Cy Twombly: [*Apollo*](https://artblart.com/2017/04/11/exhibition-cy-twombly-at-the-centre-pompidou-paris/twombly-apollo-web/), 1975 ![Cy Twombly. 'Apollo' 1975](https://artblart.files.wordpress.com/2016/12/twombly-apollo-web.jpg?w=650)
 	- Autour des noms surlignés on déchiffre des épiclèses[^90]et une liste d’attribut.
 		- Dans le cas de Venus la tache rouge entre fleur et marque sanglante renvoi au mythe de Hyacinthe qui présente une métamorphose florale coloré issue d’une mort violente
 	- Le lecteur..ices, spectateur..ices devien..nent épigraphiste[^91]suivant l’artiste dans sa double fascination pour les écritures archaïques, secrètes, énigmatique et les jeux d’allusion anagrammatiques plus conceptuels
@@ -24,7 +25,7 @@
 - Cy Twombly peut être vue comme rhéteur et sophiste.
 	- Il s’intéresse au rapport des formes, aussi picturale et graphique, avec la parole et à l’efficacité pragmatique de son geste sur l’espace du tableau sur le regard du spectateur..ices et ses affectes et idées.
 		- Mythographie au lieu de idées.
-			- Mythographie pour les linguistes DUCROT-TODOROV une activité psychique consciente, intentionnelle et d’un mode d’expression plus irrationnel, inconscient qui la soumet. Une mythographie dans le sens étymologique de muthos: l’inscription de parole qui ont un sens
+			- Mythographie pour les linguistes Ducrot-Todorov une activité psychique consciente, intentionnelle et d’un mode d’expression plus irrationnel, inconscient qui la soumet. Une mythographie dans le sens étymologique de muthos: l’inscription de parole qui ont un sens
 	- La logique sémantique à travers les formes structure un tableau ou un dessin de Twombly.
 		- Son dessin est un discours visuel ce qui fait une parole proprement artistique, toujours allusive complexe et simple à la fois à interpréter et ressentir en même temps
 - Twombly ne veut exprimer aucune nostalgie du passé ce qui en ferait un néo-classique au sens conservateur.
@@ -34,19 +35,19 @@
 - Cy Twombly: [*Cinquante jours à Iliam. Bouclier d Achille*](https://fr.wahooart.com/@@/8XXSFQ-Cy-Twombly-Cinquante-jours-à-Iliam.-Bouclier-d-Achille), 1978
 - ## Mythes Romain
 - Cy TWOMBLY: [*Nine Discourses on Commodus*](https://www.guggenheim-bilbao.eus/en/the-collection/works/nine-discourses-on-commodus), 1963. ![Nine Discourses on Commodus, Part II | Cy Twombly | Guggenheim Bilbao Museoa](https://cms.guggenheim-bilbao.eus/uploads/2019/01/cy-twombly-nine-discourses-on-commodus-2.jpg)
-	- Suite à l’assassinat de KENNEDY en 1963, l’artiste craignant la violence qui s’installait au USA l’artiste à peint [*Nine Discourses on Commodus*](https://www.guggenheim-bilbao.eus/en/the-collection/works/nine-discourses-on-commodus), 1963
-		- Inspiré par la vie de l’empereur romain COMMODUS, il se compose de neuf grandes toiles sur fond gris, qui sont comme des explosions de sang et de chair (celles du cerveau de KENNEDY qui macula le tailleur clair que portait Jackie, son épouse, assise à ses côtés au moment de l’assassinat)
-			- Le cycle est basé sur la cruauté, la folie et le meurtre éventuel de l'empereur romain Aurèle COMMODE.
+	- Suite à l’assassinat de Kenndy en 1963, l’artiste craignant la violence qui s’installait au USA l’artiste à peint [*Nine Discourses on Commodus*](https://www.guggenheim-bilbao.eus/en/the-collection/works/nine-discourses-on-commodus), 1963
+		- Inspiré par la vie de l’empereur romain Commodus, il se compose de neuf grandes toiles sur fond gris, qui sont comme des explosions de sang et de chair (celles du cerveau de Kennedy qui macula le tailleur clair que portait Jackie, son épouse, assise à ses côtés au moment de l’assassinat)
+			- Le cycle est basé sur la cruauté, la folie et le meurtre éventuel de l'empereur romain Aurèle Commode.
 - ### L’univers esthétique des photographies de Cy Twombly
   L’œuvre photographique de Cy Twombly inclut un vaste nombre de Polaroïds, imprimés avec la technique du dry-print [^92]et du tirage Fresson.
 - Suite à l’été passer au [[Black Mountain College]] avec [[Robert Rauschenberg]] ou les deux effectuent peinture photographie assemblages sculptés à la palette restreintes.
 	- A l’époque du séjour Twombly une réflexion critique et artistique autour de l’usage et de la valeur du noir et blanc.
-		- Réflexion soutenu par des enseignant..es comme Clément GREENBERG
+		- Réflexion soutenu par des enseignant..es comme Clément Greenberg
 		- C’est dans ce cadre la que née un des premiers clichés significatif de la photographie de Twombly
 			- Cy Twombly : [*Still Life*](https://artblart.com/2017/04/11/exhibition-cy-twombly-at-the-centre-pompidou-paris/still-life-black-mountain-1-web/), 1951 ![Cy Twombly. 'Still Life, Black Mountain College I' 1951](https://artblart.files.wordpress.com/2016/12/still-life-black-mountain-1-web.jpg?w=650)
 				- Un nature morte au sens classique qui présente un caractère simple par sa composition
 				- La photo est animé par la réflexion de la lumière sur le verre et semble taché par de la gouache.
-	- Le vrai voyage qui développa la photographie chez TWOMBLY est son voyage en Europe avec [[Robert Rauschenberg]]
+	- Le vrai voyage qui développa la photographie chez Twonbly est son voyage en Europe avec [[Robert Rauschenberg]]
 		- Les deux documentaient leur voyage de photos
 			- [[Robert Rauschenberg]]: [*Cy and Roman Steps*](https://www.sfmoma.org/artwork/98.297.A-E/), 1952 ![Robert Rauschenberg, Cy + Roman Steps (I–V), 1952, printed ca. 1997 · SFMOMA](https://sfmoma-media-dev.s3.us-west-1.amazonaws.com/www-media/2018/05/18114625/CY_98.297.A-E.jpg){:height 110, :width 450}
 				- Une série de clichés qui montrent Twombly en train de descendre les escaliers en face d’une église romaine

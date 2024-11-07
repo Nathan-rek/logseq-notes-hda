@@ -1,6 +1,6 @@
 - Philosphe et physicienne née en 1956, elle a fait une thèse en physique, elle noue la physique quantique et la philosophie queer
 - Basé sur le principe de la physique quantique de Bohr
-	- Bohr à changer l'incertitude en l'interdetermination
+	- Bohr à changer l'incertitude en l'inter-détermination
 - Réalisme Agentielle
 	- L'unité de base de la réalité au niveau des propriétés empiriquement vérifiables de la matière est le phénomène entre les partie
 	- Les choses n'existent pas seul elles sont en interdépendance et donc la matière au niveau atomique est enchevêtrer.
@@ -24,7 +24,7 @@
 		- Un préjuges normaux hétéronormés
 	- Elle base sa théorie sur l'étude des éclairs
 		- On c'est rendu compte que les éclairs ne vient pas que du ciel, le sol projetait aussi de l'électricité
-		- Schema de l'eclaire qui ne serait pas hétéronormé
+		- Schéma de l'éclaire qui ne serait pas hétéronormé
 			- La terre est active dans la création de l'éclair
 	- La trans-matérialité car tout se redéfinit en permanence par l'interaction quantique
 		- Tout comme l'éclair qui est précaire qui parvient par l'interaction d'éléments chargés
@@ -43,6 +43,6 @@
 	- Dans l'espacetempsmatérialisant, il n'y a pas d'espace et de temps absolu, la matière est imbriqué dans l'espace temps
 - La séparation d'un noyau d'un atome redéfinit le champ géopolitique social
 - Le vide existe t'il ?
-	- N'est il pas un outils utiliser  le capitalisme, le [[Colonialisme]], L'imperialisme, le militarisem.
-		- Les colon détermine la terre vierge comme celle qui n'aurait pas de bâtisse Nature, a l'inverse d'une terre qui serait bâti et qui ferait la culture [[Nature - Culture]]
+	- N'est il pas un outils utiliser par le capitalisme, le [[Colonialisme]], L'imperialisme, le militarisme.
+		- Les colons déterminent la terre vierge comme celle qui n'aurait pas de bâtisse *Nature*, à l'inverse d'une terre qui serait bâti et qui ferait la *culture* [[Nature - Culture]]
 		- Le vide n'est pas un fond que lequel apparait quelque chose, mais une partie constitutive active de chaque chose.
