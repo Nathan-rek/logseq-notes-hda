@@ -1,15 +1,13 @@
 - En 1933 en Caroline du Nord des professeur..euse et des étudiant..es aux vues idéalistes et égalitaires et qu’aucun système éducatif ne satisfait créent un collège peu conventionnel, littéralement expérimental
-- Le collège s’est choisi une orientation pédagogique libérale axée sur l’expérience de petites communautés, encourageant la participation de chacun, son indépendance, la place centrale de l’art dans le programme d’étude et la mise en avant du travail manuel.
+- Le collège s’est choisi une orientation pédagogique libérale axée sur l’expérience de petites communautés, encourageant la participation de chacun..e, son indépendance, la place centrale de l’art dans le programme d’étude et la mise en avant du travail manuel.
 - ### Les principes de l’éducation progressiste de John Dewey
 - Il qualifiait sa doctrine d’ «Instrumentalisme», d’ «Expérimentalisme» ou encore d’ «Empirisme immédiat» critiqué pour son épistémologie instrumentaliste qui insiste sur « le rôle actif de l’intelligence et sa capacité de guider l’action », ou encore pour son « programme pédagogique d’apprentissage par la pratique » («learning by doing»).
-	- DEWEY se fait l’initiateur du « hands on learning » (apprendre par l’action) pour lequel, loin de l’autorité habituelle, le maître est un guide et l’élève apprend en agissant.
-- Lors de conférence données à Harvard Dewey s’efforce de remédier au problème le plus fondamental de l’esthétique moderne, à savoir que l’œuvre d’art est souvent conçue comme une entité physiquement indépendante de l’expérience et, davantage encore, isolée d’elle par son statut prestigieux de chose digne d’être admirée dans la sphère de sa propre convention
-	- La première tâche qui s’impose au philosophe est donc de « restaurer la continuité entre les formes de l’expérience raffinées et plus intenses que sont les œuvres d’art et les événements, les actions et les souffrances qui sont universellement tenus pour constituer l’expérience
-	  
-	  *«l’expérience concerne l’interaction de l’organisme avec son environnement, lequel est tout à la fois humain et physique, et inclut les matériaux de la tradition et des institutions aussi bien que du cadre de vie local»*
-	  
-	  *John Dewey*
-- L’expérience est donc fondamentalement relationnelle, elle dépasse sa nature organique d’assimilation de l’environnement physique et biologique et intègre aussi bien les valeur esthétique et les idéaux moraux.
+	- Dewey se fait l’initiateur du « hands on learning » (apprendre par l’action) pour lequel, loin de l’autorité habituelle, le maître est un guide et l’élève apprend en agissant.
+- Lors de conférences données à Harvard Dewey s’efforce de remédier au problème le plus fondamental de l’esthétique moderne, à savoir que l’œuvre d’art est souvent conçue comme une entité physiquement indépendante de l’expérience et, davantage encore, isolée d’elle par son statut prestigieux de chose digne d’être admirée dans la sphère de sa propre convention
+	- La première tâche qui s’impose au philosophe est donc de « restaurer la continuité entre les formes de l’expérience raffinées et plus intenses que sont les œuvres d’art et les événements, les actions et les souffrances qui sont universellement tenus pour constituer l’expérience.
+		- *«l’expérience concerne l’interaction de l’organisme avec son environnement, lequel est tout à la fois humain et physique, et inclut les matériaux de la tradition et des institutions aussi bien que du cadre de vie local»*
+		  *John Dewey*
+- L’expérience est donc fondamentalement relationnelle, elle dépasse sa nature organique d’assimilation de l’environnement physique et biologique et intègre aussi bien les valeur esthétiques et les idéaux moraux.
 	- C’est donc de l’articulation même entre [[Nature - Culture]] que procède l’expérience
 		- Située à leur point de jonction, elle relève de cette capacité proprement humaine d’entrer en relation avec l’environnement par le biais de signes et de symboles.
 - Dewey préconise de retrouver une continuité entre l’expérience esthétique et les processus de la vie quotidienne, c’est parce que, selon lui, les traits génériques de toute expérience « normale » – nos activités dites « ordinaires » – constituent la base de l’expérience esthétique, mais s’y trouvent amplifiés ou intensifiés
