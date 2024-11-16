@@ -1,4 +1,5 @@
 - [*Variants*](https://www.kistefosmuseum.com/sculptur/variants) est une œuvre de [[Pierre Huyghe]] commandité par le [Kistefos Museum](https://www.kistefosmuseum.com/)
+  id:: 661023ca-72de-4709-8500-676a509561e3
 	- Sur un île en Island Pierre a scanné une île en entière avec une technique de point cloud [^1]
 	- ![Variants" by Pierre Huyghe – Kistefos](https://kistefos.imgix.net/Pierre-Huyghe-Variants-2021-Courtesy-of-the-artist-Hauser-and-Wirth-London-Kistefos-3D-Scanning-point-cloud-visualization-and-point-cloud-engine-by-ScanLAB-Projects-c-Pierre-Huyghe.jpg?auto=compress%2Cformat&bg=%23FFFFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.5&fp-y=0.5&h=481&q=75&w=700&s=1a70919623ed469bc67e6212b42188d6)
 	- Avec des systèmes de reconnaissance de pattern le scan peut de façon active reproduire le lieu numériquement.

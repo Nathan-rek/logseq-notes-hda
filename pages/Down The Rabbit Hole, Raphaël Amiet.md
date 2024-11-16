@@ -1,5 +1,4 @@
 # Notre défaite face aux Mythes, Raphaël Amiet
-title:: Down The Rabbit Hole, Raphaël Amiet
 - La démocratisation d'internet a permis de développe des récits de [[Contre-culture]], remettant en question le discours dominant.
 - Le 11 septembre (9/11) a secoué l'hégémonie occidentale et a marqué le début d'une nouvelle ère, une ère de méfiance générale envers les institutions, les médias et les politiques.
 - Les récits alternatifs, ces nouvelles mythologies, prennent de plus en plus de place.
@@ -35,11 +34,11 @@ title:: Down The Rabbit Hole, Raphaël Amiet
 - Cette théorie prenant sa source dans des groupes d'extrémistes blancs commence à attirer de plus en plus de personnes, notamment des femmes pourtant exclues à l'origine de ces mouvements extrémistes.
 	- Notamment avec le *Pastel QAnon* : un sous-mouvement où des influenceuses intègrent la rhétorique de QAnon dans du lifestyle.
 		- En cela, elles contribuent massivement au développement de la campagne *Save The Children*.
-- En Europe QAnon a pris d'autres formes. Le covid-19 a ete la porte d'entre pour la mythologie QAnon
+- En Europe QAnon a pris d'autres formes. Le covid-19 a été la porte d'entre pour la mythologie QAnon
 - L'une des références de QAnon est un roman de l'extrêmes gauche italiennes L'Œil de Carafa,
-	- Un roman de 1999 publié par Luther Blisset un pseudo utilisé collectivement par plusieur activitse dans le monde.
+	- Un roman de 1999 publié par Luther Blisset un pseudo utilisé collectivement par plusieurs activiste dans le monde.
 		- Le personnage principale est Q, un espion infiltré dans le mouvement sociaux du XVIème siècle travaillant à faire triompher l'Eglise catholique contre la Reforme protestante
-		- L'un des createur du Q italien connu sous le nom de Wu-Ming 1, lance une enquete approfondie du QAnon.
-			- Dans son livre Q comme Qomplot Wu Ming 1 dresse un atlas de ces fantasme conspirationnsites qui ont exploiter les potentialités politique d'internet. de Umberte Eco, au Beattles en passant par le Luhter Blissert Project.
-	- Pour Wu-Ming 1 la phrase de [[Walter Benjamin]] *"chaque monté du fascisme témoigne d'une révolution ratée."*  est souvent mal-interprétés. Les accusateur..ices des ces révolution ratées votn ensuite lancer un mouvement contre-revolutionnaires et reactionnaires.
-		- Par exemple la défaite du mouvement hippie et le new-age au USA a imprimer une nouvelle culutre néoliberales.
+		- L'un des créateurs du Q italien connu sous le nom de Wu-Ming 1, lance une enquête approfondie du QAnon.
+			- Dans son livre Q comme Qomplot Wu Ming 1 dresse un atlas de ces fantasme conspirationnistes qui ont exploiter les potentialités politique d'internet. de Umberte Eco, au Beattles en passant par le Luhter Blisset Project.
+	- Pour Wu-Ming 1 la phrase de [[Walter Benjamin]] *"chaque monté du fascisme témoigne d'une révolution ratée."*  est souvent mal-interprétés. Les accusateur..ices des ces révolution ratées vont ensuite lancer un mouvement contre-révolutionnaires et réactionnaires.
+		- Par exemple la défaite du mouvement hippie et le new-age au USA à imprimé une nouvelle culture néolibérales.

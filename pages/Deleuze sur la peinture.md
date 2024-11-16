@@ -265,4 +265,3 @@
 	- Diagramme qui fait sortir quelque chose
 		- Il agit comme diagrame mais n'occupe pas tout le tableau
 			- Il parait figuratif mais il n'est pas, il fait figurer le non-figuratif
--
