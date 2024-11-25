@@ -1,13 +1,13 @@
 - Le cybersapce est une alternative virtuelle à notre monde actuel.
-	- Un espace sensée etre désidentifiés, une liberté de mouvement au dessus des race sexe frontières.
+	- Un espace sensée être désidentifiés, une liberté de mouvement au dessus des races, sexes, frontières.
 	- Pour Felix Guattari le développement des technologies numériques participe à un:
 		- *remaniement du pouvoir mass-médiatique qui écrase la subjectivité contemporaine et [d’]une entrée vers une ère postmédia consistant en une réappropriation individuelle collective et un usage interactif des machines d’information, de communication, d’intelligence, d’art et de culture[1](https://journals.openedition.org/hybrid/931?lang=en#ftn1) *
-	- Aujourd'hui ce qui paraissait comme une [[Utopie]] virtuelle est devenu un aliénation capitaliste
-	- L'idée aujourd'hui n'est plus de pensée qu'une autre réalité est possible, mais de protégé les zonez du saccage capitaliste.
-	- Pour cela il faut une nouvel perspective du monde, une perspective qui passe par une forme d'acceptation du nouveaux paysage capitaliste qui s'est dessiner et qui domine
+	- Aujourd'hui ce qui paraissait comme une [[Utopie]] virtuelle est devenu une aliénation capitaliste
+	- L'idée aujourd'hui n'est plus de pensée qu'une autre réalité est possible, mais de protégé les zones du saccage capitaliste.
+	- Pour cela il faut une nouvelle perspective du monde, une perspective qui passe par une forme d'acceptation du nouveaux paysage capitaliste qui s'est dessiné et qui domine
 		- Il faut ce que Cornélius Castoriadis appelait « l’imagination instituante[3](https://journals.openedition.org/hybrid/931?lang=en#ftn3) ». Il nous faut apprendre à voir les mêmes choses autrement, sous un autre angle, de façon à en saisir d’autres saillances donnant lieu à d’autres possibilités de prises.
-- Pour aborder ce nouveau monde et cette imagination collective il faut avoir en tete la notion de Alfred North Whitehead, *préhension*
-	- Les donnés devrait être traduite comme préhension. Les data ne sont pas gratuites elles sont le fuir de calcul couteux et donc intéressé
+- Pour aborder ce nouveau monde et cette imagination collective il faut avoir en tête la notion de Alfred North Whitehead, *préhension*
+	- Les donnés devrait être traduite comme préhension. Les data ne sont pas gratuites elles sont le fruit de calcul couteux et donc intéressé
 - Pour Bruno Latour il faut questionner les *faits* qui comme leur nom l'indique ont été faits, fabriqué, et ne sont pas prétendument objectif.
 - Le renversement de perspective nécessaire à mieux nous orienter dans le déploiement actuel des possibilités du numérique appelle à chercher d’autres modèles imaginaires
 	- C'est pour Pierre Lévy le virtuel: Comprendre quelles sont les « vertus » encore non découvertes du numérique

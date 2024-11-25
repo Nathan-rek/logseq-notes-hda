@@ -29,6 +29,6 @@
 			- L'amour des objets de ou la fascination pour la célébrité peut être un moment de répit face *l'obscurité de l'instant vécu*
 				- [[Andy Warhol]]: [*Liz [Early Colored Liz]*](https://lacmaonfire.blogspot.com/2020/02/broad-buys-warhol-liz-taylor-celebrates.html), 1963 ![Broad Buys a Warhol Liz Taylor; Announces Anniversary Shows](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUyXm1leX90ZLDOcaXQvqWn1uychd-lY-wdIRr3rk0AjVX8Z7Yn15Wq4qCehoslhTaQ_1uRsyuXss7LOLIFKXuzWv0DmXBunFeGgCSEIuGAuRfFE5TXPbI9zhcGbgu427m-OAkS9fOvxjk/s1600/Liz.jpg)
 			- L'étonnement nous permet de dépasser les limites d'un présent aliénant
-	- Le poème de O'Hara sur deux individus partageant un coca redéfinit la limites de l'art dans sa fonction utopique ou va l'art après la beauté.
+	- Le poème de O'Hara sur deux individus partageant un coca redéfinit la limites de l'art dans sa fonction utopique où va l'art après la beauté.
 - [[Andy Warhol]] ou O'Hara détecte quelque chose d'autre dans la bouteille de coca, se sujet du banal quotidien, de l'objet de consommation peut amener à une compréhension de l'utopie queer par l'émerveillement du présent nait l'espoir.
 - L'espoir est un engagement critique dans l'[[Utopie]]

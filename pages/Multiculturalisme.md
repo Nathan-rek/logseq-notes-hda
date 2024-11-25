@@ -85,7 +85,7 @@
 		- Bien que JH Martin dit avoir conçu un projet délicat entre sa propre intuition "artistique" et la critique anthropologique
 	- Benjamin Buchloh dans les *Cahiers du Mnam* soulève les pièges des magiciens de la Terre
 	- Implicite [[Primitivisme]] dans la sélection d'artiste non occidentaux
-	- Expositon conçue sous le mode de la foire
+	- Exposition conçue sous le mode de la foire
 		- Trop complices avec des modes de consommation capitaliste qui caractérisent l'époque
 	- Reproche d'exotisation et de mise à distance de l'autres, opposer l'indigène et l'art contemporain
 	- Maureen Murphy dans *Des Magiciens de la terre, à la globalisation du monde de l’art : retour sur une exposition historique* met en garde face à la globalisation et donc la démocratisation de l'art contemporain et la possibilité d'être en adéquation avec les notions de consommation culturelle que le tourisme de masse amènent
@@ -94,4 +94,62 @@
 - ## La vision Hégémonique
 - Terme marxiste, comment la science de l'un étudie celle des autres sous un angle supérieur
 - Contradiction propre au multiculturalisme des sociétés postindustrielles
--
+- L'évangélisation forcée, le commerce d'esclave au niveau industrielle va être la base du colonialisme capitaliste de sociétés modernes
+	- Il y a des débats dans le monde de l'art contemporain qui sont lié au lien impérialiste du passé
+	- Le Brésil affirme une conscience du métissage qui est fausse car le Brésil vit encore sur cette division social
+		- Adriana Verajao: Filho bastardo, 1992
+			- Une plaie ouverte au milieux d'une scène violente issu de la période d'esclavagisme. Le Brésil comme fil batard de la présence coloniale et du violes des colons sur les esclaves.
+- ## Darwinisme Social
+- Evolution du penchant de l'idéologie raciste, assimilation du Darwinisme dans un cadre social
+	- Le darwinisme social affirme que la compétition, la lutte pour la vie affecte à l'intérieur de l'espèces humaine, les différents groupes sociaux qui la composent
+		- Les hiérarchies social se base sur cette conception sociale.
+	- On essaie de penser une idéologie de race
+- Phénomènes des "zoo humains"
+	- Mise en scène de peuple avec la création de zone "villages", en plein expansion coloniales
+	- P.T.Barnum crée au USA un spectacle présentant des curiosités et crée l'idée du zoo humains, il fait des ces exposition un spectacle itinérant et crée le modèle du zoo humains
+		- En 1654 on présente des esquimaux au roi de Suède
+		- En 1774 James Cook revient en Angleterre accompagné d'un Tahitien Omaï qui va être à la base du mythe du bon sauvage
+		- Plusieurs personnes décède du au intempéries lors des expositions
+		- Une femme la "Hottentot Venus" va être exposer lors de freaks show comme phénomènes de foires. Apres sa mort elle sera exposer à Londres sous vitrines
+			- En 2002 ses restes seront rapatrie en Afrique du Sud pour y être enterrés
+				- Forme d'hypocrisie entre une conception religieuse et une religion scientifiques.
+			- Carl Hagenbeck propose des expositions style zoo humains où l'exotisme est domestiqué, présente des tranches de vies de ces modes de vies exotiques.
+				- Il présente des hommes et des animaux en présence de végétations comme mise en scène de spectacles ethnographiques. Entreprise commercial qui mêle intérêt scientifique exotisme et anthropologies.
+	- Marchandisation par des personnes blanches des archives de ces "zoo humains"
+	- En 1897 les bronze du bénin vont interrogés par leur technicité et leur anciennetés, il seront expier lors d'une expédition punitives britannique au Bénin
+		- Felix von Luschan va dire que ces bronzes ont été fait pas des européens car très proches des règles de l'art gréco-latins
+		- Leo Frobenius qui lors de nombreux voyage d'études va écrire sur la mythologies de l'Atlantide. Pour lui ces bronzes ont une influence grecques, pense trouver dans ces masques des résidu de l'Atlantide.
+			- Il conçoit *L'atlas Africanus* et essaie de comprendre le fonctionnement des civilisation africaines.
+				- Tentative de compréhension avec un point de vue qui n'est plus dépréciatifs
+- On va favorise les artistes d'Art Nouveaux à utiliser des matériaux issu du commerces coloniales
+- Les expressionnistes allemand en rupture avec l'académie vont se tourner vers les arts primitifs. Vont s'inspirer d'objets et côtoyer des personnes issue de colonies allemand.
+	- Ludwig Kirchner à une volonté de s'inspire des art non occidentaux
+	- L'expressionisme allemand veut mettre en avant l'instinct du trait et font une amalgame avec des caractéristiques de ces peuples
+	- [[Vassily Kandisky]] ira en Tunisie pour s'enrichir du contact de l'ailleurs
+		- [[Vassily Kandisky]] Arabes I - Cimetières.
+- L'écrit de ((661023c5-bcae-4e75-a865-e6ff654d50a2)) va être un texte qui va changer la conception de l'art africains dans l'art
+- ((661023c8-f7c0-42a3-afb4-2fc8e825a9a7)) regarde et formalise ces objets sans comprendre leurs pleines significations
+- Hannah Hoch: Monument 1, 1924
+	- Collages d'hybridation d'illustration d'art africians.
+- Man Ray: Black and White,
+- Les Surréalistes  ont à l'écart des ses objets un regard ambivalent, il..elles recherchent du primitifs dans l'H et dans les objets
+	- Les Surréalistes sont contre l'exposition coloniales et font des tract contre les expositions de zoo humains.
+	- Le partie communiste aussi s'oppose à l'Impérialisme coloniales. Font un parallèle entre le sort des ouvrier et des peuples coloniaux.
+- Début de prises de conscience face au [[Colonialisme]] et l'impérialisme. Qui va se suivre d'un évolution dans la maniere de montrer les objets d'art non*européens
+	- Trois modèles dans les musées
+		- ### Musée d'Histoire Naturelle
+			- Pratique coloniale de collecte d'objets exotiques
+				- S'inscrivent dans un traditions aristocratique de présentations de cabinet de curiosité.
+			- Se généralise un processus de muséalisation en Europe et ailleurs
+			- Intérêt pour la taxonomies, pour les anthropologues, volonté de raconter l'histoire de l'évolution humaine
+				- Infleunce par les théories évolutionnsites
+				- Volonté de montre la domination politique de l'Europe coloniale
+				- Tendance à l'accumulation
+					- Exhaustivité, capharnaüm, larges ensembles d'objets identiques
+				- Objet traité comme emblèmes
+					- Les armes comme signe de barbaries où les cache-sexes comme signe de [[Primitivisme]]
+				- Mélange d'aventures de science et de commerce
+				- L'exposition comme manifestation de pouvoir sur les peuples colonisés
+					- On voit des trophées issu de décapitation des souverains africains
+		- ### Modèles esthétique: Valorisation formelle des objets issu de la colonisation
+		- ### Modeèles reflexif: Emergence récente d'un mode de prestation contestataire des deux autres modèles, interroger le regards que l'on porte sur ces objets

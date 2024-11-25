@@ -41,6 +41,6 @@
 - ## Pop-star
 - [[Andy Warhol]] était une figure indéniablement proche de la culture pop. En plus d'être son sujet [[Andy Warhol]] s'intègre dans la culture pop avec des apparitions dans des séries télé
 - [[Jeff Koons]] travail avec des Pop-stars comme Lady Gaga en réalisant la pochette de son album *Artpop*
-	- ![Jeff Koons réalise la pochette du nouvel album de Lady Gaga - Toutelaculture](https://toutelaculture.com/wp-content/uploads/2013/10/lady-gaga-artpop-600x600.jpg)
+	- ![Jeff Koons réalise la pochette du nouvel album de Lady Gaga - Toutelaculture](https://toutelaculture.com/wp-content/uploads/2013/10/lady-gaga-artpop-600x600.jpg){:height 56, :width 450}
 	- Ou l'apparition du couple [[Jeff Koons]] Ciccolina dans le clip de U2 *[Even Better Than The Real Thing]({{video https://www.youtube.com/watch?v=vTxrgXWToZA}})*
 - [[Damien Hirst]] lui aussi a réalisé un clip pour le groupe Blur  *Country House*, 1995

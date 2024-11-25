@@ -9,8 +9,11 @@
 	- En tant qu’artiste la position culturelle / Socio-économique doit informer l’autre de la distance entre l’artiste et l’altérité: **La distance n’est pas révolue par l’identification**
 	- ### Deux cas de rencontres d’altérités
 	- #### [[Surréalisme]] :
-		- Carl EINSTEIN,1998 [*:Negerplastik*](https://journals.openedition.org/critiquedart/2421),: premier livre qui présente un intérêt au art Africains: Analyse à partir de son contexte d’émergence ( Associer Culte et Formes ) Éviter de poser une analyse construite sur un système occidentale de l’art :
+		- Carl Einstein: [*Negerplastik*](https://journals.openedition.org/critiquedart/2421) , 1998
+		  id:: 661023c5-bcae-4e75-a865-e6ff654d50a2
+			- Premier livre qui présente un intérêt au art Africains: Analyse à partir de son contexte d’émergence ( Associer Culte et Formes ) Éviter de poser une analyse construite sur un système occidentale de l’art :
 			- La statuaire non-occidentale: possède la puissance culturelle et est activée à travers le rituel
+			-
 		- Mission Dakar-Djibouti, 1931[^62]: Traverser l’Afrique (photographe / ethnographe / Cinéaste: Équipe multidisciplinaire) > [*L’Afrique fantôme: Michel *](https://www.babelio.com/livres/Leiris-LAfrique-fantome/25001)EIRIS carnet de note de se voyage: Relate
 			- La prise de Lariame: qui entraîne des troubles anxiolytiques[^63] > Rapport à la réalité distordu: campagne d’expérimentation pharmacologie
 			- Les grilles d’analyse sont produites à Paris et sont projetées en Afrique : Hiatus méthodologique: Problèmes d’analyse

@@ -17,7 +17,7 @@
 		- Les Images médiatiques
 			- [[Gerhard Richter]] September, 2005 ![September, 2005 - Gerhard Richter - WikiArt.org](https://uploads4.wikiart.org/00283/images/gerhard-richter/september-2005.jpg!Blog.jpg)
 			  id:: 65480be3-2ed2-4198-85af-2fa07f901acd
-			- Tout comme les artistes du pop-art ont peut voir une fascination pour les avions et leurs écho dans les médias notamment par leur accidents. Le ((65480be3-2ed2-4198-85af-2fa07f901acd)) ou le [[Gerhard Richter]] : [*Düsenjäger*](https://gerhard-richter.com/fr/art/paintings/photo-paintings/aeroplanes-19/jet-fighter-5479?categoryid=19&p=1&sp=32&pg=2) ( avion de chasse ), 1963  ![Avion de chasse [13-a] » Œuvres » Gerhard Richter](https://cdn.gerhard-richter.com/images/xxlarge/16399.jpg)
+			- Tout comme les artistes du [[Pop-Art]] ont peut voir une fascination pour les avions et leurs écho dans les médias notamment par leur accidents. Le ((65480be3-2ed2-4198-85af-2fa07f901acd)) ou le [[Gerhard Richter]] : [*Düsenjäger*](https://gerhard-richter.com/fr/art/paintings/photo-paintings/aeroplanes-19/jet-fighter-5479?categoryid=19&p=1&sp=32&pg=2) ( avion de chasse ), 1963  ![Avion de chasse [13-a] » Œuvres » Gerhard Richter](https://cdn.gerhard-richter.com/images/xxlarge/16399.jpg)
 		- Les produits de consommation
 			- Sigmar POLKE: [*Chocolate Painting*](https://www.wikiart.org/fr/sigmar-polke/all-works#!%23filterName:all-paintings-chronologically,resultType:masonry), 1964 ![Sigmar Polke. "Chocolate Painting" - 1964 | German Pop Art D… | Flickr](https://live.staticflickr.com/7439/16375187521_9539c5c603_z.jpg)
 				- Le chocolat est un produit très médiatisé dans les années 1960. Il peut faire écho au ((653ee4bb-b9ee-447b-a0f2-979eabd1108d)) .
