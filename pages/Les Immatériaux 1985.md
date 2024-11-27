@@ -42,10 +42,10 @@
 		- Ce qui est visible apparaît donc de façon invisible. Si on se met à une distance égale du projecteur , notre corps se transforme en écran sur lequel apparaît le mot VISIBLE.
 			- *Je voulais créer une œuvre invisible. Mais si je veux vérifier ce qui est invisible, je ne puis le faire qu’en passant par le visible. Si je veux matérialiser l’invisible celui /-ci devient aussitôt visible. L’invisible c’est ce qui est visible mais qu’on ne peut pas voir*
 	- Matériau dématérialisé
-		- Peinture Luminescente > La couleur comme le matériaux de l’œuvre:
+		- Peinture Luminescente, la couleur comme le matériaux de l’œuvre:
 			- Dan FLAVIN: untitled (to Donna) 5a (sans titre (à Donna) 5a) ![image.png](../assets/image_1698530831143_0.png)
 			- La géométrie de la structure sous-tend l’espace devenu couleur
-			- Light Space Modulator MOHOLY-NAGY > Avec une disposition d’objet et de lampes et des rotations organisées tout les 40 secondes la machine en mouvement s’efface derrière le théâtre d’ombres qu’elles engendrent
+			- Light Space Modulator MOHOLY-NAGY Avec une disposition d’objet et de lampes et des rotations organisées tout les 40 secondes la machine en mouvement s’efface derrière le théâtre d’ombres qu’elles engendrent
 				- Saisir la lumière dans sa structure et rendre visible son pouvoir de moduler l’espace et le temps
 			- Sam MOREE: Cartesian Memories, 1981 ![image.png](../assets/image_1698530855096_0.png)
 				- Un néon génèrent un hologrammes

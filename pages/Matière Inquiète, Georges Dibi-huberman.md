@@ -16,11 +16,11 @@
 	- Elle n'as pas de stabilité ni de consistance
 - Travail la viscosité
 	- Ce qui échappe aux catégories car trop changeant trop mouvant
-- # Matière Inquiète, Georges Dibi-huberman
+- # Matière Inquiète, Georges Dibi-Huberman
 - La forme, bien qu'elle soit une ressemblance, devient un acte de véracité dans sa perception.
 	- Le faux, lui, réside dans la matière.
 - La philosophie spontanée confère à la matière le statut de réceptacle du *disegno*.
-	- Un véhicule de l'idéal que l'histoire de l'art, alimentée par les philosophies de [[Platon]], a porté.
+	- Un véhicule de l'idéal que l'histoire de l'art, alimentée par les philosophies de [[Platon]]
 		- Cela a mené à une dialectique de matière/forme où la question de la matière est secondaire par rapport à la forme.
 - Les arts visuels seraient, quant à eux, en dehors de la passivité de la matière présente dans les arts plastiques.
 	- Arts plastiques, pour la plasticité du matériau.
@@ -39,9 +39,11 @@
 	- Le visqueux comme fusion du monde avec moi-même.
 		- Un état d'instabilité et d’échappée.
 - ## Pistes
-- [[Joseph Beuys]] questionner la fonction symbolique de la matiere dans les possible dialectique [[Fluxus]]
+- [[Joseph Beuys]] questionner la fonction symbolique de la matière dans une possible dialectiques du social  [[Fluxus]]
 - L'état de la contre forme ??
 	- ((661023c4-06ac-47de-bdb8-a6d31bb01897))
-- Boucle de retro-action de la forme qui forme et role de la mise en place de ces formes hybrides
-	- [[Variants]]
-- Nécesite de
+- Boucle de retro-action de la forme qui forme et role de la mise en place de ces formes hybrides.
+	- Le vrai est dans l'absence de matière
+- [[Variants]]
+- Pratique conceptuel la matière comme sur support, rare pratique immatérielle, gestualité comme matière
+- l' [[L'Antiforme]] statuer l'informe
