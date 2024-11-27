@@ -15,3 +15,4 @@
 	- On estime que la tragédie permet une élévation moral nécessaire à la cité
 - La pensée de Platon sur l'art est contraire à la pensé d'Athènes
 - Méfiance vis-à-vis de l'art très présente dans l'occident
+- Platon raconte une histoire

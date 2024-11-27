@@ -1,0 +1,14 @@
+- Penseur Martiniquais, née en 1928. Ecriture philosophique proche de la poésie
+- Plusieurs penseur..euse proviennent des îles caraïbéennes
+- ## Poétique de la relation
+- *sea is History*: rappelle du passage de l'atlantique dans la traite négrière
+	- La mer comme dépositaire de l'histoire notamment celle du [[Colonialisme]]
+- *Unity is sub-marine*
+- Glissant donne une descritpion d el'imaginaire
+	- Penser la penser c'est souvent à se retirer dans un lieu sans dimension, la pensée est une conception parnassienne dans l'occident.
+		- Séparation présent depuis [[Platon]] et la séparation du corps et de l'esprit
+	- Mais la pensée s'espace, donc pour exister elle existe toujours une dimension incarné dans le monde
+- Contre l'unité hégémonique glissant va se concentré sur la relation sur l'archipel.
+- La créolisation c'est l'inconnue de la rencontre.
+- Défaire l'aliénation culturelle des caraïbes
+	- La culture comme outils de résistance face à l'hégémonie coloniale

@@ -1,0 +1,4 @@
+- En 1984 [[Joseph Beuys]] dessine un schéma d'une installation réaliser quelque années auparavant lors de la Document de Kassel en 1974
+	- [[Joseph Beuys]]: Honigpumpe am Arbeitsplatz, 1974 ![Honigpumpe am Arbeitsplatz - Joseph Beuys | The Broad](https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/beuys-honigpumpe_am_arbeitsplatz_p34.jpg.webp?itok=IkllTuMR)
+		- https://www.artax.de/pictures/user_images/full/889_0028_Be_01.jpg
+-
