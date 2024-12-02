@@ -89,4 +89,19 @@
 				- On supprime le socle et la vitrine, Pas de cartel et donc pas de contexte
 			- L'objet se donne a voir se façon solennelle
 	- #### Modèles réflexif: Emergence récente d'un mode de prestation contestataire des deux autres modèles, interroger le regards que l'on porte sur ces objets
-		- Nouvelle muséologie veut analyse aussi les condition social qui détermine l'origine et le fonctionnement du musée et non plus seulement sa muséographie
+		- Nouvelle muséologie veut analyser aussi les conditions socials qui détermine l'origine et le fonctionnement du musée et non plus seulement sa muséographie
+			- Le musée devient de plsu en plus participatif
+				- On demande l'avis ou la collaboration avec les spectateur..ices.
+				- Le musée devient le forum
+			- La muséologie devient indépendant su muse....................
+			- C'est le rapport spécifique de l'H à la réalité et donc le rapport de l'H avec les objet de cette réalité
+		- Susan Vogel: [*Art/artifact*](https://www.academia.edu/42656257/African_art_through_the_western_gaze_an_exhibition_analysis_of_ART_Artifact_curated_by_Susan_Vogel), 1988 Center for African Art New York
+			- Couverture symptomatique de cette tendance à comparer de choses incomparables mais par similarité formelle
+			- Réaliser les reconstitution d'une galerie d'art, de la section "ethnographique"
+				- Place le même types d'objets dans 3 espaces différents
+		- Congo Expedition 1909-1915 pour l'Americain Museum of natural History
+			- Expédition scientifique, l'exploration d'Afrique central devient une obsessions
+			- Beaucoup de portait photographiques des grand chefs
+		- Africans refelctions. Art from northeastern Zaire
+		- Musée Cannibale
+		-
