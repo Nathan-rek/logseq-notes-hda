@@ -79,6 +79,6 @@
 		- En impliquant la rétine plutôt que la vue > Stimulant l’impression physiologique plutôt que psychologiste le film déplace les centre de réception du sensoriel vers le neuronale
 	- [*The Flicker*](https://www.youtube.com/watch?v=k_7QHnmRNXI) pourrait être interprété comme un film pornographique, si l'on considère la théorie selon laquelle l'orgasme est une forme d'épilepsie réflexive initiée au moment de l'excitation
 - ##### <a name="__refheading___toc16699_1634879646"></a>De l'extériorisation du psychisme à l'implantation de la technologie:
-- En 1877 Sir Francis GALTON [^83]. Crée une procédure de réalisation de photo composites. Fabriquées par un processus d’enregistrement et d’exposition successif de portrait sur une seul plaque les composites de GALTON étaient censées constituer des moyennes statistiques représentant des types d’humain..es (Criminel..les, juif..ve, anglais..e, et autres)
-	- Pour GALTON «les visages idéaux obtenus par la méthode du portrait composite semblent avoir beaucoup en commun avec… les idées dites abstraites»
+- En 1877 Sir Francis Galton[^83]. Crée une procédure de réalisation de photo composites. Fabriquées par un processus d’enregistrement et d’exposition successif de portrait sur une seul plaque les composites de GALTON étaient censées constituer des moyennes statistiques représentant des types d’humain..es (Criminel..les, juif..ve, anglais..e, et autres)
+	- Pour Galton «les visages idéaux obtenus par la méthode du portrait composite semblent avoir beaucoup en commun avec… les idées dites abstraites»
 		- Il été convaincu qu’il donnait une forme matérielle tangible aux idées abstraites

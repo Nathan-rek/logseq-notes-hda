@@ -5,7 +5,6 @@
 	- Cette investigation de la grille se voue aujourd'hui à l'échec pour Krauss face aux pratiques de l'art contemporain.
 - La grille résiste à l'expansion, l'extension, la transmutation.
 	- Pour Krauss [[Piet Mondrian]] à émis une œuvre ((65d37714-b729-417a-8824-f7b8e7265c57)) et la répète pendant 15 ans et le [[Modernisme]] continue d'engendrer des exemples de grille.
-- Piet Mondrian: Composition 1, Lozenge with Four Lines , 1918 ![Piet Mondrian, Composition No. 1: Lozenge with Four Lines, 1930. Oil on canvas, 29 5/8 x 29 5/8 inches (75.3 x 75.3 cm); vertical axis: 41 3/8 inches (105.1 cm); horizontal axis: 42 5/8 inches (108.3 cm)](https://www.guggenheim.org/wp-content/uploads/1930/01/71.1936.R96_ph_web-1.jpg)
 - La grille fonctionne de deux manières
 	- Spatial: bidimensionnelle, géométrique, ordonné, elle est antinaturelle , anti mimétique elle va à l'encontre du réel.
 		- Décret esthétique où l'ordre n'est que relation pure, elle permet de refouler la prétention qu'ont les objets naturels d'avoir un ordre propre

@@ -1,4 +1,5 @@
 ## Cours 1981-03-31
+collapsed:: true
 	- Qu'est ce que la peinture à en lien avec la notion de catastrophe ?
 		- Pour Claudel la composition en peinture est un ensemble, mais qui est en train de se déséquilibrer
 		- Deleuze garde ce point de chute
@@ -67,6 +68,7 @@
 		- *Un diagramme c’est une possibilité de fait*
 			- C’est pas du tout une idée générale le diagramme. C’est quelque chose d’opératoire dans chaque tableau. C’est une instance opératrice
 - ## Cours 1981-04-07
+  collapsed:: true
 	- Encré une chronologie de la peinture avec le pré picturale [texte de [[Paul Cézanne]] ] le chaos germe, diagramme et ce qui sort du diagramme
 		- La lutte contre le fantôme ou contre les donnés, l’instauration du diagramme ou du chaos catastrophe et, ce qui en sort, à savoir : le fait pictural.
 	- Parallèle entre le *datum *et le *factum* de Kant le *donnés* et le *fait*
@@ -114,6 +116,7 @@
 	- Supprimer la narration et l'illustration c'est le rôle du diagramme et du chaos catastrophe, on surprime des données figuratives car les figurations et les narrations, elles sont données
 		- il faut donc, faire passer les données figuratives et narratives par le chaos catastrophe, par la catastrophe germe, pour qu’en sorte quelque chose de tout à fait autre, à savoir le fait.
 - ## Le fait pictural
+  collapsed:: true
 	- Qu’est-ce que c’est qu’on pourrait appeler le fait pictural par opposition aux données pré picturales
 		- ### Le cas de Michel-Ange
 		- Dans le cas de Michel-Ange qui se caractérise comme celui qui à montré au grand jour le fait picturale par son indifférence face au sujet
@@ -168,10 +171,12 @@
 					- La forme est la rencontre de ces deux forces celle de l'aplatissement et celle de la chair qui descend des os
 						- Il a rendu visible dans ce tableau deux forces invisibles
 - Les données figuratives et narratives sont toujours la elle sont pré picturale elle sont déjà-la
+  collapsed:: true
 	- Que ce soit un carré de [[Piet Mondrian]] ((653ec305-ecb3-4d52-93a9-29b5625299ae)) ou une ligne chez [[Jackson Pollock]] ((653ee430-1eca-4a79-9a49-45525fd705c0)) les idées, les clichés sont toujours la même chez les plus abstrait
 	- Ce qui rend le cliché inévitable c’est que le cliché, il est fondamentalement intentionnel. Toute intention est intention de cliché. Toute intention vise un cliché. Or il n’y a pas de peinture sans intention
 - ## L'intention
 - Pour Deleuze l'intention c’est la différence entre une pomme et une femme ((65f835c1-b5ba-48aa-a36a-015d598c14c7)) / ((65f819b1-0463-45b1-a3b9-d4eb35a16034))
+  collapsed:: true
 	- Cézanne n’a pas la même intention suivant qu’il se propose de peindre une pomme et de peindre une femme
 	- C’est l’intention qui promeut déjà le cliché. Dès lors c’est forcé que le cliché soit sur la toile, avant que le peintre ait commencé. Je dirais : la forme intentionnelle est toujours en peinture figurative et narrative.
 		- Si bien que la tâche du peintre et l’acte de peindre, ça commence avec la lutte contre la forme intentionnelle
@@ -185,6 +190,7 @@
 	  id:: 65f9deff-aa7d-4ad3-bc3e-a73c5cb8820a
 	- **En quoi, en quoi le diagramme est tout à fait autre chose qu’un code de la peinture** ?
 - ## Cours 1981-04-28
+  collapsed:: true
 	- Le diagramme serait la relation entre le chaos et le germe
 		- Un chaos dont quelque chose doit sortir
 	- Le diagramme est une affaire manuel, c’est l’expression d’une main libérée de toute soumission à l’œil, la main ne se guidait plus sur les données visuelles
@@ -212,12 +218,14 @@
 			- Effondrement de la ressemblance et production de l’image. C’est l’aspect avant et l’aspect après, entre les deux le diagramme
 	- **ll a fallu passer par une catastrophe manuelle du diagramme, pour produire le fait pictural, c’est à dire pour produire le troisième œil.**
 - l' [[Expressionnisme Abstrait Américain]] est un style ou les peintures tendent avec le chaos où le diagramme frôle le chaos
+  collapsed:: true
 	- Le diagramme quand t'il s'élève à son maximum tend vers le chaos (abstrait) mais lorsqu'on le réduit ont tend vers l'ordre picturale le figuralisme
 		- L'abstraction géométrique cherche t-elle à remplace le diagramme par un code.
 			- La peinture n'appliquerait qu'un code extérieur, qu'est ce qui distingue un triangle de [[Vassily Kandisky]] que celui d'un géomètre
 				- Auguste Herbin est pour Deleuze un peintre abstrait qui manie le code de l'abstrait et en fait un code pictural et non un code extérieur appliqué a la peinture
 				- Auguste Herbin: [*Alphabet Coloré III*](http://emblemes.blog.free.fr/index.php?post/2018/01/20/Alphabet-color%C3%A9-%282%29%3A-Alphabet-plastique-d-Auguste-Herbin.), 1950 : ![Alphabet coloré (3): Alphabet plastique d'Auguste Herbin. - Emblèmes, le  blog](https://lh6.googleusercontent.com/proxy/lw8EnLeO3G5RccGRSqvlQYuMD0yzcnEp2GwKLUVf-Ss51ybwb9K4GGrmhBG2rWmqe01Q9IbT3RDH1D9sQW3gKK1hLUAkJKP7Tnv0H1ZjPA)
 - Si la peinture moderne plait c'est pour cette capacité à faire ressortir du chaos omniprésent (pollution, bombe atomique...) un ordre moderne en sort
+  collapsed:: true
 	- Pour Kandinsky l'homme moderne doit retrouver de la spiritualité et la peinture est l'agent de cette vie spirituel
 		- Il faut construire un troisième œil un œil interne à l'homme moderne
 	- Pour les [[Expressionnisme Abstrait Américain]] il ne faut pas éviter le tumulte du chaos en le diminuant mais il faut l'affronter en l'étendant comme un [[Jackson Pollock]].
@@ -227,6 +235,7 @@
 			- La ligne de [[Jackson Pollock]] tend a être surface par son traitement en All-over
 				- Les peintres de l'[[Expressionnisme Abstrait Américain]] sont vraiment abstrait car il ne figurer rien car il n'utilise pas de contours. la ligne de Pollock ou la couleur de Louis Morris tout d'eux ne figure car il n'utilise pas de ligne ou de contour pas il font surface.
 - La troisième position serait un positon ni dans le trop ni dans le peu mais dans une modération entre le diagramme et le fait picturale. Il sont pas des peintres figuratifs mais des peintres figuraux.
+  collapsed:: true
 	- Ca serait Gaugin ou Van Gogh, tout pour le diagramme
 - L'opposition Figuration et [[Abstraction]] ne fait plus sens car les peintres abstraits figurent de forme en utilisant des lignes et des contours.
 	- Pour Worringer il y aurait plutôt une différence entre organique et inorganique.

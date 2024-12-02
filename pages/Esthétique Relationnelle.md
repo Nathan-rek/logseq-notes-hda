@@ -154,4 +154,3 @@
 				- Ce n'est pas que compléter l'œuvre par le regard c'est y entreprendre un rapport d'intersubjectivité entre les formes mises à disposition et la réponse émotionnelle sociale et comportementale
 	- Là où la [[Modernité]] à mis à mal le groupe sous le prétexte de l'aliénation collective il faut en ces temps contemporains faire une synthèse des modes d'être ensemble.
 	- L'art contemporain déplace l'aura de l'œuvre elle n'est plus dans son origine mais dans son effet.
--

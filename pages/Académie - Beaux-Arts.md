@@ -6,7 +6,7 @@
 	- Dans le contexte de l’académie il y a une hiérarchie entre les peintures
 	- Le dessin prévaut:
 		- Jean Dominique Ingres: [*La Grand Odalisque*](https://fr.wikipedia.org/wiki/La_Grande_Odalisque),1814: ![La Grande Odalisque — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Jean_Auguste_Dominique_Ingres%2C_La_Grande_Odalisque%2C_1814.jpg/1200px-Jean_Auguste_Dominique_Ingres%2C_La_Grande_Odalisque%2C_1814.jpg)
-	- L’académie crée le principe même d’exposition à travers le salon
+	- L’académie crée le principe même d’ [[Exposition]] à travers le salon
 	- Paolo FREIRE : La notion d'éducation n'est pas une accumulation bancaire du savoir.
 - LABAN ( Chorégraphe vient expérimenter des techniques pédagogiques ) s'installe à Monte Verita E. Reclus : Géographe anarchiste : Géographe sociale > début d'un courant écologique Implantation du mouvement [[Bauhaus]] à Monte-Verita
 - Monte Verita: Anarchiste italien qui cherche un camp de base pour ce fédérer

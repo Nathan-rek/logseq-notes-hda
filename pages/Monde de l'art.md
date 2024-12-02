@@ -39,4 +39,4 @@
 	- Un paradigme est une réponse que l'on se fait propre à un milieux
 		- Le discours est le commentaire deviennent important dans l'art contemporains. Les démarches sont appréhendable d'un point de vue intellectuel est nécessité donc une médiation
 - Richard Venlet: [*Cit.Cit.2 Platforme & Treasury*](https://www.etablissementdenface.com/in-the-past/richard-venlet-cit-cit-2-platform-treasury), 2005 ![RICHARD VENLET CIT.CIT. 2 PLATFORM & TREASURY ETABLISSEMENT D'EN FACE](https://www.etablissementdenface.com/wp-content/uploads/2005/09/CIT2d-810x1080.jpg)
-	- Questionne la mise en espace du lieux d'exposition et propose plus des œuvres comme display et investi les pratiques curatorials
+	- Questionne la mise en espace du lieux d' [[Exposition]] et propose plus des œuvres comme display et investi les pratiques curatorials

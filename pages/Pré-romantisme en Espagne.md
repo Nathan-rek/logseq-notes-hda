@@ -26,6 +26,7 @@
 		- GOYA: [*Dos De Mayo*](https://presselib.com/article/philippe-et-marie-jose-bouscayrol-vous-apportent-quelques-minutes-de-divertissement-a-travers-des-anecdotes-et-episodes-de-lhistoire-de-lart-2), 1814 ![](https://archives.presselib.com/wp-content/uploads/2020/04/BOUSCAYROL-GOYA-2.jpg)
 			- Folie de la guerre
 		- GOYA: [*Tres de mayo*](https://fr.wikipedia.org/wiki/Tres_de_mayo) ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Francisco_de_Goya_y_Lucientes_-_Los_fusilamientos_del_tres_de_mayo_-_1814.jpg/1024px-Francisco_de_Goya_y_Lucientes_-_Los_fusilamientos_del_tres_de_mayo_-_1814.jpg){:height 32, :width 450}
+		  id:: 661023c8-802c-4417-9a72-e2b444194648
 			- Soldat qui prend une position de crucifixion / Claroscuro / désillusion des lumières
 - Peintre qui ont influencé GOYA:
 	- Diego VELÁZQUEZ (1656) Figure 198:Velasquez: Las Meninas, 1956

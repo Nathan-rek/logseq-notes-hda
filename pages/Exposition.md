@@ -1,0 +1,92 @@
+-
+- Volume – espace - exposition
+- Cabinet de curiosité: conséquence du musées, dispositif d’exposition nouveaux. [[Nature - Culture]] se mêle ensemble, jeux d’association qui laisse place à la sensibilité de l’image
+- Musée opère des spoliations d’œuvres d’autre pays, autorisation de représenter la culture de l’humanité.
+	- Le muséum français regorge d’œuvres pillée dans des églises des gîtes d’autres pays. Ces techniques de spoliations vont s’encrer dans la culture et vont augmenter pendant la colonisations.
+- La sculpture moderne essaie de mettre à mal l’esthétique de la sculpture classique, le socle incarne cette autonomisation perspective du volume dans l’espace.
+- Les sculpteurs modernes mettent à mal cette automatisation:
+- ### Sculpture et exposition
+- Rodin, [*Le Balzhac*](https://www.musee-rodin.fr/ressources/focus-sur-oeuvre/balzac) https://www.musee-rodin.fr/sites/default/files/styles/carrousel/public/2021-01/2017_05_12_jardin_jm005.jpg?itok=V2Nf_yNl
+	- Le pied de la sculpture sort du socle, il interfère avec l’espace.
+	- Début d’une relation entre photographie et sculpture avec Rodin
+		- Début compliqué mais qui petit à petit prend vie notamment avec l’exposition des photographies de Eugène Druet lors de l’exposition de Rodin. Il vient à dégager une affinité technico esthétique.
+- Brancusi: [*l’oiseau dans l’espace*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cbLy4oX), 1941 ![L'Oiseau dans l'espace - Centre Pompidou](https://www.centrepompidou.fr/media/picture/f1/94/f19492dd834eacbfef4171db5df82fb5/thumb_large.jpg){:height 32, :width 450}
+	- irradie l’espace de lumière, ouvre l’interaction entre l’espace et le volume, intégrer l’espace négatif comme une matrice positif.
+	- Une manière d’agir qu’il expérimentera avec la photo allant à utiliser tout les aspects de la photo (sur-impression-sur-exposition etc…) Démarche expérimental qui porte notamment sur la conception et la relation positif négatif dans la photo et dans la sculpture
+- Giacometti: sculpteur surréaliste, il présente son œuvre à travers un texte illustré d’une photo de Man Ray, dans son atelier , il élimine le socle.
+	- L’académie de la grandes chaumière: une série de cours de dessin organisés par Bourdelle( pense l’organisation du corps dans une relation entre l’énergie interne du cors et ce qui est au-delà, l’espace ), les dessins de Giacometti durant les cours sont gardés et enregistrés.
+	- La photo permet de mettre en valeur
+- Le [[Surréalisme]] est séparé entre André Breton avec les notions de l’écriture automatique le rapport à l’inconscient etc... Et d’autre par la frange George Bataille qui s’axe autour de Revue Document notions de bas dialectique des écarts une tension entre un registre verticale rationnel et un registre pulsionnelle horizontal vers le bas. La Revue Document active les principes dialectiques des écarts entre raison et pulsion. C’est cette tension verticale qui élimine le socle et vient offrir une vision horizontal de la forme dans l’espace.
+- Les dispositions des éléments de sculpture remettent en question le medium de la sculpture.
+- Un processus d’ébauche de la sculpture un processus qui se rapproche de l’écriture automatique pratique par les surréaliste. Là où la sculpture est habité à un travail proche d’une anamnèse avec un retour sur image permanent
+- Merzbau est un principe d’exposition qui est en évolution constante
+- [[Marcel Duchamp]] : exposition qui ne mette pas en place les conditions pour exposer, permet de faire l’exposition un espace, en voyant moins on crée un désir de voir,
+	- Pour l’exposition ((653fa23b-071c-4394-90a3-969e41755b3f)) , il vient à étendre des cordes qui empêche de rentre en contact de manière direct avec l’œuvre. Ou encore demande a des enfant de faire du bruit. Il s’agit de mettre en tension le rapport de visibilité et le désir.
+- ## Ecriture dans l'espace
+- L'exposition est une action pour "mettre en vue" rendre visible et visible
+- L'exposition définit aussi le lieu ou wont montrés les produis
+- Jean Davallon, trois formes de muséologies:
+	- **Une muséologie de l'objet**
+		- Nécessite une réputation au préalable de l'objet
+		- Centré sur la présentation des objets d'un collections
+		- Rapport au visiteur..ices, génère une rencontre (relation positive) avec le..a visiteur..ices
+		- Le savoir est présent mais il n'est donné.............
+		- ((674d7ebd-07f3-476e-af0e-fe554ce5d3c1))
+		- Musée d'ethnographie du Trocadéro, Salle d'Océanie
+			- Nouvelle Hybrides, archipel qui maintenant sont les iles Vanuatu
+			- Sont assemble toutes sortes d'objet, accumulation d'objets
+		- C'est au visiteur..ices de s'approprier ce savoir dans l'espace social extérieur au musée pour l'apporter avec el..lui lors de sa visite
+	- **Une muséologie de savoir, d'idée**
+		- Modalité de fonctionnement: centre sur la présentation d'un message qui est formé à la fois d'un savoir et d'un principe de présentation
+		- Rapport au visiteur..ices basé sur la communication d'un savoir, d'une connaissance proposée
+		- Présentation:
+			- a) Ensemble d'objets muséaux qui font sens par le jeu du rassemblement et de la différence ou de la mise en scène
+			- b) Panneau explicatif ou un interactif qui lie le visible au lisible
+		- Exposition qui prêche un savoir, formule des informations
+	- **Une muséologie de point de vue**
+		- Présentation de un ou plusieurs points de vue pour le visiteur..ices
+			- Centre sur le visiteur..ices traité comme parties intégrantes de la scénographie, idée d'immession
+		- Metropolitan Museum of Art New York
+		- Demande de situer le..a specatateur..ices, on donne des faits mais on demande aux spectateur..ices de faire sa synthèse des points de vues
+- ### Modèles d'exposition des musées:
+  id:: 674d74ec-f576-4d49-9e51-500da901334b
+	- #### Musée d'Histoire Naturelle
+	  id:: 674d7572-6e40-4a9e-a279-7082b31de913
+		- Pratique coloniale de collecte d'objets exotiques
+			- S'inscrivent dans un traditions aristocratique de présentations de cabinet de curiosité.
+		- Se généralise un processus de muséalisation en Europe et ailleurs
+		- Intérêt pour la taxonomies, pour les anthropologues, volonté de raconter l'histoire de l'évolution humaine
+			- Influence par les théories évolutionnistes
+			- Volonté de montre la domination politique de l'Europe coloniale
+			- Tendance à l'accumulation
+				- Exhaustivité, capharnaüm, larges ensembles d'objets identiques
+			- Objet traité comme emblèmes
+				- Les armes comme signe de barbaries où les cache-sexes comme signe de [[Primitivisme]]
+			- Mélange d'aventures de science et de commerce
+			- L'exposition comme manifestation de pouvoir sur les peuples colonisés
+				- On voit des trophées issu de décapitation des souverains africains
+		- Dans les musées d'ethnographie le discours va primer de plus en plus
+			- Faire primer non plus une curiosité mais une information d'ordre scientifique
+		- Franz Boas:
+			- Contre les théories évolutionnistes, étudies le culture native et souligne le caractère irréductible de chaque culture
+			- Démontre l'indépendance absolue entre les caractéristiques physiques de l'homme et les traits culturel des sociétés
+			- Opposé a l'idée d'une hiérarchie entres les sociétés humaines
+			- Approche contextuelle:
+				- Tendance à placer l'objet dans son contexte de vie se confirmera tout au long du XXème siècle
+				- Impose une contextualisation de l'objets par l'écrit qui raconte l'usage de l'objets
+		- En reconstituant des modes de vie le musée ment et exotisme les mode de vies des civilisation pour les blancs
+	- #### Modèles esthétique: Valorisation formelle des objets issu de la colonisation
+		- Paul Guillaume est le premier à organiser des expositions d'art africains et fonde la société des arts nègre.
+		- Il juxtapose des œuvres de ses amies [[Cubisme]], fauves... à coté d'objets africains
+		- Les musée ethnographies vont avoir une approche Ethno-stylistque:
+			- Entre la contextualisation de Franz Boas et l'esthétisation de Paul Guillaume
+		- Pavillion des sessions du Louvre
+		  id:: 674d7ebd-07f3-476e-af0e-fe554ce5d3c1
+			- Expostion de 108 piece d'art issue des culture d'afrique d'Asie, d'Oceanie et des Amerique
+			- Le collectionneur Jacques Kerchache les sélectionnes selon ces gouts esthétique
+				- Il veut rendre hommage à Guillaume Apollinaire voulait faire rentrer au Louvre des objets issues d'autre civilisations
+			- Scénographie épuré qui se fait pour la délections du regard occidental.
+				- On supprime le socle et la vitrine, Pas de cartel et donc pas de contexte
+			- L'objet se donne a voir se façon solennelle
+	- #### Modèles réflexif: Emergence récente d'un mode de prestation contestataire des deux autres modèles, interroger le regards que l'on porte sur ces objets
+		- Nouvelle muséologie veut analyse aussi les condition social qui détermine l'origine et le fonctionnement du musée et non plus seulement sa muséographie

@@ -1,27 +1,33 @@
 ### [[Marcel Duchamp]] : [Le Grand verre](https://www.google.com/url?sa=i&url=https%3A%2F%2F321histoire.wordpress.com%2F2013%2F05%2F12%2Fle-grand-verre%2F&psig=AOvVaw0x38L-Nr7jRPrhRDqsZ4B2&ust=1681891673683000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjLlPD8sv4CFQAAAAAdAAAAABAE)(1915-1923) ![Le Grand Verre est une oeuvre de Marcel Duchamp, commencée en 1915, et laissée inachevée.](https://321histoire.files.wordpress.com/2013/05/duchamp_largeglass.jpg?w=490&h=756)
 - Aborder la question de l’œuvre à travers le document:
-	- de-clivage entre œuvre et document > Il emporte avec lui un document, le schéma du grand verre:
+	- De-clivage entre œuvre et document
+		- Il emporte avec lui un document, le schéma du grand verre:
 - L’œuvre est inachevée il se demande si elle est donc œuvre.
-	- L’œuvre va être arrêtée dû à une «destruction» imprévue > laissée en état d’inachèvement > d’un point de vue théorique c’est une non-œuvre > La trace de quelque chose celle de l’œuvre brisée
-- D’autres œuvres préparent la construction du grand verre > Stratégie d’expérimentation qui prépare le grand verre Système documentaire préparatoire
+	- L’œuvre va être arrêtée dû à une «destruction» imprévue, laissée en état d’inachèvement
+		- D’un point de vue théorique c’est une non-œuvre
+			- La trace de quelque chose celle de l’œuvre brisée
+- D’autres œuvres préparent la construction du grand verre
+	- Stratégie d’expérimentation qui prépare le grand verre Système documentaire préparatoire
 	- [*Les trois stoppage d’étalons*](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.centrepompidou.fr%2Ffr%2Fressources%2Foeuvre%2Fcrb5LdB&psig=AOvVaw3pFKQxNz0nYTFGeBnlxecO&ust=1681891690310000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDs5Pf8sv4CFQAAAAAdAAAAABAE) ![3 stoppages-étalon - Centre Pompidou](https://www.centrepompidou.fr/media/picture/70/bd/70bd53265b8b553704c2a57d570df0c9/thumb_large.jpg)
 	- 3 cordes de 1 mètres de longueurs déterminée ( instrumentation des valeurs > issue de la [[Modernité]] ) en lâchant la corde
 	- Fait un élevage de poussière en laissant à l’abandon le grand verre > transformé en pigment
 	- Prépare de manière expérimentale des éléments iconographiques: [*Le Moulin à eau*](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.photo.rmn.fr%2Farchive%2F15-596814-2C6NU0AN7Y7Y7.html&psig=AOvVaw3h6mWRg2gWCnT3O_FhnYFh&ust=1681891824641000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjo3rf9sv4CFQAAAAAdAAAAABAE)
 	- D’autre œuvres témoignent de la germination du grand verres: [*Le Passage de la vierge à la mariés*](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.artsdot.com%2F%40%40%2F7YLJ6T-Marcel-Duchamp-Transici%25C3%25B3n-de-la-virgen-en-un-Bride_Le-Passage-de-la-Vierge-un-la-Mari%25C3%25A9e..&psig=AOvVaw2pGnGDd9iKDXfyVo3XMxV6&ust=1681891877118000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKic69D9sv4CFQAAAAAdAAAAABAE): élabore progressivement le registre de la mariés > Une œuvre c’est une fenêtre ouverte sur le monde > réalise structurellement une peinture sur une fenêtre guillotine
 		- Rencontre entre la partie féminine (partie supérieur) et la partie masculine (partie inférieur) en deux parties: prépare la construction du Grand verre
-- Système documentaire préparatoire > L’œuvre est rabattue au statue de document qui devrait être manipulé par ces artefacts
+- Système documentaire préparatoire
+	- L’œuvre est rabattue au statue de document qui devrait être manipulé par ces artefacts
 	- Une valise qui reprend les éléments qui environnent la préparation du Grand verre > la production de cette boite ont autant d’autonomie artistique que les œuvres en elles mêmes > l’œuvre advient au dessus de la matérialité de l’œuvre > déconstruit le statue traditionnelle de l’œuvre
 		- Rend le grand verre à un statut documentaire
 	- [*La boite verte:*](https://www.museoreinasofia.es/en/collection/artwork/boite-verte-mariee-mise-nu-par-ses-celibataires-meme-green-box-bride-stripped) boite qui recueille non pas que des images mais essentiellement des notes qui traitent de l’approche du grand verres ( Traité d’optique / lecture de poésie / pataphysique ) > partie théorique mystique > Le document est un élément d’approche à travers l’appareillage hétérogène de l’œuvre
 - Notes manuscrite de [[Marcel Duchamp]]
-- Le vert pour le tapis de jeu > document numérotés mais non organisé
+- Le vert pour le tapis de jeu, document numérotés mais non organisé
 - ### [Revue Document](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgallica.bnf.fr%2Fark%3A%2F12148%2Fbpt6k32951f&psig=AOvVaw0vTbVnbWPb_9fHFg4263gn&ust=1681891804742000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOj4yq79sv4CFQAAAAAdAAAAABAI)(1928- 1930):
 - Georges BATAILLE, mise à mal du régime esthétique occidentale > Le super livre dissident > Revue en deux exemplaires > Toutes productions humaines est un fait d’art: Artefact > élément de critique de l’idéalisme et du [[Surréalisme]] dogmatique d’André Breton
   id:: 65d3770d-ce90-47ca-975b-7dea2048eaf7
 	- Éditée en Noir & Blanc soutenue par un galeriste > édité deux années
 	- Approche culturelle de l’art
-		- La gazette des Beaux art: Revue qui témoigne le point de vue du statue des beaux arts > A l’inverse il n’y a pas ce titre dans Document
+		- La gazette des Beaux art: Revue qui témoigne le point de vue du statue des beaux arts
+			- A l’inverse il n’y a pas ce titre dans Document
 	- Essaie d’analyser des éléments théoriques – Archéologiques – De Beaux Art (intègre des pratiques populaires) –  ethnographique: Revue multidisciplinaire > Construire une méthodologie d’approche artistique
 	  id:: 65d3770d-812b-4143-a25c-69a4c6fd4d9e
 		- Anticipe les clivages disciplinaires > Transformation méthodologique
@@ -57,7 +63,7 @@
 		- L’artiste n’est pas que sujet, il est sujet et objet
 	- Recours à des stratégies de documentation pour interroge une vérité > La vérité de l’image
 		- L’image photographique dispose d’une valeur de vérité > au déploiement des nouvelles images numériques les images de vérité se déplacent des modèles photographiques et déplace la valeur de vérité de l’image
-- Hans Peter Feldmann: [*Die Toten*](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.fr%2FDie-Toten-1967-1993-Peter-Feldman%2Fdp%2F3933485010&psig=AOvVaw3xm74lsUb-un7u-I_sY21P&ust=1682501047558000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODo0fvaxP4CFQAAAAAdAAAAABAE): recueille d’images de massacre terroriste > Peut être exposé de façon exposition
+- Hans Peter Feldmann: [*Die Toten*](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.fr%2FDie-Toten-1967-1993-Peter-Feldman%2Fdp%2F3933485010&psig=AOvVaw3xm74lsUb-un7u-I_sY21P&ust=1682501047558000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODo0fvaxP4CFQAAAAAdAAAAABAE): recueille d’images de massacre terroriste > Peut être exposé de façon [[Exposition]]
 	- Travaille historique de l’image: Au delà de la dramatisation de l’image
 		- A travers une grille de mise en page > Animé et standardisé les images et met à distance la brutalité du fait historique
 		- interroger un fait historique allemand et les stratégie de médiatisation de l’image > Brutalité pris en charge pars des système médiatique qui ont participe a la mise en contexte de ce sentiment de terreur
