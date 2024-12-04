@@ -1,8 +1,9 @@
 - Considéré comme une interprétation par les artistes russes du [[Cubisme analytique]] , du[[Cubisme synthétique]]  et du [[Futurisme]] .
-  Tout comme les cubistes Lioubov POPOVA travaille le portrait et la nature morte tout en intégrant un geste futuriste.
-	- Lioubov POPOVA: Étude pour un portrait, 1915 ![Le Cubo-Futurisme – Etude pour un portrait, Lioubov Popova (1914-1915) |  Charlotte MARTIN](https://chamartinlecolededesign.files.wordpress.com/2013/10/fut_086.jpg)
+  Tout comme les cubistes Lioubov Popova travaille le portrait et la nature morte tout en intégrant un geste futuriste.
+	- Lioubov Popova : Étude pour un portrait, 1915 ![Le Cubo-Futurisme – Etude pour un portrait, Lioubov Popova (1914-1915) |  Charlotte MARTIN](https://chamartinlecolededesign.files.wordpress.com/2013/10/fut_086.jpg)
 	- Lioubov POPOVA: Nature morte, 1915 ![Lyubov Popova – Œuvres d'art et biographie de l'artiste russe – Artlex](https://www.artlex.com/wp-content/uploads/2022/08/the-jug-on-the-table.jpg)
-	- Nathalie GONTCHAROVA: Le cycliste, 1913 ![Le Cycliste (Gontcharova) — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cyclist_%28Goncharova%2C_1913%29.jpg/640px-Cyclist_%28Goncharova%2C_1913%29.jpg)
+	- Nathalie Gontcharova: Le cycliste, 1913 ![Le Cycliste (Gontcharova) — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cyclist_%28Goncharova%2C_1913%29.jpg/640px-Cyclist_%28Goncharova%2C_1913%29.jpg)
+	  id:: 661023c4-057d-47b4-9f3b-98c710c2d2df
 		- décompose l’objet à la façon cubiste mais intègre le travail du mouvement des futuristes
 - Alexandra EXTER est rentré en contact avec les acteurs du [[Cubisme]] et du [[Futurisme]] lors de son voyage en Europe de l’ouest
 	- Alexandra EXTER: Florence, 1915 ![Alexandra Exter Florence, 1915 : Descriptif de l'œuvre | Artchive](https://arthive.net/res/media/img/oy800/work/d27/88858@2x.jpg)

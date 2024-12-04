@@ -8,6 +8,7 @@
 - Sherrie LEVINE: [*After Walker Evans: 4*](https://www.metmuseum.org/art/collection/search/267214), 1970 https://wmuphoto.files.wordpress.com/2017/01/64.jpg?w=788&h=1024
   id:: 655a7e71-ca8c-49fb-b21c-de12ed36eaca
 	- Pratique extractivisme: Récupérer les objets issues de la culture (prise de la photo de Walter EVANS)  Questionnement sur le regard porté (regard paternaliste / regarde artistique féminine?) Pratique de la [[Modernité]] porter un regard sur un sujet social
+-
 - [[Ready-made]]
   id:: 65398c42-8c9d-442a-b162-6f249a183c3a
 - [[Art & Language]]

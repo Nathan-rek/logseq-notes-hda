@@ -9,6 +9,7 @@
 	- Une tautologie: un énoncé qui ne peut être que vrai
 	- Kosuth approche un art tautologique
 		- Joseph Kosuth: [*Titled (Art as Idea as Idea) [mean]*](https://www.artsy.net/artwork/joseph-kosuth-titled-art-as-idea-as-idea-mean-ety-dot-e-dot-p), 1967 ![Joseph Kosuth | 'Titled (Art as Idea as Idea)' [Water] | The Guggenheim  Museums and Foundation](https://www.guggenheim.org/wp-content/uploads/2022/04/06/73.2066_ph_web.jpg)
+		  id:: 661023c7-a6c8-4e62-975c-7f4d89ccd1d9
 			- Rend visible le langage avec l'image
 - [[Joseph Kosuth]] :  [*Five Words In Orange Neon*](https://www.artnet.fr/WebServices/images/ll00038lldNoGGFgPNECfDrCWvaHBOcNZu/joseph-kosuth-five-words-in-orange-neon.jpg), 1965 https://live.staticflickr.com/3863/15085816292_a5aa9b1675_b.jpg
 -

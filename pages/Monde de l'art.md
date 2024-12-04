@@ -1,4 +1,5 @@
 - Le monde de l'art est un terme issu de la philosophie de l'art et en sociologie de l'art
+- Espace analogue
 - Ryohei Kan: [*Endless White Cube*](https://ryoheikan.com/works/endless-white-cube-2016-2017/), 2016 https://ryoheikan.com/wp-content/uploads/2017/10/endless-white-cube.jpg
 	- Espace hermétique coupé du monde
 - Arthur Danto: *La transfiguration du banale*, 1989
@@ -8,25 +9,29 @@
 	- Comme la transvaluation du pain et du vin dans l' [[Espace Sacré]] ont s'accorde a évaluer un protocole conceptuelle
 	- Il est le témoin d'un changement de l'histoire de l'art - au tournant de l'art moderne et de l'art contemporain
 	- Se base sur une œuvre de [[Roy Lichtenstein]] et se demande comment sur une revue comme Artforum il peut être confronté à une image issu de la culture populaire. Artforum légitimise cette image et ce répertoire de formes.
-	- Il nomme les indiscernables
+	- Il nomme les indiscernables, impossible de discerner celle de [[Andy Warhol]] et celle de la marque Brillo
 		- Par exemple les ((65480be3-7ec8-4db9-9289-62be8b4f1216))
 		- On ne peut pas savoir si c'est une œuvre ou une vrai boite
 		- ou ((65480be2-746a-4677-ab0b-a80ec601a276))
 		- *"Voir quelque chose comme de l'art requiert quelque chose que l'œil ne peut apercevoir - une atmosphère de théorie artistique, une connaissance de l'histoire de l'art: un monde de l'art" - Danto*
 		- La valeur n'est pas dans l'œuvre même dans la démarche et dans le discours de l'artiste
+		- Principe à la base du [[Ready-made]]
+		- Transformation ontologique de l'objets, l'étant de la chose est modifié
 - Mais pourquoi un monde
 	- Un mundos / cosmos: un univers organisé
 		- Des règles, un fonctionnement partagées
-	- Ce monde à permis la transfiguration du banale
-- *Quand les Attitudes deviennent formes*, 1969 au Kunsthalle Bern : exposition manifeste de cette transfiguration du banales
+	- Ce monde à permis la transfiguration du banale.
+- *Quand les Attitudes deviennent formes*, 1969 au Kunsthalle Bern : exposition manifeste de cette transfiguration du banales et marquant quand au développement des pratique conceptuelles
 	- Ce n'est plus la formes qui compte mais c'est plutôt la démarche qui compte
+		- Sol Lewitt: [*Serial Project*](https://www.moma.org/collection/works/81533), 1966 ![Sol LeWitt. Serial Project, I (ABCD). 1966 | MoMA](https://www.moma.org/media/W1siZiIsIjIxMTU5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MTQ0MFx1MDAzZSJdXQ.jpg?sha=4723d87ff6c4ec7b)
 	- Une des premières expositions qui donne à voir des artistes conceptuelles [[Art Conceptuel]] et des pratiques d'art contemporain
-- Le monde de l'art - Phénomène Sociologique : Howard Becker: Les mondes de l'art
+- Le monde de l'art - Phénomène Sociologique : Howard Becker: *Les mondes de l'art*
   id:: 65d3770f-5fc6-43ff-89ba-8915f6763dd5
 	- S'intéresse aux mondes de l'art comme monde socio-professionnelle
 	- *Le monde de l'art comme un réseaux de coopération au sein duquel les mêmes personne coopèrent de manière régulière er qui relie donc les participants selon un ordre établi. Un monde de l'art est fait de l'activité même de toutes ces personnes qui coopèrent*
 	- Le monde de l'art partage des présupposés commun: des conventions
 - Nelson Goodman: *Manières de faires des mondes*
+	- Philosophie issue de la [[Philosophie Analytique]]
 	- Ce demande comment quand l'objet est un symboles
 	- L'art consiste à faire parler un objet, un objet renvoi à un signifiant il propose un symbole
 	- La question n'est plus qu'est ce que l'art mais quand il y a t'il art: sous quelle facteur quelle mécanisme
@@ -34,9 +39,12 @@
 			- ((653e63b1-925e-43e6-a815-551ac22c526b))
 			- Le geste bien qu'il soit banale est symbolique car il est inscrit dans le monde de l'art
 			- ((65480be3-75c7-477e-84b4-da63a78f3465))
-- Tout ces tendances appartiennent aux pratiques d'art contemporains: Nathalie Heinich: [*Le paradigme de l'art contemporain*](https://www.gallimard.fr/Catalogue/GALLIMARD/Bibliotheque-des-Sciences-humaines/Le-paradigme-de-l-art-contemporain)
+- Tout ces tendances appartiennent aux pratiques d'art contemporains: Nathalie Nathalie Heinich: [*Le paradigme de l'art contemporain*](https://www.gallimard.fr/Catalogue/GALLIMARD/Bibliotheque-des-Sciences-humaines/Le-paradigme-de-l-art-contemporain)
 	- La transition entre moderne et contemporain problématise l'art ce qui rend l'art dure à accéder
 	- Un paradigme est une réponse que l'on se fait propre à un milieux
-		- Le discours est le commentaire deviennent important dans l'art contemporains. Les démarches sont appréhendable d'un point de vue intellectuel est nécessité donc une médiation
+		- Le discours est le commentaire deviennent important dans l'art contemporains. Les démarches sont appréhendables d'un point de vue intellectuel est nécessite donc une médiation
 - Richard Venlet: [*Cit.Cit.2 Platforme & Treasury*](https://www.etablissementdenface.com/in-the-past/richard-venlet-cit-cit-2-platform-treasury), 2005 ![RICHARD VENLET CIT.CIT. 2 PLATFORM & TREASURY ETABLISSEMENT D'EN FACE](https://www.etablissementdenface.com/wp-content/uploads/2005/09/CIT2d-810x1080.jpg)
 	- Questionne la mise en espace du lieux d' [[Exposition]] et propose plus des œuvres comme display et investi les pratiques curatorials
+- L'art devient une chose mental
+- Richard Venlet: [*Museum for a small city*](https://smak.be/en/exhibitions/museum-for-a-small-city-the-s-m-a-k-collection-presented-re-viewed-and-re-visited-richard-venlet), 2014
+	- https://www.pikasus.com/wp-content/uploads/2014/01/a47bdb2ae5a99dc68185bc94a1d4224c.jpg

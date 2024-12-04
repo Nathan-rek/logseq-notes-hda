@@ -1,5 +1,7 @@
 - L’art de la performance, en effet, se généralise rapidement et génèrent un certain nombre d’actions indistinctement qualifiées de « happenings ». Un art qui dépasse de son contexte et quitte l’autonomie du [[Modernisme]] formelle
 - Malgré des sensibilités, des intentions et des structures très différentes, le qualificatif fut retenu, apparaissant comme le plus approprié car recouvrant une grande diversité d’activités, bien que les artistes n’y adhéraient pas forcément, et qu’aucun groupe ni aucun manifeste collectif, revue ou texte de propagande ne s’y soit référé.
+- Art héteronorme
+	- En tant que néo dadaïste i..elles veulent quitter les musée et prendre forme dans la vie,
 - George MACIUNAS en ouvrant, avec Almius SALCIUS la galerie AG décide de consacrer ce lieu au type d’événement qui prennent lui au sein de l’avant garde New-Yorkaise des années 1960
 	- Très vite il y projette des projets d’artistes qui formeront le Fluxus comme [[John Cage]] , Yoko ONO ou Dick HIGGINGS.
 		- George MACIUNAS étant graphiste il promouvait les événements et de la le terme Fluxus apparaît en annonçant une revue a venir

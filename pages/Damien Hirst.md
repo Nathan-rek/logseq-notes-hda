@@ -5,7 +5,8 @@ id:: 663cb156-322f-40d2-8048-1fd1c0ec40ba
 		- Une réflexion existentialiste qui intrigue les sociétés et qui intrigue [[Damien Hirst]] dans son intégration aux modes de consommation dans une société technologique. Cette futile fragilité de pensée face à cette expansion de vitalité par les technologies pharmaceutiques
 			- ((663ca6f9-c5a0-4a73-8224-c081c35ed09f))
 	- De plus le processus de collection est une activité mortifère. Par la collection le musée empêche le vivant il stagne la chose dans un état de mort prématuré.
-		- ((663cb830-8787-47ad-a465-18d8f6fa23b9)) interroge cette pratique de mise à mort et de mise en dispositif au profit d'études
+		- ((663cb830-8787-47ad-a465-18d8f6fa23b9))
+			- Interroge cette pratique de mise à mort et de mise en dispositif au profit d'études
 - ## Works
 - Damien Hirst: [*The fragile Truth*](https://lesoeuvres.pinaultcollection.com/fr/oeuvre/fragile-truth), 1997 ![The Fragile Truth | Pinault Collection](https://lesoeuvres.pinaultcollection.com/media/styles/ex_v/s3/art/10509_visuel_REF_HIRST_TheFragileTruth.jpg?itok=LjGvG5iq)
   id:: 663ca6f9-c5a0-4a73-8224-c081c35ed09f

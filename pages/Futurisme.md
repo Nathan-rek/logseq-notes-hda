@@ -1,5 +1,6 @@
 ## Manifeste
-- [*Fondation et Manifeste Futuriste*](https://pierre-lamble2.eu/resources/Exposés_BTS/Manifeste%20du%20Futurisme.pdf)Filippo Tommaso MARINETTI, 1909: Constitution du mythe futuriste et établissement des principes du manifeste:
+- [*Fondation et Manifeste Futuriste*](https://pierre-lamble2.eu/resources/Exposés_BTS/Manifeste%20du%20Futurisme.pdf)Filippo Tommaso Marinetti, 1909: Constitution du mythe futuriste et établissement des principes du manifeste:
+  id:: 661023c5-a6e5-44a2-87c4-6f555cd46a72
 - Texte construit avec un principe colonial
 - Se positionne en tant qu’ [[Avant-Gardes "Historique"]]
 	- Culte de l’isolement des [[Avant-Gardes "Historique"]]

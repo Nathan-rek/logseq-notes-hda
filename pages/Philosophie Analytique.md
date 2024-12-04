@@ -1,3 +1,4 @@
 - Elle se caractérise par une approche rigoureuse du langage et de la logique pour clarifier les problèmes philosophiques, en s'inspirant des sciences et des mathématiques. Plutôt que de s'intéresser aux grandes questions métaphysiques ou existentielles, elle se concentre sur l'analyse des concepts, des arguments et du sens des mots, cherchant à résoudre les énigmes philosophiques à travers une méthode précise et critique.
 - Clarifier le langage jusqu'au jours où on dépassera tout malentendu sur les concepts philosophiques
--
+- On oppose la philosophie Analytique à la [[Philosphie Continentale]]
+	- Le terme est surtout utilisé pour décrire une activité par contraste avec la Philosphie Analytique  Il est parfois plus populaire hors du domaine des sciences naturelles, dans les sciences sociales voire en [esthétique](https://fr.wikipedia.org/wiki/Esth%C3%A9tique), en [littérature](https://fr.wikipedia.org/wiki/Litt%C3%A9rature), en théorie du cinéma ou en [architecture](https://fr.wikipedia.org/wiki/Architecture).

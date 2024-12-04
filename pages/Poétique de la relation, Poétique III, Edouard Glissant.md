@@ -1,7 +1,9 @@
 - Penseur Martiniquais, née en 1928. Ecriture philosophique proche de la poésie
 - Plusieurs penseur..euse proviennent des îles caraïbéennes
 - ## Poétique de la relation
-- *sea is History*: rappelle du passage de l'atlantique dans la traite négrière
+- Penser le devenir, penser la relation
+	- La relation dans la construction d'identité
+- *sea is History* rappelle du passage de l'atlantique dans la traite négrière
 	- La mer comme dépositaire de l'histoire notamment celle du [[Colonialisme]]
 - *Unity is sub-marine*
 - Glissant donne une descritpion d el'imaginaire
