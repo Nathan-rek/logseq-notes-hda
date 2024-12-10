@@ -1,0 +1,12 @@
+- La question de décentralisation culturelle a pris place suite au décentrage de la conception traditionnelle du rapport auteur sujet
+	- Puis de la conception de l'objet d'œuvre d'art
+- JH Martin dit que les magiciens de la terre s'inscrit dans cette problématique du centre et de la périphérie des avants-gardes.
+  id:: 6756ef3b-e39b-40de-bfda-150b70fe20bb
+	- JH Martin vois un centre euro-américains car l'exposition est un produit de cette culture mais qui présente des artiste issu de marge
+- BB: comment ne pas utiliser des critères ethnocentrique et hégémoniques dans le choix des participant..es et des œuvres
+	- JH Martin: on ne peut faire une optique objective acculturé
+	- JH Martin veut faire des choix par intuition artistique
+		- Si un ethnologue lui propose un objet mais si selon JH Martin l'objets ne parle pas suffisamment aux spectateur..ices occidental..e sur le plan visuel et sensoriel, il s'en abstiendrait.
+- BB: Ne voit ni une expo colonial ni une expo esthétisant qui présente des objets de culture hétéronomes en projettent sur eux la notion moderne occidental de [[Primitivisme]].
+- Pour JH Martin ce n'est pas une expo colonial car elle incluent sur le mêmes plan artiste en marge et artistes occidentau..les
+-

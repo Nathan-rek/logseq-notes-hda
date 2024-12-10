@@ -83,7 +83,8 @@
 			- Adapte un tradition australienne en une sculpture et une performance
 	- L'exposition n'as pas été un succès critique.
 		- Bien que JH Martin dit avoir conçu un projet délicat entre sa propre intuition "artistique" et la critique anthropologique
-	- Benjamin Buchloh dans les *Cahiers du Mnam* soulève les pièges des magiciens de la Terre
+	- Benjamin Buchloh dans les *Cahiers du Mnam* soulève les pièges des magiciens de la Terre [[Entretien Buchloh]]
+	  id:: 671612dd-be26-4761-b598-989d9e9bcafd
 	- Implicite [[Primitivisme]] dans la sélection d'artiste non occidentaux
 	- Exposition conçue sous le mode de la foire
 		- Trop complices avec des modes de consommation capitaliste qui caractérisent l'époque

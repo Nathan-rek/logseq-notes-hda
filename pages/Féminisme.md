@@ -5,6 +5,6 @@
 - En France après 1968 un deuxième élan prend forme notamment avec [[Hélène Cixious]] et [[Monique Wittig]]
 	- Moment de gloire pour le féminisme
 	- Pensée le féminisme comme un projet créateur dont on ne peut prédire le formes
-- En Australie en Angleterre au USA on voit une efférence de la pense féministe dans les Université américaine.
-	- Au même moment émergent des mouvement de pensé Queer [[Judith Butler]]
+- En Australie en Angleterre au USA on voit une effervescence de la pensée féministe dans les Universités.
+	- Au même moment émergent des mouvements de pensé Queer [[Judith Butler]]
 - La 4ème vague du Féminisme remet en question les représentations du divin féminin et masculin

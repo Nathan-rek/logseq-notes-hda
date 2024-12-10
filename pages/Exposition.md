@@ -93,7 +93,7 @@
 			- Le musée devient de plsu en plus participatif
 				- On demande l'avis ou la collaboration avec les spectateur..ices.
 				- Le musée devient le forum
-			- La muséologie devient indépendant su muse....................
+			- La muséologie devient indépendant du musée....................
 			- C'est le rapport spécifique de l'H à la réalité et donc le rapport de l'H avec les objet de cette réalité
 		- Susan Vogel: [*Art/artifact*](https://www.academia.edu/42656257/African_art_through_the_western_gaze_an_exhibition_analysis_of_ART_Artifact_curated_by_Susan_Vogel), 1988 Center for African Art New York
 			- Couverture symptomatique de cette tendance à comparer de choses incomparables mais par similarité formelle
@@ -104,4 +104,19 @@
 			- Beaucoup de portait photographiques des grand chefs
 		- Africans refelctions. Art from northeastern Zaire
 		- Musée Cannibale
-		-
+			- Muséologie de rupture
+				- Un lieu de destabilisation culutrelle
+				- La vérité ne peut être que très relative
+				- Le..a visiteur..ices construit sa propre réflexion vis-à-vis de l'exposition qui lui est proposée.
+			- L'exposition est en huit sections
+		- Musée du Quai Branly
+			- Musée d'œuvre premier, euphémisme pour [[Primitivisme]]
+		- Museologie particpative
+			- Musée des culutre du mondes
+				- Restructre profonde de la plupart des musées ethnographiques nordamericianes et européens despuis l'an 2000
+				- Généralisation de la muséologie particpative ou inclusives dans les chartes des musées britanniques
+				- Consulter sinon associer tout groupe qui se définit comme entité social.........
+				- Vision qui se veut éthique et respectueuse de l'autres
+				- Platforme ou la societe pourrait engager un dialogue..................
+		- Les Banques culturels du Mali
+			- Institution villageoise qui mêle: musé, caisse de micro-crédit, un centre de formation culturelle
