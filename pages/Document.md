@@ -10,9 +10,15 @@
 	- Stratégie d’expérimentation qui prépare le grand verre Système documentaire préparatoire
 	- [*Les trois stoppage d’étalons*](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.centrepompidou.fr%2Ffr%2Fressources%2Foeuvre%2Fcrb5LdB&psig=AOvVaw3pFKQxNz0nYTFGeBnlxecO&ust=1681891690310000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDs5Pf8sv4CFQAAAAAdAAAAABAE) ![3 stoppages-étalon - Centre Pompidou](https://www.centrepompidou.fr/media/picture/70/bd/70bd53265b8b553704c2a57d570df0c9/thumb_large.jpg)
 	- 3 cordes de 1 mètres de longueurs déterminée ( instrumentation des valeurs > issue de la [[Modernité]] ) en lâchant la corde
-	- Fait un élevage de poussière en laissant à l’abandon le grand verre > transformé en pigment
-	- Prépare de manière expérimentale des éléments iconographiques: [*Le Moulin à eau*](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.photo.rmn.fr%2Farchive%2F15-596814-2C6NU0AN7Y7Y7.html&psig=AOvVaw3h6mWRg2gWCnT3O_FhnYFh&ust=1681891824641000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjo3rf9sv4CFQAAAAAdAAAAABAE)
-	- D’autre œuvres témoignent de la germination du grand verres: [*Le Passage de la vierge à la mariés*](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.artsdot.com%2F%40%40%2F7YLJ6T-Marcel-Duchamp-Transici%25C3%25B3n-de-la-virgen-en-un-Bride_Le-Passage-de-la-Vierge-un-la-Mari%25C3%25A9e..&psig=AOvVaw2pGnGDd9iKDXfyVo3XMxV6&ust=1681891877118000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKic69D9sv4CFQAAAAAdAAAAABAE): élabore progressivement le registre de la mariés > Une œuvre c’est une fenêtre ouverte sur le monde > réalise structurellement une peinture sur une fenêtre guillotine
+	- Fait un élevage de poussière en laissant à l’abandon le grand verre
+		- Transformé en pigment
+	- Prépare de manière expérimentale des éléments iconographiques:
+		- [[Marcel Duchamp]]: Le moulin à eau, 1965 ![Réunion des Musées Nationaux-Grand Palais -](https://www.photo.rmn.fr/CorexDoc/RMN/Media/TR1/71PTBI/15-596814.jpg)
+	- D’autre œuvres témoignent de la germination du grand verres
+		- [*Le Passage de la vierge à la mariés*](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.artsdot.com%2F%40%40%2F7YLJ6T-Marcel-Duchamp-Transici%25C3%25B3n-de-la-virgen-en-un-Bride_Le-Passage-de-la-Vierge-un-la-Mari%25C3%25A9e..&psig=AOvVaw2pGnGDd9iKDXfyVo3XMxV6&ust=1681891877118000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKic69D9sv4CFQAAAAAdAAAAABAE) ![MoMA | Inventing Abstraction | Marcel Duchamp | LE PASSAGE de la vierge à  la mariée (<i>The Passage from Virgin to Bride</i>). 1912](https://www.moma.org/interactives/exhibitions/2012/inventingabstraction/img/works/81.jpg)
+		- élabore progressivement le registre de la mariés
+		- Une œuvre c’est une fenêtre ouverte sur le monde
+			- Réalise structurellement une peinture sur une fenêtre guillotine
 		- Rencontre entre la partie féminine (partie supérieur) et la partie masculine (partie inférieur) en deux parties: prépare la construction du Grand verre
 - Système documentaire préparatoire
 	- L’œuvre est rabattue au statue de document qui devrait être manipulé par ces artefacts

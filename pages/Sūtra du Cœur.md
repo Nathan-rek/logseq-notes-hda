@@ -1,0 +1,38 @@
+- Le boudhisme apparait en Inde
+  title:: Sūtra du Cœur
+	- Siddhartha Gautama est un jeune homme riche probablement princier.
+		- Un prophetie dit qu'il serait soi chef de guerre soit guide spirituel
+		- Pour pas que cela arrive son père le surprotège dans un confort le plus total
+		- A 20 ans il quitte le palais, et découvre la vieillesse, la maladie, la meurt.
+			- En apprenant la mort il décide de suivre un chemin spirituel pour éradiquer la souffrances
+				- Il part rejoindre une communauté  qui ont des pratiques de souffrance.
+					- Mais la souffrance ne s'arrête pas en augmentant la souffrance
+			- Il quitte la communauté et s'installe sou un ficus et médite pendant 7 semaines et ensuite atteins l'éveil
+				- Il ne ressent plus la souffrances car le monde est tisser du même file, la souffrance est lié au fait que nos ego sont attacher à des convictions qui rendent la vie infernale.
+					- L'impermanence est impossible à surmonter
+- L'enseignement est que la souffrance existe mais qu'on peut s'en libérer en se consacrant vers un chemin qui pense un détachement des choses.
+	- Religion très pragmatique car il y a un chemin qui nous permet de nous libère de la souffrance
+		- C'est le Noble sentier Octuple, à savoir : la vue juste, la pensée juste, la parole juste, l'action juste, le moyen d'existence juste, l'effort juste, l'attention juste, la concentration juste
+- Il devient le Bouddha
+	- Il enseigne ensuite pendant 45ans, transmission oral, environ 200ans après sa mort les premiers textes apparaissent
+- Le Bouddha et Socrate et Confucius et Lao-Tseu ont tous vécu au 5ème siècle avant JC.
+- Un empereur c'est converti au bouddhisme et en a fait la religion de son pays.
+- entre 100 avant et après JC le bouddhisme diverge entre deux tendances
+	- Bouddhsime Theravāda
+		- Ce qui compte c'est l'éveil, un moment spirituel qui agit comme une révélation
+	- Bouddhisme mahāyāna
+		- L'éveil n'as de sens que si il sert la communauté
+			- Doit avoir pour but de servir la communauté
+		- Les bodhisattvas sont des êtres qui renaissant dans le monde pour alléger les souffrances
+- Quand le Bouddhisme mahayana arrive en Chine
+- Traduction de **Thích Nhất Hạnh**
+	- Moines qui a connu la guerre au Vietnam
+		- Il crée un bouddhisme engager ou la pratique social et aussi importante que la pratique spirituelle.
+		- Il va a Princeton et se voit interdit de territoire au Vietnam. Coincer en occident il immigre en France, il crée son propre monastère et fonde le village du prunier
+- Pensée de la non substance
+	- Depuis Socrate et [[Platon]] on pense que chaque individu est anime d'une essence propre or le bouddhisme est le contre pied de cela.
+		- Le vide est terme central autour duquel les autres s'articulent. Tous les phénomènes sont empreintes du vide
+		- Dans le vide les entité ne sont pas dotés d'un soi séparé
+		- Défaire notre perception premier du monde, en réalité les sensations est inscrite dans un récit
+	- Défaire l'ego, supprime le récit que je me raconte comme vérité unique
+	-

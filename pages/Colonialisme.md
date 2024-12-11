@@ -6,11 +6,9 @@
 - La cartographie comme outil de rationalisation d'un territoire
 	- Les frontières sont des construction de l'Europe
 - *Devoir de mémoire*, 2021
-	- Présente une série d'histKoire sur la santé et le bien-être qu'ont vécues des personnes issue des communautés inuites, métisse et des premières Nations
+	- Présente une série d'histoire sur la santé et le bien-être qu'ont vécues des personnes issue des communautés inuites, métisse et des premières Nations
 		- Lève le voile sur des cas de racisme systémique sur les conséquences du colonialisme
 			- Stérilisation forcés des femmes autochtones
 				- En 1866 les américain..es veulent mettre fin à l'existence des peuples autochtones et les politiques mettent en avant des projet eugénique de stérilisation des femmes autochtones
 					- Des cas de stérilisation forcées était encore présent au Canada en 2018
 			- Déportation des peuples inuites qui mis dans un été de pauvreté un grand nombres de famille inuites, entrainant une forte augmentation du taux de suicide chez les peuples inuites
-			-
-		-

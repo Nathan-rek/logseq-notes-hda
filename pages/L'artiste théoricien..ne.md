@@ -16,7 +16,7 @@
 				- Donnent à voir des recherches mais qui n'aboutissent à rien d'autres que de montrer la recherche
 	- Raphaelle de Groot
 		- Artiste canadienne qui se spécialise dans les pratiques relationnelles (dispositif qui crée de la relation avec d'autres personnes)
-			- Travail en tant qu'ethnographe en anthropologie et rend clair la limite de ça recherche
+			- Travail en tant qu' [[Ethnographe]] en anthropologie et rend clair la limite de ça recherche
 				- Collecte des objets et en fait des objets autres
 					- La collecte est une méthode anthropologique, s'intéresse à l'usage des objets de communautés
 			- Travail sur un territoire géographique et explique comment un..e artiste vient à l'autre en prenant précautions de cette rencontre

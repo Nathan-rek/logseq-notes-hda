@@ -6,7 +6,7 @@
 - ## Contre l'interprétation
 	- Herméneutique: qui a un attrait pour l'interprétation
 	- Les premières conceptions théoriques sont des conceptions herméneutiques de l'art. Elles interprètent l'art comme imitation du réel, et donc un besoin de justification
-		- Pour Platon cela rend l'art incertain car le monde matériel est déjà une imitation d'un monde des idées. ((66f3bf78-2e80-4509-88cf-d182bac25b9f))
+		- Pour [[Platon]] cela rend l'art incertain car le monde matériel est déjà une imitation d'un monde des idées. ((66f3bf78-2e80-4509-88cf-d182bac25b9f))
 		- Aristote partage cette conception d'un art trompe l'œil mais ne trouve pas qu'il est inutile pour autant
 		- Que ce soit pour [[Platon]] ou Aristote l'art à une conception figurative
 			- Cette tradition figurative a crée dans le temps de concept comme la forme, le fond, et le contenu.

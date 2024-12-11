@@ -7,7 +7,7 @@
 	- Les cultures qui, selon lui, mettent en avant la médiocrité.
 	- Il reproche à la chrétienté de couper les puissances individuelles de l'homme.
 - Nietzche reproche à l'occident la morale des ressentiment
-	- L'idée d'une moral qui serait basé sur un dualisme entre le bien et le mal. Le genre de dualisme qui trouve chez Platon ou chez les chrétiens.
+	- L'idée d'une moral qui serait basé sur un dualisme entre le bien et le mal. Le genre de dualisme qui trouve chez [[Platon]] ou chez les chrétiens.
 		- Pour Nietzsche la moral est fait par les faibles pour combattre les forts.
 			- Les forts pour Nietzsche sont ceux qui répondent au principe d'immanence de la vie ceux qui adhère à leur puissance de vie.
 				- Ce disant élève de [[Schopenhauer]] ce serait les humain..es qui adhèrent à la volonté.

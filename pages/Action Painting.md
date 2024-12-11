@@ -14,7 +14,6 @@
 		- La brosse ne gicle pas comme mais marque et absorbe le mouvement
 - Lee Krasner, un travail assez proche du travail des cobras en Europe.
 	- Lee Krasner, [*Milkweed*](https://www.artsy.net/artwork/lee-krasner-milkweed), 1955 ![Lee Krasner — AWARE Women artists / Femmes artistes](https://awarewomenartists.com/wp-content/uploads/2018/04/lee-krasner_milkweed_1955_aware_women-artists_artistes-femmes-1049x1500.jpg)
-- [^1] Dans les arts plastiques, le dripping (de l'anglais to drip, « laisser goutter ») est une technique consistant à laisser couler ou goutter de la peinture, voire à projeter celle-ci sur des toiles ou surfaces horizontales de façon à obtenir des superpositions de plusieurs couleurs d'un même spectre.
 - ## Footnotes
 	- [^2]: Dans les arts plastiques, le dripping (de l'anglais to drip, «
 	  laisser goutter ») est une technique consistant à laisser couler ou

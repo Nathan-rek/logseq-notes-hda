@@ -115,80 +115,80 @@ collapsed:: true
 						- l’image est prise, prélevée sur quelque chose qui se passe, il y a que de l'histoire
 	- Supprimer la narration et l'illustration c'est le rôle du diagramme et du chaos catastrophe, on surprime des données figuratives car les figurations et les narrations, elles sont données
 		- il faut donc, faire passer les données figuratives et narratives par le chaos catastrophe, par la catastrophe germe, pour qu’en sorte quelque chose de tout à fait autre, à savoir le fait.
-- ## Le fait pictural
-  collapsed:: true
-	- Qu’est-ce que c’est qu’on pourrait appeler le fait pictural par opposition aux données pré picturales
-		- ### Le cas de Michel-Ange
-		- Dans le cas de Michel-Ange qui se caractérise comme celui qui à montré au grand jour le fait picturale par son indifférence face au sujet
-			- Il est un peintre qui par la négociation avec Jules II et le pape obtient un commande carte blanche.
-			- Michel Ange: [*La Sainte Famille*](https://fr.wikipedia.org/wiki/Tondo_Doni), 1506 ![La Sainte Famille avec saint Jean-Baptiste enfant par - œuvre d'art  analysée en images | Panorama de l'art](https://panoramadelart.com/sites/default/files/filesPanorama/FA201-a-tondo-doni_0.jpg)
-				- Les hommes du fond sont la pour être la et les corps du devant se fondent sans raconter d'histoire
-					- La position des corps joue exactement le rôle du diagramme. Qui brise avec les données figuratives et narratives pour faire surgir le « fait pictural ». Le « fait pictural », c’est trois corps en une figure.
-			- Michel-Ange: [*Batailles de Cascina*](https://www.italian-renaissance-art.com/Battle-of-Cascina.html) : ![The Battle of Cascina Michelangelo's unfinished masterpiece.](https://www.italian-renaissance-art.com/images/Battle-of-Cascina.jpg)
-			  id:: 65f81de5-a79e-4480-83a1-c28c0b768572
-				- Le tableau est une commande pour célébrer une bataille mais la place des soldat est minime Michel Ange s'empare de la commande pour représenter des corps qui sortent de l'eau.
-				- Michel-Ange révèle la capacité des peintres athé..es à arracher des faits pictural au christianisme
-					- Ils arrachent le christianisme à toute figuration et narration pour en tirer un « fait pictural ».
-			- Michel-Ange est rallié à l'école des Maniéristes, un mouvement où les corps sont assez artificielles
-				- Deleuze définit comme: le rapport du corps visible avec la force invisible
-					- *Si bien que je crois que le maniérisme est en fait une dimension fondamentale, une dimension consubstantielle de la peinture.*
-		- Le fait pour Bacon par exemple c'est quand il y a une ou plusieurs niveaux de Figures
-			- Il l'illustra en prenant le tableau de [[Paul Cézanne]]
-				- ((65fdfcd6-20c3-4d82-b094-8313edd0f20c))
-				  id:: 65f835c1-b5ba-48aa-a36a-015d598c14c7
-				- Cree une nécessité de coexistence entre les personnage a travers le fait pictural
-					- Ainsi, le "fait pictural" réside dans cette capacité à créer une composition où plusieurs figures coexistent sur la toile de manière harmonieuse et significative, même en l'absence d'une histoire narrative explicite
-				- Cette coexistence est crucial par exemple dans le cas du ((65d3770e-5e8a-462d-8e8e-d94c1f7c56c3))
-				- Vous l’appréhendez picturalement lorsque vous supprimez toute histoire. Cette histoire ne pourrait être que dégoûtante si il y avait une histoire
-			- Il faut une nécessité pictural: une nécessité qui ne peux venir que de la lumière et de la couleur
-	- Pour Bacon aussi il y a une forme de maniérisme hérité de Michel-Ange
-		- Francis Bacon: [*Three Studies of a Male Back (tryptique)*](https://www.galerie-lelong.com/fr/estampe/920/three-studies-of-the-male-back-triptych/), 1987  https://www.galerie-lelong.com/files/estampes/EST73731244939549AIDR/BACON.studyofthemalebackREUNIS.jpg
-			- Deleuze y voit l'héritage du dos de Michel-Ange chez Bacon
-		- Pour peindre un dos et le rendre visible il faut peindre les forces invisible qui crée le dos, il ne faut pas peindre des formes mais des forces
-			- *L’acte de la peinture, le « fait pictural », c’est lorsque la forme est mise en rapport avec une force*
-				- Qui répond à la phrase de Paul Klee: *Il ne s’agit pas de rendre le visible, il s’agit de rendre visible *, sous-entendu, rendre visible l’invisible.
-					- Rendre visible c'est de la figuration c'est le donné pictural c'est ce qui doit être détruit par la catastrophe ce lieu des forces
-	- Le fait pictural c'est la forme déformes par la force
-		- La déformation est un concept de [[Paul Cézanne]]
-			- La déformation comme concept pictural c’est que la déformation de la forme, c’est la forme en tant que s’exerce sur elle une force
-				- Cette déformation est un processus qui fait parfois l'objet d'effet de décomposition recomposition de la couleur, du mouvement, de la profondeur
-		- Le rôle du diagramme, ça va être d’établir un lieu des forces telle que la forme en sortira comme « fait pictural »
-			- C’est dès lors la déformation de la forme picturale qui fait voir la force non-visible.
-	- Bacon peindrait non pas un homme qui dort mais la force d'aplatissement dans le sommeil
-		- Francis Bacon: [*Sleeping figure*](https://www.francis-bacon.com/artworks/paintings/sleeping-figure-0), 1974 ![FRANCIS BACON Sleeping Figure, 1974 Medium Oil on canvas Dimensions 78 x 58  inches jpg (800×1060) | Francis bacon, Bacon art, Painting](https://i.pinimg.com/736x/a9/ea/b8/a9eab82166f82fd05cac8f882652623d.jpg){:height 604, :width 450}
-			- La forme en rapport avec une force de déformation à savoir la force qui l’aplatit
-				- Cette force dépasse la figuration du sommeil et de la force du sommeil
-	- Le quartier de viande par exemple est un sujet traité figurativement de différentes manières par différents peintres
-		- Rembrandt: [*Le Bœuf écorché*](https://fr.wikipedia.org/wiki/Le_B%C5%93uf_%C3%A9corch%C3%A9_%28Rembrandt%29), 1655 ![Le Bœuf écorché (Rembrandt) — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/e/e8/Rembrandt%2C_bue_squartato%2C_1655%2C_02.JPG)
-	- Chaim Soutine: [*Bœuf écorché*](https://fr.wikipedia.org/wiki/Le_B%C5%93uf_%C3%A9corch%C3%A9_(Soutine)#:~:text=Le%20B%C5%93uf%20%C3%A9corch%C3%A9%20est%20une,dont%20elle%20reprend%20le%20nom.), 1925 https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cha%C3%AFm_Soutine_-_Le_B%C5%93uf_%C3%A9corch%C3%A9.jpg/800px-Cha%C3%AFm_Soutine_-_Le_B%C5%93uf_%C3%A9corch%C3%A9.jpg
-	  id:: 65f9d2d4-cdf9-4da0-ac9f-dcbef08b60b7
-	- Francis Bacon: [*Fragment of a Crucifixion*](https://www.researchgate.net/figure/Francis-Bacon-Fragment-of-a-Crucifixion-1950-oil-on-canvas-Van-Abbe-Museum_fig4_324256746), 1950 https://www.researchgate.net/profile/Bronwyn-Law-Viljoen/publication/324256746/figure/fig4/AS:662401137524737@1534940146492/Francis-Bacon-Fragment-of-a-Crucifixion-1950-oil-on-canvas-Van-Abbe-Museum.png
-	  id:: 65f9d32c-bb4a-4c3d-8651-274b9212f565
-		- Dans le cas de Bacon la chair du quartier par le mouvement quitte l'os, c’est une chair qui descend des os
-			- Il y a une force de pesanteur propre à la viande - c’est ça qui intéresse Bacon dans la viande - force par laquelle la chair descend des os
-				- L’opération par laquelle la chair descend des os, c’est ça la crucifixion ou la manière dont Bacon vit la crucifixion.
-				- Tout comme pour le dormeur c'est la chair qui descend des os
-					- La forme est la rencontre de ces deux forces celle de l'aplatissement et celle de la chair qui descend des os
-						- Il a rendu visible dans ce tableau deux forces invisibles
-- Les données figuratives et narratives sont toujours la elle sont pré picturale elle sont déjà-la
-  collapsed:: true
-	- Que ce soit un carré de [[Piet Mondrian]] ((653ec305-ecb3-4d52-93a9-29b5625299ae)) ou une ligne chez [[Jackson Pollock]] ((653ee430-1eca-4a79-9a49-45525fd705c0)) les idées, les clichés sont toujours la même chez les plus abstrait
-	- Ce qui rend le cliché inévitable c’est que le cliché, il est fondamentalement intentionnel. Toute intention est intention de cliché. Toute intention vise un cliché. Or il n’y a pas de peinture sans intention
-- ## L'intention
-- Pour Deleuze l'intention c’est la différence entre une pomme et une femme ((65f835c1-b5ba-48aa-a36a-015d598c14c7)) / ((65f819b1-0463-45b1-a3b9-d4eb35a16034))
-  collapsed:: true
-	- Cézanne n’a pas la même intention suivant qu’il se propose de peindre une pomme et de peindre une femme
-	- C’est l’intention qui promeut déjà le cliché. Dès lors c’est forcé que le cliché soit sur la toile, avant que le peintre ait commencé. Je dirais : la forme intentionnelle est toujours en peinture figurative et narrative.
-		- Si bien que la tâche du peintre et l’acte de peindre, ça commence avec la lutte contre la forme intentionnelle
-			- Je ne peux réaliser la forme intentionnelle - s’il y avait une dialectique dans la peinture, ça me semblerait celle-ci - je ne peux réaliser la forme intentionnelle, c’est-à-dire la forme que j’ai l’intention de produire, je ne peux la réaliser que précisément en luttant contre le cliché qui l’accompagne nécessairement, c’est-à-dire en la brouillant, en la faisant passer par une catastrophe.
-	- Dans ((65f9d32c-bb4a-4c3d-8651-274b9212f565)) par exemple les os sur lesquelles tiennent les bras se sont vu transformer
-		- Il était de base os d'un oiseau un rapport entre un cliché et une forme et c’est le rapport même qui s’est transformé en un tout autre rapport
-			- Rapport os/viande, la viande descend des os, il y a des petits bras de la viande qui sont comme des os d’où la viande tombe, descend
-			- Il est complètement dispersé au point qu’il n’existe plus du tout figurativement
-- Le diagramme n'est pas un code
-	- Le diagramme est toujours proche de raté, un tableau est d'autant plus admirable quand il frôle le gaspillage
-	  id:: 65f9deff-aa7d-4ad3-bc3e-a73c5cb8820a
-	- **En quoi, en quoi le diagramme est tout à fait autre chose qu’un code de la peinture** ?
+	- ### Le fait pictural
+	  collapsed:: true
+		- Qu’est-ce que c’est qu’on pourrait appeler le fait pictural par opposition aux données pré picturales
+			- ### Le cas de Michel-Ange
+			- Dans le cas de Michel-Ange qui se caractérise comme celui qui à montré au grand jour le fait picturale par son indifférence face au sujet
+				- Il est un peintre qui par la négociation avec Jules II et le pape obtient un commande carte blanche.
+				- Michel Ange: [*La Sainte Famille*](https://fr.wikipedia.org/wiki/Tondo_Doni), 1506 ![La Sainte Famille avec saint Jean-Baptiste enfant par - œuvre d'art  analysée en images | Panorama de l'art](https://panoramadelart.com/sites/default/files/filesPanorama/FA201-a-tondo-doni_0.jpg)
+					- Les hommes du fond sont la pour être la et les corps du devant se fondent sans raconter d'histoire
+						- La position des corps joue exactement le rôle du diagramme. Qui brise avec les données figuratives et narratives pour faire surgir le « fait pictural ». Le « fait pictural », c’est trois corps en une figure.
+				- Michel-Ange: [*Batailles de Cascina*](https://www.italian-renaissance-art.com/Battle-of-Cascina.html) : ![The Battle of Cascina Michelangelo's unfinished masterpiece.](https://www.italian-renaissance-art.com/images/Battle-of-Cascina.jpg)
+				  id:: 65f81de5-a79e-4480-83a1-c28c0b768572
+					- Le tableau est une commande pour célébrer une bataille mais la place des soldat est minime Michel Ange s'empare de la commande pour représenter des corps qui sortent de l'eau.
+					- Michel-Ange révèle la capacité des peintres athé..es à arracher des faits pictural au christianisme
+						- Ils arrachent le christianisme à toute figuration et narration pour en tirer un « fait pictural ».
+				- Michel-Ange est rallié à l'école des Maniéristes, un mouvement où les corps sont assez artificielles
+					- Deleuze définit comme: le rapport du corps visible avec la force invisible
+						- *Si bien que je crois que le maniérisme est en fait une dimension fondamentale, une dimension consubstantielle de la peinture.*
+			- Le fait pour Bacon par exemple c'est quand il y a une ou plusieurs niveaux de Figures
+				- Il l'illustra en prenant le tableau de [[Paul Cézanne]]
+					- ((65fdfcd6-20c3-4d82-b094-8313edd0f20c))
+					  id:: 65f835c1-b5ba-48aa-a36a-015d598c14c7
+					- Cree une nécessité de coexistence entre les personnage a travers le fait pictural
+						- Ainsi, le "fait pictural" réside dans cette capacité à créer une composition où plusieurs figures coexistent sur la toile de manière harmonieuse et significative, même en l'absence d'une histoire narrative explicite
+					- Cette coexistence est crucial par exemple dans le cas du ((65d3770e-5e8a-462d-8e8e-d94c1f7c56c3))
+					- Vous l’appréhendez picturalement lorsque vous supprimez toute histoire. Cette histoire ne pourrait être que dégoûtante si il y avait une histoire
+				- Il faut une nécessité pictural: une nécessité qui ne peux venir que de la lumière et de la couleur
+		- Pour Bacon aussi il y a une forme de maniérisme hérité de Michel-Ange
+			- Francis Bacon: [*Three Studies of a Male Back (tryptique)*](https://www.galerie-lelong.com/fr/estampe/920/three-studies-of-the-male-back-triptych/), 1987  https://www.galerie-lelong.com/files/estampes/EST73731244939549AIDR/BACON.studyofthemalebackREUNIS.jpg
+				- Deleuze y voit l'héritage du dos de Michel-Ange chez Bacon
+			- Pour peindre un dos et le rendre visible il faut peindre les forces invisible qui crée le dos, il ne faut pas peindre des formes mais des forces
+				- *L’acte de la peinture, le « fait pictural », c’est lorsque la forme est mise en rapport avec une force*
+					- Qui répond à la phrase de Paul Klee: *Il ne s’agit pas de rendre le visible, il s’agit de rendre visible *, sous-entendu, rendre visible l’invisible.
+						- Rendre visible c'est de la figuration c'est le donné pictural c'est ce qui doit être détruit par la catastrophe ce lieu des forces
+		- Le fait pictural c'est la forme déformes par la force
+			- La déformation est un concept de [[Paul Cézanne]]
+				- La déformation comme concept pictural c’est que la déformation de la forme, c’est la forme en tant que s’exerce sur elle une force
+					- Cette déformation est un processus qui fait parfois l'objet d'effet de décomposition recomposition de la couleur, du mouvement, de la profondeur
+			- Le rôle du diagramme, ça va être d’établir un lieu des forces telle que la forme en sortira comme « fait pictural »
+				- C’est dès lors la déformation de la forme picturale qui fait voir la force non-visible.
+		- Bacon peindrait non pas un homme qui dort mais la force d'aplatissement dans le sommeil
+			- Francis Bacon: [*Sleeping figure*](https://www.francis-bacon.com/artworks/paintings/sleeping-figure-0), 1974 ![FRANCIS BACON Sleeping Figure, 1974 Medium Oil on canvas Dimensions 78 x 58  inches jpg (800×1060) | Francis bacon, Bacon art, Painting](https://i.pinimg.com/736x/a9/ea/b8/a9eab82166f82fd05cac8f882652623d.jpg){:height 604, :width 450}
+				- La forme en rapport avec une force de déformation à savoir la force qui l’aplatit
+					- Cette force dépasse la figuration du sommeil et de la force du sommeil
+		- Le quartier de viande par exemple est un sujet traité figurativement de différentes manières par différents peintres
+			- Rembrandt: [*Le Bœuf écorché*](https://fr.wikipedia.org/wiki/Le_B%C5%93uf_%C3%A9corch%C3%A9_%28Rembrandt%29), 1655 ![Le Bœuf écorché (Rembrandt) — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/e/e8/Rembrandt%2C_bue_squartato%2C_1655%2C_02.JPG)
+		- Chaim Soutine: [*Bœuf écorché*](https://fr.wikipedia.org/wiki/Le_B%C5%93uf_%C3%A9corch%C3%A9_(Soutine)#:~:text=Le%20B%C5%93uf%20%C3%A9corch%C3%A9%20est%20une,dont%20elle%20reprend%20le%20nom.), 1925 https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cha%C3%AFm_Soutine_-_Le_B%C5%93uf_%C3%A9corch%C3%A9.jpg/800px-Cha%C3%AFm_Soutine_-_Le_B%C5%93uf_%C3%A9corch%C3%A9.jpg
+		  id:: 65f9d2d4-cdf9-4da0-ac9f-dcbef08b60b7
+		- Francis Bacon: [*Fragment of a Crucifixion*](https://www.researchgate.net/figure/Francis-Bacon-Fragment-of-a-Crucifixion-1950-oil-on-canvas-Van-Abbe-Museum_fig4_324256746), 1950 https://www.researchgate.net/profile/Bronwyn-Law-Viljoen/publication/324256746/figure/fig4/AS:662401137524737@1534940146492/Francis-Bacon-Fragment-of-a-Crucifixion-1950-oil-on-canvas-Van-Abbe-Museum.png
+		  id:: 65f9d32c-bb4a-4c3d-8651-274b9212f565
+			- Dans le cas de Bacon la chair du quartier par le mouvement quitte l'os, c’est une chair qui descend des os
+				- Il y a une force de pesanteur propre à la viande - c’est ça qui intéresse Bacon dans la viande - force par laquelle la chair descend des os
+					- L’opération par laquelle la chair descend des os, c’est ça la crucifixion ou la manière dont Bacon vit la crucifixion.
+					- Tout comme pour le dormeur c'est la chair qui descend des os
+						- La forme est la rencontre de ces deux forces celle de l'aplatissement et celle de la chair qui descend des os
+							- Il a rendu visible dans ce tableau deux forces invisibles
+		- Les données figuratives et narratives sont toujours la elle sont pré picturale elle sont déjà-la
+		  collapsed:: true
+			- Que ce soit un carré de [[Piet Mondrian]] ((653ec305-ecb3-4d52-93a9-29b5625299ae)) ou une ligne chez [[Jackson Pollock]] ((653ee430-1eca-4a79-9a49-45525fd705c0)) les idées, les clichés sont toujours la même chez les plus abstrait
+			- Ce qui rend le cliché inévitable c’est que le cliché, il est fondamentalement intentionnel. Toute intention est intention de cliché. Toute intention vise un cliché. Or il n’y a pas de peinture sans intention
+	- ### L'intention
+	  collapsed:: true
+		- Pour Deleuze l'intention c’est la différence entre une pomme et une femme ((65f835c1-b5ba-48aa-a36a-015d598c14c7)) / ((65f819b1-0463-45b1-a3b9-d4eb35a16034))
+			- Cézanne n’a pas la même intention suivant qu’il se propose de peindre une pomme et de peindre une femme
+			- C’est l’intention qui promeut déjà le cliché. Dès lors c’est forcé que le cliché soit sur la toile, avant que le peintre ait commencé. Je dirais : la forme intentionnelle est toujours en peinture figurative et narrative.
+				- Si bien que la tâche du peintre et l’acte de peindre, ça commence avec la lutte contre la forme intentionnelle
+					- Je ne peux réaliser la forme intentionnelle - s’il y avait une dialectique dans la peinture, ça me semblerait celle-ci - je ne peux réaliser la forme intentionnelle, c’est-à-dire la forme que j’ai l’intention de produire, je ne peux la réaliser que précisément en luttant contre le cliché qui l’accompagne nécessairement, c’est-à-dire en la brouillant, en la faisant passer par une catastrophe.
+			- Dans ((65f9d32c-bb4a-4c3d-8651-274b9212f565)) par exemple les os sur lesquelles tiennent les bras se sont vu transformer
+				- Il était de base os d'un oiseau un rapport entre un cliché et une forme et c’est le rapport même qui s’est transformé en un tout autre rapport
+					- Rapport os/viande, la viande descend des os, il y a des petits bras de la viande qui sont comme des os d’où la viande tombe, descend
+					- Il est complètement dispersé au point qu’il n’existe plus du tout figurativement
+		- Le diagramme n'est pas un code
+			- Le diagramme est toujours proche de raté, un tableau est d'autant plus admirable quand il frôle le gaspillage
+			  id:: 65f9deff-aa7d-4ad3-bc3e-a73c5cb8820a
+			- **En quoi, en quoi le diagramme est tout à fait autre chose qu’un code de la peinture** ?
 - ## Cours 1981-04-28
   collapsed:: true
 	- Le diagramme serait la relation entre le chaos et le germe
@@ -217,60 +217,61 @@ collapsed:: true
 		- Le diagramme c’est l’instance par lequel je défais la ressemblance pour produire l’image présence
 			- Effondrement de la ressemblance et production de l’image. C’est l’aspect avant et l’aspect après, entre les deux le diagramme
 	- **ll a fallu passer par une catastrophe manuelle du diagramme, pour produire le fait pictural, c’est à dire pour produire le troisième œil.**
-- l' [[Expressionnisme Abstrait Américain]] est un style ou les peintures tendent avec le chaos où le diagramme frôle le chaos
-  collapsed:: true
-	- Le diagramme quand t'il s'élève à son maximum tend vers le chaos (abstrait) mais lorsqu'on le réduit ont tend vers l'ordre picturale le figuralisme
-		- L'abstraction géométrique cherche t-elle à remplace le diagramme par un code.
-			- La peinture n'appliquerait qu'un code extérieur, qu'est ce qui distingue un triangle de [[Vassily Kandisky]] que celui d'un géomètre
-				- Auguste Herbin est pour Deleuze un peintre abstrait qui manie le code de l'abstrait et en fait un code pictural et non un code extérieur appliqué a la peinture
-				- Auguste Herbin: [*Alphabet Coloré III*](http://emblemes.blog.free.fr/index.php?post/2018/01/20/Alphabet-color%C3%A9-%282%29%3A-Alphabet-plastique-d-Auguste-Herbin.), 1950 : ![Alphabet coloré (3): Alphabet plastique d'Auguste Herbin. - Emblèmes, le  blog](https://lh6.googleusercontent.com/proxy/lw8EnLeO3G5RccGRSqvlQYuMD0yzcnEp2GwKLUVf-Ss51ybwb9K4GGrmhBG2rWmqe01Q9IbT3RDH1D9sQW3gKK1hLUAkJKP7Tnv0H1ZjPA)
-- Si la peinture moderne plait c'est pour cette capacité à faire ressortir du chaos omniprésent (pollution, bombe atomique...) un ordre moderne en sort
-  collapsed:: true
-	- Pour Kandinsky l'homme moderne doit retrouver de la spiritualité et la peinture est l'agent de cette vie spirituel
-		- Il faut construire un troisième œil un œil interne à l'homme moderne
-	- Pour les [[Expressionnisme Abstrait Américain]] il ne faut pas éviter le tumulte du chaos en le diminuant mais il faut l'affronter en l'étendant comme un [[Jackson Pollock]].
-	- Le peintres abstrait [[Abstraction]] ([[Vassily Kandisky]], [[Piet Mondrian]]... ) dirait " *limitant au maximum le chaos pour faire surgir un ordre moderne qui serait un code de la vie* "
-	- La formule de l’expressionnisme ([[Jackson Pollock]]) ce serait : « *rajoutons toujours au chaos, rajoutons au chaos, juste ce petit grain d’excès par rapport à lui même tel qu’en sorte quelque chose.* »
-		- Le trait de [[Jackson Pollock]] n'as ni début ni fin. Il rend le cadre équiprobable, en cela il le dépasse
-			- La ligne de [[Jackson Pollock]] tend a être surface par son traitement en All-over
-				- Les peintres de l'[[Expressionnisme Abstrait Américain]] sont vraiment abstrait car il ne figurer rien car il n'utilise pas de contours. la ligne de Pollock ou la couleur de Louis Morris tout d'eux ne figure car il n'utilise pas de ligne ou de contour pas il font surface.
-- La troisième position serait un positon ni dans le trop ni dans le peu mais dans une modération entre le diagramme et le fait picturale. Il sont pas des peintres figuratifs mais des peintres figuraux.
-  collapsed:: true
-	- Ca serait Gaugin ou Van Gogh, tout pour le diagramme
-- L'opposition Figuration et [[Abstraction]] ne fait plus sens car les peintres abstraits figurent de forme en utilisant des lignes et des contours.
-	- Pour Worringer il y aurait plutôt une différence entre organique et inorganique.
-		- La ligne organique c'est ce qui fait écho au sujet, elle rappelle l'harmonie qui le compose: symétrie, régularité, clôture, la ligne organique c'est celle qui fait contour.
-		- La ligne gothique elle n'est pas qu'abstraite mais elle est inorganique.
-			- Elle dépasse la ligne symétrie, via la répétitions, elle déchainent la symétrie. Toutes les figures sont possibles.
-				- Ou bien elle se perd à l’infini dans une convulsion désordonnée, dit Worringer,
-				- Ou bien elle revient sur soi et elle expire
-				- Ou bien elle ne cesse pas de s’opposer à elle même à un obstacle et reçoit force et libération de cet obstacle, c’est-à-dire elle s’oppose à un obstacle qu’elle ne franchit qu’en changeant de direction et elle change constamment de direction
-		- Le coté inorganique de la ligne  gothique est une abstraction vitale qui par son inoganicité écrase la géométrie
-			- C’est une abstraction très particulière
-				- c’est la vie qui s’abstrait des organismes et non pas l’essence qui s’abstrait des apparences, comme dans la géométrie
-				- En cela est-elle Expressioniste ?
-					- La ligne sans contour est fondamentalement expressive puisqu’elle est le vecteur d’une vie non organique.
-						- L'expressivité d'un tableau de [[Jackson Pollock]] a un lien fort avec la ligne gothique
-							- [[Jackson Pollock]]: Gothic, 1944 https://www.moma.org/media/W1siZiIsIjIwNDMyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=9cc9b3c498e21125
-				- [[Jackson Pollock]] anime des débats sur l'idée d'un art informel, en effet c'est un art sans forme, car la ligne n'est et n'as pas de contour
-					- Mais informel ce n'est pas une donné c'est une conséquence
-					- Le peintre n'as pas à informer il invente la matière moléculaire
-	- Elie Faure sur Vélasquez dit qu'il ne peint plus les choses il peint les contours
-		- peignait ce qui se passait « entre » les choses, c’est-à-dire le mouvement de l’air, tout ce qui est sans contour, la lumière entre une chose et une autre, tout ça, tout ce qui se passe entre les choses, c’est pour beaucoup de peintres, l’essentiel.
+	- l' [[Expressionnisme Abstrait Américain]] est un style ou les peintures tendent avec le chaos où le diagramme frôle le chaos
+	  collapsed:: true
+		- Le diagramme quand t'il s'élève à son maximum tend vers le chaos (abstrait) mais lorsqu'on le réduit ont tend vers l'ordre picturale le figuralisme
+			- L'abstraction géométrique cherche t-elle à remplace le diagramme par un code.
+				- La peinture n'appliquerait qu'un code extérieur, qu'est ce qui distingue un triangle de [[Vassily Kandisky]] que celui d'un géomètre
+					- Auguste Herbin est pour Deleuze un peintre abstrait qui manie le code de l'abstrait et en fait un code pictural et non un code extérieur appliqué a la peinture
+					- Auguste Herbin: [*Alphabet Coloré III*](http://emblemes.blog.free.fr/index.php?post/2018/01/20/Alphabet-color%C3%A9-%282%29%3A-Alphabet-plastique-d-Auguste-Herbin.), 1950 : ![Alphabet coloré (3): Alphabet plastique d'Auguste Herbin. - Emblèmes, le  blog](https://lh6.googleusercontent.com/proxy/lw8EnLeO3G5RccGRSqvlQYuMD0yzcnEp2GwKLUVf-Ss51ybwb9K4GGrmhBG2rWmqe01Q9IbT3RDH1D9sQW3gKK1hLUAkJKP7Tnv0H1ZjPA)
+	- Si la peinture moderne plait c'est pour cette capacité à faire ressortir du chaos omniprésent (pollution, bombe atomique...) un ordre moderne en sort
+	  collapsed:: true
+		- Pour Kandinsky l'homme moderne doit retrouver de la spiritualité et la peinture est l'agent de cette vie spirituel
+			- Il faut construire un troisième œil un œil interne à l'homme moderne
+		- Pour les [[Expressionnisme Abstrait Américain]] il ne faut pas éviter le tumulte du chaos en le diminuant mais il faut l'affronter en l'étendant comme un [[Jackson Pollock]].
+		- Le peintres abstrait [[Abstraction]] ([[Vassily Kandisky]], [[Piet Mondrian]]... ) dirait " *limitant au maximum le chaos pour faire surgir un ordre moderne qui serait un code de la vie* "
+		- La formule de l’expressionnisme ([[Jackson Pollock]]) ce serait : « *rajoutons toujours au chaos, rajoutons au chaos, juste ce petit grain d’excès par rapport à lui même tel qu’en sorte quelque chose.* »
+			- Le trait de [[Jackson Pollock]] n'as ni début ni fin. Il rend le cadre équiprobable, en cela il le dépasse
+				- La ligne de [[Jackson Pollock]] tend a être surface par son traitement en All-over
+					- Les peintres de l'[[Expressionnisme Abstrait Américain]] sont vraiment abstrait car il ne figurer rien car il n'utilise pas de contours. la ligne de Pollock ou la couleur de Louis Morris tout d'eux ne figure car il n'utilise pas de ligne ou de contour pas il font surface.
+	- La troisième position serait un positon ni dans le trop ni dans le peu mais dans une modération entre le diagramme et le fait picturale. Il sont pas des peintres figuratifs mais des peintres figuraux.
+	  collapsed:: true
+		- Ca serait Gaugin ou Van Gogh, tout pour le diagramme
+	- L'opposition Figuration et [[Abstraction]] ne fait plus sens car les peintres abstraits figurent de forme en utilisant des lignes et des contours.
+		- Pour Worringer il y aurait plutôt une différence entre organique et inorganique.
+			- La ligne organique c'est ce qui fait écho au sujet, elle rappelle l'harmonie qui le compose: symétrie, régularité, clôture, la ligne organique c'est celle qui fait contour.
+			- La ligne gothique elle n'est pas qu'abstraite mais elle est inorganique.
+				- Elle dépasse la ligne symétrie, via la répétitions, elle déchainent la symétrie. Toutes les figures sont possibles.
+					- Ou bien elle se perd à l’infini dans une convulsion désordonnée, dit Worringer,
+					- Ou bien elle revient sur soi et elle expire
+					- Ou bien elle ne cesse pas de s’opposer à elle même à un obstacle et reçoit force et libération de cet obstacle, c’est-à-dire elle s’oppose à un obstacle qu’elle ne franchit qu’en changeant de direction et elle change constamment de direction
+			- Le coté inorganique de la ligne  gothique est une abstraction vitale qui par son inoganicité écrase la géométrie
+				- C’est une abstraction très particulière
+					- c’est la vie qui s’abstrait des organismes et non pas l’essence qui s’abstrait des apparences, comme dans la géométrie
+					- En cela est-elle Expressioniste ?
+						- La ligne sans contour est fondamentalement expressive puisqu’elle est le vecteur d’une vie non organique.
+							- L'expressivité d'un tableau de [[Jackson Pollock]] a un lien fort avec la ligne gothique
+								- [[Jackson Pollock]]: Gothic, 1944 https://www.moma.org/media/W1siZiIsIjIwNDMyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=9cc9b3c498e21125
+					- [[Jackson Pollock]] anime des débats sur l'idée d'un art informel, en effet c'est un art sans forme, car la ligne n'est et n'as pas de contour
+						- Mais informel ce n'est pas une donné c'est une conséquence
+						- Le peintre n'as pas à informer il invente la matière moléculaire
+		- Elie Faure sur Vélasquez dit qu'il ne peint plus les choses il peint les contours
+			- peignait ce qui se passait « entre » les choses, c’est-à-dire le mouvement de l’air, tout ce qui est sans contour, la lumière entre une chose et une autre, tout ça, tout ce qui se passe entre les choses, c’est pour beaucoup de peintres, l’essentiel.
 - ## Cours 1981-05-05
-- Position diagrammatique
-	- Le diagramme prend tout le tableau
-		- Tendance expressioniste
-			- Dans cette expressionnistes on met la ligne sans contour une ligne abstraite bien plus abstraite que les peintures abstraites
-				- Le plus abstrait des [[Vassily Kandisky]] figure des triangles ou des rectangles
-			- Dans l' [[Expressionnisme Abstrait Américain]] la ligne à une certaine dimension qui est prédominant le traitement en ((661023c5-ef4d-415f-8f6d-c2ed1f703576)) est symptomatique de cette vision de la toile qui rompt avec la vison classique il n'y a aucune conception privilégiées tout endroit du tableau à une probabilité égale.
-			- La tendance expressionniste est un tendance où la main se rebelle face à l'œil, c'est un abandon du chevalet.
-				- On rompt avec l'horizon optique (oeil) pour un sol profondément tactile
-					- Or Fried et Greenberg dans leur analyse de [[Expressionnisme Abstrait Américain]] dise que c'est moderne car c'est la formation d'un espace optique pur
-						- Ce serait un espace optique qui rompt avec l'espace tactile classique qui est un espace qui met en avant la superposition des couche par les processus de contour
-				- [[Action Painting]] c'est une action qui domine
-	- Diagramme reduit au minium
-		- Le risque de la réduction diagrammatique c'est la création d'un *code* ce que Deleuze peut appeler L' [[Abstraction]]
-	- Diagramme qui fait sortir quelque chose
-		- Il agit comme diagrame mais n'occupe pas tout le tableau
-			- Il parait figuratif mais il n'est pas, il fait figurer le non-figuratif
+	- Position diagrammatique
+		- Le diagramme prend tout le tableau
+			- Tendance expressionniste
+				- Dans cette expressionnistes on met la ligne sans contour une ligne abstraite bien plus abstraite que les peintures abstraites
+					- Le plus abstrait des [[Vassily Kandisky]] figure des triangles ou des rectangles
+				- Dans l' [[Expressionnisme Abstrait Américain]] la ligne à une certaine dimension qui est prédominant le traitement en ((661023c5-ef4d-415f-8f6d-c2ed1f703576)) est symptomatique de cette vision de la toile qui rompt avec la vison classique il n'y a aucune conception privilégiées tout endroit du tableau à une probabilité égale.
+				- La tendance expressionniste est un tendance où la main se rebelle face à l'œil, c'est un abandon du chevalet.
+					- On rompt avec l'horizon optique (œil) pour un sol profondément tactile
+						- Or Fried et Greenberg dans leur analyse de [[Expressionnisme Abstrait Américain]] dise que c'est moderne car c'est la formation d'un espace optique pur
+							- Ce serait un espace optique qui rompt avec l'espace tactile classique qui est un espace qui met en avant la superposition des couche par les processus de contour
+					- [[Action Painting]] c'est une action qui domine
+		- Diagramme reduit au minium
+			- Le risque de la réduction diagrammatique c'est la création d'un *code* ce que Deleuze peut appeler L' [[Abstraction]]
+				- Le diagramme, est bien là, mais il est réduit au minimum, et il tend à être remplacé ou « surplombé », à passer sur la domination d’un véritable « code ».
+		- Diagramme qui fait sortir quelque chose
+			- Il agit comme diagramme mais n'occupe pas tout le tableau
+				- Il parait figuratif mais il n'est pas, il fait figurer le non-figuratif

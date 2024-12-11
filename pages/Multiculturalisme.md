@@ -95,7 +95,7 @@
 - ## La vision Hégémonique
 - Terme marxiste, comment la science de l'un étudie celle des autres sous un angle supérieur
 - Contradiction propre au multiculturalisme des sociétés postindustrielles
-- L'évangélisation forcée, le commerce d'esclave au niveau industrielle va être la base du colonialisme capitaliste de sociétés modernes
+- L'évangélisation forcée, le commerce d'esclave au niveau industrielle va être la base du [[Colonialisme]] capitaliste de sociétés modernes
 	- Il y a des débats dans le monde de l'art contemporain qui sont lié au lien impérialiste du passé
 	- Le Brésil affirme une conscience du métissage qui est fausse car le Brésil vit encore sur cette division social
 		- Adriana Verajao: Filho bastardo, 1992
