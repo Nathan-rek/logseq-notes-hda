@@ -1,4 +1,4 @@
-- Né en Grand Bretagne fort influencés par les philosophes de la French Theory
+- Né en Grand Bretagne dans les années 1970, fort influencés par les philosophes de la French Theory
 - Hoggart et Stuart Hall sont des marxistes, il fonde le centre d'étude culturelle en Angleterres
 	- Pour regarder les question culturelles il faut prendre en compte le poids de l'idéologie
 		- Pour Stuart Hall c'est l'idéologie qui va façonner notre rapport au monde, qu'est ce qui est de l'ordre l'idéologie dans les médias et dans la culture

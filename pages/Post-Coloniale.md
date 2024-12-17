@@ -28,6 +28,7 @@
 	- L'identité du groupe blanc dominant blanc est ainsi construite comme l'unique représentation de l'humanité
 	- Etre blanc signifie ne pas appartenir à un groupe racial, puisque seules les minorités raciales sont racisées
 	- La blanchité raciale apparait comme une identité raciale socialement invisible et paradoxalement aussi extrêmement visible
+- Ces théories sont inspirées par des regards critiques sur la [[Modernité]] occidentale, puisque la colonialité est considérée comme son côté le plus sombre
 - ## Colonialité
 - Type de pouvoir né du [[Colonialisme]] moderne qui lui survit durablement sous d'autre formes
 	- Les relations coloniales de pouvoir ne sont pas limitées aux dominations économique, politique, juridique mais ont aussi une importante dimension épistémique et culturelle

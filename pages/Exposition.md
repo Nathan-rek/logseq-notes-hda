@@ -22,15 +22,16 @@
 - Merzbau est un principe d’exposition qui est en évolution constante
 - [[Marcel Duchamp]] : exposition qui ne mette pas en place les conditions pour exposer, permet de faire l’exposition un espace, en voyant moins on crée un désir de voir,
 	- Pour l’exposition ((653fa23b-071c-4394-90a3-969e41755b3f)) , il vient à étendre des cordes qui empêche de rentre en contact de manière direct avec l’œuvre. Ou encore demande a des enfant de faire du bruit. Il s’agit de mettre en tension le rapport de visibilité et le désir.
-- ## Ecriture dans l'espace
+- ## Ecriture dans l'espace / L'altérité dans l'ethnographie
 - L'exposition est une action pour "mettre en vue" rendre visible et visible
-- L'exposition définit aussi le lieu ou wont montrés les produis
+- L'exposition définit aussi le lieu ou vont montrés les produis
 - Jean Davallon, trois formes de muséologies:
-	- **Une muséologie de l'objet**
+	-
 		- Nécessite une réputation au préalable de l'objet
 		- Centré sur la présentation des objets d'un collections
 		- Rapport au visiteur..ices, génère une rencontre (relation positive) avec le..a visiteur..ices
-		- Le savoir est présent mais il n'est donné.............
+		- Le savoir est présent mais il n'est donné mais il n’est donné dans la
+		  présentation que de manière codée, à travers la mise en espace des objets de la collection ou alors de manière annexe (le catalogue).
 		- ((674d7ebd-07f3-476e-af0e-fe554ce5d3c1))
 		- Musée d'ethnographie du Trocadéro, Salle d'Océanie
 			- Nouvelle Hybrides, archipel qui maintenant sont les iles Vanuatu
@@ -93,7 +94,7 @@
 			- Le musée devient de plsu en plus participatif
 				- On demande l'avis ou la collaboration avec les spectateur..ices.
 				- Le musée devient le forum
-			- La muséologie devient indépendant du musée....................
+			- La muséologie devient indépendant du musée dorénavant elle le précède
 			- C'est le rapport spécifique de l'H à la réalité et donc le rapport de l'H avec les objet de cette réalité
 		- Susan Vogel: [*Art/artifact*](https://www.academia.edu/42656257/African_art_through_the_western_gaze_an_exhibition_analysis_of_ART_Artifact_curated_by_Susan_Vogel), 1988 Center for African Art New York
 			- Couverture symptomatique de cette tendance à comparer de choses incomparables mais par similarité formelle
@@ -115,8 +116,9 @@
 			- Musée des culutre du mondes
 				- Restructre profonde de la plupart des musées ethnographiques nordamericianes et européens despuis l'an 2000
 				- Généralisation de la muséologie particpative ou inclusives dans les chartes des musées britanniques
-				- Consulter sinon associer tout groupe qui se définit comme entité social.........
+				- Consulter sinon associer tout groupe qui se définit comme entité social ou culturelle, à toute forme de représentation censée lui correspondre dans l’enceinte du musée.
 				- Vision qui se veut éthique et respectueuse de l'autres
-				- Platforme ou la societe pourrait engager un dialogue..................
+				- Plateforme ou la société pourrait engager un dialogue avec les personne d’origine immigrée et aborder les questions de diversité culturelle qui se posent à l’intérieur des frontières du pays
 		- Les Banques culturels du Mali
 			- Institution villageoise qui mêle: musé, caisse de micro-crédit, un centre de formation culturelle
+			- Au Mali, en 5 ans, près de 450 objets d’art ont pu être sauvés dans la 1ère banque ; du crédit octroyé à près de la moitié de la population et près de 90% de taux de remboursement.

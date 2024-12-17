@@ -7,6 +7,7 @@
 			- Tout le monde doit s'américaniser, mode d'alimentation, code vestimentaire
 		- Exacerbation des particularismes
 			- Les résistances face cette universalisation, développe une accroche forte à une particularité propre à leurs identités
+- Les [[Cultural Studies]] et la théorie [[Post-Coloniale]] a souvent été employer pour aborder les arts non européens.
 - ## *“Primitivism” in 20th Century Art: Affinity of the Tribal and the Modern*, MoMa 1985
   id:: 66e7f1c5-7507-45b1-850c-81c9bdfd8ace
 	- William Rubin va rassembler 200 objets d'art "primitif" et 150 œuvres d'arts contemporains
