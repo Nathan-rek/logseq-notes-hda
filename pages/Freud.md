@@ -20,4 +20,4 @@
 	- Donc pour Freud la découverte du monde passe par le corps, ces stades reste des lieux privilégié de la sexualité
 - Freud met en avant la régénération du patriarcat dans chaque génération
 - Freud se méfie de la musique car elle résiste au langages
-- Deuleuze parle de fruer dans [[L'Anti-Œdipe]]
+- Deuleuze parle de Freud dans [[L'Anti-Œdipe]]

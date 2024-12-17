@@ -5,7 +5,7 @@
 - Le déploiement des stratégies [[Fluxus]] qui ont permis une nouvelle considération du..la spectateur..ice et de l’artiste. ((65439bf5-bc3b-4313-83cb-e4ac83a0d654))
 - ###  L’œuvre, L’acteur..ice et Le..a spectateur..ice
 - Rappelons que devant une œuvre d’art, quelle qu’elle soit, chaque consommateur..ice, en réagissant à une « constellation de stimuli », exerce sa sensibilité personnelle (une culture, des goûts, des tendances) qui oriente fondamentalement sa lecture et sa jouissance. Puisque « ce sont les regardeur..euses qui font le tableau », l’œuvre ne peut être dissociée tant de l’état d’esprit avec lequel on l’appréhende que de son contexte de présentation.
-- [[La poétique, Aristote]]
+- [[Aristote]]
 	- Constate que les gens réagissent différemment dans la vie et face à une œuvre d’art. La représentation (*mimésis*), comme un jeu, jouit d’un pouvoir spécifique qui permet d’appréhender avec plaisir ce qui dans la réalité pose problème
 		- Si la nécessité pour l’homme de « mettre en scène » le monde peut s’expliquer par ce pouvoir de la mimésis, on trouve aussi une autre nécessité comblée dans le théâtre dont l’effet cathartique touche et excite nos passions qui, non autorisées par la société, trouvent en elle un exutoire.
 	- Cette catharsis avait inspiré à Artaud un théâtre nouveau

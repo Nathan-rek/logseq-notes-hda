@@ -5,7 +5,7 @@
 - La matière reste en attente d'une forme qui l'autorisera à être digne
 - Il prend le cas de la cire, notamment du technicien de la matière (artisan cirier)
 	- Il ne parle plus de la cire en général car il y a autant de mot que d'état de la cire
-- La cire rompt avec les statuts de la matière d'Aristote
+- La cire rompt avec les statuts de la matière d' [[Aristote]]
 	- Solide
 	- Dur
 	- Molle

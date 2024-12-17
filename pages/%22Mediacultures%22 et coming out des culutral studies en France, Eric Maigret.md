@@ -7,7 +7,7 @@
 - Les [[Cultural Studies]] sont dans une indiscipline il refuse de mettre des cases pré-établies
 	- Indiscipline dans le choix des objets étudiés, des objets nouveaux informes et variants
 - Cette indiscipline des [[Cultural Studies]] est critiqué en France, mais elle semble indispensable pour étudier les phénomènes culturel contemporains
-- La [[Cybernétique]] partage beaucoup des suejt avec les [[Cultural Studies]] mais se refuse a cette indisciplines.
+- La [[Cybernétique]] partage beaucoup des sujet avec les [[Cultural Studies]] mais se refuse a cette indisciplines.
 	- En France c'est la [[Cybernétique]] qui a pris le dessus sur les [[Cultural Studies]] ce qui a mené a un sédimentation en courant des recherches des écoles concurrentes.
 	- Le besoin d'une discipline rappelle les débuts de la sociologies, les fondateur de la [[Cybernétique]] mettent en avant le besoin de disciplines, pour répondre au critères épistémologiques et institutionnelles
 - Il faut désinstitué pour réinstitué et c'est ce que font les [[Cultural Studies]]. C'est le mouvement sinusoïdales des sciences

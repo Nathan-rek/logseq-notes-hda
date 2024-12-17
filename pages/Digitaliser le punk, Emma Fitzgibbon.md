@@ -1,25 +1,25 @@
 ## Le défi contestataire du digital hardcore, entre [[Cybernétique]] et anticipation
-- Continum Hardcore: concept de Steve Goodman qui permet de catégoriser et théoriser les genres de musique électroniques
+- **Continum Hardcore**: concept de Steve Goodman qui permet de catégoriser et théoriser les genres de musique électroniques
 	- Se distingue de la dance music de l'époque par : le BPM, le rythme, la progression
 - Le rythme aurait une fonction psychoactif chez l'auditeur..ices notamment par la répétions qui plonge dans une aliénation mentale
-- Ces genres contre un capitalisme tardif embrasse la dystopie que se soit dans les références ou les formes
+- Ces genres sont contre un capitalisme tardif embrasse la dystopie que se soit dans les références ou les formes
 	- Ce qui les placent dans un engagement politique contestataire
-- Le digital Hardcore hérite de plusieurs samples qu'il soit du punk du breakbeat se propose comme une production musicale extrême et diverse souvent synthétique.
+- Le digital Hardcore présentes plusieurs samples qu'il soit du punk ou du breakbeat se propose comme une production musicale extrême et diverse souvent synthétique.
 - Alec empire se situe sous l'influence de plusieurs philosophes mais notamment de la théorie critique de l'école de francfort.
-	- Critique des sociétés industrielles et des dynamiques de domination sur base du model capitaliste. Une critique qui les positionnent contre l'industrie musical de l'époque qui marche sur un model industriel du label
+	- Critique des sociétés industrielles et des dynamiques de domination sur base du modèle capitaliste. Une critique qui les positionnent contre l'industrie musical de l'époque qui marche sur un modèle industriel du label.
 - ### Post-scriptum sur les sociétés de contrôle
 - Le changement des sociétés disciplinaire aux sociétés de contrôles.
-	- La discipline ne se fait plus que dans les lieux d'enfermement (panoptique Foucault) mais dans le contrôle de façon plus insidieuses.
-		- Un glissement qui est rendu possible par les technologies computationelle. Cette position de Deleuze touche aux enjeux de la [[Cybernétique]].
-		- Cette enjeux de prédiction des corps est pour Deleuze en liens avec les systèmes de contrôles [[Sociétés de contrôle, Gilles Deleuze]]
+	- La discipline ne se fait plus que dans les lieux d'enfermement (panoptique Foucault [[Foucault - La Naissance de la Biopolitique]] ) mais dans le contrôle de façon plus insidieuses.
+		- Un glissement qui est rendu possible par les technologies computationnelle. Cette position de Deleuze touche aux enjeux de la [[Cybernétique]].
+		- Cette enjeux de prédiction des corps est pour Deleuze en lien avec les systèmes de contrôles [[Sociétés de contrôle, Gilles Deleuze]]
 			- La transmission d'informations est le contrôle pour Deleuze
 	- Le but n'est pas de ce placer contre ces nouveaux systèmes mais d'en trouver les armes "*Teenage Riot*"
 - ## Un son galvanisant
 - Le digital Hardcore serait un cri de guerre face à ses sociétés de contrôles
-	- Le morceau *"Atari Teenage Riot"* comporte un extrait du discours de Louis Farrakhan qui porte sur la répression des population noires aux Etats Unis D'Amérique.
-		- Les paroles appelant à la révolte ainsi que l’arrangement musical non-linéaire (succession de samples et de breaks) font tous références à des discours de résistance face au pouvoir et au gouvernement établi.
-		- L'atmosphère sonore chaotique du DH à pour rôle de galvaniser l'auditeur..ices et de motiver à agir
-- Quelle sont les enjeux matériels de l'emploi du son.
+	- Le morceau *"Atari Teenage Riot"* comporte un extrait du discours de Louis Farrakhan qui porte sur la répression des populations noires aux Etats Unis D'Amérique.
+		- Les paroles appelant à la révolte ainsi que l’arrangement musical non linéaire (succession de samples et de breaks) font tous références à des discours de résistance face au pouvoir et au gouvernement établi.
+		- L'atmosphère sonore chaotique du Digital Hardcore à pour rôle de galvaniser l'auditeur..ices et de motiver à agir
+- Quelle sont les enjeux matériels de l'emploi du son ?
 	- Pour Juliette Vocler l'oreilles est le seul orifices constamment ouverts
 		- Il est presque impossible d'échapper au son, et le son détient une qualité matériel forte étant une vibration acoustique le son se répercute dans les objets et dans les corps
 		- On peut donc apercevoir comme une armes dont la stratégie ne serait pas le contact mais l'émission
@@ -27,25 +27,25 @@
 				- Le son devient information et donc devient un moyen de communiquer *des mots d’ordre*.
 - Pour Burroughs la manipulation du son muzak (musique de fond) peut être un outil de détournement fort il étudie le film Decoder ou lorsque le personnage modifie la fréquences du son muzak entraine une suite de réaction violents
 - Le muzak comme mots d'ordre des [[Sociétés de contrôle, Gilles Deleuze]] doit être piraté il faut se réapproprier l'information (All of us can be rich in informations)
-- La distorsion et la rendu sonore des machine que Eshun nomme *machine-musique* nous permettrait d'attendre des "états d'esprit" cette musique synthétique, loin de nous éloigner de nos émotions comme le pensent les technophobes, serait dans la capacité de nous faire ressentir plus de sensations et d’émotions de par l’intensité sonore synthétique qu’elle met en place
+- La distorsion et le rendu sonore des machines que Eshun nomme *machine-musique* nous permettrait d'attendre des "états d'esprit" cette musique synthétique, loin de nous éloigner de nos émotions comme le pensent les technophobes, serait dans la capacité de nous faire ressentir plus de sensations et d’émotions de par l’intensité sonore synthétique qu’elle met en place
 	- Une position qui suit le manifeste de Ruissolo sur "L'art des bruits", S'accorde avec la guérilla sonore d'Underground Resistance, et le révolte de Public Ennemy
 - Cette utilisation de la machine dans la composition musical détourne des armes d'origine militaire ([[Cybernétique]]) dans un contexte contestataire
 	- Il y aurait pour Eshun une dimension [[Accélérationisme]] dans la prise d'outils numériques dans la production sonore
 		- *Je fais de l’ingénierie, je m’empare de fictions, de concepts, d’hallucinations […]. J’utilise ces différents concepts pour fonder de nouveaux champs d’expérience, pour anticiper et accélérer différentes explorations dans des champs de perceptions nouveaux*
 - ## Contre le [[Cybernétique]] -capitalisme
-- Ce système qui se caractérise par une linéarité totalitaire pourrait être déconstruit par des productions musical comme la jungles.
+- Ce système qui se caractérise par une linéarité totalitaire pourrait être déconstruit par des productions musicals comme la jungles.
 	- La [[Cybernétique]] ayant une fonction de prévision du mouvement ennemi pourrait être en crise face à des breaks saccadé
 	- Un rythme qui s'oppose au binaire et au linéaire du rythme capitaliste
 		- L'écoute de ce genre rendrait les auditeur..ices inaptes et donc incapable de rentrer dans le moule capitaliste rythmique occidentale
-	- Contrairement à la désincarnation des corps de l'hypothèse [[Cybernétique]] de Tiqqun le son vient rendre physicalité au corps en les tiraillant par le rythme
+	- Contrairement à la désincarnation des corps de l'hypothèse [[Cybernétique]] de Tiqqun le son vient rendre physicalité auw corps en les tiraillant par le rythme
 - Le surplus d'information du DH serait une technique de brouillage du contrôle [[Cybernétique]] .
 	- La [[Cybernétique]] se basant sur une rétroaction du contrôle de donnés l'insertion de fausse donnés ou d'activité de brouillages de ses donnés est un acte de résistance face à ce contrôle
 		- La présence du bruit dans la production musicale du digital hardcore, le sauverait également de sa récupération dans le système capitaliste [[Cybernétique]] .
 - ## Chaos VS Sécuritarisme [[Cybernétique]]
-- Le danger pour Sutter est ce qui surgit et ce qui ne doit pas être.
+- Le danger dans une société cybernétique pour Sutter est ce qui surgit et ce qui ne doit pas être.
 	- Le danger et le revers de la médaille de la propriété privée bourgeoise
 	- Pour qu'il y est danger il faut qu'il y est un dehors il faut définir le dedans
-		- Dans l'hypothèse de Tiqqun le système [[Cybernétique]] tend vers un hyper-sécuritarisme qui vise la répression et suppression de de ton contestation et toute marginalité.
+		- Dans l'hypothèse de Tiqqun le système [[Cybernétique]] tend vers un hyper-sécuritarisme qui vise la répression et suppression de de toute contestation et toute marginalité.
 			- Le danger pour le cybernéticien est tout ce qui échappe au système
 				- Pour cela le système crée la crainte de la marginalité pour garder les individus dans le système un contrôle des corps par la peur
 				- Pour Sadie Plant et Nick Land cette crainte de l'autre et cette paranoïa est la base du fonctionnement sociétal [[Cybernétique]].
@@ -61,7 +61,7 @@
 	- **L’hyperstition est un moyen de souligner la manière dont le technocapitalisme entraine un effacement de la distinction entre le réel et le fictif.**
 	- Pour Eshun l'hyperstition a une dimension politique notamment dans la mise en place de productions afro-futuristes.
 		- Dans Le DHR c'est un future dystopique que le sonore dessine
-			- Avec des sample de film Sci-fi dystopique (Matrix(Addicted to You)) qui joue eux aussi sur la présence d'angoisse les cuivres et violons de la bande de son de matrix cherche aussi ce sentiment d'angoisse pour soutenir l'image du film.
+			- Avec des samples de film Sci-fi dystopique (Matrix(Addicted to You)) qui joue eux aussi sur la présence d'angoisse les cuivres et violons de la bande de son de matrix cherche aussi ce sentiment d'angoisse pour soutenir l'image du film.
 	- La pensée de l'[[Accélérationisme]] pousse à utiliser ses technologies et non de les appréhender. Il ne faut plus subir les sciences fiction mais crée les nôtres en développent notre lien avec la machine.
 - Pour Eshun le future sonore sera un son [[Post-Humanisme]] et la musique accompagne le glissement de l'humanité vers le post humain par l'usage des technologies.
 	- Le Breakbeat particulièrement en serait l'exemple car dans sa composition il se rapproche de l’impact physique que réserve le futur post-humain apocalyptique

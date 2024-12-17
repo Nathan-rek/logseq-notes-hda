@@ -8,7 +8,9 @@
 - Le Rire de la méduse parais en 1975
 - Le féministe de Cixious n'est pas tant oppositionnelle
 	- Comment les H et les F peuvent se rencontrer malgré le patriarcat
+- [[Nietzsche]] rappelle l'important de l'affirmation malgré la tragédie et Cixious comme [[Nietzsche]] pousse a l'affirmation d'existence du sujet féminin dans un système phallique qui les dépossèdent
 - ## Le Rire de la méduse
+  id:: 6717bd02-304e-46b7-b48a-96461c71318e
 - Le projet est de redonner aux femmes l'écriture, la possibilité d'écrire leurs histoire
 	- Ecrire leurs propres mouvement, en dehors de l'histoire patriarcal
 		- La différence dans le système patriarchal à directement un lien avec le pouvoir
@@ -19,13 +21,11 @@
 		- La possibilité de la différence va nourrir la littérature féministe
 - Met en garde l'aliénation du corps des femmes
 - La masturbation et l'écriture s'inscrivent dans un continuum
-	- Comme pour Lorde l'érotique n'est pas qu'un désir sexuel c'est aussi un désir d'imagination [[Les usages de l'érotique, Audre Lorde]]
+	- Comme pour Lorde l'érotique n'est pas qu'un désir sexuel c'est aussi un désir d'imagination [[Audre Lorde]], ((67054271-e4b7-466c-81a5-5c87c55c6c2f))
 		- Les mondes intérieur de l'érotique sont aussi fertiles pour la masturbation et pour l'écriture
 - Théorie de l'écriture qui passe avant tout par le corps
 	- L'imaginaire pense que l'écriture est une activité intellectuelle qui est souvent éloigné du corps
 - Pour Cixious il est impossible de définir une pratique d'écriture féminine
--
--
 - Lacan à fait plusieurs séminaires et dans son 20ème il parle de la sexualité féminine, il s'intitule *En corps*
 	- L'orgasme féminin dépasserai le langage et il serait impossible à décrire.
 	- La Loi chez Lacan est l'organisation social phallocentrique patriarchal

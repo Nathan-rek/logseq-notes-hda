@@ -9,5 +9,5 @@
 - Ses trajectoires composées par trajets sont liées à notre paysages culturels
 	- Le web-surfing, est une forme d'itinéraire, nous sommes une culture habitué au voyage rapides
 		- Composition par trajet, la culture comme un hypertexte
-- Renvoi à une poétique de la relation de Edouard Glissant, à une pensée rhizomatique de Deleuze
+- Renvoi à une ((6745e9c6-db9f-490a-840b-7bf2b0ab9720)) de [[Edouard Glissant]] , à une pensée rhizomatique de Deleuze
 - [[Simon Starling]]

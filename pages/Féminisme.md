@@ -8,3 +8,7 @@
 - En Australie en Angleterre au USA on voit une effervescence de la pensée féministe dans les Universités.
 	- Au même moment émergent des mouvements de pensé Queer [[Judith Butler]]
 - La 4ème vague du Féminisme remet en question les représentations du divin féminin et masculin
+- Pour Beauvoir les femmes n'existent qu'en relation avec les hommes
+	- Les femmes doivent apprendre à occuper l'espace des hommes comme des hommes
+	- Le génération d'après disent que les femme doivent crée un espace et les conditions d'émergence du féminin [[Hélène Cixious]]
+		- L'écriture est un domaine où les femmes n'ont que peu exister dans le système phallique, investir l'écriture en tant que terme féminin a travers l'érotique ((6717bd02-304e-46b7-b48a-96461c71318e))

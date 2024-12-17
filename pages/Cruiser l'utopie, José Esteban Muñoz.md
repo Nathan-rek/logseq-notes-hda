@@ -1,4 +1,4 @@
-- Jose Estéban Muñoz, professeur a l'université de NY, vivant et sortant beaucoup a New York.
+- Jose Estéban Muñoz, professeur à l'université de NY, vivant et sortant beaucoup a New York.
 	- Vient d'une famille immigré cubaine populaire qui vit à Miami
 - Fait une thèse sur l'identification queer
 - Cruiser est un terme qui circule dans les communautés d'hommes gay, il signifie aller chercher des endroits où trouver de la rencontre

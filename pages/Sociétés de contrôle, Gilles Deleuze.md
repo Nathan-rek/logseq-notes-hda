@@ -14,9 +14,11 @@
 - L'information c'est le système contrôle des mots d'ordres
 	- La contre-information comme dans des pays de dictature, mais la contre-information n'as jamais réussi a quoi que ce soit sauf dans quand la contre-information devient un acte de résistance.
 		- La résistance n'est ni information ni contre informations
-- L'œuvre d'art n'est pas un instrument de communication, il ne contiens aucune information
+- L'œuvre d'art n'est pas un instrument de communication, elle ne contiens aucune information
 	- Il y a pourtant une affinité fondamental entre l'œuvre d'art et l'acte de résistance
 		- Malraux dit que l'art est la seul chose qui résiste à la mort
 			- Tout acte de résistance n'est pas une œuvre d'art et inversement
 	- L'acte de résistance dans la musique est un cri face à la dialectique du profane et du sacré
+		- [[Digitaliser le punk, Emma Fitzgibbon]]
 	- L'acte de résistance est humain et c'est aussi l'acte de l'art, il est le seul a résister à la mort
+-

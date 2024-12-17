@@ -1,5 +1,5 @@
 - Le boudhisme apparait en Inde
-  title:: Sūtra du Cœur
+	- Sūtra du Cœur
 	- Siddhartha Gautama est un jeune homme riche probablement princier.
 		- Un prophetie dit qu'il serait soi chef de guerre soit guide spirituel
 		- Pour pas que cela arrive son père le surprotège dans un confort le plus total
@@ -35,4 +35,4 @@
 		- Dans le vide les entité ne sont pas dotés d'un soi séparé
 		- Défaire notre perception premier du monde, en réalité les sensations est inscrite dans un récit
 	- Défaire l'ego, supprime le récit que je me raconte comme vérité unique
-	-
+-

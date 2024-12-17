@@ -2,6 +2,8 @@
 - Les athéniens l'exile régulièrement
 - Recherche non pas que sur la Philosophie mais sur le savoir en générale: biologie, physique, métaphysique, logique, poétique, politique, rhétorique...
 	- Il aime examiner monde animales végétales et les catégoriser
+- # La poétique
+  id:: 676198ab-3488-448e-8e7a-da4ce5a9b5f7
 - La poétique d'Aristote est une étude du théâtre qui a énormément influencé les récits occidentaux
 	- Aristote applique au théâtres une approche logique comparable a ce qu'il fait lorsqu'il observe des espèces.
 		- Il cherche une science de la production d'un objet qui s'appelle une œuvre d'art

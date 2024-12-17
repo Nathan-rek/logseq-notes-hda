@@ -1,8 +1,9 @@
+- Hérite de la pensée de [[Nietzsche]]
 - L'expérience de la vie est primordial pour l'exercice de la philosophie
 	- La vie n'est pas dans la pensée
 - La psychanalyse pour Sontag à un pouvoir démesuré, qui est dangereux par rapport à la personne qui offre le l'analyse.
-	- Mettre nos sentiments à distance genre une aliénation de notre propre vies
-- Sontag poursuit le projet nietzschéen dans [[Nietzsche, La Naissance de la tragédie]] sur l'art en cherchant une carnation de l'art par la vie et non pas par le concept
+	- Mettre nos sentiments à distance génère une aliénation de notre propre vies
+- Sontag poursuit le projet nietzschéen dans [[Nietzsche]], ((66f32cb0-14a4-4894-9a38-b02457e7b8b1)) sur l'art en cherchant une carnation de l'art par la vie et non pas par le concept
 - ## Contre l'interprétation
 	- Herméneutique: qui a un attrait pour l'interprétation
 	- Les premières conceptions théoriques sont des conceptions herméneutiques de l'art. Elles interprètent l'art comme imitation du réel, et donc un besoin de justification
@@ -28,7 +29,8 @@
 		- Tous ce que l'on observe est pour [[Freud]] le contenu apparent de quelque chose. Il faut écarter ce contenu pour atteindre un contenu lattent, le sens véritable pour [[Freud]] .
 	- L'interprétation du temps de Sontag est pollué par des multiple parasites d'interprétations.
 		- L'interprétation est un acte de réduction de l'œuvre à son contenu. on interprète pour minimiser une œuvre qu'on serait inapte a intégré comme elle est.
-	- L'[[Abstraction]] peut etre vu comme un rejet de l'interprétations pour les modernes.
+	- L'[[Abstraction]] peut être vu comme un rejet de l'interprétations pour les modernes.
 		- Elle élimine tout contenu
 		- Le [[Pop-Art]] pourrait l'être aussi dans son opposé, tellement explicite et clair que l'interprétation en devient impossible.
-		-
+- La forme est subalterne à la pensé dans la pense de l'art occidentale
+- Nécessité d'une erotique de l'art

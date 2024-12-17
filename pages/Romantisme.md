@@ -15,7 +15,7 @@
 - Eugène DELACROIX: [*La liberté guidant le peuple*](https://fr.wikipedia.org/wiki/La_Liberté_guidant_le_peuple) ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg/1024px-Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg)
 - Thèmes historique d’actualité
 - WAGNER: Romantisme dans la musique, considère l’œuvre l’opéra comme un œuvre d’art globale, aborde des thèmes antique mythique, repense l’Opéra dans son architecture.
-- NIETZSCHE reconsidère la philosophie dans la société, il n’y a pas de métaphysique dans l’homme
+- [[Nietzsche]] reconsidère la philosophie dans la société, il n’y a pas de métaphysique dans l’homme
 - ### [[Pré-romantisme en Espagne]]
 - ### Début du romantisme
 - Il y a une désillusion certaine envers la Pensée des Lumières portée par le 18e siècle français. Le collectif semble avoir abandonné la raison (Terreur, guerre, destruction), le romantisme s’enracine dans ce désenchantement du collectif pour se tourner vers le sentiment individuel : sentiment individuel / la place de l’individu / Subjectivité de L’individu

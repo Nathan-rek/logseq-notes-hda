@@ -1,4 +1,4 @@
-- Le futurisme se développe aussi en Russie avec Davidovich Burliuk qui en rédige un manifeste
+- Le [[Futurisme]] se développe aussi en Russie avec Davidovich Burliuk qui en rédige un manifeste
 	- Adopte les principes du manifeste [[Futurisme]]
 - Prônant la modernisation et la culture du rajeunissement
 - Orienter vers les réalités sociales russes de l’après première guerre

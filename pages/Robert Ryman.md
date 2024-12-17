@@ -1,5 +1,5 @@
 - Artiste américain qui a étudie le saxophone et le piano avant de se lancer dans la peinture
-- Souvent qualifié d'art [[Minimalisme]] mais il prefere prendre le contre-pied comme un realiste.
+- Souvent qualifié d'art [[Minimalisme]] mais il préfère prendre le contre-pied et se dit être un réaliste.
 	- Il refuse l'[[Abstraction]] car il ne pas peint l'abstrait il peint l'acte de peindre. Il ne veut pas crée des illusions mais présenter les matériaux qu'il utilise.
 		- Son geste est assez hérité de l'[[Expressionnisme Abstrait Américain]], mais l'intérêt pour Ryman est dans le support il travaille avec une grande multitude de matériaux
 	- Robert Ryman: [*Orange Painting*](https://www.moma.org/collection/works/79939), 1955 ![Untitled (Orange Painting), 1955 - Robert Ryman - WikiArt.org](https://uploads3.wikiart.org/images/robert-ryman/untitled-orange-painting-1955.jpg)

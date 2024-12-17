@@ -1,4 +1,4 @@
-- Witting est née en 1935 en Alsace, elle fait la Sorbonne à Paris en Lettres, organise des conférence et commence une carrier de romanciere
+- Witting est née en 1935 en Alsace, elle fait la Sorbonne à Paris en Lettres, organise des conférence et commence une carrier de romancière
 	- A 29ans en 1969 elle sort son premier roman et gagne le prix Médicis et est publier au Editions Minuits
 - Elle va participer à la renaissance du [[Féminisme]] en Europe
 - Wittig en tant que lesbienne marxiste, elle conçoit les femmes comme une classe et l'hétérosexualité comme la matrice social dominante
@@ -28,7 +28,7 @@
 		- Rentre en résonances avec les choses
 - L'extrait de tableau trouver représente un reliquat du patriarcat avec un tableau qui représente une jeune fille sous le male gaze
 - Lors de la chasse aux Hommes le male gaze est retourner, c'est l'H qui est décrit par ses attributs physiques "le mal jambé"
-- En fessant un personnage principale collectif on rend impossible l'indiviud
+- En fessant un personnage principale collectif on rend impossible l'individu
 - # La pensée Straight
   id:: 6717bd02-d185-45d0-9a5a-e3ff9dc3b395
 - La place du langage dans les mouvements lesbiens et de libération de la femme.

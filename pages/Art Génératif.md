@@ -8,7 +8,7 @@
 - Utilisation du nombre d’or: croissance en synchronisation avec l’univers; capturer quelque chose de la beauté naturelle; la notion de perfection
 - ##### <a name="__refheading___toc7475_3212330306"></a>Théories de la beauté :
 	- PYTHAGORE: certaines proportions arithmétiques dans les instruments de musique, comme la longueur des cordes produisent une harmonie de tonalité. A partir de ces harmonies musicales, il explique la beauté des proportions du corps humains, de l’architecture et d’autre objets
-	- ARISTOTE : Ordre, répétition de la mesure (symétrie) et exactitude
+	- [[Aristote]] : Ordre, répétition de la mesure (symétrie) et exactitude
 	- Thomas D’AQUIN: La beauté = intégralité ou perfection, harmonie (proportion) et clarté ou luminosité
 - Ratios – Proportions: Villard de HONNECOURT
 - Léon Battista ALBERTI (1404 – 1472): *De Pictura* : inspiré par l’ordre et la beauté inhérente à la nature, il énonce les principes de la distance, de la dimension et de la proportion; explique au peintre comment utiliser les règles de la composition, de la représentation, de la lumière et de la couleur pour créer des œuvres élégantes et esthétiques; et stipule les prérequis moraux et artistique du peintre accompli

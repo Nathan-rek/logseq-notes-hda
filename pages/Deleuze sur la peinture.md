@@ -258,6 +258,7 @@ collapsed:: true
 		- Elie Faure sur Vélasquez dit qu'il ne peint plus les choses il peint les contours
 			- peignait ce qui se passait « entre » les choses, c’est-à-dire le mouvement de l’air, tout ce qui est sans contour, la lumière entre une chose et une autre, tout ça, tout ce qui se passe entre les choses, c’est pour beaucoup de peintres, l’essentiel.
 - ## Cours 1981-05-05
+  collapsed:: true
 	- Position diagrammatique
 		- Le diagramme prend tout le tableau
 			- Tendance expressionniste

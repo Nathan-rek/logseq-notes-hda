@@ -1,4 +1,6 @@
 # Platon et l'art
+- l'art nui a la democratie
+	- Contrairement à [[Aristote]] qui pousse les civilisation aller au théâtre ((676198ab-3488-448e-8e7a-da4ce5a9b5f7))
 - ## Allégorie de la caverne
   id:: 66f3bf78-2e80-4509-88cf-d182bac25b9f
 	- L'allégorie de la caverne est une petite histoire fictive qui se trouve dans l'ouvrage *La république* mais qui fait naitre son allégorie

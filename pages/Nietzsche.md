@@ -1,5 +1,5 @@
 ## Nietzsche
-- Philosophe allemand né en 1844 et mort en 1900, professeur de philosophie à Bâle, spécialiste de la Grèce antique. Hédoniste, il pense que le summum de l'humanité a été atteint durant la Grèce antique. À 26 ans, il publie *La Naissance de la tragédie*, un texte qui affirme beaucoup de choses de manière très vigoureuse. Suite à ce texte, il est renvoyé de l'université et commence à écrire en sachant qu'il est né trop tôt pour son époque. Lors de sa mort, sa sœur Elisabeth reprend ses textes et les reformules sous l'idéologie nazie avec laquelle elle était familière.
+- Philosophe allemand né en 1844 et mort en 1900, professeur de philosophie à Bâle, spécialiste de la Grèce antique. Hédoniste, il pense que le summum de l'humanité a été atteint durant la Grèce antique. À 26 ans. Lors de sa mort, sa sœur Elisabeth reprend ses textes et les reformules sous l'idéologie nazie avec laquelle elle était familière.
 	- De plus, les nazis ont bien aimé son travail et certaines de ses idées.
 	- Pourtant, Nietzsche déteste tous les groupes sociaux, qu'ils soient juifs, anglais, philosophes, chrétiens, etc.
 - Penseur pour qui la philosophie est aussi de la poésie.
@@ -13,8 +13,10 @@
 				- Ce disant élève de [[Schopenhauer]] ce serait les humain..es qui adhèrent à la volonté.
 	- Le Nihilisme est c'est la pensé du rien c'est la pensé qui se base sur un dualisme qui fait un monde du bas (réalité matérielles) et un monde du haut (idée) en fessant ca on nie la réalité matérielle.
 - # La Naissance de la tragédie
+  id:: 66f32cb0-14a4-4894-9a38-b02457e7b8b1
+	- Il publie *La Naissance de la tragédie*, un texte qui affirme beaucoup de choses de manière très vigoureuse. Suite à ce texte, il est renvoyé de l'université et commence à écrire en sachant qu'il est né trop tôt pour son époque.
 	- Nietzsche met en avant l'esthétique dans sa philosophie comme réinvention de la subjectivité, de l’éthique, de la culture et du questionnement intime de l’existence. L’art et l’esthétique constituent l’axiome philosophique à partir duquel des questions existentielles peuvent être exprimées.
-	- Pour Nietzsche, l'esthétique avance non pas seulement grâce à la raison (comme chez Aristote ou Descartes), mais par la dualité de Dionysos et Apollon, par l'intuition.
+	- Pour Nietzsche, l'esthétique avance non pas seulement grâce à la raison (comme chez [[Aristote]] ou Descartes), mais par la dualité de Dionysos et Apollon, par l'intuition.
 		- Cela rompt avec la logique occidentale, qui se base sur un principe de causalité et d'étude de la causalité.
 	- Dans la mythologie grecque, il y a deux dieux pour l'art: Apollon et Dionysos. Apollon est le dieu de la création d'images, tandis que Dionysos représente l'art non imagé.
 		- Ces deux formes d'art s'opposent et sont en perpétuel duel afin de se pousser à créer. Ce combat incessant, lorsqu'il se réconcilie, aboutit à la notion d'*art*, d'œuvre d'art.

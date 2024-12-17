@@ -4,7 +4,7 @@
 - Un ‘grammaire’ suprématiste basée sur des formes géométrie fondamentales
 	- En particulier le carré et le cercle
 		- [[Kazimir Malevitch]] : [*Carré Noir sur fond blanc*](https://fr.wikipedia.org/wiki/Carré_noir_sur_fond_blanc), 1915 ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%BF%D1%80%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82._1915._%D0%93%D0%A2%D0%93.png/1024px-%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%BF%D1%80%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82._1915._%D0%93%D0%A2%D0%93.png)
-			- [[Kazimir Malevitch]]a ouvert le débat qui avait cours en Russie sur la question de savoir si la peinture russe devait s’appuyer sur l’art occidental en développant des pratique qui se basse sur les avant-gardes française ou italienne avec le Futurisme ou développer son propre langage visuel enraciné dans la tradition russe.
+			- [[Kazimir Malevitch]]a ouvert le débat qui avait cours en Russie sur la question de savoir si la peinture russe devait s’appuyer sur l’art occidental en développant des pratique qui se basse sur les avant-gardes française ou italienne avec le [[Futurisme]] ou développer son propre langage visuel enraciné dans la tradition russe.
 				- La où [[Kazimir Malevitch]]inscrit son langage dans la tradition russe c’est avec la création de l’icône
 					- Tout comme les paysan..es russes placent leurs icônes dans le coin est d'une pièce, [[Kazimir Malevitch]]a également accroché son [*Carré Noir sur fond blanc*](https://fr.wikipedia.org/wiki/Carré_noir_sur_fond_blanc) dans le coin de l'exposition 0,10 de 1915
 					- Il inscrit aussi le suprématisme dans la société notamment avec:
@@ -22,7 +22,7 @@
 - Contrairement au [[Constructivisme Russe]] le suprématisme incarne une philosophie profondément anti-matérialiste et anti-utilitaire.
 	- Le [[Constructivisme Russe]] porte pour [[Kazimir Malevitch]] un culte de l’objet et s’intéresse au stratégie utilitaire d’adaptation de l’art au principes d’organisation fonctionnel
 - [[Kazimir Malevitch]]est issu d’un héritage [[Cubo-futuriste]], un héritage sur lequel il prend appui pour penser le suprématisme
-	- Il explorera le dynamisme du futurisme avec des toiles comme
+	- Il explorera le dynamisme du [[Futurisme]] avec des toiles comme
 	- [[Kazimir Malevitch]] [*Suprématisme dynamique*](https://arthive.com/fr/kazimirmalevich/works/305045~Dynamic_Suprematism_Supremus_57), 1916 ![Kazimir Malevich. Dynamic Suprematism (Supremus 57)](https://arthive.net/res/media/img/oy800/work/1b9/359590.webp)
 - Pour Lazar LISSITZKY le suprématisme était l’équivalent théorique et visuel des bouleversements sociaux qui se produisait en Russie à cette époque.
 	- La radicalité du mouvent équivalent une forme de création de société entièrement nouvelle

@@ -1,6 +1,7 @@
 - Universitaire sénégalais qui jouais de la musique, a enseigné l'économie puis est parti au USA à Duke pour enseigner la littérature française.
 - A l'origine du [*Rapport Sarr-Savoy sur la restitution du patrimoine culturel africain*](https://fr.wikipedia.org/wiki/Rapport_Sarr-Savoy_sur_la_restitution_du_patrimoine_culturel_africain)
 - ## Afrotopia
+- Critique de la pensée du développement
 - Part des spécificités du continent africain pour penser d'autres modèles économiques
 - Ecrit l'économie dans un style littéraire
 	- Redéfinir une esthétique de l'économie
